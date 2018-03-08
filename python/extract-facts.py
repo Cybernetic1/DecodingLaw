@@ -1,9 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Mar  1 12:18:27 2017
-@author: tomhope
+Try to extract "facts" section from case-law files
+(assume the files are in text format)
+
+Algorithm:
+train RNN to recognize "end-of-facts-section" boundary
+
+ =================== 仲未开始写，the code below is a stub only =====================
+
+@author: YKY
 """
-# import zipfile
 import numpy as np
 import tensorflow as tf
 import re
@@ -15,7 +21,7 @@ batch_size = 128
 embedding_dimension = 64		# this is used only if PRE_TRAINED = False
 num_classes = 2
 hidden_layer_size = 32
-times_steps = 100				# this number should be same as fixed_seq_len below
+times_steps = 20				# this should be same as "fixed_seq_len" below
 
 # These are the 2 classes of laws:  nuisance and dangerous driving
 class1_sentences = []
@@ -36,8 +42,8 @@ with open('class2_example.txt') as f:
 		example2 += line.split()
 
 seqlens = []
-num_examples = 1000				# change to larger later
-fixed_seq_len = times_steps		# For each case law, we take N consecutive words from the text
+num_examples = 1000		# change to larger later
+fixed_seq_len = 100		# For each case law, we take 20 consecutive words from the text
 for i in range(num_examples):
 	seqlens.append(fixed_seq_len)		# this is variable in the original code (with zero-padding), but now it's fixed because we don't use zero-padding
 
@@ -91,7 +97,7 @@ def get_glove(path_to_glove, word2index_map):
 word2embedding_dict = get_glove(path_to_glove, word2index_map)
 embedding_matrix = np.zeros((vocabulary_size, GLOVE_SIZE))
 
-zero_vector = np.asarray([0.00]*300, dtype='float32')	# this is for when the word-vector is not found in the file
+zero_vector = np.asarray([0.00]*300, dtype='float32')	# this is for when the word-vector is not found in the GloVe file
 for word, index in word2index_map.items():
 	try:
 		word_embedding = word2embedding_dict[word]
@@ -99,7 +105,6 @@ for word, index in word2index_map.items():
 		word_embedding = zero_vector
 	embedding_matrix[index, :] = word_embedding
 
-# Split the data into Training and Testing sets, 50%:50%
 data_indices = list(range(len(data)))
 np.random.shuffle(data_indices)
 data = np.array(data)[data_indices]
