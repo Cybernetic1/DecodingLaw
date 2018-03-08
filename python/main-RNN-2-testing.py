@@ -196,8 +196,8 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
-	sess.run(embedding_init, feed_dict={embedding_placeholder: embedding_matrix})
-	for step in range(51):
+	# sess.run(embedding_init, feed_dict={embedding_placeholder: embedding_matrix})
+	for step in range(151):
 		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
 															train_x, train_y,
 															train_seqlens)
@@ -209,9 +209,9 @@ with tf.Session() as sess:
 												_seqlens: seqlen_batch})
 			print("Accuracy at %d: %.5f" % (step, acc))
 
-	norm = tf.sqrt(tf.reduce_sum(tf.square(embeddings), 1, keep_dims=True))
-	normalized_embeddings = embeddings / norm
-	normalized_embeddings_matrix = sess.run(normalized_embeddings)
+	# norm = tf.sqrt(tf.reduce_sum(tf.square(embeddings), 1, keep_dims=True))
+	# normalized_embeddings = embeddings / norm
+	# normalized_embeddings_matrix = sess.run(normalized_embeddings)
 
 	for test_batch in range(5):
 		x_test, y_test, seqlen_test = get_sentence_batch(batch_size,
@@ -225,10 +225,10 @@ with tf.Session() as sess:
 
 	# query = sys.stdin.readline()
 	dirty_words = ["toilet", "dripping", "water", "smell", "bad", "drainage", "flood", "neighbor", "complain", "ignore", "repeatedly", "months", "ceiling", "floor", "dirty", "refused"]
-	dirty_indexes = []
+	dirty_vectors = []
 	for word in dirty_words:
-		dirty_indexes.append(word2index_map[word])
-	query = [dirty_indexes * 8]
+		dirty_vectors.append(word2embedding_dict[word])
+	query = [dirty_vectors * 8]
 	print("Query = ", query)
 	result = sess.run(final_output, feed_dict={_inputs: query, _labels: [[1, 0]], _seqlens: [128]})
 	print(result)
