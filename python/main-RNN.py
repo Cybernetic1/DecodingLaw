@@ -2,18 +2,21 @@
 """
 The main RNN algorithm.
 
-* Takes only a fixed number of consecutive words from each case-law text
-* Seems to work well for 2 classes, may be sufficient for Round 2 purpose.
+* RNN _input layer now changed to word-vector encoding
+* can answer single queries
 
 Modeled after the code found in Ch.6 of "Learning Tensorflow" by Tom Hope et al.
 
 @author: YKY
 """
-# import zipfile
 import numpy as np
+import os						# for suppressing Tensorflow warnings
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'	# suppress Tensorflow warnings
 import tensorflow as tf
 from nltk.corpus import stopwords
 import re						# for removing punctuations
+import sys						# for sys.stdin.readline()
+from collections import defaultdict	# for default value of word-vector dictionary
 
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 PRE_TRAINED = True
@@ -22,13 +25,14 @@ batch_size = 64
 embedding_dimension = 64		# this is used only if PRE_TRAINED = False
 num_classes = 2
 hidden_layer_size = 32
-times_steps = 100				# this number should be same as fixed_seq_len below
+times_steps = 128				# this number should be same as fixed_seq_len below
 
 # These are the 2 classes of laws:  nuisance and dangerous driving
 class1_sentences = []
 class2_sentences = []
 
-# Read case examples from file
+# =================== Read case examples from file ======================
+
 example1 = []
 example2 = []
 
@@ -51,6 +55,8 @@ len2 = len(example2)
 print("Example 1 length = ", len1)
 print("Example 2 length = ", len2)
 
+# ============ Randomly select a sequence of words in each case-text ==========
+
 seqlens = []
 num_examples = 256				# change to larger later
 fixed_seq_len = times_steps		# For each case law, we take N consecutive words from the text
@@ -62,6 +68,8 @@ for i in range(num_examples):
 	class1_sentences.append(" ".join(example1[rand_start1: rand_start1 + fixed_seq_len]))
 	class2_sentences.append(" ".join(example2[rand_start2: rand_start2 + fixed_seq_len]))
 
+# ================ Set up data (for training & testing) ================
+
 data = class1_sentences + class2_sentences
 seqlens *= 2
 labels = [1]*num_examples + [0]*num_examples
@@ -71,51 +79,45 @@ for i in range(len(labels)):
 	one_hot_encoding[label] = 1
 	labels[i] = one_hot_encoding
 
-word2index_map = {}
+word_list = []				# to store the list of words appearing in case-text
 index = 0
 for sent in data:
 	for word in sent.split():
-		if word not in word2index_map:
-			word2index_map[word] = index
+		if word not in word_list:
+			word_list.append(word)
 			index += 1
 
-index2word_map = {index: word for word, index in word2index_map.items()}
+# ============== Create word-to-vector dictionary ===========
 
-vocabulary_size = len(index2word_map)
-print("Vocabulary size = ", vocabulary_size)
+word2vec_map = {}
 
-def get_glove(path_to_glove, word2index_map):
-	embedding_weights = {}
-	count_all_words = 0
-	f = open(path_to_glove, "r")
-	for line in f:
-		vals = line.split()
-		word = str(vals[0])
-		if word in word2index_map:
-			print(count_all_words, word)
-			count_all_words += 1
-			coefs = np.asarray(vals[1:], dtype='float32')
-			coefs /= np.linalg.norm(coefs)
-			embedding_weights[word] = coefs
-		if count_all_words == len(word2index_map) - 1:
-			print("*** found all words ***")
-			break
-		if count_all_words >= 500:			# it takes too long to look up the entire dictionary, so I cut it short
-			break
-	return embedding_weights
+count_all_words = 0
+f = open(path_to_glove, "r")
+f2 = open("found-words.txt", "w")
+for line in f:
+	vals = line.split()
+	word = str(vals[0])
+	if word in word_list:
+		print(count_all_words, word, file=f2)
+		print(word, "             ", end='\r')
+		count_all_words += 1
+		coefs = np.asarray(vals[1:], dtype='float32')
+		coefs /= np.linalg.norm(coefs)
+		word2vec_map[word] = coefs
+	if count_all_words == len(word_list) - 1:
+		print("*** found all words ***")
+		break
+	if count_all_words >= 500:			# it takes too long to look up the entire dictionary, so I cut it short
+		break
+f2.close()
+# set default value = zero vector, if word not found in dictionary
+zero_vector = np.asarray([0.0]*300, dtype='float32')	# this is for when the word-vector is not found in the file
+word2vec_map = defaultdict(lambda: zero_vector, word2vec_map)
 
-word2embedding_dict = get_glove(path_to_glove, word2index_map)
-embedding_matrix = np.zeros((vocabulary_size, GLOVE_SIZE))
+print("Vocabulary size = ", len(word2vec_map))
 
-zero_vector = np.asarray([0.00]*300, dtype='float32')	# this is for when the word-vector is not found in the file
-for word, index in word2index_map.items():
-	try:
-		word_embedding = word2embedding_dict[word]
-	except KeyError:
-		word_embedding = zero_vector
-	embedding_matrix[index, :] = word_embedding
+# ============ Split data into Training and Testing sets, 50%:50% ============
 
-# Split the data into Training and Testing sets, 50%:50%
 data_indices = list(range(len(data)))
 np.random.shuffle(data_indices)
 data = np.array(data)[data_indices]
@@ -129,38 +131,25 @@ test_x = data[num_examples:]
 test_y = labels[num_examples:]
 test_seqlens = seqlens[num_examples:]
 
+# =================== Prepare batch data ============================
+
 def get_sentence_batch(batch_size, data_x,
 					   data_y, data_seqlens):
 	instance_indices = list(range(len(data_x)))
 	np.random.shuffle(instance_indices)
 	batch = instance_indices[:batch_size]
-	x = [[word2index_map[word] for word in data_x[i].split()]
-		 for i in batch]
+	x = [[word2vec_map[word]
+			for word in data_x[i].split()]
+			for i in batch]
 	y = [data_y[i] for i in batch]
 	seqlens = [data_seqlens[i] for i in batch]
 	return x, y, seqlens
 
+# ========= define input, output, and RNN structure =========
 
-_inputs = tf.placeholder(tf.int32, shape=[batch_size, times_steps])
-embedding_placeholder = tf.placeholder(tf.float32, [vocabulary_size,
-													GLOVE_SIZE])
-
-_labels = tf.placeholder(tf.float32, shape=[batch_size, num_classes])
-_seqlens = tf.placeholder(tf.int32, shape=[batch_size])
-
-if PRE_TRAINED:
-		embeddings = tf.Variable(tf.constant(0.0, shape=[vocabulary_size, GLOVE_SIZE]),
-								 trainable=True)
-		# if using pre-trained embeddings, assign them to the embeddings variable
-		embedding_init = embeddings.assign(embedding_placeholder)
-		embed = tf.nn.embedding_lookup(embeddings, _inputs)
-
-else:
-		embeddings = tf.Variable(
-			tf.random_uniform([vocabulary_size,
-							   embedding_dimension],
-							  -1.0, 1.0))
-		embed = tf.nn.embedding_lookup(embeddings, _inputs)
+_inputs = tf.placeholder(tf.float32, shape=[None, times_steps, GLOVE_SIZE])
+_labels = tf.placeholder(tf.float32, shape=[None, num_classes])
+_seqlens = tf.placeholder(tf.int32, shape=[None])
 
 with tf.name_scope("biGRU"):
 	with tf.variable_scope('forward'):
@@ -173,7 +162,7 @@ with tf.name_scope("biGRU"):
 
 		outputs, states = tf.nn.bidirectional_dynamic_rnn(cell_fw=gru_fw_cell,
 														  cell_bw=gru_bw_cell,
-														  inputs=embed,
+														  inputs=_inputs,
 														  sequence_length=_seqlens,
 														  dtype=tf.float32,
 														  scope="biGRU")
@@ -188,7 +177,8 @@ biases = {
 													mean=0, stddev=.01))
 }
 
-# extract the final state and use in a linear layer
+# ========== Define final state and objective function ================
+
 final_output = tf.matmul(states,
 						 weights["linear_layer"]) + biases["linear_layer"]
 
@@ -202,10 +192,10 @@ correct_prediction = tf.equal(tf.argmax(_labels, 1),
 accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 								   tf.float32)))*100
 
+# ================== Run the session =====================
+
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
-	sess.run(embedding_init,
-			 feed_dict={embedding_placeholder: embedding_matrix})
 	for step in range(151):
 		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
 															train_x, train_y,
@@ -218,11 +208,6 @@ with tf.Session() as sess:
 												_seqlens: seqlen_batch})
 			print("Accuracy at %d: %.5f" % (step, acc))
 
-	norm = tf.sqrt(tf.reduce_sum(tf.square(embeddings),
-								 1, keep_dims=True))
-	normalized_embeddings = embeddings / norm
-	normalized_embeddings_matrix = sess.run(normalized_embeddings)
-
 	for test_batch in range(5):
 		x_test, y_test, seqlen_test = get_sentence_batch(batch_size,
 														 test_x, test_y,
@@ -233,9 +218,40 @@ with tf.Session() as sess:
 													_seqlens: seqlen_test})
 		print("Test batch accuracy %d: %.5f" % (test_batch, batch_acc))
 
-ref_word = normalized_embeddings_matrix[word2index_map["water"]]
+	# =================== Process a single query ===================
 
-cosine_dists = np.dot(normalized_embeddings_matrix, ref_word)
-ff = np.argsort(cosine_dists)[::-1][1:10]
-for f in ff:
-	print(cosine_dists[f], index2word_map[f])
+	print("Please enter your query: ")
+	query = sys.stdin.readline()
+	query = re.sub(r'[^\w\s-]',' ', query)	# remove punctuations except hyphen
+	query_words = []
+	for word in query.lower().split():		# convert to lowercase
+		if word not in stopwords.words('english'):	# remove stop words
+			query_words.append(word)
+	
+	query_vectors = []
+	f = open(path_to_glove, "r")
+	count_all_words = 0
+	for line in f:
+		vals = line.split()
+		word = str(vals[0])
+		if word in query_words:
+			count_all_words += 1
+			print(count_all_words, word)
+			coefs = np.asarray(vals[1:], dtype='float32')
+			coefs /= np.linalg.norm(coefs)
+			word2vec_map[word] = coefs
+		if count_all_words == len(query_words) -1:
+			print("*** found all words in query ***")
+			break
+
+	long_enough = False
+	while not long_enough:					# make up to 128 = times_steps size
+		for word in query_words:
+			query_vectors.append(word2vec_map[word])
+			if len(query_vectors) == times_steps:
+				long_enough = True
+				break
+	result = sess.run(correct_prediction, feed_dict={_inputs: [query_vectors],
+													 _labels: [[0, 1]],
+													 _seqlens: [times_steps]})
+	print(result)
