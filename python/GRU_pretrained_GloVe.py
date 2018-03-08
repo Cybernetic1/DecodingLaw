@@ -15,10 +15,7 @@ batch_size = 128
 embedding_dimension = 64		# this is used only if PRE_TRAINED = False
 num_classes = 2
 hidden_layer_size = 32
-times_steps = 20
-
-# digit_to_word_map = {1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six", 7: "Seven", 8: "Eight", 9: "Nine"}
-# digit_to_word_map[0] = "PAD_TOKEN"
+times_steps = 20				# this should be same as "fixed_seq_len" below
 
 # These are the 2 classes of laws:  nuisance and dangerous driving
 class1_sentences = []
@@ -192,13 +189,13 @@ with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
 	sess.run(embedding_init,
 			 feed_dict={embedding_placeholder: embedding_matrix})
-	for step in range(500):
+	for step in range(125):
 		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
 															train_x, train_y,
 															train_seqlens)
 		sess.run(train_step, feed_dict={_inputs: x_batch, _labels: y_batch, _seqlens: seqlen_batch})
 
-		if step % 50 == 0:
+		if step % 25 == 0:
 			acc = sess.run(accuracy, feed_dict={_inputs: x_batch,
 												_labels: y_batch,
 												_seqlens: seqlen_batch})
