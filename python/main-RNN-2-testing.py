@@ -2,7 +2,8 @@
 """
 The main RNN algorithm.
 
-* RNN _input layer now changed to word-vector encoding... still testing...
+* RNN _input layer now changed to word-vector encoding
+* cannot run the network with just 1 query... the batch-size is "baked into TF graph"
 
 Modeled after the code found in Ch.6 of "Learning Tensorflow" by Tom Hope et al.
 
@@ -89,11 +90,13 @@ def get_glove(path_to_glove, word2index_map):
 	embedding_weights = {}
 	count_all_words = 0
 	f = open(path_to_glove, "r")
+	f2 = open("found-words.txt", "w")
 	for line in f:
 		vals = line.split()
 		word = str(vals[0])
 		if word in word2index_map:
-			print(count_all_words, word)
+			print(count_all_words, word, file=f2)
+			print(word, "             ", end='\r')
 			count_all_words += 1
 			coefs = np.asarray(vals[1:], dtype='float32')
 			coefs /= np.linalg.norm(coefs)
@@ -104,6 +107,7 @@ def get_glove(path_to_glove, word2index_map):
 		if count_all_words >= 500:			# it takes too long to look up the entire dictionary, so I cut it short
 			break
 	# set default value = zero vector, if word not found in dictionary
+	f2.close()
 	return defaultdict(lambda: zero_vector,embedding_weights)
 
 word2embedding_dict = get_glove(path_to_glove, word2index_map)
@@ -141,18 +145,13 @@ def get_sentence_batch(batch_size, data_x,
 
 # ========= define input and output structure =========
 
-_inputs = tf.placeholder(tf.float32, shape=[batch_size, times_steps, GLOVE_SIZE])
+# _batch_size = tf.placeholder(tf.int32, shape=[])		# for variable batch size
+
+_inputs = tf.placeholder(tf.float32, shape=[None, times_steps, GLOVE_SIZE])
 embedding_placeholder = tf.placeholder(tf.float32, [vocabulary_size, GLOVE_SIZE])
 
-_labels = tf.placeholder(tf.float32, shape=[batch_size, num_classes])
-_seqlens = tf.placeholder(tf.int32, shape=[batch_size])
-
-# ========= use pre-trained word vectors ==============
-
-#embeddings = tf.Variable(tf.constant(0.0, shape=[vocabulary_size, GLOVE_SIZE]),
-						 #trainable=True)
-#embedding_init = embeddings.assign(embedding_placeholder)
-#embed = tf.nn.embedding_lookup(embeddings, _inputs)
+_labels = tf.placeholder(tf.float32, shape=[None, num_classes])
+_seqlens = tf.placeholder(tf.int32, shape=[None])
 
 with tf.name_scope("biGRU"):
 	with tf.variable_scope('forward'):
@@ -196,7 +195,6 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
-	# sess.run(embedding_init, feed_dict={embedding_placeholder: embedding_matrix})
 	for step in range(151):
 		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
 															train_x, train_y,
@@ -208,10 +206,6 @@ with tf.Session() as sess:
 												_labels: y_batch,
 												_seqlens: seqlen_batch})
 			print("Accuracy at %d: %.5f" % (step, acc))
-
-	# norm = tf.sqrt(tf.reduce_sum(tf.square(embeddings), 1, keep_dims=True))
-	# normalized_embeddings = embeddings / norm
-	# normalized_embeddings_matrix = sess.run(normalized_embeddings)
 
 	for test_batch in range(5):
 		x_test, y_test, seqlen_test = get_sentence_batch(batch_size,
@@ -226,16 +220,28 @@ with tf.Session() as sess:
 	# query = sys.stdin.readline()
 	dirty_words = ["toilet", "dripping", "water", "smell", "bad", "drainage", "flood", "neighbor", "complain", "ignore", "repeatedly", "months", "ceiling", "floor", "dirty", "refused"]
 	dirty_vectors = []
+
+	f = open(path_to_glove, "r")
+	count_all_words = 0
+	for line in f:
+		vals = line.split()
+		word = str(vals[0])
+		if word in dirty_words:
+			print(count_all_words, word)
+			count_all_words += 1
+			coefs = np.asarray(vals[1:], dtype='float32')
+			coefs /= np.linalg.norm(coefs)
+			word2embedding_dict[word] = coefs
+		if count_all_words == 16:
+			print("*** found all words in query")
+			break
+		# if count_all_words >= 500:			# it takes too long to look up the entire dictionary, so I cut it short
+		#	break
+	# set default value = zero vector, if word not found in dictionary
+
 	for word in dirty_words:
 		dirty_vectors.append(word2embedding_dict[word])
 	query = [dirty_vectors * 8]		# make up to 128 = times_steps size
-	print("Query = ", query)
-	result = sess.run(final_output, feed_dict={_inputs: query, _labels: [[1, 0]], _seqlens: [times_steps]})
+	# print("Query = ", query)
+	result = sess.run(correct_prediction, feed_dict={_inputs: query, _labels: [[0, 1]], _seqlens: [times_steps]})
 	print(result)
-
-# Test embedding vectors
-ref_word = normalized_embeddings_matrix[word2index_map["water"]]
-cosine_dists = np.dot(normalized_embeddings_matrix, ref_word)
-ff = np.argsort(cosine_dists)[::-1][1:10]
-for f in ff:
-	print(cosine_dists[f], index2word_map[f])
