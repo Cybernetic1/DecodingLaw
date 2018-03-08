@@ -6,6 +6,7 @@ Created on Wed Mar  1 12:18:27 2017
 # import zipfile
 import numpy as np
 import tensorflow as tf
+import re
 
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 PRE_TRAINED = True
@@ -14,42 +15,42 @@ batch_size = 128
 embedding_dimension = 64		# this is used only if PRE_TRAINED = False
 num_classes = 2
 hidden_layer_size = 32
-times_steps = 6
+times_steps = 20
 
-digit_to_word_map = {1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five",
-					 6: "Six", 7: "Seven", 8: "Eight", 9: "Nine"}
-digit_to_word_map[0] = "PAD_TOKEN"
+# digit_to_word_map = {1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six", 7: "Seven", 8: "Eight", 9: "Nine"}
+# digit_to_word_map[0] = "PAD_TOKEN"
 
 # These are the 2 classes of laws:  nuisance and dangerous driving
 class1_sentences = []
 class2_sentences = []
 
+# Read case examples from file
+example1 = []
+with open('class1_example.txt') as f:
+	for line in f:
+		line = re.sub(r'[^\w\s-]','',line)	# remove punctuations except hyphen
+		example1 += line.split()
 
+example2 = []
+with open('class2_example.txt') as f:
+	for line in f:
+		line = re.sub(r'[^\w\s-]','',line)
+		example2 += line.split()
 
 seqlens = []
-for i in range(10000):
-	rand_seq_len = np.random.choice(range(3, 7))
-	seqlens.append(rand_seq_len)
-	rand_odd_ints = np.random.choice(range(1, 10, 2),
-									 rand_seq_len)
-	rand_even_ints = np.random.choice(range(2, 10, 2),
-									  rand_seq_len)
+num_examples = 200					# change to larger later
+fixed_seq_len = 20
+for i in range(num_examples):
+	seqlens.append(fixed_seq_len)
 
-	if rand_seq_len < 6:
-		rand_odd_ints = np.append(rand_odd_ints,
-								  [0]*(6-rand_seq_len))
-		rand_even_ints = np.append(rand_even_ints,
-								   [0]*(6-rand_seq_len))
-
-	class1_sentences.append(" ".join([digit_to_word_map[r]
-						  for r in rand_odd_ints]))
-	class2_sentences.append(" ".join([digit_to_word_map[r]
-						 for r in rand_even_ints]))
+	rand_start1 = np.random.choice(range(0, len(example1) - fixed_seq_len))
+	rand_start2 = np.random.choice(range(0, len(example2) - fixed_seq_len))
+	class1_sentences.append(" ".join(example1[rand_start1: rand_start1 + fixed_seq_len]))
+	class2_sentences.append(" ".join(example2[rand_start2: rand_start2 + fixed_seq_len]))
 
 data = class1_sentences + class2_sentences
-# same seq lengths for even, odd sentences
 seqlens *= 2
-labels = [1]*10000 + [0]*10000
+labels = [1]*num_examples + [0]*num_examples
 for i in range(len(labels)):
 	label = labels[i]
 	one_hot_encoding = [0]*2
@@ -67,52 +68,55 @@ for sent in data:
 index2word_map = {index: word for word, index in word2index_map.items()}
 
 vocabulary_size = len(index2word_map)
-
+print("Vocabulary size = ", vocabulary_size)
 
 def get_glove(path_to_glove, word2index_map):
-
 	embedding_weights = {}
 	count_all_words = 0
-	#with zipfile.ZipFile(path_to_glove) as z:
 	f = open("/data/wiki-news-300d-1M.vec", "r")
 	for line in f:
 		vals = line.split()
 		word = str(vals[0])
 		if word in word2index_map:
-			print(word)
+			print(count_all_words, word)
 			count_all_words += 1
 			coefs = np.asarray(vals[1:], dtype='float32')
 			coefs /= np.linalg.norm(coefs)
 			embedding_weights[word] = coefs
 		if count_all_words == len(word2index_map) - 1:
+			print("*** found all words ***")
 			break
-
-	print("embedding dim = ", len(embedding_weights["Seven"]))
+		if count_all_words >= 500:
+			break
 	return embedding_weights
-
 
 word2embedding_dict = get_glove(path_to_glove, word2index_map)
 embedding_matrix = np.zeros((vocabulary_size, GLOVE_SIZE))
 
+zero_vector = np.asarray([0.00]*300, dtype='float32')
 for word, index in word2index_map.items():
 	if not word == "PAD_TOKEN":
-		word_embedding = word2embedding_dict[word]
+		try:
+			word_embedding = word2embedding_dict[word]
+		except KeyError:
+			word_embedding = zero_vector
 		embedding_matrix[index, :] = word_embedding
 
+#for i in range(vocabulary_size):
+#	print(embedding_matrix[i])
 
 data_indices = list(range(len(data)))
 np.random.shuffle(data_indices)
 data = np.array(data)[data_indices]
 labels = np.array(labels)[data_indices]
 seqlens = np.array(seqlens)[data_indices]
-train_x = data[:10000]
-train_y = labels[:10000]
-train_seqlens = seqlens[:10000]
+train_x = data[:num_examples]
+train_y = labels[:num_examples]
+train_seqlens = seqlens[:num_examples]
 
-test_x = data[10000:]
-test_y = labels[10000:]
-test_seqlens = seqlens[10000:]
-
+test_x = data[num_examples:]
+test_y = labels[num_examples:]
+test_seqlens = seqlens[num_examples:]
 
 def get_sentence_batch(batch_size, data_x,
 					   data_y, data_seqlens):
@@ -195,8 +199,13 @@ with tf.Session() as sess:
 		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
 															train_x, train_y,
 															train_seqlens)
-		sess.run(train_step, feed_dict={_inputs: x_batch, _labels: y_batch,
-										_seqlens: seqlen_batch})
+		#print(x_batch)
+		#for x in x_batch:
+		#	print(len(x))
+		x_batch = np.vstack([np.expand_dims(x, 0) for x in x_batch])
+		#print(y_batch)
+		#print(seqlen_batch)
+		sess.run(train_step, feed_dict={_inputs: x_batch, _labels: y_batch, _seqlens: seqlen_batch})
 
 		if step % 100 == 0:
 			acc = sess.run(accuracy, feed_dict={_inputs: x_batch,
@@ -219,7 +228,7 @@ with tf.Session() as sess:
 													_seqlens: seqlen_test})
 		print("Test batch accuracy %d: %.5f" % (test_batch, batch_acc))
 
-ref_word = normalized_embeddings_matrix[word2index_map["Three"]]
+ref_word = normalized_embeddings_matrix[word2index_map["water"]]
 
 cosine_dists = np.dot(normalized_embeddings_matrix, ref_word)
 ff = np.argsort(cosine_dists)[::-1][1:10]
