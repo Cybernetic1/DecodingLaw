@@ -34,17 +34,22 @@ example2 = []
 
 with open('class1_example.txt') as f:
 	for line in f:
-		line = re.sub(r'[^\w\s-]','',line)	# remove punctuations except hyphen
+		line = re.sub(r'[^\w\s-]',' ',line)	# remove punctuations except hyphen
 		for word in line.lower().split():	# convert to lowercase
 			if word not in stopwords.words('english'):	# remove stop words
 				example1.append(word)
 
 with open('class2_example.txt') as f:
 	for line in f:
-		line = re.sub(r'[^\w\s-]','',line)
+		line = re.sub(r'[^\w\s-]',' ',line)
 		for word in line.lower().split():
 			if word not in stopwords.words('english'):
 				example2.append(word)
+
+len1 = len(example1)
+len2 = len(example2)
+print("Example 1 length = ", len1)
+print("Example 2 length = ", len2)
 
 seqlens = []
 num_examples = 256				# change to larger later
@@ -233,5 +238,4 @@ ref_word = normalized_embeddings_matrix[word2index_map["water"]]
 cosine_dists = np.dot(normalized_embeddings_matrix, ref_word)
 ff = np.argsort(cosine_dists)[::-1][1:10]
 for f in ff:
-	print(index2word_map[f])
-	print(cosine_dists[f])
+	print(cosine_dists[f], index2word_map[f])
