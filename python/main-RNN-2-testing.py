@@ -228,9 +228,9 @@ with tf.Session() as sess:
 	dirty_vectors = []
 	for word in dirty_words:
 		dirty_vectors.append(word2embedding_dict[word])
-	query = [dirty_vectors * 8]
+	query = [dirty_vectors * 8]		# make up to 128 = times_steps size
 	print("Query = ", query)
-	result = sess.run(final_output, feed_dict={_inputs: query, _labels: [[1, 0]], _seqlens: [128]})
+	result = sess.run(final_output, feed_dict={_inputs: query, _labels: [[1, 0]], _seqlens: [times_steps]})
 	print(result)
 
 # Test embedding vectors
