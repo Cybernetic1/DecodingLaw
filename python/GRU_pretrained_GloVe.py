@@ -24,6 +24,8 @@ digit_to_word_map[0] = "PAD_TOKEN"
 class1_sentences = []
 class2_sentences = []
 
+
+
 seqlens = []
 for i in range(10000):
 	rand_seq_len = np.random.choice(range(3, 7))
