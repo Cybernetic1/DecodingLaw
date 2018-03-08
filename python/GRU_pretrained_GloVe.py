@@ -10,7 +10,7 @@ import re
 
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 PRE_TRAINED = True
-GLOVE_SIZE = 300
+GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
 batch_size = 128
 embedding_dimension = 64		# this is used only if PRE_TRAINED = False
 num_classes = 2
@@ -23,22 +23,23 @@ class2_sentences = []
 
 # Read case examples from file
 example1 = []
+example2 = []
+
 with open('class1_example.txt') as f:
 	for line in f:
 		line = re.sub(r'[^\w\s-]','',line)	# remove punctuations except hyphen
 		example1 += line.split()
 
-example2 = []
 with open('class2_example.txt') as f:
 	for line in f:
 		line = re.sub(r'[^\w\s-]','',line)
 		example2 += line.split()
 
 seqlens = []
-num_examples = 200					# change to larger later
-fixed_seq_len = 20
+num_examples = 1000		# change to larger later
+fixed_seq_len = 20		# For each case law, we take 20 consecutive words from the text
 for i in range(num_examples):
-	seqlens.append(fixed_seq_len)
+	seqlens.append(fixed_seq_len)		# this is variable in the original code (with zero-padding), but now it's fixed because we don't use zero-padding
 
 	rand_start1 = np.random.choice(range(0, len(example1) - fixed_seq_len))
 	rand_start2 = np.random.choice(range(0, len(example2) - fixed_seq_len))
@@ -70,7 +71,7 @@ print("Vocabulary size = ", vocabulary_size)
 def get_glove(path_to_glove, word2index_map):
 	embedding_weights = {}
 	count_all_words = 0
-	f = open("/data/wiki-news-300d-1M.vec", "r")
+	f = open(path_to_glove, "r")
 	for line in f:
 		vals = line.split()
 		word = str(vals[0])
@@ -83,21 +84,20 @@ def get_glove(path_to_glove, word2index_map):
 		if count_all_words == len(word2index_map) - 1:
 			print("*** found all words ***")
 			break
-		if count_all_words >= 500:
+		if count_all_words >= 500:			# it takes too long to look up the entire dictionary, so I cut it short
 			break
 	return embedding_weights
 
 word2embedding_dict = get_glove(path_to_glove, word2index_map)
 embedding_matrix = np.zeros((vocabulary_size, GLOVE_SIZE))
 
-zero_vector = np.asarray([0.00]*300, dtype='float32')
+zero_vector = np.asarray([0.00]*300, dtype='float32')	# this is for when the word-vector is not found in the file
 for word, index in word2index_map.items():
-	if not word == "PAD_TOKEN":
-		try:
-			word_embedding = word2embedding_dict[word]
-		except KeyError:
-			word_embedding = zero_vector
-		embedding_matrix[index, :] = word_embedding
+	try:
+		word_embedding = word2embedding_dict[word]
+	except KeyError:
+		word_embedding = zero_vector
+	embedding_matrix[index, :] = word_embedding
 
 data_indices = list(range(len(data)))
 np.random.shuffle(data_indices)
@@ -189,7 +189,7 @@ with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
 	sess.run(embedding_init,
 			 feed_dict={embedding_placeholder: embedding_matrix})
-	for step in range(125):
+	for step in range(150):
 		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
 															train_x, train_y,
 															train_seqlens)
