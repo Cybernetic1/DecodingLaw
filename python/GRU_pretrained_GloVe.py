@@ -102,9 +102,6 @@ for word, index in word2index_map.items():
 			word_embedding = zero_vector
 		embedding_matrix[index, :] = word_embedding
 
-#for i in range(vocabulary_size):
-#	print(embedding_matrix[i])
-
 data_indices = list(range(len(data)))
 np.random.shuffle(data_indices)
 data = np.array(data)[data_indices]
@@ -195,19 +192,13 @@ with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
 	sess.run(embedding_init,
 			 feed_dict={embedding_placeholder: embedding_matrix})
-	for step in range(1000):
+	for step in range(500):
 		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
 															train_x, train_y,
 															train_seqlens)
-		#print(x_batch)
-		#for x in x_batch:
-		#	print(len(x))
-		x_batch = np.vstack([np.expand_dims(x, 0) for x in x_batch])
-		#print(y_batch)
-		#print(seqlen_batch)
 		sess.run(train_step, feed_dict={_inputs: x_batch, _labels: y_batch, _seqlens: seqlen_batch})
 
-		if step % 100 == 0:
+		if step % 50 == 0:
 			acc = sess.run(accuracy, feed_dict={_inputs: x_batch,
 												_labels: y_batch,
 												_seqlens: seqlen_batch})
