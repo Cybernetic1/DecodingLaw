@@ -1,17 +1,24 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Mar  1 12:18:27 2017
-@author: tomhope
+The main RNN algorithm.
+
+* Takes only a fixed number of consecutive words from each case-law text
+* Seems to work well for 2 classes, may be sufficient for Round 2 purpose.
+
+Modeled after the code found in Ch.6 of "Learning Tensorflow" by Tom Hope et al.
+
+@author: YKY
 """
 # import zipfile
 import numpy as np
 import tensorflow as tf
-import re
+from nltk.corpus import stopwords
+import re						# for removing punctuations
 
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 PRE_TRAINED = True
 GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
-batch_size = 128
+batch_size = 64
 embedding_dimension = 64		# this is used only if PRE_TRAINED = False
 num_classes = 2
 hidden_layer_size = 32
@@ -28,15 +35,19 @@ example2 = []
 with open('class1_example.txt') as f:
 	for line in f:
 		line = re.sub(r'[^\w\s-]','',line)	# remove punctuations except hyphen
-		example1 += line.split()
+		for word in line.lower().split():	# convert to lowercase
+			if word not in stopwords.words('english'):	# remove stop words
+				example1.append(word)
 
 with open('class2_example.txt') as f:
 	for line in f:
 		line = re.sub(r'[^\w\s-]','',line)
-		example2 += line.split()
+		for word in line.lower().split():
+			if word not in stopwords.words('english'):
+				example2.append(word)
 
 seqlens = []
-num_examples = 1000				# change to larger later
+num_examples = 256				# change to larger later
 fixed_seq_len = times_steps		# For each case law, we take N consecutive words from the text
 for i in range(num_examples):
 	seqlens.append(fixed_seq_len)		# this is variable in the original code (with zero-padding), but now it's fixed because we don't use zero-padding

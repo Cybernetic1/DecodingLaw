@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-The main RNN algorithm.
-
-Modeled after the code found in Ch.6 of "Learning Tensorflow" by Tom Hope et al.
+The main RNN algorithm with circular-refill of sequences.
+For some reason the results are no good.
 
 @author: YKY
 """
@@ -14,11 +13,11 @@ import re
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 PRE_TRAINED = True
 GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
-batch_size = 10
+batch_size = 20
 embedding_dimension = 64		# this is used only if PRE_TRAINED = False
 num_classes = 2
-hidden_layer_size = 32
-times_steps = 2328				# this number should be same as fixed_seq_len below
+hidden_layer_size = 64
+times_steps = 128				# this number should be same as fixed_seq_len below
 
 # These are the 2 classes of laws:  nuisance and dangerous driving
 class1_sentences = []
@@ -43,17 +42,11 @@ len2 = len(example2)
 print("Example 2 length = ", len2)
 
 seqlens = []
-num_examples = 10				# change to larger later
-fixed_seq_len = times_steps		# For each case law, we take N consecutive words from the text
+num_examples = 30				# change to larger later
 for i in range(num_examples):
-	# seqlens.append(fixed_seq_len)	# this is variable in the original code (with zero-padding), but now it's fixed because we don't use zero-padding
 	max_len = max(len(example1), len(example2))
 	seqlens.append(max_len)
 
-	# rand_start1 = np.random.choice(range(0, len(example1) - fixed_seq_len))
-	# rand_start2 = np.random.choice(range(0, len(example2) - fixed_seq_len))
-	# class1_sentences.append(" ".join(example1[rand_start1: rand_start1 + fixed_seq_len]))
-	# class2_sentences.append(" ".join(example2[rand_start2: rand_start2 + fixed_seq_len]))
 	if len1 < max_len:
 		# refill sequence 1 circularly
 		sentence1 = ""
@@ -106,7 +99,7 @@ def get_glove(path_to_glove, word2index_map):
 		if count_all_words == len(word2index_map) - 1:
 			print("*** found all words ***")
 			break
-		if count_all_words >= 500:			# it takes too long to look up the entire dictionary, so I cut it short
+		if count_all_words >= 600:			# it takes too long to look up the entire dictionary, so I cut it short
 			break
 	return embedding_weights
 
