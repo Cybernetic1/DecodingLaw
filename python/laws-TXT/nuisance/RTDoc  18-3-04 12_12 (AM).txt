@@ -1,0 +1,90 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:12 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Incorporated Owners of Dahfuldy v Leung Cheung Yuk Ying
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+Incorporated Owners of Dahfuldy v Leung Cheung Yuk Ying
+
+
+
+28 January 2013
+District Court
+DC
+Civil Action No 487 of 2012
+DCCJ 487/2012
+
+Citations:[2013] HKEC 119 English Judgment
+
+Presiding Judges: Judge S Chow
+
+Phrases: <Y<Civil procedure - summary judgment - action for injunction restraining defendant from committing nuisance and breach of deed of mutual covenant - whether defence raised triable issues>Y>
+
+Counsel in the Case: Mr Julian SF Chan, instructed by Ma Tang & Co, Solicitors for the plaintiffMr Harry Liu, instructed by Ho & Ip, Solicitors for the defendant
+
+Judgment: 
+
+
+Judge S. Chow
+1. This is the plaintiff's application for an order pursuant to O 14 of the Rules of the District Court that final judgment be entered against the defendant for an injunction to restrain the defendant, whether by herself, her servants or agents, or otherwise howsoever from driving any vehicles which will constitute nuisance or annoyance or hazard and breach of the Deed of Mutual Covenant registered in the Land Registry by Memorial No UB1152661 and/or Building Management Ordinance Cap 344, pursuant to O14 of the Rules of the District Court.
+2. The plaintiff is the incorporated owners of building known as the Dahfuldy, No 21, Ho Man Tin Hill Road, Kowloon ("the Building"). The defendant is the registered owner of Flat 1, 9th Floor, Block B and Car Parking Space No 21, Upper Ground Floor of the Building.
+3. Since February 2011 the Manager laid down new traffic instructions to the driving routes that vehicles are required to take. In the Traffic Instruction, 3 vehicular routes are specified for ingress to and egress from the Building:- 
+
+(1) for visitors, they can go straight to and leave from the Visitors' Car Parks in the same direct route without having to encircle Block A - the Green Route;
+
+(2) for users of the Basement Car Parks, they are required to encircle Block A first before going down to the Basement - the Blue Route;
+
+(3) for users of the Car Parks on the Upper Ground floor other than Visitors' Car Parks, they have to encircle Block A and are required to leave the Building - the Red Route.
+
+
+4. According to the Traffic Instruction, the defendant was required to use the Red Route. Initially she followed the Green Route reserved for visitors. Sometime afterwards she was required by the security guards of the Building to follow the route shown on the plan attached in schedule 4 to her defence filed on 29.3.2012. She alleged that driving in this way required a sharp left turn to be made at the corner of Block B of the Building adjacent to Car Parking Space No 26. She called this route "the Hazardous Route"). She alleged that to use the Hazardous Route as required by the security guards would not only cause hazard to herself and other passengers of her vehicles, but also to other persons, particularly the users of Car Parking Space No 26 and other persons who might happen to be in the vicinity at the time of making the sharp left turn. To avoid any breach of section 34I (1)(b) of BMO, she declined to use the Hazardous Route. She drove her vehicles by using the Green Route.
+5. After having been served with the Writ of Summons in February 2012, a copy of the approved building plan in respect of the Upper Ground Floor of the Building was obtained from the Buildings Department. From this approved building plan she noticed that she should have been able to gain access from both the front and rear ends of her carpark. Had there been no illegal structure comprising an enclosed room equipped with air-conditioning facilities erected in the common part of the Building blocking the passage at the rear end of her carpark, she would have been able to gain access to her carpark without having to adopt the Hazardous Route nor the Green Route. This issue was raised by her former solicitors to the plaintiff's solicitors in their correspondence in relation to this issue between 18 April and 18 June 2012.
+6. The defendant is bound by section 34I(1)(b) of the Building Management Ordinance ("BMO") which provides that "no person may  use or permit to be used the common parts of a building in such a manner as (i) unreasonably to interfere with the use and enjoyment of those parts by any owner or occupier of the building; or (ii) to cause a nuisance or hazard to any person lawfully in the building."
+
+7. The defendant is also bound by the deed of mutual covenants of the Building ("DMC"). Clause 2(q) of the DMC provides:- "Any person authorized by a party to this deed or by a person covenanting to observe this deed to use a space structure or service belonging to the said land shall use it in a careful manner and shall not do anything which shall or is likely to cause damage or injury thereto or inconvenience to other owners."
+
+
+8. In refusing to obey the Traffic Instruction, she was driving her cars in such a manner as to (1) unreasonably interfere with the use and enjoyment of the common parts of the Building of the other owners and occupiers; (2) cause a nuisance or hazard to other persons in the Building; and (3) likely to cause damage, injury or inconvenience to other owners. She is breach of the above-mentioned provisions of the BMO and DMC.
+9. The 1st defence is that there was never any resolution duly passed at a meeting of the plaintiff or the plaintiff's management committee requiring the owners observation of and compliance with the Traffic Instruction. The Management Agreement provides that the plaintiff "hereby appoints the Manager and the Manager hereby agrees to serve as the manager for the management of the whole or part of the Estate as set out in the First Schedule hereto ("the Management Areas") with the powers and obligations conferred under the DMC and the Building Management Ordinance". Clause 1.2 of the Management Agreement provides that the plaintiff "authorizes the Manager to act for it in its name and on its behalf:- 
+
+(a) to perform all acts and do all things as conferred under the DMC and the Building Management Ordinance;
+
+(b) to execute and perform any reasonable act as agreed from time to time by the Incorporated Owners."
+
+The plaintiff has the power to manage the common parts of the Building and has authorized the Manager to exercise such powers. Thus the Manager has power to manage the common parts of the carpark by issuing the Traffic Instruction.
+10. At all material times, the management committee of the plaintiff was fully aware of and approved of the traffic directions issued by the Manager of the Building, which included the Traffic Instruction.
+11. In the 2nd defence the defendant argued that in making a left turn pursuant to the Traffic Instruction drivers would not be able to see around the corner until they are too close and that this was hazardous. There is a wide-range traffic mirror installed at this left turn. By using this mirror drivers may see around corners to see oncoming cars or residents at the left turn.
+12. The 3rd defence is that there is an unauthorized structure near her carparking space. If there was no such structure the defendant could take various other routes to her car carparking space. This was not pleaded in her defence. Clearly she did not rely on this argument as her defence. It is irrelevant that she could have taken various other routes to her carparking space. The issue is whether her failure to follow the Traffic Instruction was in breach of the DMC and BMO. The Traffic Instruction is binding upon the defendant and other drivers of the Building.
+13. The 4th defence is that the present action was instituted without authority due to the absence of a resolution of the management committee. This was not pleaded in the defence, but contained in her affirmation. The fact that it was not pleaded in the defence indicated that she did not intend to rely upon it as her defence. There is a resolution of the management committee to this effect on 24.4.2012.
+14. The 5th defence is that the present action was instituted without authoritiy as the legal services were not procured via a tender process. This was in breach of section 20A(1) of the BMO. Section 20A(2) states the situations under which services shall be procured by tender, when the value of the services exceeds $200,000 or 20% of the annual budget. The fact that this defence was not pleaded in the defendant reflects that the defendant did not intended to rely upon it as a defence. In any event the defendant has not adduced any factual evidence to show that the plaintiff has committed a breach of section 20A (1) of the BMO. She has not adduced any evidence to show that the value of the legal services exceeds $200,000 or 20% of the annual budget of the incorporated owners.
+15. The defendant also argues that the writ is plainly and seriously defective. This was not pleaded in the defence. So this was not relied on as a defence in this case. The proper course is for the defendant to make an application in this regard, so that full facts about the allegation can be ventilated. The first alleged defect is that the Statement of Claim was verified by the Chairman to the Management of the Incorporated Owners of the Jade Plaza, a party entirely irrelevant to this action, rather than anyone in the capacity as "a person holding a senior position" in the Incorporated Owners. I cannot find whether this is true or not, without affirmation in this regard. The second alleged defect is that the Statement of Claim was purportedly verified by Wong who is not conversant with English whilst the contents thereof had not been interpreted to him in Chinese or Punti. There is no evidence to show that Wong is not conversant with English.
+16. There is simply no defence to the plaintiff's application, because all the arguments raised by the defendant cannot stand. I therefore enter summary judgment in favour of the plaintiff against the defendant in terms of the summons .
+
+Costs
+
+17. I make an order nisi, to be made absolute in 14 days' time, that the defendant do pay the plaintiff the costs of this action (including the costs of this application), to be taxed, if not agreed, with certificate for counsel.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

@@ -1,0 +1,740 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 03 March, 2018 at 23:56 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Yik Yuen Ling v Tso Wing Yan
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Yik Yuen Ling v Tso Wing Yan
+
+
+
+18 October 2017
+District Court
+DC
+Civil Action No 813 of 2014
+DCCJ 813/2014
+
+Citations:[2017] HKEC 2211 English Judgment
+
+Presiding Judges: Deputy Judge Simon Ho
+
+Phrases: <Y<Tort - negligence - nuisance - water seepage from premises to premises immediately below - determination of source of seepage - if from defendant's premises, whether defendant liable - appropriate relief 
+Damages - assessment - nuisance - water seepage from premises to premises immediately below >Y>
+
+Counsel in the Case: Miss Priscilla Tsang, instructed by Chan, Lau & Wai, for the plaintiffMr Leon Ho, instructed by Lo, Wong & Tsui, for the defendant
+
+Cases cited in the judgment: Born Chief v George Tsai [1996] 2 HKLRD 188 
+Cheung Sau Ling v Cheung Lai Chong (unrep., CACV 268/1998) 
+Cheung Sau Ling v Cheung Lai Shing (unrep., CACV 268/1998) 
+Goldman v Hargrave [1967] AC 645 
+Incorporated Owners of Hong Leong Industrial Complex & Another v HL Resources Ltd & Another [2014] 4 HKC 463 
+Leakey v National Trust [1980] 1 QB 485 
+Tai Fong Trade Ltd v IO of Nos 167 & 169 Hoi Bun Road & Another [2009] 2 HKC 399 
+梁有勝 對 馮源禧及其他人 (unrep., LDBM 249/2000, [2002] CHKEC 5242) 
+高麗琴 對 梁耀石 (unrep., DCCJ 3828/2014, [2016] CHKEC 857) 
+Calabar Properties Ltd v Stitcher [1984] 1 WLR 287 
+
+Chiu Hung Shun v So Ka Tai (unrep., CACV 136/2005, [2005] HKEC 1995) 
+
+Discovery Bay Services Management Ltd v David Buxhaum (unrep., DCCJ 4782/1991, [1994] HKEC 541) 
+
+Grosvenor Hotel Co v Hamilton (1894) 2 QB 836 
+
+Hong Kong and Shanghai Banking Corp v Chan Yiu Wah & Another [1988] 1 HKLR 457 
+
+Incorporated Owners of Hong Leong Industrial Complex v HL Resources Ltd [2009] 4 HKLRD 692 
+
+Key Light Holdings Ltd v Shih Hua Min (unrep., HCMP 2382/2013, [2014] HKEC 243) 
+
+Key Light Holdings Ltd v Shih Hua Min (unrep., DCCJ 1167/2010, [2013] HKEC 579) 
+
+Lam Eguchi Mayumi v Fast Well Enterprise (HK) Ltd (unrep., DCCJ 3702/2008, [2010] HKEC 485) 
+
+Lam Kit Yee v Lam Shuk Lam (unrep., DCCJ 3115/2011, [2017] HKEC 474) 
+
+Larbons Ltd v Kuo You Weaving Factory Ltd (unrep., DCCJ 934/2006, [2007] HKEC 1378) 
+
+Lau Sin Yee v Financial Secretary Incorporated (unrep., DCCJ 311/2007, [2008] HKEC 254) 
+
+Lee Wai Chuen v Cheung Chor Keung (unrep., DCCJ 3098/2006, [2011] HKEC 42) 
+
+Let’s Go Investments Ltd v Yeung Sau Hing (unrep., DCCJ 4585/2004, [2005] HKEC 2008) 
+
+Leung Yung Chun & Another v Chan Wing Sang & Others [2000] 1 HKLRD 456 
+
+Sedleigh-Denfield v O’ Callaghan [1940] AC 880 
+
+Ward v Cannock District Council [1986] Ch 546 
+
+Wing Ming Garment Factory Ltd v Wing Ming Industrial Centre [2014] 4 HKLRD 52 
+
+皇河實業有限公司 v Wan Chiu Yuen (unrep., DCCJ 4448/2011, [2015] HKEC 609) 
+
+
+Judgment: 
+
+
+Deputy Judge Simon Ho
+
+Introduction
+
+<Y<1. This action was concerned with a dispute between neighbours over water seepage occurring at the plaintiff's premises situated at Office 3A, Hang Cheong Tai Building, Nos 21-23 Ko Shing Street, Sheung Wan, Hong Kong ("the Building") which has allegedly been sourced from the Flat Roof ("the Flat Roof") of Flat 4A ("Flat 4A"), as owned by the defendant, immediately above Office 3A. The plaintiff claimed that she suffered various loss and damages as a result of the seepage.>Y>
+<G<2. The plaintiff based her claims against the defendant on 3 causes of action: (1) breach of the Deed of Mutual Covenants in respect of the Building ("the DMC"); (2) nuisance; and (3) negligence.>G>
+<Y<3. She seeks injunctive reliefs as well as damages against the defendant including (1) costs of rectifying the damage to the ceiling of Office 3A; (2) rental costs of alternative accommodation as she has been deprived of the use of Office 3A to run her business by the seepage 1 ; and (3) fee for engaging surveyor to investigate into the source of seepage.
+4. The defendant does not dispute the existence of water seepage but she contends that it was not sourced from Flat 4A. She further contends that even if her premises has been the source, she is not liable because the defective waterproofing membrane at the floor slab in question dividing Office 3A and the Flat Roof is a common part. It is the responsibility of the incorporated owners of the Building ("the IO"), but not hers, to repair.
+5. As for quantum, the defendant contends that plaintiff's loss and damages are not caused by the defendant even if the water seepage sourced from Flat 4A since according to her Opening Submissions 2 , there were pre-existing water seepage from other sources than Flat 4A. Further, discount has to be given for the use of Office 3A by the plaintiff's son. But when it comes to her Closing Submissions, Mr Leon Ho, counsel representing the defendant, seemed to go for another if not opposite direction by submitting that the water seepage at Office 3A was not serious and did not prevent the plaintiff from operating her business there. He also argued that the plaintiff could not move into Office 3A before 1 April 2014, and would not use Office 3A to run her business after July 2014. Regarding the surveyor's fee, the defendant says that it should form part of the costs of this action instead.>Y>
+
+Issues in dispute
+
+6. In light of the parties' respective contentions, the issues in dispute which require this court's determination are as follows:- 
+
+(1) Whether the water seepage appeared at different affected areas of the ceiling of Office 3A have been sourced from the Flat Roof and/or any other sources as the defendant contends? ("Issues on the source of seepage")
+
+(2) If the seepage has been sourced from the Flat Roof, whether the plaintiff is liable under the DMC, nuisance and/or negligence? ("Issues on liability")
+
+(3) If the plaintiff is liable, what is the appropriate quantum and whether the defendant's contentions are valid to release herself from liability for the plaintiff's losses and damages? And, whether it is appropriate to grant the injunctive reliefs as sought by the plaintiff? ("Issues on quantum and reliefs")
+
+
+
+Background
+
+<Y<7. Before the plaintiff became the owner of Office 3A, she had been renting a shop at Ground Floor, Nos 3 and 3A, New Street, Hong Kong ("the Shop") for almost 10 years for the business of selling the Buddha statues, antiques and gems, and providing services on fortune telling and 'Fung Shui' advice. She placed many antiques and statues in the Shop, which consists of the ground floor and a cockloft with a total area of about 1,009 sq ft 3 .
+8. In about early 2012, her former landlord sold the Shop to a new landlord, who then intended to repossess the Shop, and agreed to renew the tenancy agreement with the plaintiff only on a short-term basis.
+9. Against such background, with the help of an estate agent Mr Wong Tak Lai Terry ("Mr Wong"), she purchased Office 3A to continue her business. Under the DMC, the ground floor of the Building is designated to be used as a shop, the 1st to 3rd Floor are office premises, and the units from the 4th Floor and upwards are for residential use. 4 
+10. On 31 May 2013, the sale and purchase transaction was completed.
+11. In June 2013, the plaintiff engaged a contractor to carry out renovation at Office 3A. The renovation workers found out water seepage at different areas of the ceiling of Office 3A.
+12. The plaintiff requested Mr Wong to follow up the water seepage problem for her. Mr Wong subsequently talked over the matter with the defendant on phone. Some of the contents of their conversations are in dispute. To this, I shall return later at appropriate juncture below.
+13. On 30 July 2013, Mr Wong also reported the water seepage problem to Food and Environmental Hygiene Department ("FEHD") for assistance. Subsequently, the joint office of FEHD and the Buildings Department ("the Joint Office") sent its officers and consultant contractors to attend Office 3A and Office 4A on various occasions to carry out inspections and tests. The officers also took down the readings of moisture content ("MC readings") at the affected areas of the ceiling of Office 3A on their visits on 22 August 2013, 4 October 2013, and 15 November 2013. 5 
+14. On 13 November 2013, the plaintiff engaged Hong Kong Building Inspection & Structural Diagnostic Ltd ("HKBI") to inspect and conduct test at Office 3A to investigate into the source of seepage. On that occasion, HKBI's staff also attended Flat 4A and conduct inspection there. HKBI subsequently prepared a water seepage report dated 13 January 2014 setting out the result of their test and inspection ("HKBI survey report") 6 .
+15. On 22 January 2014, the Joint Office's appointed consultant, KC Surveyors Ltd ("KC Surveyors"), carried out ponding test (with water mixed with florescent dye) to the floor slab of the Flat Roof ("the 1st ponding test"). Florescent dye was subsequently found to have appeared at the ceiling of Office 3A on the same day. 7 
+16. On 5 March 2014, the plaintiff issued the Writ against the defendant under this action.
+17. On 21 May 2014 and 23 June 2014, the Joint Office notified the plaintiff and the defendant respectively of the result of the 1st ponding test.
+18. On 10 July 2014, the Director of Food and Environmental Hygiene issued a nuisance notice to the defendant requiring her to abate the nuisance by repair and maintain satisfactorily the floor slab of the Flat Roof ("the 1st nuisance notice") 8 .
+19. On 19 August 2014, the Joint Office's officer visited Office 3A and found that some check points of the affected area of the ceiling were found with MC readings over 35%. 9 It is common ground between both experts that when MC reading of the relevant check point is over 35%, that would be an indication of an above normal moisture level. 10 The Joint Office also made a remark for such inspection that >Y><Y<'it revealed that water seepage (sic) still persisted. N.N. was deemed not complied'.>Y><Y<
+20. The officer also visited the Flat Roof on the same day, and the Joint Officer also made a remark that >Y><Y<'no apparent sign of repair was observed from the floor slab of flat roof'>Y><Y<, and they also referred to some photos taken of the Flat Roof on that day. 11 
+21. On 20 August 2014, the Joint Office received an email from the defendant with an attachment file, containing a letter to the Joint Office denying responsibility for the water seepage. 12 In the said letter, it also stated that the water seepage case had entered into legal proceedings, and hence it was unnecessary for the Joint Office to take further action, otherwise it would be a waste of the public purse.
+22. On 2 September 2014, the Joint Office sent a letter to the defendant stating that according to the investigation result of KC Surveyors, there were sign of defects of the floor slab at the Flat Roof. The defendant was also notified that the Joint Office would consider a confirmatory ponding test be arranged for the case.
+23. On 5 December 2014, Prudential Surveyors International Ltd ("Prudential Surveyors"), another appointed consultant of the Joint Office, conducted another ponding test to the floor slab of the Flat Roof ("the 2nd ponding test"). Prudential Surveyors took MC readings at the ceiling of Office 3A both before and after such ponding test on the same day. This time, the ponding test result was negative, and colour dye was not found at the ceiling of Office 3A.
+24. On 10 February 2015, the staff of Prudential Surveyors returned to Office 3A and obtained MC readings at different areas of the ceiling of Office 3A. They subsequently prepared their survey report dated 9 November 2015 setting out the investigation and test results.
+25. Notwithstanding the 2nd ponding test result, on 5 March 2015, Mr Wong contacted the Joint Office and alleged that the affected areas were still in wet condition.
+26. On 9 March 2015, the Joint Office's officer visited Office 3A again and detected new seepage areas at the ceiling. MC readings at the affected areas of the ceiling were found to be above 35%. 13 After this inspection, the Joint Office arranged colour water test ("CWT") to be performed for the water facilities at Flat 4A.
+27. On 22 April 2015, the Joint Office's officer visited Office 4A and conducted CWT for the drainage outlets in the bathroom at the living area of Office 4A, as well as for the basin and floor drain at the Flat Roof.
+28. On 11 May 2015, the Joint Office's officer visited Office 3A for CWT result monitoring, suspicious colour in the ceiling was observed. A bag of plaster was collected for analysis ("the sample"). The MC readings of the affected ceiling were found to be above 35%. 14 
+29. According to an analytical report prepared by the Government Laboratory dated 29 May 2015, the test result of the sample showed positive detection of colour water in the sample 15 . According to the Joint Office, this indicated water seepage through the drain pipe of the basin and its connected waste pipe at the Flat Roof.
+30. On 15 June 2015, the Joint Office sent a letter notifying the plaintiff of the CWT result 16 . On the same day, they sent another letter to the defendant, saying that according to their officer's investigation and test result, the drain pipe of the basin and its connected waste pipe at the Flat Roof ("the drainage pipe") were damaged thereby causing water seepage and urged the defendant to take remedial action. In the said letter, they also informed her of their intended action to issue nuisance notice in relation to such water seepage. 17 
+31. On 30 June 2015, the defendant's expert, Mr Andrew Kau of Bright Solution Consulting Limited ("Mr Kau") also attended Flat 4A to conduct visual inspection and took photos there. 18 
+32. On 9 July 2015, the Director of Food and Environmental Hygiene issued another nuisance notice to the defendant directing her to abate the nuisance in relation to the water seepage through the drainage pipe as connected with the basin at the Flat Roof to the ceiling of Office 3A ("the 2nd nuisance notice"). 19 
+33. On 11 and 13 July 2015, Mr Andi Hau of HKBI (the plaintiff's expert) and Mr Kau (the defendant's expert) attended Office 3A and the Flat Roof to conduct tests and inspection. In particular, a ponding test at the Flat Roof was conducted on the first day ("the 3rd ponding test") 20 . They subsequently prepared a joint expert report dated 6 October 2015 setting out their findings and their respective opinions on the various possible sources of the water seepage 21 ("the joint expert report"). Among other documents, a copy of the annotated plan of the affected areas of Office 3A tested and measured by the experts, and the floor plan of Flat 4A are annexed to the joint expert report. For ease of reference, these two plans are also annexed to this judgment as " >Y><Y<Annexure 1>Y><Y< " and " >Y><Y<Annexure 2>Y><Y< " respectively. In the annotated floor plan of Office 3A, the ceiling is divided by the experts into 3 different zones: Zone A (with affected areas A1-A5), Zone B (with affected areas B1-B4) and Zone C (with affected areas C1-C6), and such defined areas of the ceiling would also be referred to as "Zone A", "Zone B" and "Zone C" respectively in this judgment below.
+34. On 18 September 2015, Flat 4A was visited for compliance check of the 2nd nuisance notice. On that day, it was found that the basin at the Flat Roof had been removed. The Joint Office also found the 2nd nuisance notice being complied with. They contacted Mr Wong and informed him of their findings. It is however recorded in the Joint Office's letter dated 15 December 2015 that Mr Wong revealed that seepage occurred in rainy days, and he would contact the Joint Office for visit after rainy days. 22 
+35. On 7 October 2015, the Joint Office's officer visited Office 3A with arrangement by Mr Wong and the MC readings of the affected ceiling was found to be above 35%. 23 
+36. On 12 October 2015, the Joint Office sent two letters to the plaintiff and the defendant respectively informing them that the case will be considered for proceeding to Stage III professional investigation owing to the persistence of water seepage despite the removal of the basin at the Flat Roof. 24 
+37. On 5 January 2016, the Joint Office sent a letter to the defendant indicating, among other things, that despite the various non-intrusive tests conducted at Flat 4A, they could not effectively confirm the source of seepage originated from Flat 4A, and they would suspend the investigation at this stage. 25 
+38. The matters set out in paras 13, 15, 17 to 32, and 34 to 37 above are elicited from a chronology of events set out in Joint Office's letter to the plaintiffs' solicitors dated 15 December 2015 and from the Joint Office's correspondences with the parties. These matters were undisputed at trial, and sourced from an independent third party with first hand knowledge of the subject matters described therein corroborated by contemporaneous documents, and the survey reports prepared by the Joint Office's appointed consultants. This court is satisfied with their veracity as properly reflecting the factual background of this case. 26 As to the remaining parts of the above background, they are also largely undisputed between the parties. I am satisfied that the matters described in paras 7 to 37 above can form the background facts of this case.
+>Y>
+<Y<Issues on source of seepage
+>Y>
+<Y<39. To approach this question, this court bears in mind that there is no legal presumption that water seepage would necessarily come from the flat above. The burden of proof rests on the plaintiff to show the source of water came from the defendant's premises. See: Cheung Sau Ling v Cheung Lai Shing CACV 268 of 1998 
+, 9 April 1999, para 19; Leung Yung Chun & Another v Chan Wing Sang & Others [2000] 1 HKLRD 456 
+, at pp 461I-J.>Y>
+
+The experts’ evidence
+
+40. Both Mr Hau and Mr Kau are registered professional surveyor in Building Surveying, and in Property, Facility and Management. Also, Mr Hau is a chartered surveyor (UK) and a registered professional engineer (HK) and Mr Kau an Authorised Person (Surveyor) under the Buildings Ordinance 27 . Each expert's qualification was not challenged by the other party, and I am satisfied that both of them are qualified to give expert evidence in relation to the water seepage in this case.
+41. Six possible sources of seepage are pointed out in the joint expert report 28 , namely:- 
+
+(1) failure of waterproofing layer at the Flat Roof;
+
+(2) failure of the drain pipe as connected with the basin installed at the Flat Roof;
+
+(3) the gap between the external walls of the subject building and the adjacent building;
+
+(4) failure of the waterproofing layer of the flat roof of Flat 4B (which belonged to a third party owner), adjacent to the Flat Roof;
+
+(5) condensation water from the adjoining unit of Office 3A, ie Office 3B (which belonged to another third party owner);
+
+(6) the holes on the fence wall facing the Flat Roof (a divider wall) left unsealed after the lamps installed there had been removed.
+
+
+42. It is notable that, tests have been conducted by the experts in respect of the first two possible sources only, but no test of any kind were conducted in respect of the remaining four possible causes. 29 It is this court's general observation that putting forward untested potential sources premised on sheer theories are not particularly helpful to assist the court in finding out the real cause of water seepage. However, since both experts have discussed these untested possible sources in the joint expert report as well as in their testimonies, I would provide my analysis on each of these individual possible sources in this judgment below.
+
+Failure of waterproofing layer at the Flat Roof
+
+43. According to Mr Hau, it is very likely that the water seepage in question is sourced from the Flat Roof owing to the failure of the waterproofing layer at the Flat Roof. He referred this court to the 1st nuisance notice, and testified that the positive result of the 1st ponding test (conducted on 22 January 2014) clearly shows that the seepage was sourced from the Flat Roof 30 . Although colour dye cannot be found in the 2nd ponding test (conducted on 5 December 2014) and the 3rd ponding test (conducted by the experts on 11 and 13 July 2015), he opined that the latter two test results were affected by secondary waterproofing work being done to the Flat Roof's floor surface (ie applying transparent waterproofing coating at the surface of the floor tiles).
+44. Pausing here, it is important to note that the floor surface of the Flat Roof as spoken here is the floor surface of the elevated concrete flooring erected by the defendant's predecessor-in-title at the Flat Roof ("the elevated floor surface"). It is common ground between the experts that the original floor surface of the Flat Roof ("the original floor surface") was about 150 mm (6 inches) beneath the elevated floor surface according to the relevant building plan. 31 
+45. In the joint expert report, Mr Hau described that a layer of 'debonded' suspected waterproofing coating (though he did not mention the actual size or extent of such layer) was found partially floating on the water during the ponding test. According to him, this vulcanized-like layer might be added on the flat roof surface to enhance the existing inferior waterproofing system. In these circumstances, the water seepage at Office 3A was slightly improved for a while, and no immediate colour dye appeared upon the latest ponding test. 32 He also highlighted the fact that such secondary waterproofing work did not exist during HKBI's last inspection conducted at the Flat Roof on 13 November 2013 33 . Further, Mr Hau pointed out the MC readings taken at the ceiling on 11 and 13 July 2013 were still significant despite the absence of the colour dye found at the ceiling of Office 3A.
+46. In the joint expert report, Mr Kau stressed upon the fact that there was no dye appeared at the ceiling of Office 3A at the 3rd ponding test. He pointed out that the layer of 'transparent coating' as described by Mr Hau was already there when he first visited the Flat Roof on 30 June 2015 34 . Although he admitted that he could not tell when the layer was applied, he further commented that this layer did not affect the result of the ponding test conducted by the experts. Because even with such layer, water leakage was still detected before the ponding test. This proved either such 'coating layer' has failed to prevent the leakage or there were other sources for the same. 35 
+47. After carefully going through the experts' evidence as contained in the joint expert report, their testimonies given at the trial and all the other evidence (including but not limited to all the MC Records of the Joint Office and other survey reports prepared by the experts and the Joint Office's appointed consultants), I am satisfied that more probable than not, the water seepage occurred at the ceiling of Office 3A has been sourced from the Flat Roof. I also accept Mr Hau's expert opinion that the cause of such water seepage is owing to the failure of the waterproofing system at the Flat Roof.
+48. I agreed with Mr Hau that the result of the 1st ponding test (with colour dye appeared at the ceiling of Office 3A) is clear and direct evidence showing that the seepage is sourced from the Flat Roof. This also matches with the high MC readings (taken by KC Surveyors on 22 January 2014) at some of the checkpoints at Zone A of the ceiling. 36 In fact, when I asked Mr Kau about his comment on the 1st ponding test result, he said that when colour dye used in such ponding test conducted at the Flat Roof reappeared on Office 3A's ceiling, the water path should originate from the Flat Roof down to the ceiling of the unit below.
+
+Secondary waterproofing work done at the elevated floor surface of the Flat Roof
+
+49. After carefully considering the evidence as a whole, I also accept Mr. Hau's expert opinion that the phenomenon of the absence of colour dye being found at the ceiling of Office 3A after the 2nd and 3rd ponding tests can be explained by some secondary waterproofing work being done at the Flat Roof before such ponding tests were conducted.
+50. First, common sense dictates that the water seepage problem at the affected area where the florescent dye was once found could not simply resolve by itself. It was also basing on the 1st ponding test result that the 1st nuisance notice was issued. In fact, when both experts were specifically asked by this court to comment on the substantial dropping of the MC readings on 5 December 2014 37 at the affected area where the fluorescent dye was found, and the MC readings taken by Prudential Surveyors for the same area even dropped further to below 35% upon their return visit to Office 3A on 10 February 2015 38 , both experts agreed that there is a possibility of certain waterproofing work "not obvious to eyes" having been carried out at the floor surface of the Flat Roof. Taking an overall view of the evidence, I think the defendant cannot really grapple with the 1st ponding test result. In particular, Mr Ho only indicated that the defendant made no submission on the accuracy of the tests conducted by KC Surveyors 39 .
+51. Second, Mr Hau testified that he was told by his colleague (who visited the Flat Roof on 13 November 2013 40 ) that they had not found any such transparent coating on the floor surface of the Flat Roof on that occasion. This also seems to be corroborated by the photo taken at the site on that date as disclosed in HKBI survey report 41 .
+52. Although Mr Kau said the layer of transparent coating was already there when he first visited the Flat Roof on 30 June 2015, it is observed that the waterproofing coating can be applied to the elevated floor surface of the Flat Roof much earlier, and Mr Kau frankly admitted that he could not tell when such coating was applied.
+53. Further, despite the raising of this material issue of the secondary waterproofing work in the joint expert report, the defendant has not filed any supplemental witness statement to deal with such matter. Although the defendant has delegated one Mr Ng (whom she addressed as her husband in her witness statement and her boyfriend at trial) to handle this water seepage case on her behalf since the early stage, she has not arranged Mr Ng to give evidence for her to address on such material issue.
+54. Of particular note is that in the defendant's email to the Joint Office of 20 August 2014 42 , she said that the letter of reply (as contained in the attachment file in the email) was written in accordance to her husband's will 43 . The defendant also mentioned at para 8 of her witness statement that this Mr Ng (her husband) had attended the joint inspection. According to Mr Kau's 1st expert report, Mr Ng should also be the defendant's representative who accompanied him to carry out the inspection of Flat 4A (including the Flat Roof) on 30 June 2015 44 . (see: para 31 above) The defendant's further evidence given at trial on her relationship with Mr Ng and Mr Ng's involvement in this case can also be found at para 213 below.
+55. As for the defendant's testimony on this matter, she admitted under cross-examination that all along she did not know whether such transparent coating was present on the floor tiles surface or not. She only knew of its presence at the Flat Roof for the first time after the joint inspection. Miss Tsang asked the defendant whether Mr Ng would be the one responsible for applying such waterproofing coating at the flooring of the Flat Roof, she said Mr Ng had not told her about such matter. I find such 'lukewarm' attitude as adopted by her towards such important matter very odd in the circumstances. The defendant had delegated this water seepage case to Mr Ng for his handling. She knew that she would be the sole witness giving evidence for herself in this case. It would thus be natural for her to talk with Mr Ng over such important matter in her preparation for trial. If Mr Ng had not arranged secondary waterproofing work be done at the Flat Roof after the 1st ponding test, it could have been very easy for him to say so to the defendant or her solicitor. This unnatural silence on the defendant's side on such a material issue would make the defendant's evidence on this matter highly incredible and unconvincing, and I do not accept her evidence.
+56. Apart from the aforesaid, Mr Kau also said that Mr Ng had told him that the transparent coating had been at the Flat Roof since the purchase of Flat 4A. Again, this material information was not mentioned in the joint expert report or in Mr Kau's 1st expert export. I do not accept the veracity of such evidence in light of the above analysis. Again, if such information were true, Mr Ng should be arranged to give evidence on such material matter by way of witness statement. The failure for him to do so in the circumstances would just add to the incredibility of such transparent coating being there at the Flat Roof before the 1st ponding test was conducted.
+57. In light of the aforesaid, I would also draw adverse inference against the defendant on this matter under the circumstances of this case. In particular, Mr Ng is supposed to be in the best position to give evidence on such material issue given his role and involvement in this case. On the other hand, according to the defendant, she was unable to give any or any helpful evidence on such matter at all. It would thus be natural and reasonable to expect Mr Ng to be called. And yet no explanation was given as to why Mr Ng was not arranged to give evidence on such important matter. I am satisfied that on the evidence and circumstances before me, it is likely out of fear that facts unfavourable to the defendant may be exposed so that Mr Ng was not called. If he was called, he would be subject to cross-examination and as pointed out above, the defendant cannot really grapple with the 1st ponding test result, or satisfactorily explain if some intervening act was not done to the Flat Roof why the colour dye once appeared at the ceiling after the 1st ponding test would stop to reappear in the subsequent ponding tests. (see: Hong Kong and Shanghai Banking Corp v Chan Yiu Wah & Another [1988] 1 HKLR 457 
+, per Fuad JA (as His Lordship then was) at p 467B-G.)
+58. In these circumstances and after carefully considering the evidence of this case in their totality (including those to be discussed in paras 89 to 117 below as to the various other possible sources of water seepage), I find that there was in fact no such waterproofing coating (as observed by Mr Kau on 30 June 2015 or by both experts at the joint inspection) over the floor tiles at the elevated floor surface when the 1st ponding test was conducted. I would draw the reasonable inference that secondary waterproofing work as suggested by Mr Hau was indeed carried out at the Flat Roof at some point(s) of time after the 1st ponding test. Apart from that, I would also draw the reasonable inference that such secondary waterproofing work was done with the knowledge and consent of the defendant through Mr Ng (being her agent at all material times for handling this water seepage case) under the circumstances of this case in light of my above analysis. Such secondary waterproofing work could prevent colour dye from re-surfacing on the ceiling of Office 3A in the two subsequent ponding tests conducted at the Flat Roof.
+59. Having said that, I nonetheless find that such secondary waterproofing work was only of limited effect and could not fully prevent water from seeping down to the unit below after a certain period of time. In this regard, Mr Hau testified at trial by describing the plastic transparent layer found on the Flat Roof as a 'raincoat', which serves certain waterproofing function and could reduce the quantity of water travelling downward through the Flat Roof possibly up to 80%. Under cross-examination, Mr Kau also agreed that there does exist a method of painting layer of PU/plastic to temporarily improve the waterproofing function on a surface. Mr Kau said although there was certain waterproofing function of such coating, he would not recommend such method as a proper waterproofing layer as such material is not 100% waterproof.
+
+The defendant’s submission on the secondary waterproofing layer
+
+60. Mr Ho submits that since the secondary waterproofing layer as described by Mr Hau was found partially floating on the water when the experts conducted the 3rd ponding test at the joint inspection, it could not serve the function of waterproofing. This also seems to be Mr Kau's view as stated in the joint expert report. (see: para 46 above)
+
+Observation in relation to the ‘floating material’
+
+61. But when one examines the evidence closely, it is unclear as to the actual extent of such waterproofing layer being found floating on the water. When Mr Kau was asked about such matter, he referred this court to some individual small photos as contained in the joint expert report (taken at the Flat Roof during the ponding test). But due to the poor quality of color printing, one cannot simply tell from those photos the exact location of such 'floating layer', let alone its extent. According to Mr Kau's own testimony, he described that he saw some pieces of thin transparent layers floating on the water. Yet, in the photo he later referred this court to, only a small part of such layer can be seen peeled off along the edge of a floor tile at the location just next to the doorway (leading from Flat 4A's residential area to the Flat Roof). 45 Such location was nearly a full length of the Flat Roof away from Area 3 in Zone A (where the florescent dye was once found). This court's attention was not drawn to any other photos that can depict any other part of waterproofing layer found peeled off from the other floor tiles after the 3rd ponding test.
+62. On the evidence before me, the experts did not appear to have conducted thorough inspection with the floor surface of the Flat Roof to check which other part(s) of the floor surface actually had the waterproofing coating peeled off from it. Neither was there evidence as to how the secondary waterproofing coating was applied onto the floor tiles, and in particular for how many times or with how many layers. One would recall that according to Mr Kau, waterproofing coating could be created by way of painting a layer to improve the waterproofing function of a surface. (see: para 59 above)
+63. In light of the aforesaid and after carefully considering all the evidence as a whole, I am satisfied that the secondary waterproofing work carried out at the Flat Roof was indeed taking effect during the 3rd ponding test.
+64. In particular, firstly, the relatively stable MC readings taken of the affected areas of the ceiling on the two days of the joint inspection lend support to the above observation.
+65. Secondly, the mere phenomenon of some pieces of thin transparent layers (of unknown number or size) or a waterproofing layer (again of unknown size or extent) as described by the experts cannot in my view be sufficient to counter the 1st ponding test result with florescent dye reappearing at the ceiling in the circumstances of this case. In my view, the 1st ponding test result can quite conclusively show that: without some secondary waterproofing work subsequently performed at the Flat Roof which was taking effect at the elevated floor surface during the 2nd and 3rd ponding tests, it is unlikely that no dye particles would reappear at the same location of Area A3 when the same kind of ponding test was being conducted as in the previous two occasions. Especially, Mr Kau testified that according to his observation at the site, he saw no sign of any intrusive work done to the flooring of the Flat Roof.
+
+Observation in relation to the high MC readings taken on the two days of joint inspection
+
+66. As regards to the high MC readings for the affected areas of the ceiling at Zone A (in particular Area A3), Zone B and Zone C taken on the two days of joint inspection, I think such water seepage could still be sourced from the Flat Roof despite the presence of the secondary waterproofing work functioning at the elevated floor surface to such extent to prevent colour dye from reappearing at the ceiling of Office 3A at the time.
+67. To begin with, it was both experts' testimony that the secondary waterproofing coating was only of limited effect and could not fully prevent water from seeping downwards. (see: para 59 above)
+68. Although the water managed to seep down with the presence of the secondary waterproofing coating, the quantity at the time of the 3rd ponding test may understandably be much more limited as compared with a situation without. Nonetheless, water seepage at the ceiling sourced from the Flat Roof could still be very significant before such test was conducted in light of the following factors.
+69. First, large quantity of water sourced from rainwater would frequently fall onto the Flat Roof during the rainy reason. The joint inspection took place in the month of July, which falls within a rainy season too. The joint expert report recorded that 7 out of 13 days 46 before 11 July 2015 were rainy days according to the Hong Kong Observatory records. 47 And the relative humidity of both days of joint inspection was also quite high: 59%-88% on the 1st day, and 61%-87% on the 2nd day. The MC readings taken by the Joint Office's officer at the affected areas of the ceiling at Zone A, Zone B and Zone C 48 on 22 August 2013 and 19 August 2014 in the two previous years (similarly falling in rainy reason) were equally high.
+70. In this light, the high MC readings found on those two days of joint inspection is explicable by the gradual seeping of rainwater fallen onto the Flat Roof and then down to the ceiling of Office 3A over a period of time before the 3rd ponding test was performed.
+71. Second, the defendant admitted that there were incidents of flooding at the Flat Roof during extreme weather due to the blockage to the drainage outlet. As revealed from the relevant photos, the opening of the drainage outlet was narrow 49, and there was only one drainage outlet for the entire Flat Roof. 50 Given such a design of drainage system for the Flat Roof, it accords with common sense that water retained or accumulated at the elevated floor surface sourced from heavy rainfall in extreme weather may take longer time to be drained away and this could also in my view aggravate the water seepage problem.
+72. Third, apart from rainwater being a source of water for seeping downwards to the unit below, there was also likely man-made source contributing to the water seepage at the material times. During cross-examination, the defendant gave evidence that the basin at the Flat Roof would usually be connected with water hose (水喉) 51 by the domestic helper for watering plants at the Flat Roof. As can be seen from the photos produced in the hearing bundles, the basin was installed with a water supply 52 and many pots of plants large and small had been placed surrounding the three sides of the Flat Roof 53, and understandably water may unavoidably splash over the floor surface when the domestic helper was watering the plants in such circumstances. The defendant also gave evidence that the domestic helper would use the water from the said basin to wash the floor surface at the Flat Roof on and off.
+73. The aforesaid aside, there also exists another real possible contribution to the high MC reading taken in the joint inspection: water may also source from the leakage of some part of the drainage pipe as connected with the basin at the Flat Roof which passed through a passage inside the flooring at the Flat Roof (see: paras 26 to 32 above). Although by the first day of joint inspection (ie 11 July 2015) such damage was fixed, the defendant has produced no evidence as to when and how it was fixed. (see: further discussion in detail at paras 89-95 below) Having said that, such possible source was only in my view a contributory one. And even without it, I would still be satisfied that the high MC readings taken at the time of joint inspection can be properly accounted for by rainwater seeped from the elevated floor surface of the Flat Roof for reasons explained above.
+
+Observation over no dye particles reappeared at the ceiling
+
+74. As regards to the phenomenon of no dye particles being found on the ceiling after the 3rd ponding test, this can also sit well with my reasoning at paras 66 to 73 above. Because the secondary waterproofing work functioning at the 3rd ponding test could retain most of the colour water at the Flat Roof, but leaving only limited amount travelling downwards through the Flat Roof. This is supported by the relatively stable MC readings taken at the ceiling of Office 3A before and after the 3rd ponding test.
+75. With much lesser quantity of colour water that managed to travel downwards at the 3rd ponding test (as compared with the case of the 1st ponding test without the secondary waterproofing coating), one can then readily appreciate Mr Hau's explanation that the dye particles could be trapped within the floor slab on its path of seeping downwards.
+76. In my judgment, such explanation is plausible. First, such limited amount of colour water (sourced from the 3rd ponding test) would need to seep through not just one but two concrete floor slabs - first the elevated concrete flooring before reaching the original floor surface with the original waterproofing membrane installed, and then the dividing concrete floor slab.
+77. Second, during cross-examination Mr Kau also agreed that the molecule size of the dye used would affect the result as to whether dye particles would reappear in the ceiling. He said that the molecule size of florescent dye is 10 times smaller that traditional dye powder, and he agreed that they did not use florescent dye for the ponding test, and there is no clear evidence before this court as to what type of colour dye powder was actually used in the 3rd ponding test. Mr Kau agreed that if the traditional colour dye was indeed used, the molecule size would be bigger and they may be trapped in the floor slab, thereby resulting in no dye particles reappearing at the ceiling affected by the water seepage.
+
+Water seepage continued after the 3rd ponding test
+
+78. The plaintiff and Mr Wong both testified that subsequent to the 3rd ponding test, water seepage persisted and there was dripping found at Area A3 of the ceiling during the rainy days as in the past. It is observed that their evidence in this respect was unshaken after cross-examination. I find such evidence credible in the circumstances of this case and accept the same. To a certain extent, their evidence also support both experts' view that any secondary waterproofing work done at the Flat Roof before the 3rd ponding test would only be of limited effect and could not fully prevent water from seeping down to the unit below.
+79. Mr Ho tried to query the evidence of Mr Wong and the plaintiff by suggesting that if there was indeed water dripping at Area A3, the yellow stickers at different MC reading check points 54 at that area should have already fallen down by the time the photo was taken of such area by Mr Wong on 4 August 2016.
+80. However, when one compares the photo taken of Area A3 at page C3/858-18 with another photo of the same location (but taken from a different angle) which can be found at the following page C3/858-19, the yellow sticker originally stuck at checkpoint #11 had indeed been fallen off.
+81. And, Miss Tsang also reminded this court of the clear evidence of dripping at Area A3 as shown by the photos taken by HKBI on 13 November 2013 55 , and another photo (ie Court Exhibit P2) taken by Mr Hau at the same area on 15 August 2015. These two photos would put the matter of dripping beyond doubt.
+82. In fact, this Area A3 where dripping was found to have occurred is the very same area where the florescent dye reappeared after the 1st ponding test. After carefully comparing all the data from all the available MC records, be they taken by the officers of the Joint Office, their appointed consultants or the experts in this case at different points of time, I observe that the MC readings at such area or its vicinity have been persistently high, save and except for the MC readings taken by Prudential Surveyors on two days only, viz 5 December 2014 and 10 February 2015, which were influenced by the presence of the secondary waterproofing work according to my above findings.
+83. Again, after the 3rd ponding test, the MC readings taken at the same area by the Joint Office on 7 October 2015 remained to be extremely high 56 .
+
+The waterproofing membrane at the original floor surface was defective
+
+84. As pointed out above, the elevated concrete flooring was erected on top of the original floor surface. In my view, a reasonable inference can also be drawn that the waterproofing membrane at the original floor surface has likely been defective at all material times, otherwise the coloured water at the 1st ponding test could not get infiltrated through the floor slab dividing the Flat Roof and Office 3A down to the latter's ceiling.
+85. There is a dispute between both parties as to whether such waterproofing membrane in fact existed or not. Miss Tsang submitted that there is no clear evidence in respect of this matter coming from the experts, whereas Mr Ho refers this court to an approved floor plan retrieved from the Buildings Department (as annexed in the joint expert report) 57 suggesting the existence of waterproofing membrane at the original floor surface. In such floor plan, there was an annotation pointing to the floor surface of the Flat Roof stating that: 'One course of CEM. Tile in CEM MOR with 3-PLY BIT FELT on CEM SCREEDING'. The above description suggests that a waterproofing membrane made of 3-ply bitumen felt is present according to the original building design of the Flat Roof as approved by the Buildings Department. Mr Ho also refers this court to IO of Hong Leong Leong Industrial Complex v HL Resources Ltd [2009] 4 HKLRD 692 
+, where Sakhrani J at para 32 has considered similarly described materials as constituting 'waterproofing layer' in that case.
+86. On balance of probabilities, I am satisfied that there is a waterproofing membrane at the original floor surface in light of the aforesaid evidence.
+87. However, speaking about the elevated floor surface, there is no or no clear evidence to show whether another waterproofing membrane was installed directly beneath the floor tiles at the elevated floor surface. The defendant had not been residing in Flat 4A, and she gave no evidence on this matter. She only testified that when her grandmother moved into Flat 4A, the Flat Roof was already erected with the elevated concrete flooring. As pointed out above, both experts admitted that they had not removed the floor tiles or carried out any intrusive test to examine the actual physical condition or composition of the elevated concrete flooring beneath the floor tiles. And for that reason, when both experts explained at trial what a waterproofing membrane is supposed to be composed of, they were giving such illustration on a hypothetical basis, rather than telling the court that there was actually a waterproofing layer of such composition beneath the floor tiles at the elevated floor surface.
+88. In light of the aforesaid and upon survey of all the materials before me, I find no evidence of the actual existence of any waterproofing membrane installed beneath the floor tiles at the elevated floor surface. I am not satisfied that there is any or sufficient evidence before this court to infer the existence of such waterproofing membrane at the elevated floor surface either.
+
+Failure of the drainage pipe as connected with the basin at the Flat Roof
+
+89. In my view, the positive result of CWT conducted on 22 April 2015 is strong evidence showing that leakage at the drain pipe (beneath the elevated floor surface) connected with the basin at the Flat Roof had once occurred. The dye used in that CWT was 'sulforhodamine B' (abbreviated with 'AR' in the report) 58 . Such dye was found at the affected area of the ceiling of Office 3A on 11 May 2015, and the sample collected from Office 3A was subsequently verified by the government chemist to contain the same chemical 59 . Owing to such finding, the 2nd nuisance notice was issued. (see: paras 26 to 30 above)
+90. A sketch plan of the Flat Roof prepared by the Joint Office for the CWT conducted on 22 April 2015 showing the relative positions of the basin and the drainage outlet is attached to this judgment as " Annexure 3 " 60 .
+91. When it came to the first day of the joint inspection (11 July 2015), the basin was found to have been disconnected with the drainage pipe. However, there is no evidence as to when such disconnection actually took place. It had to be reconnected by the experts to proceed with the colour water test (with blue colour dye used) to test whether there was any leakage at such drainage pipe, and the test result was negative this time.
+92. By looking at the evidence as a whole, I am satisfied that there had indeed been water leakage from the drainage pipe as connected with the basin leading all the way through the elevated concrete flooring to the drainage outlet at the Flat Roof 61 (as identified in the 2nd nuisance notice) somewhere between 9 March 2015 and 11 July 2015. However, such leakage had been fixed before the colour water test was conducted for the basin on 11 July 2015.
+93. In assessing the possible period of such leakage as abovementioned, this court have taken into account the following matters: First, there had been an earlier CWT conducted on the basin on 11 September 2013 62 , and the dye used on that occasion was 'Brilliant Scarlet 4R' (with corresponding abbreviation of 'BS'), the sample collected on 4 October 2013 from the ceiling of Office 3A after such test did not contain any such dye. 63 Given such negative test result, any leakage from the drainage pipe as connected with the basin at the Flat Roof before 4 October 2013 is unlikely.
+94. Second, there was a significant drop in MC readings in the affected areas of the ceiling taken on 5 December 2014 and all the corresponding MC readings for 10 February 2015 dropped further to below 35% 64 . (see: para 50 above) Such low level of readings do not sit well with any leakage at the drainage pipe occurring at that period of time. However, in contrast with these two sets of readings, there was resurgence in MC readings taken on 9 March 2015 65 and 11 May 2015 66 by the Joint Office's officer. Given such a pattern of MC readings and having particular regard to the close proximity in time between these latter two days and the CWT conducted by the Joint Officer's officer on 22 April 2015 which yielded positive result, I am satisfied that the high MC readings taken on 9 March 2015 and 11 May 2015 can be contributed by the water leakage at the drainage pipe connected with the basin. Further, since the defendant was only notified of the CWT result on 15 June 2015, it is unlikely that any repair or replacement work to fix such leakage problem was done before 15 June 2015. (see also: para 30 above)
+95. For completeness sake, I should also mention that Mr Kau stated at para 9.6 of the joint expert report that Mr Ng told him that he had not arranged for repair of the drainage pipe for the basin at the time of his submission of first individual report (which was dated 25 August 2015) 67 . Again, for similar reason as explained in para 56 above, the defendant should have but fail to arrange Mr Ng to prepare a witness statement to properly cover such material matter. No explanation was offered by the defendant why this could not have been done. Again, the plaintiff was deprived of the chance to cross-examine Mr Ng to test the veracity of such piece of information. I would not attach any weight to such hearsay as given by Mr Kau in the circumstances. In particular, it would be repugnant to common sense that the said drain pipe leakage (as clearly supported by the result of CWT conducted on 22 April 2015) could rectify by itself without any intervening act. Further, I have heard no submission from Mr Ho to address on any other possible cause for the presence of the 'sulforhodamine B' found in the ceiling of Office 3A if it was not sourced from the leakage of the drainage pipe as connected with the basin at the Flat Roof.
+
+The gap between the external walls of the Building and the adjacent building
+
+96. The subject building is situated at Nos 21-23 Ko Shing Street. Mr Kau relied on a photo 68 taken with infrared-thermos scanner of a localized area at a wall of Office 3A, behind which is the external wall facing the adjacent building situated at Nos 25-29 Ko Shing Street. Such photo, according to Mr Kau, showed relatively low temperature (and thus might suggest some dampness) at its lower part near the floor skirting. Mr Kau said such photo was taken during his first inspection of Office 3A on 30 June 2015 in the absence of Mr Hau. Mr Kau also mentioned at trial that he had taken MC reading at such area but without telling this court what such figure is. Such MC reading was not mentioned in his first report or the joint expert report either.
+97. At trial, Mr Kau only gave a theory by referring to a sketch attached to the joint expert report 69. He said water could seep along the 'expansion joint' between the two buildings and then seeped into Office 3A through any 'defects' on the external wall of the subject building. I see no concrete evidence of the alleged 'expansion joint'. More importantly, the fact remains there is no evidence before this court of any crack or other defects of the external wall of the subject building facing the adjacent building. Mr Kau admitted that no test had ever been conducted by the experts to verify whether his hypothesized defects really exist or not. In these circumstances, Mr Kau's theory is without any proper empirical foundation.
+98. On the other hand, Mr Hau testified at trial that there is a gap between the two buildings. 70 Mr Hau further said that in his view any water from the adjacent building would flow down alongside its own external wall surface to the ground level, rather than going to the external wall of the subject building.
+99. Apart from the aforesaid, such limited area on the aforesaid wall of Office 3A was never mentioned as one of the affected areas of water seepage in any of the Joint Office's records. The infrared-thermos photo does not indicate that the surface of the middle or upper part of such wall was also of relatively low temperature. In this light, it is difficult to conceive how such limited area of 'dampness' (without knowing its MC reading) as close to the floor level would have anything to do with the seepage found at the ceiling of Office 3A.
+100. Given such state and quality of evidence before me, I do not find the seepage at the ceiling was sourced from the adjacent building situated at Nos 25-29 Ko Shing Street or from the external wall of the subject building.
+
+Failure of the waterproofing layer at Flat 4B’s flat roof?
+
+101. Again, Mr Kau merely postulated a theory of possible path of seepage sourced from the flat roof of Flat 4B ("4B flat roof") by illustration through a sketch attached to the joint expert report 71 . Such theory presupposed that the waterproofing layer at 4B flat roof was defective.
+
+102. Yet, the experts have not ever entered into Flat 4B, let alone conducted any ponding test or other test or inspection of any kind to verify whether the waterproofing layer at 4B flat roof was defective or not. There is also no evidence showing how the waterproofing system of 4B flat roof has been maintained. Mr Kau only gave the following observation about 4B flat roof by saying in the joint expert report that:- "I noticed that the level of the flat roof of both Flat A & Flat B, 4/F were filled up to flush the inside of the flat. According to record plan of Building Department, the flat roof should be 150mm lower than the inside of the flat. To my observation, the level of the flat roof of Flat B was actually higher than Flat A. I have prepared a sketch as attached in Appendix IV-A, page 2 to illustrate the possible water path."
+
+
+103. In these circumstances, I am not satisfied there is any evidence of defect in the waterproofing membrane installed at 4B flat roof 72 . Dr Kau's theory as to the possible source of seepage from 4B flat roof is again without any empirical foundation and unsupported by any test. It is a just sheer speculation. I reject such theory and do not find the seepage occurred at the ceiling of Office 3A was sourced from 4B flat roof.
+
+Condensation water sourced from Office 3B?
+
+104. It is not disputed that Office 3B (ie the unit adjacent to Office 3A) and the flat immediately below Flat 3A were both used as refrigerated warehouse. 73 When part of the drywall 74 of Office 3A was partially broken open on 13 July 2015, colourless water was found on the floor level within the narrow space between the drywall and the wall behind dividing Office 3A and Office 3B ("the dividing wall"). According to Mr Hau, the depth of water found within that space was about a HK$5 coin thick.
+105. Since the water found there was colourless, both parties agreed that such water was not sourced from the 3rd ponding test or any prior ponding tests.
+106. Rather, the debate on this matter focused on whether the water found in such location was actually originated from a source, which was also responsible for causing seepage found at different affected areas at Office 3A's ceiling. Mr Ho submits that it is and Office 3B is such a source, whereas Miss Tsang submits the otherwise.
+107. Given the undisputed physical setting of Office 3A as mentioned in para 104 above, there is a real possibility that the colourless water at the floor level was condensed from the humid air (inside the confined space between the drywall and the dividing wall) that got into contact with the cool surface of Office 3A's floor slab and/or the dividing wall.
+108. Miss Tsang however rightly pointed out that Mr Kau agreed when the two openings 75 were made at the drywall (at B4 Wall location) 76 , the dividing wall behind the upper opening near the ceiling was much drier than its bottom part as close to the location where the accumulation of colourless water was found. Further, high MC readings at different checkpoints (ie over 35%) found on 'B4 Wall' on both days of joint inspection were concentrated at its bottom part only 77 while the area near the ceiling or in the middle part of 'B4 Wall' are all of normal moisture content, and in fact well below 35% 78 .
+109. Such distribution of moisture content at 'B4 Wall' show that the colourless water found at the floor level could not possibly be responsible for the seepage occurred at the ceiling.
+110. In these circumstances, I find it unlikely that the colourless water found at the floor level within such confined space or that any condensation effect produced by the unit immediately below Office 3A would account for the seepage at the ceiling.
+111. How about Office 3B? There is no or no clear evidence of any condensation water found at the dividing wall. More importantly, it is difficult to conceive how any condensation water originated from the dividing wall surface can account for such extensive affected areas of seepage at three different zones of the ceiling 79 and many affected areas are far away from the dividing wall. This is also Mr Hau's view as expressed at para 8.8 of the joint expert report, which I find his reasoning to be sound and reasonable.
+112. In response to such view of Mr Hau, Mr Kau sought to modify his condensation theory at trial by suggesting steel bars within the concrete ceiling can serve as good conductor to spread the low temperature to other areas of the ceiling; and moisture could thus appear in the middle of the ceiling where there was 'thin concrete cover'.
+113. Again, this is another sheer speculation of Mr Kau, and such theory has never been put to tests. In particular, there is no evidence as to how deep the steel bars were embedded within the concrete ceiling and nobody knows where 'the thin concrete cover' Mr Kau was referring to. Mr Kau has never conducted any intrusive test to check the temperature of the steel bar or otherwise to verify his theory. Miss Tsang also pointed out that such modified theory was not even mentioned in the joint expert report and Mr Hau had no chance to comment on the same.
+114. Apart from the aforesaid, the modified version of Mr Kau's condensation theory also seems inherently improbable. Although Mr Kau tried to postulate that the 'steel bars' could serve as good conductor and provide 'cold surface' for condensation with the moisture, one would rhetorically ask where came such a huge quantities of moisture as revealed by the MC records taken by the Joint Office's officers and different professionals since August 2013 at different periods of time.
+115. Mr Kau's such condensation theory also fails to account for the accumulation of water at different levels of concrete beyond the ceiling surface as revealed from the results of the infrared-thermos scan taken by HKBI over Zone A and Zone C 80 of the ceiling on 13 November 2013. Such scan results show uneven and irregular distribution of temperature at different depths of the concrete ceiling 81 suggesting presence of water up to the level of 110 mm above the ceiling surface.
+116. After considering all the evidence before me, I am not satisfied that the water seepage found at the ceiling of Office 3A was sourced from any condensation water owing to the coldness created by the dividing wall or otherwise sourced from Office 3B as Mr Kau postulated.
+
+Two holes appeared on the fence wall (dividing 4A flat roof and 4B flat roof)
+
+117. Although both experts share the same view that the openings (facing the Flat Roof) left behind by the removal of some lamps fixed on the fence wall dividing 4A flat roof and 4B flat roof could be a possible source of seepage, such possible source is not verified by any test or inspection. Further, Mr Kau also added a gloss in the joint expert report that this may be a possible source 'depending on the routing of the conduits (for the wirings) embedded inside the divider wall' . 82 In these circumstances, this court cannot be satisfied on balance of probabilities that such postulated possible source is indeed responsible for the seepage found at the ceiling of Office 3A.
+
+Findings on the source of seepage
+
+118. In the premises and having fully considered the evidence in their totality, I find that, on balance of probabilities, the water seepage at all the affected areas of the ceiling (including beam areas) at Zone A, Zone B and Zone C all have been sourced from the Flat Roof. I also find that the water seepage found at the ceiling of Office 3A since the plaintiff moved into Office 3A in June 2015 has been sourced from the Flat Roof.
+119. As for the high moisture content found at the bottom part of B4 Wall, on balance, I find that that should be caused by the colourless water accumulated at the floor level within the confined space between the drywall and the dividing wall instead.
+120. I find that the source of water for the seepage at the ceiling was mainly originated from rainwater in the particular light that dripping was found to have occurred at Area A3 of Zone A of the ceiling during rainy days, and that largely speaking the MC readings taken at all three zones on rainy days over these years have been consistently high.
+121. Without prejudice to anything aforesaid or the generality of the foregoing, it is observed that florescent dye was found to have concentrated at Area A3 and in its vicinity after the 1st ponding test, and this tends to show that water getting through the defective parts of the waterproofing membrane at the original floor surface may find it most easy to travel to Area A3 of Zone A. That said, it does not necessarily mean that water sourced from the Flat Roof cannot through other water paths seep, infiltrate or percolate to other areas of the concrete slab such as Zone B and Zone C as well, especially after the process of seepage has taken place over a prolonged period during the rainy seasons.
+122. As the learned author of Building Management in Hong Kong, 3rd ed, neatly put at para 7.30 of the text that 'water is notoriously able to find conduits to run along and to penetrate weak points some distance from its origin.' Not only that this accords with common sense, but is also fully supported by Mr Hau's expert opinion as given at trial.
+123. According to Mr Hau's view, which I accept, water after seeping down to the floor slab through the defective parts of the waterproofing membrane, the liquid water as well as the moisture within the concrete floor slab could infiltrate to the other areas through the other weak points of the concrete slab. Such view can also help to account for the phenomenon as to why florescent dye only appeared at Area 3 or in its vicinity but not in other zones, and yet the MC readings at the relevant checkpoints at Zone A and Zone B are still found to be above 90% and 70% respectively on 22 January 2014 even the weather was noted to be sunny on that day.
+124. In fact, when questioning Mr Hau about his understanding as to how water would travel within the floor slab, Mr Ho also acknowledged that the locations where the relevant waterproofing membrane were damaged (and I would add the extent of such damage as well) would also affect the final locations of seepage as found on the ceiling.
+125. Further, upon the survey of the MC Records taken during the rainy seasons, there is also a common pattern that the readings taken at the affected areas of the ceiling at all three zones, ie Zone A, Zone B and Zone C, are found to be consistently high. For MC readings taken on 22 August 2013 and 19 August 2014, they are roughly in the range of 70% to 90%. 83 On the two days of joint inspection in July 2015, MC readings taken in respect of the affected areas at the ceiling of these three zones are likewise high.
+126. Apart from the rainwater, I also found that the leakage at the drainage pipe connected with the basin at the Flat Roof could also contribute to the seepage found at the affected areas of the ceiling as observed by the Joint Officer's office during the period somewhere between 9 March 2015 and 11 July 2015 for reasons as explained in paras 89 to 95 above.
+127. As to the other possible sources as postulated by Mr Kau, they are sheer hypotheses only and have no or no proper empirical basis in support in light of my above analysis. On balance of probabilities, I do not find any of them to be a source for the water seepage found at the ceiling of Office 3A for reasons explained above.
+
+Issues on liability
+Breach of the DMC
+
+128. Mr Ho submits that since the waterproofing membrane at the original floor surface was a common part. Therefore, it is the incorporated owners' responsibility to maintain and repair such waterproofing membrane. As such, the defendant would not be responsible for the water seepage even if the water was indeed found be sourced from the Flat Roof.
+129. With respect, I cannot accept such submission. In my view, even if the waterproofing membrane at the original floor surface was a common part, the fact that the IO bears the responsibility to maintain the common part would not absolve the defendant's own legal responsibility as specified under the DMC (as mutually agreed among all the co-owners of the Building) not to cause nuisance or damage to the other unit owners.
+130. The authorities of Tai Fong Trade Ltd v The IO of Nos 167 & 169 Hoi Bun Road & Another 
+[2009] 2 HKC 399 
+, at paras 27, 46-48; Wing Ming Garment Factory Ltd v Wing Ming Industrial Centre [2014] 4 HKLRD 52 
+, at paras 95-98; 梁有勝 訴 馮源禧及另四人 LDBM 249/2000 
+, 16 July 2002 ("Leung Yau Shing") as cited by Mr Ho all concern water leakage cases which originated from the roof floor of the relevant building. The court's focus in those authorities was to determine whether the waterproofing membrane erected at the relevant roof floor's surface was a common part so as to decide whether the IO or the relevant roof floor owner should be held responsible for repairing the defective waterproofing maintenance in question.
+131. Whereas in this case, fundamentally speaking, the proper question to ask is: whether the defendant would be in breach of the DMC or otherwise liable under nuisance and/or negligence by knowingly 84 allow water seep through the elevated floor surface of the Flat Roof down to the ceiling of Office 3A at the material times in light of my above findings.
+132. Clause 18, 19(e) and 22 of the DMC governing the rights and obligations of the co-owners of the Building provide that:- 
+
+Clause 18
+
+18. " The expenses for keeping the interior of any unit of the said Building and all the fixtures and fittings therein or appertaining thereto (including the sanitary and water apparatus and fittings fire fighting equipment thereof and all the windows and doors and floor surface thereof) the windows and doors thereof in good and tenantable repair and condition shall be borne by the owner for the time being of that particular unit, who shall be responsible for and shall make good to any of the other owners of the said Lot any loss or damage which any of such owners may sustain or suffer due to the act default neglect or omission on his part in keeping in good and tenantable repair and condition and the interior of such unit of the said Building and all such fixtures and fittings as aforesaid ." (emphasis supplied)
+
+Clause 19(e)
+
+19. " Each of the owners and all persons deriving title through under or in trust for him as lessees mortgagees or otherwise howsoever shall and will at all times hereafter except as provided under Clause 25 hereof observe and perform the following covenants restrictions and stipulations as are applicable to his own unit of the said Building and shall and will indemnify and keep indemnified the other owners and all persons deriving title through under or in trust for them and each of them respectively from and against the non-observance and non-performance of such covenants restrictions and stipulations  
+
+
+
+(e) not to use the unit of the said Building to which he is entitled to the exclusive use occupation and enjoyment or any part thereof  for any offensive trade or business or do or cause or permit or suffer to be done any act or thing in such unit which may create unnecessary noise or may be or become a nuisance or annoyance to or cause damage to the other owners and occupiers for the time being of the said Building ."
+
+
+
+Clause 22
+
+22. " The owners for the time being entitled to the exclusive use occupation and enjoyment of the roof (or any portion thereof) and the flat roof:- 
+
+(a) shall not use or permit or suffer to be used the roof (or any portion thereof) or the flat roofs or in any way so as to cause nuisance or annoyance to the other owners or occupiers of the said Building; " (emphasis added)
+
+
+
+
+
+133. In this case, one has to be mindful of the salient fact that even if the IO of the Building has the duty to maintain and repair the waterproofing membrane at the Flat Roof, such duty is with respect to the waterproofing membrane at the original floor surface (which was defective according to my above finding). And yet, the IO would effectively be prevented from carrying out any repair to such waterproofing membrane as the access to the original floor surface has been fully obstructed by the elevated concrete flooring covering the entire Flat Roof. 85 It would thus seem impossible for such waterproofing membrane to get repaired or replaced without the removal of the elevated concrete flooring.
+134. Against such a special setting, and upon the reasonable construction of the aforesaid clauses in context against the whole DMC, I am clearly of the view that the defendant (as an individual owner of the Building) would owe a duty to the plaintiff (as another owner of the Building) under the DMC to keep the elevated floor surface of the Flat Roof watertight so as to prevent water on such floor surface (be it originated from the rainwater 86 or other sources such as from the acts of watering plants or washing the floor surface of the Flat Roof by the domestic helper) from seeping down to the ceiling of the unit below.
+135. Such construction would also accord with the purpose of the co-owners entering of the Building into the DMC where mutuality or reciprocity is one key underlying theme threading through their mutual rights and obligations for the sake of enabling them to properly use occupy and enjoy his or her own unit without undue or unreasonable interference caused or permitted by the other co-owner(s).
+136. I now turn to the individual relevant DMC clauses in question. Bearing the above DMC objective in mind and giving effect to the ordinary and natural meaning of Clause 19(e), I hold that the defendant has been in breach of such clause by adopting or otherwise continuing to permit the erection of the elevated flooring on top of the original floor surface effectively preventing the repair or replacement of the waterproofing membrane from being carried out, but at the same time allow water seeping down from the elevated floor surface to the ceiling of Office 3A occasioning damage to the same. In this case, I also find that the defendant actually knew of the seepage being sourced from her unit the latest by about 30 June 2014 after she had been notified by the Joint Office of the 1st ponding test result. 87 Though, it is my primary finding that defendant's constructive knowledge came earlier, ie by 31 March 2014. As for the further detailed discussion on the issue of knowledge, see paras 146, 208 to 220 and 226 below.
+137. Apart from Clause 19(e), I also for similar reason hold that the defendant has been in breach of Clause 22, which is even more directly applicable to the defendant, being the owner having the exclusive use occupation and enjoyment of the flat roof, who has undertaken not to use or permit or suffer to be used the flat roof in any way so as to cause nuisance or annoyance to the other owners of the Building.
+138. Further, the elevated flooring erected on top of the entire original floor surface of the Flat Roof takes up no less than half of the size of Flat 4A (as appeared from the approved layout plan) 88. I hold that such elevated flooring amounts to a 'fixture' to the interior of Flat 4A as referred to in Clause 18. I also hold that the defendant is in breach of Clause 18 owing to her default, neglect or omission to keep the elevated floor surface of such fixture watertight, thereby occasioning loss and damage to the plaintiff (being another unit owner) in light of my above findings.
+139. In the premises, I hold that the defendant is liable under the DMC to compensate the loss and damage suffered by the plaintiff as a result of her aforesaid breaches of the DMC covenants.
+140. For completeness sake, I should also mention that in Incorporated Owners of Hong Leong Industrial Complex & Another v HL Resources Ltd & Another [2014] 4 HKC 463 
+, the Court of Appeal made it clear that whether a waterproofing system was a common part of the building was a question of fact. 89 
+141. Under the circumstances of this case, it is unnecessary for me to find whether the waterproofing membrane at the original floor surface was a common part or not. This is because even assuming that it was, this would still not absolve the defendant from its DMC duty to the plaintiff as discussed above. As regards to the elevated floor surface, in light of my findings at paragraph 88 above, any kind of 'common part' argument of Mr Ho simply cannot get off the ground either since there is no evidence of the actual existence of any waterproofing membrane at the elevated floor surface. See: Keylight Holdings Ltd & Another v Shih Hua Min & Another HCMP 2382 of 2013 
+, 11 February 2014 90, per Lam VP at paras 13 and 14.
+
+Nuisance
+
+142. Cheung Sau Ling v Cheung Lai Chong CACV 268 of 1998 
+(9 April 1999) is the leading authority in Hong Kong in dealing with occurrences of water seepage in multi-storey buildings under the cause of action of nuisance. According to that Court of Appeal's decision, the defendant must be shown to have actual or constructive knowledge that the seepage of water originated from the defendant's premises in order to be liable for nuisance. In brief, 'constructive knowledge' here means what the defendant should have known with normal and reasonable diligence in the circumstances.
+143. In Cheung Sau Ling, Woo J (as His Lordship then was) at paras 26-28 of the judgment set out various possible scenarios which the defendant should be held liable for nuisance owing to water leaked or seeped from his unit to the unit of another owner of the building:- 
+
+26. " 漏水可能導致「滋擾」，而法律就這項目有很明確的規範。簡單地說，有以下幾種普遍情況:
+
+(1) 若漏水是在一處地方(包括樓宇單位)中發生，招致鄰舍(包括另一單位)損失時，而事源地方的戶主(是使用該地方的人，不一定需要是業主)明知漏水根源，他便是有意圖滋擾而須負法律責任。法律責任包括賠償及受禁制令禁制。
+
+(2) 若漏水不是事源地方戶主自己或自己應代為負責的人所招致，而他又不知道漏水已發生，他就不須對漏水所招致鄰舍的損失負責。
+
+(3) 若漏水不是事源地方戶主自己或自己應代為負責的人所招致，當他知道漏水源於他單位內，他須在無合理延誤下作出補救。否則，他須為該項漏水所招致鄰舍的損失負上法律責任。 
+
+(4) 以上三項中的「知道」，是指兩種情況:（a）是實質地知道，或（b）是在通常及合理謹慎下應可知道。故此，就算戶主實質上不知道漏水的存在，因為他不在事源地方，他也不能藉此推卸責任。他身為戶主，對自己使用的地方要負法律責任。若在通常的情況下戶主應可知道有關使用地方的情況，在法律上他就被當作知情。作為地方的戶主，他應對該地方作出合理謹慎的處理。故此，對該地方的情況而言，一切他應在合理謹慎下可知道的，法律也當他知道。
+
+(5) 第(2)和第(3)項所述的「戶主應代為負責的人」，是指一切戶主准許進入或使用戶主地方的人，包括他的家人、朋友、僱員和入內工作的人，但不包括未獲他或上述的人准許而進入地方的人。
+
+27. 在多層樓宇中的各單位業主及戶主的關係，多由大廈公契規限大廈公契多會就漏水的情況列出各單位戶主的相互權利和義務。有關人士，包括各單位業主及戶主，和法定業主會及大廈管理公司等的行為和權責，應按公契的條文處理。
+
+28. 在沒有公契規限的情況下，當有單位戶主發覺有水侵入他的單位而向其他單位的戶主求助尋找原因時，其他單位的戶主應以合作的態度，盡量於合理情況下加以協助。否則，可能引起紏紛，甚至訴訟。若查出漏水不是源於自己單位，亦應以合作的態度，盡快通知有水侵入的單位的戶主，使該戶主可作出相應的行動。若發現漏水源於自己單位或由自己單位的裝置(如破爛水喉等)所產生，則應從速採取補救步驟以杜絕漏水。否則可能要負上上列第(3)項情況的法律責任。" (emphasis added)
+
+
+
+
+144. Although in Cheung Sau Ling, the water seepage in question was not originated from rainwater but due to leakage of some water pipes fallen into disrepair at the defendant's premises, the principles on nuisance of water seepage as formulated by Woo J would appear to be of universal application in multi-storey building context.
+145. Born Chief v George Tsai [1996] 2 HKLRD 188 
+is another Court of Appeal case where the court held that an owner was responsible for water overflowing from its unit situated at the flat roof of the building, and then travelling down the staircase to the plaintiff's restaurant immediately below, thereby causing damage to the plaintiff's properties. The nuisance complained of was the defendant's omission or neglect to shut the sliding door of its unit thereby permitting the water to overflow to the unit below. The court held that the damage caused to the plaintiff's property by the escaping water is foreseeable in the circumstances and the defendant is liable for nuisance. It is worthy to note that in Born Chief the water overflown to the unit below was originated from a natural source, i.e. the heavy rainfall.
+146. The legal principles enunciated by the above two Court of Appeal cases are applicable here. In my view, so long as the defendant knew or ought to have known that the water seepage occurred at the Office 3A was sourced from the Flat Roof in the circumstances discussed above, she could still be held liable under the law of nuisance even though she has not committed any positive act herself to cause water seeping down from her premises to the unit below, or even the water was not originated from a man-made source 91 .
+147. The underlying legal base for holding the defendant liable for nuisance here is not because she herself was responsible for creating the nuisance. Rather, with respect to water seepage originated from a natural cause (ie rainwater here), the wrong lies in the defendant permitting such water seepage causing physical damage to her neighbour's property to continue despite her knowledge of its existence while she could have but failed to take reasonable steps in her circumstances to prevent water from seeping down to her neighbour's unit notwithstanding her premises was within her control and that she has the reasonable means and time to take steps to abate the nuisance.
+148. The aforesaid formulation of the defendant's duty under the law of nuisance from natural source if not already embraced in the legal principles expounded in Cheung Sau Ling and Born Chief, can in my respectful view, be a legitimate extension of the principles on nuisance decided in those two Hong Kong cases as supported by the following line of English authorities.
+149. In Sedleigh-Denfield v O' Callaghan [1940] AC 880 
+
+92, trespassers had interfered with the drainage system of the defendants' land causing water to overflow onto the plaintiff's land. The defendants were held liable: they were taken to have knowledge of the interference through one of their servants, but did nothing to remedy it. Viscount Maugham at pp 894-895 said:- "The statement that an occupier of land is liable for the continuance of a nuisance created by others, e.g., by trespassers, if he continues or adopts it — which seems to be agreed — throws little light on the matter, unless the words "continues or adopts" are defined. In my opinion an occupier of land "continues" a nuisance if with knowledge or presumed knowledge of its existence he fails to take any reasonable means to bring it to an end though with ample time to do so. He "adopts" it if he makes any use of the erection, building, bank or artificial contrivance which constitutes the nuisance. In these sentences I am not attempting exclusive definitions.
+
+My Lords, in the present case I am of opinion that the respondents both continued and adopted the nuisance. After the lapse of nearly three years they must be taken to have suffered the nuisance to continue; for they neglected to take the very simple step of placing a grid in the proper place which would have removed the danger to their neighbour's land. They adopted the nuisance for they continued during all that time to use the artificial contrivance of the conduit for the purpose of getting rid of water from their property without taking the proper means for rendering it safe." (emphasis added)
+
+150. At p 905, Lord Wright said:- "[I]f the defendant did not create the nuisance he must, if he is to be held responsible, have continued it, which I think means simply neglected to remedy it when he became or should have become aware of it"
+
+
+151. In Goldman v Hargrave [1967] AC 645 
+, the Privy Council held that the opinions of the House of Lords in Sedleigh-Denfield supported for the existence of a general duty upon occupiers in relation to hazards occurring on their land, whether natural or man-made (per Lord Wilberforce at pp 661G-662A).
+152. In Goldman v Hargrave, Lord Wilberforce expounded on the legal principles on the scope of such general duty (at pp 663-664) which was further elaborated by Megaw LJ in Leakey v National Trust [1980] 1 QB 485 
+at 524D-527D. In short, the duty is to do what is reasonable in the circumstances, and no more than what, if anything, is reasonable to prevent or minimize the known risk of danger or injury to one's neighbor or his property (per Megaw LJ at p 524E-F).
+153. In my judgment, the defendant here under the law of nuisance is required but failed to take reasonable steps under the circumstances of this case to make the elevated floor surface watertight so as to prevent water from seeping down from the Flat Roof to Office 3A given her knowledge of the subject nuisance in light of my above findings. As such, she is also liable to the plaintiff for nuisance.
+154. First, the defendant has undertaken under the DMC not to use or permit to be used the Flat Roof in such way to cause nuisance to other owners, and the other owners also undertake a reciprocal obligation towards her. Second, she has chosen to adopt the elevated flooring thereby effectively preventing the IO from carrying out any repair or replacement of the waterproofing membrane at the original floor surface. In such circumstances, if she chose to keep the elevated flooring as it is, it would obviously be reasonable for her to make the elevated floor surface waterproof by installing a proper and effective waterproofing membrane at such floor surface so as to prevent the water from seeping down to the unit below. There is nothing to suggest it would be unreasonable or difficult for her to do so in terms of means or time. No argument was in fact ventilated by Mr Ho along this line. In any event, I think the defendant's DMC obligation as discussed above would militate against any potential argument by the defendant in this respect.
+155. For completeness sake, this court is also satisfied that the defendant should be fully responsible for paying the financial costs for carrying such waterproofing work as mentioned in the preceding paragraph in light of her obligations under the DMC.
+156. Mr Ho cited a passage from Tai Fong Trade (at para 48) and argued that the defendant can do whatever she likes with the floor tiles at the floor surface of the Flat Roof (as its owner), and she has no duty to repair the waterproofing membrane even she knew that it was defective in preventing water from seeping down to Office 3A. The short answer is: this court is not ordering the defendant to remedy the defective waterproofing membrane (even assuming it was a common part) at the original floor surface . Rather, the defendant is obliged under the DMC as well as under the law of nuisance to keep the elevated floor surface waterproof so as to prevent water on the Flat Roof from seeping down to the unit below.
+157. Further, under the law of nuisance, the defendant's natural or ordinary use of the Flat Roof by itself could not amount to a legitimate excuse absolving her from liability given her knowledge of the nuisance in question which had been causing physical damage to her neighbour's property. (See: Leakey at p 522H-523B) In Megaw LJ's words: '  [I]t would not have been enough to provide a defence [to nuisance] that the user was 'natural', if the defendant had had knowledge of the danger.'
+
+158. After the closing submission, the defendant's solicitors by way of their letter dated 20 November 2016, brought to this court's attention a passage from Clerk & Lindsell on Torts, 21st ed, para 20-124 which the learned editors stated that 'the owner of land of a lower level cannot complain of water naturally flowing or percolating to his land from a higher level' . However, such remarks are not without qualification. The learned editors in the same paragraph went on to say:- "Nevertheless, the higher proprietor is liable if he deliberately drains his land onto his lower neighbour's land, and this appears to be so if the water is caused to flow in a more concentrated form than it naturally would as the result of the of artificial alterations in the levels and contours of the higher land. Nor is it permissible to drain water on to another's land so as to affect the quality as well as the quantity of the water in a way injurious to its use at its lower level. But if rainwater happens to overflow on to the claimant's land, as a result of an obstruction on the defendant's land, there will be no liability providing that the obstruction did not constitute non-natural user and that what occurred had not been foreseeable." (emphasis added)
+
+
+159. First, the rationale behind those principles on nuisance cited in para 20-124 are applicable to natural lands. They cannot in my view absolve the DMC obligations as undertaken by the defendant towards the other unit owners in a muti-storey building context as discussed above.
+160. Second, as gathered from the tenor of the above passage, if the upper land owner has contributed by way of its conduct to the nuisance occurred at the lower land, it could also be held liable. In the quoted example about water overflowing to the lower land, if the nuisance is foreseeable, the upper land owner is equally liable. This is consistent with Born Chief and Megaw's LJ's observation made in Leakey as quoted in para 157 above. In this case, given the defendant's knowledge of the nuisance and the presence of artificiality with respect to the elevated flooring as adopted by her at her own premises, I do not think the defendant could seek reliance on those principles cited at para 20-124 of Clerk & Lindsell on Torts to defend the cause of action of nuisance either.
+161. Lastly, Mr Ho pointed out in Leung Yau Shing (supra), the applicant also claimed that the 3rd to 5th respondents were using part of the roof floor which they owned but failed to carry out repair to the defective water proofing membrane at the roof floor. In that case, although the applicant has contended that the 3rd to 5th respondents were acting in breach of the DMC and committed nuisance as a result of the water seepage, that court did not find them liable.
+162. My observation in response is that: first, on the face of the judgment, it does not appear that the parties' legal representatives had drawn the court's attention in Leung Yau Shing to the line of authorities on nuisance or their legal implications as discussed in paras 142 to 152 above. And under the doctrine of stare decisis, Leung Yau Shing is not binding on this court.
+163. Second, the judgment of Leung Yau Shing has to be read in its own context. As pointed out in para 130 above, the court's focus in Leung Yau Shing was to decide whether the defective waterproofing membrane at the roof floor was common part or not. It appears that the applicant's contention on breach of DMC and nuisance was made solely for the purpose of holding the 3rd to 5th respondents liable for repairing the defective waterproofing membrane in question 93 . The learned Judge concluded that such waterproofing membrane was a common part, and the IO had the sole responsibility to repair the same under section 18 of the Building Management Ordinance (Cap.344). As such, the learned Judge refused to order the 3rd to 5th respondents to carry out any repair to the waterproofing membrane.
+164. Nonetheless, it is important to note that the applicant in Leung Yau Shing did not actually seek any damages as occasioned to his premises by the water seepage against any of the respondents (including the 3rd to 5th Respondents) under breach of DMC or the law of nuisance. 94 In my view, Leung Yau Shing is not an authority which the defendant can rely on to absolve her liability for damages caused to the plaintiff under her breach of DMC or under the law of nuisance.
+165. Factually speaking, as pointed out above, Leung Yau Shing is also materially distinguishable from the present one as there is no evidence of the actual existence of any waterproofing membrane at the elevated floor surface, and the keeping of the elevated flooring by the defendant as it is has also effectively prevented the defective waterproofing membrane at the original floor surface from getting repaired or replaced. (see: paras 88, 130 and 131, 153 and 154 above) In this light, the ratio of Leung Yau Shing would have no application here at any rate.
+166. In these circumstances, I am of the view that Leung Yau Shing would be of no assistance to defendant to defend any claim of damages under the breach of the DMC or nuisance in this case. Likewise, the defendant cannot gain any mileage out of such authority with the view to absolve her liability to make the elevated floor surface watertight so as to abate the subject nuisance of water seepage.
+
+Negligence
+
+167. My above conclusions on the defendant's breach of the DMC covenants and her liability under nuisance are already sufficient to dispose the question of liability.
+168. However, for completeness sake, since negligence was also pleaded as a cause of action against the defendant, I should also express my view on the same.
+169. In the circumstances of this case, I hold that it is just fair and reasonable to impose a common law duty upon the defendant to keep the elevated flooring at the Flat Roof (as built by her predecessor and adopted by her) in proper repair and condition so as not to allow water (be it sourced from rainwater or otherwise) seeping through its elevated floor surface down to and damaging the ceiling of Office 3A (her neighbour's property immediately below the Flat Roof) while knowing or ought to be knowing of such seepage and that the waterproofing membrane at the original floor surface had already become defective, and yet the presence of the elevated flooring as adopted by her has been preventing such waterproofing membrane from getting repaired or replaced.
+170. I also hold that the kind of harm done to the ceiling of her neighbour's property by water seeping down from the elevated floor surface of the Flat Roof is clearly foreseeable to the defendant as a result of her failure to take reasonable steps to make the elevated floor surface watertight. (see: Born Chief (supra), at p 191F-H; Lam Kit Yee v Lam Shuk Lam & Another DCCJ 3115 of 2011 
+(10 March 2017), per DDCJ Lawrence Ng, at para 88)
+171. Thus, I also hold the defendant liable to the plaintiff under negligence.
+
+Any contributory fault on the plaintiff’s part?
+
+172. Para 8 of the Re-amended Defence (and further particularised by way of paras (c) and (d) of the defendant's Voluntary Particulars) pleaded that the water seepage was caused or contributed by the faults or omissions on the part of the plaintiff or her predecessor-in-title. The defendant contends that the renovation at Office 3A has created excessive vibration, and as a result cracks appeared at the ceiling of Flat 4A. Apart from that, the defendant also contends that Office 3A was formerly used as refrigerated warehouse for many years and as such it had been kept in cold and damp condition for a long period of time. The plaintiff's predecessor failed to maintain Office 3A in good repair and condition.
+173. In my view, these contentions are not borne out by evidence in this case. The defendant's counsel did not even address them in the defendant's opening or closing submissions. At the trial hearing, Mr Ho also fairly indicated to this court that he was not taking issues on those matters. In these circumstances, I am not satisfied that there is any contributory fault on the plaintiff's part.
+
+Issues on quantum and reliefs
+Reinstatement costs of the ceiling
+
+174. At trial, Mr Ho on the defendant's behalf conceded that so long as this court finds the seepage at any part of the ceiling was caused by water sourced from the Flat Roof, the defendant would be fully responsible for the reinstatement costs of all the affected areas at the agreed costs of HK$48,300, which is the costs as estimated by both experts for reinstating all the affected areas of the ceiling of Office 3A.
+175. In light of my above finding that the seepage at the affected areas of the ceiling at Zone A, Zone B and Zone C are all sourced from the Flat Roof, I hold that the defendant is liable to compensate the plaintiff for the costs in reinstating the ceiling of Office 3A in the sum of HK$48,300 under the aforesaid three causes of action.
+
+Alternative accommodation costs
+
+176. This head of claim is hotly contested between the parties. The plaintiff contends that due to the continuing water seepage at Office 3A as sourced from the Flat Roof, the plaintiff could not move into Office 3A to run her business. As such, she had to continue to rent the Shop. As submitted by Miss Tsang, the plaintiff claims the costs for renting such alternative business premises from 1 July 2013 up to the date of trial. 95 
+177. On the other hand, Mr Ho on the defendant's behalf put forward three contentions to counter such claim by saying that:- 
+
+(1) The water seepage was not serious enough to prevent the plaintiff from using Office 3A to run her business ("Contention 1"); or alternatively, since there were other sources of water seepage, and so long as the Flat 4A was not the sole source of seepage, the plaintiff is only entitled to nominal damages because the plaintiff would need to seek alternative accommodation in any event due to these other sources ("Alternative Contention 1").
+
+(2) The plaintiff cannot possibly move into Office 3A before 1 April 2014 ("Contention 2").
+
+(3) The plaintiff would not use Office 3A to run her business after July 2014 ("Contention 3").
+
+
+
+The legal principles
+
+178. In principle, the plaintiff's claim for alternative accommodation costs is recoverable under the breach of DMC covenant as well as under the two tortious causes of action.
+179. In the former case, Discovery Bay Services Management Ltd v David Buxhaum (DCCJ 4782 of 1991 
+, 26 August 1994) is an instance where His Honour Judge Downey held that 'the reasonable costs of alternative accommodation would be recoverable' for the breach of DMC covenant, citing Calabar Properties Ltd v Stitcher [1984] 1 WLR 287 
+in support.
+180. In the latter case, the measure of damages for nuisance is the same as that for tort generally, that is to say, whatever loss resulted as a natural consequence. See Grosvenor Hotel Co v Hamilton (1894) 2 QB 836 
+, per Lindey LJ at p 840.
+181. In Grosvenor Hotel, the plaintiff's house was physically damaged by nuisance caused by the defendant. The English Court of Appeal held that the plaintiff's expenses in removing its business to other premises is such natural loss. See also, McGregor on Damages, 19th ed, para 37-027; Ward v Cannock District Council [1986] Ch 546 
+, pp 579H-580D.
+182. In Hong Kong, instances where alterative accommodation costs were allowed for water seepage cases can be found in Lam Kit Yee (supra) at paras 89, 98, 102, 108; Lee Wai Chuen & Another v Cheung Chor Keung & Another DCCJ 3098 of 2006 
+(7 January 2011), per His Honour Judge Simon Leung at paras. 69-72.
+183. In light of the above authorities, if the court is satisfied that Office 3A was rendered unfit for running the plaintiff's business by the subject water seepage, the plaintiff is prima facie entitled to recover reasonable costs incurred for seeking an alternative business premises to carry on her business pending the necessary and proper waterproofing work to be carried out by the defendant at Flat Roof to abate the subject nuisance.
+
+Contention 1
+The condition of dripping and seepage
+
+184. Mr Ho submits that there was no continuous or significant dripping at the affected area of the ceiling 96 , and so the water seepage was not serious enough to prevent the plaintiff from using Office 3A as business premises at the material times.
+185. Mr Ho submits that certain MC records and the inspection report prepared by Prudential Surveyors made no record of any dripping at the affected areas, although those MC readings were taken on rainy days. With respect, Mr Ho's such submission refers this court to some aspect but not the whole of the evidence on this matter.
+186. To begin with, I have already explained in paras 78 to 83 above why I accepted the evidence of the plaintiff and Mr Wong that dripping indeed occurred at Area A3 on and off during rainy days. Though, the available evidence before the court is insufficient to show there has been dripping at other affected areas of the ceiling.
+187. However, when all the MC records were considered as a whole, I find that the water seepage problem at Zone A has all along been serious. The significant drop in MC readings taken at the affected areas of the ceiling on 5 December 2014 and 10 February 2015 was due to the presence of the secondary waterproofing work done after the 1st ponding test. The subsequent MC readings at Zone A of the ceiling taken on 9 March 2015, 11 May 2015, 11 and 13 July 2015, and 7 October 2015 had remained persistently high.
+188. Given my above analysis and findings and after considering all the evidence before me, I find that the seepage condition (coupled with occasional water dripping) at Zone A of the ceiling alone has been serious enough to prevent the plaintiff from using Office 3A for her business at all material times, not to mention that if the seepage condition at Zones B and C of the ceiling are further taken into account.
+
+Duty to mitigate loss
+
+189. Mr Ho further submits that any dripping problem can be adequately remedied by the use of dehumidifier and/or regular mopping of Area A3 since the dripping there was neither continuous or serious. Further, the plaintiff can easily store the statues and other valuable items inside cabinets or furniture. In other words, Mr. Ho seems to have suggested any occasional water dripping would have minimal impact on the plaintiff's business even carried out in a premises subject to such water seepage as described above, and hence she should not have rented an alternative premises to conduct her business. At para 10 of the Re-amended Defence 97 , the defendant also pleaded that the plaintiff has failed to take reasonable steps to mitigate her loss.
+190. In Lam Kit Yee (supra), the learned Deputy Judge succinctly summarized the principles on mitigation in the context of a water seepage case, which I respectfully agree and adopt here. At para 99 of the judgment, the learned Deputy Judge said:- 
+
+99. "The legal principles regarding mitigation of damages can be summarized as follows:- 
+
+(1) The law requires a victim to take all reasonable steps to mitigate the loss consequent on the defendant's wrong: McGregor on Damages (2014) 19th Ed, §9-014;
+
+(2) Whether a loss is avoidable by reasonable action on the part of the claimant is a question of fact not law: McGregor, §9-016;
+
+(3) Although often called "a duty to mitigate", the expression is somewhat loose because there is no actionable "duty" which is actionable or which is owed to anyone by the claimant: McGregor, §9-017;
+
+(4) The onus of proof on the issue of mitigation is on the defendant. If he has failed to show that the claimant ought reasonably to have taken mitigating steps, then the normal measure will apply: McGregor, §9-019;
+
+(5) In assessing reasonableness, the victim must act with the wrongdoer's as well as his own interest in mind: McGregor, §9-076."
+
+
+
+
+191. Miss Tsang also rightly submits that the court would be reluctant to impose excessive demands on claimants when discharging their duty of mitigation. See Clerk & Lindsell on Torts, 21st ed, para 28-09.
+192. With respect, Mr Ho's submission again conveniently ignored the serious water seepage problem at Zone A of the ceiling as already highlighted above. As can be readily seen from the set of photos taken by Mr Wong at the ceiling of Office 3A on 4 August 2016, 98 the direct discernible damage caused by the serious water seepage to the ceiling (though with only occasional water dripping at Area A3 on rainy days) is that despite renovation done to the ceiling, peeling of paints, bulged plastic, water stain, mould were still visible extensively at the ceiling, though most seriously in Zone A.
+193. I find such a dilapidated state of the ceiling far from presentable to the plaintiff's customers even when the affected area of Zone A of the ceiling is considered alone, and again, not to mention that if the affected areas of Zone B and Zone C are further taken into account.
+194. Therefore, it would be unreasonable to force the plaintiff to run her business in Office 3A subject to the persistent adverse influence of the serious water seepage, which is still subsisting given my above findings. In this regard, the plaintiff also gave evidence at trial that she could not conduct her business at Office 3A because of the problem of water seepage (漏水), not just because of the water dripping problem.
+195. The aforesaid aside, if the plaintiff was to rent another office which is similar in locality and accessibility as Office 3A, the market rental for leasing such similar unit would be in the region of HK$30,000 per month according to the undisputed valuation report of Office 3A dated 24 August 2015 99 . From that perspective, the plaintiff in a way has also taken reasonable step to keep the costs of renting the alternative business premises significantly lower by continuing to rent the Shop at HK$12,000 to 14,000 per month only. One should also be mindful of the unchallenged plaintiff's evidence that apart from paying such alternative accommodation costs, she also needed to discharge monthly mortgage repayments at around HK$17,000 per month and management fee of HK$1,570 per month for Office 3A 100 .
+196. In light of the aforesaid, given such serious degree and extent of water seepage at the ceiling of Office 3A as revealed from the MC readings and the photos, it is unrealistic to suggest that putting a dehumidifier in the Office with regular mopping of Area A3 of Zone A of the ceiling can practically resolve the problem. Putting the statues and valuable gems in cabinet or furniture not only fail to address the adverse business image issue, this would also unreasonably restrict the display of the statues, other antiques and gems for sale at the Office 3A where the plaintiff intended to carry on the same business as she did in the Shop. Again, it is the unchallenged plaintiff's evidence that she had been placing many such valuable items in the Shop either for her private collection and as products for sale, and the statues occupied almost all the space in the Shop. 101 
+197. In these circumstances, I find the water seepage sourced from the Flat Roof has indeed rendered Office 3A unfit for the plaintiff to run her business. I find it reasonable for her to incur reasonable costs in seeking alternative business premises and in this case by continuing to rent the Shop to run her business pending the defendant to take steps to abate the subject nuisance. I also find that by doing so the plaintiff has also taken reasonable steps to mitigate her loss under the circumstances of this case.
+
+Alternative Contention 1
+
+198. Such alternative argument of Mr Ho is a non-starter given my above finding that the Flat Roof has been the sole source of the seepage, and I have rejected all the other possible sources of seepage as postulated by Mr Kau for reasons explained above.
+199. However, purely for the sake of argument but not the otherwise, even assuming that only the seepage at Zone A of the ceiling is sourced from the Flat Roof, and those at Zones B and C are not so sourced (but sourced from one or more of the possible sources postulated by Mr Kau instead), I am of the view that the defendant would still be fully responsible for compensating the plaintiff's alternative accommodation costs in such a scenario.
+200. This is because if the seepage problem at Zone A of the ceiling is to be disregarded, I do not think the degree and extent of the water seepage occurred at Zones B and C of the ceiling alone (even coupled with some dampness at the B4 wall area) to be serious enough to prevent the plaintiff from using Office 3A as her business premises in light of all the evidence before me.
+201. As such, by applying the 'but for' test, the defendant would still be fully responsible for the plaintiff's alternative accommodation costs in such a case. However, for avoidance of doubts, I must make it clear that such scenario does not arise here as I have already found that the seepage at all the affected areas at Zone A, Zone B and Zone C have been solely sourced from the Flat Roof.
+
+Contention 2
+
+202. Contention 2 relates to the question as to from when the plaintiff is entitled to recover her alternative accommodation costs from the defendant. Mr Ho submitted that given the actual renovation progress of Office 3A in this case, even if there was no water seepage, the plaintiff would not move her business to Office 3A before 1 April 2014. As such, no alternative accommodation costs can be recovered before that date in any event.
+203. Mr Wong was the one who dealt with the matter of renovation at Office 3A directly with the renovation contractor. Wong testified that the renovation started in June 2013 and it was anticipated to be finished in a month or so had there been no water seepage. However, due to the discovery of water seepage, the renovation was put on hold for some time trying to look for its source. According to the photos produced at the hearing bundles depicting the state and condition of Office 3A at different periods of time, it appears that the renovation of the office area had largely been finished by such time between 15 November 2013 and 22 January 2014 102 . This tallies with Mr Wong's evidence given at trial that the renovation of Office 3A was actually completed by about the end of 2013.
+204. It is also the plaintiff's evidence that she had instructed her renovation contractor to build a resting room and a kitchen in Office 3A for her own use. It so happens that her son returned to Hong Kong from Canada in July 2014 and had no place to live, she then let him occupy the resting room for the time being. 103 The resting room is about 120-140 sq ft 104 while the whole Office 3A is about 1,107 sq ft. 105 Apart from that, the plaintiff also gave evidence at trial that she has been using the cockloft of the Shop for lodging purpose as well.
+205. Mr Ho submits that in these circumstances if the resting room facilities were not completed, the plaintiff would not move into Office 3A. He further submits that according to the floor plan annexed to HKBI's first report of 13 January 2014 106 , it did not depict that Office 3A has any bathroom, kitchen or bedroom in place. In my view, the purpose of such floor plan was prepared to illustrate the affected areas of water seepage at the time. It is undisputed that the resting room and the kitchen area are not affected by the seepage. The affected areas of seepage are confined to one side of the unit. The resting room and the kitchen are at the other side. In this light, such plan is not of much probative value to show whether the renovation for the resting room and kitchen had already been finished by the time HKBI inspected Office 3A on 13 November 2013.
+206. Mr Ho then resorted to some records made by KC Surveyors in their report dated 22 January 2014 stating that Office 3A was commercial. 107 Such description in my view is neither here nor there. It can mean that the permitted user of such unit is for commercial use. Needless to day, KC Surveyors were primarily interested in finding out the state of water seepage in the affected areas of Office 3A at the time, but not the actual user of the unit. Miss Tsang also pointed out that under cross-examination, Mr Wong gave evidence that the door of the room inside Office 3A was closed and tests were conducted outside the room on the date of inspection by KC Surveyors.
+207. Having regard to the fact that the office area takes up the majority portion of Office 3A whereas the resting room occupies only one-tenth of the whole unit and the renovation was of simple style, I find that had there not been water seepage at the ceiling, the renovation work for the entire Office 3A could have been completed by the end of September 2013.
+
+Knowledge of seepage
+
+208. But the matter does not stop here. According to Cheung Sau Ling (supra), the defendant would only be held responsible for the subject nuisance after having actual or constructive knowledge of the water seepage. The fluorescent dye was found to appear at Zone A of the ceiling on 22 January 2014 108 after the 1st ponding test conducted by KC Surveyors. However, the Joint Office only notified the defendant of the 1st ponding test result by way of their letter issued on 23 June 2014. Under cross-examination the defendant admitted that she had received that letter.
+209. In this regard, Miss Tang's submits that the defendant actually knew or ought to have known that the Flat 4A was the source of the water seepage at a much earlier time. She drew my attention, firstly, to the conversations between Mr Wong and the defendant back in June / July 2013 which the defendant at some point of time agreed to engage the plaintiff's contractor to carry out repair work at the Flat Roof, and secondly, a pre-action letter issued by the plaintiff's solicitors dated 23 January 2014 making reference to the fact that the FEHD have identified the cause of water leakage to have emanated from Flat 4A.
+
+Mr Wong’s conversations with the defendant in June / July 2013
+
+210. According to Mr Wong's evidence, he had spoken with defendant on phone back in June / July 2013 about the water seepage problem. The defendant at first agreed to engage the plaintiff's renovation contractor to carry out repair work at the Flat Roof, but the defendant subsequently changed her mind and told Mr Wong to discuss with her boyfriend Mr Ng direct.
+211. Mr Wong did call Mr Ng on phone and Mr Ng told Mr Wong that the defendant only had the ownership of the Flat Roof but the responsibility of repair and maintenance were not with her.
+212. The defendant's testimony given at trial was in fact consistent with the aforesaid evidence of Mr Wong.
+213. In particular, it is observed that the defendant under cross-examination did agree that the plaintiff's contractor had indeed attended Flat 4A in her presence to inspect the Flat Roof and to prepare a quotation. After that, she also asked her own contractor to prepare another quotation. The plaintiff's contractor told her that the entire floor surface of the Flat Roof had to be removed for installing a new waterproofing membrane. Her own contractor also prepared a quotation on that basis with about one to two thousand dollars cheaper. She also gave evidence that Mr Ng had been cohabiting with her. They had been together for more than 20 years and their relationship is no different from husband and wife. The defendant also agreed telling Mr Wong that if any work is to be done at the Flat Roof without Mr Ng's consent, even she paid for it, he would be angry. She had no say in this matter. Further, she also agreed that Mr Ng was responsible for paying the deposit for the purchase of Flat 4A and without his consent, she would not carry out any work to the Flat Roof.
+214. The conversation between Mr Wong and Mr Ng is set out in Mr Wong's witness statement 109 . Not only the defendant agreed that she did subsequently tell Mr Wong to contact Mr Ng and gave him the telephone number, she also adduced no evidence to refute such evidence of Mr Wong about the content of such conversation. Mr Wong's evidence on his conversation with Mr Ng is consistent with the role of Mr Ng played in this case as reflected from the defendant's email to the Joint Office on 20 August 2014, 110 and the defendant's testimony given at trial.
+215. Despite I have accepted such evidence of Mr Wong as mentioned in paras 210, 211 and 214 above, the fact that the defendant once agreed to engage the plaintiff's contractor intending to install a new waterproofing membrane at the floor surface of the Flat Roof does not conclusively show that she actually knew the water seepage at Office 3A was sourced from the Flat Roof when she spoke with Mr Wong in June/July 2013. The evidence before me is not clear and unambiguous enough to show this is an admission of liability on her part either. The defendant denied she ever admitted liability for the water seepage. In my view, it is equally possible that the defendant once intended to carry out the waterproofing work with a view to resolve the matter amicably with her neighbour at early stage so as to contain her costs exposure just in case that the seepage was sourced from her premises noting that the affected unit is directly below the Flat Roof, and that she also agreed there was a prior incident where the plaintiff's predecessor had also related water seepage issue of Office 3A to her.
+216. For completeness sake, I should also mention that Mr Wong also said in his witness statement that when he visited Flat 4A, he had been told by the defendant's domestic helper, among other things, that she knew which part of the Flat Roof had the water seepage and showed him the problem area.
+217. I do have reservation over such part of Mr Wong's evidence. If that was indeed the case, Mr Wong should have identified such location in his witness statement as this information would be material to show the source of seepage and the defendant's knowledge about the source. Particularly, an agent's knowledge of the nuisance can also be imputed to her principal. See Sedleigh-Denfield (supra) at p 896. As such, I would not take such evidence of Mr Wong at its face value.
+
+Plaintiff’s pre-action letter of 23 January 2014
+
+218. As for the pre-action letter dated 23 January 2014 111 , it was issued by the plaintiff's solicitors on the very next day after the florescent dye found reappearing at Office 3A's ceiling after the 1st ponding test conducted on 22 January 2014. When the Writ was served upon her in March 2014, it was endorsed with a Statement of Claim and the original para 10 thereof had referred to such pre-action letter. 112 
+219. After carefully considered all the relevant evidence before me including the defendant's answers given in response to Miss Tsang's questions raised on this pre-action letter, I am satisfied that, more probable than not, this letter did reach her premises and has come to her attention and Mr Ng's. First, although the defendant said she was 'in hospital' in January 2014 under cross-examination, it is notable that she never denied ever receiving such letter. Second, I also observe that her evidence was vague and evasive when the defendant gave evidence in Court that she did not recall whether her domestic helper has actually handed over such letter to her or not and if yes, when. Third and most importantly, after the Writ (issued on 5 March 2014) was served upon the defendant, she and Mr Ng should in the normal course of things look into and review the documents in their possession before they prepared for the Defence. In her original home-made Defence dated 31 March 2014 113 (though drafted in lawyer-like language), she did not deny receiving such letter either.
+220. In these circumstances, on balance, I find this pre-action letter had come to attention of the defendant and Mr Ng when they prepared the original Defence. As such, if they were minded to make enquiries with the plaintiff or the Joint Office as to why the FEHD has identified cause of water leakage as emanated from Flat 4A as stated in the pre-action letter, they could have easily verified this with the plaintiff or FEHD and found out the result of the 1st ponding test.
+221. But it is unfortunate that the defendant and Mr Ng have adopted such misconceived defence as discussed above. The defendant also admitted under cross-examination, despite the Joint Office sent the letter on 23 June 2014 notifying her of the 1st ponding test result and that the 1st nuisance notice was issued on 10 July 2014, she had carried out no repair work at the Flat Roof to abate the nuisance when the Joint Office's officer visited Flat 4A on 19 August 2014 114 .
+222. Not only that, according to my above findings, secondary waterproofing work was even done with the defendant's knowledge and consent at the elevated floor surface of the Flat Roof thereby making the further investigation into the cause of water seepage much more difficult for reasons as discussed in detail above.
+223. In light of the aforesaid, although according to Cheung Sau Ling a defendant can be allowed a reasonable period to carry out such necessary work to abate the nuisance, I think the defendant in this case should not be entitled to seek for any reduction of the plaintiff's alternative accommodation costs for that reason. This is because the defendant never really made any attempt to abate the nuisance after she had known of the source of seepage.
+224. In these circumstances, the defendant should fully bear the plaintiff's alternative accommodation costs as from 31 March 2014 onwards. This is consistent with the observation made by Her Honour Judge Mimmie Chan (as Her Ladyship the was) in Lau Sin Yee v The Financial Secretary Incorporated DCCJ 311 of 2007 
+
+(14 February 2008) while discussing about the knowledge of nuisance of water seepage. At para 11, the learned Judge said:- " Obviously, whilst a defendant is entitled to require and wait for the plaintiff to produce the necessary evidence as to the cause of the water seepage, and to commission its own experts if it so requires to carry out investigations and to verify the cause of water seepage as alleged by the plaintiff, a defendant does so at its own risk because if the courts ultimately finds and accepts the plaintiff's evidence that the water seepage in question originated from the defendant's premises and that it should have known this, then it will have to accept liability in relation to the damage sustained by the plaintiff in the interim as a result of the water seepage." (emphasis added)
+
+
+225. For completeness sake, I should mention that Mr Ho's submission that the defendant was entitled to adopt a wait and see approach after receipt of the Joint Office's letter of 18 November 2013 informing the defendant that they were investigating into the source of seepage at that time would be of no avail to the defendant. According to my above finding, such letter was overtaken by event after the 1st ponding test was conducted on 22 January 2014, and the defendant should have found out the result of such test by 31 March 2014 with normal and reasonable diligence.
+226. In these circumstances, and after fully considering all submissions made by Mr Ho for Contention 2, I rejected these submissions in their entirety and hold that the defendant had constructive knowledge of the Flat Roof being the source of water seepage occurred at the ceiling of Office 3A from 31 March 2014 onwards notwithstanding that she was only formally notified of the result of the 1st ponding test by way of the Joint Office's letter of 23 June 2014. I also hold that such seepage has not ceased and still continues at the time of the trial hearing. However, if I am wrong about the aforesaid issue of constructive knowledge for whatever reason, I would nonetheless find that the defendant would have actual knowledge of the source of seepage the latest by 30 June 2014, ie about one week after the Joint Office's letter of 23 June 2014 had been sent to the defendant on the evidence before me.
+227. As such, I hold that by virtue of her breach of DMC and under the torts of nuisance and negligence, the defendant is also fully liable for compensating the plaintiff's loss of alternative accommodation costs since 31 March 2014 up to 2 September 2016 115 (ie 29 months approx.):- 
+
+$14,000 per month 116 x 29 months = $406,000
+
+
+
+Contention 3
+
+228. Mr Ho argues that since the plaintiff's son has occupied Office 3A from July 2014 up to the trial, the plaintiff had to reside at the cockloft of the Shop. As such, the plaintiff would need to rent the Shop in any event. So, she would not use Office 3A to run her business after July 2014.
+229. With respect, I cannot accept such contention. On the evidence before me, I find that the plaintiff has continued to rent the Shop as alternative premises for her business not because she wanted to provide Office 3A to her son to reside. Rather it was owing to the water seepage in question that prevented her from operating her business at Office 3A as per my above findings.
+230. That aside, I have also found that had there been no water seepage at the ceiling of Office 3A, the renovation could have been finished by the end of September 2013. By then, the plaintiff could also serve one month's notice with her landlord as per the break clause of tenancy agreement to terminate her tenancy of the Shop. 117 In such event, she may also need some time to move all her belongings and goods from the Shop to Office 3A. Thus, I find that but for the water seepage, the plaintiff could have moved into Office 3A to operate her business somewhere around the end of October 2013. But her son only came back in July 2014. In other words, I am of the view that had there been no water seepage occurred at the ceiling of Office 3A as sourced from the Flat Roof, the son's use of the resting room for his temporary residence would have not arisen at all. This is because in such a case, I think the plaintiff would have operated the business in Office 3A and using the resting room for own her lodging purpose since about October 2014, and the tenancy of the Shop had already been terminated. In such circumstances, her son would naturally need to seek accommodation elsewhere after he returned to Hong Kong in July 2014.
+231. Further, by looking at the matter from another angle, I think Miss Tsang has rightly pointed out that notwithstanding that the resting room was newly renovated and better equipped after the renovation had been completed around the end of 2013, the plaintiff chose to stay at the cockloft even before her son came back to Hong Kong in July 2014. This shows that the plaintiff wanted to stay close to her business. Such conduct of the plaintiff makes good sense for reason of convenience, and also support my view expressed in the preceding paragraph.
+232. In any event, whether to allow her son reside at the resting room in Office 3A or not is prima facie a matter of discretion for the plaintiff. To say the least, no question was put to the plaintiff under cross-examination that this is not so. There is no evidence that the son would refuse to move out upon his mother's request, in particular after the fixing of the water seepage problem so that Office 3A becomes fit for the plaintiff's business use. More fundamentally speaking, this is not the defendant's pleaded case either. Therefore, I do not see how the son's occupation of the resting room under the circumstances of this case can prevent the plaintiff from claiming the alternative accommodation costs against the defendant.
+233. Mr Ho further submits that the plaintiff's son is over 40 years old and the plaintiff could not order her son not to do something. The plaintiff's son has the keys to Office 3A, and therefore he is entitled to use the whole of Office 3A. Mr Ho further submits that the plaintiff gave evidence under cross-examination that her son was engaged in trading of television, and since her son did not have any warehouse, it is sensible to expect the plaintiff's son would use Office 3A to store his stocks.
+234. With respect, such argument is clearly misconceived and premising on sheer speculations. There is not an iota of evidence that the plaintiff's son was using Office 3A as a warehouse for his business. The fact that the plaintiff's son engaged in trading televisions would not necessarily mean he would use Office 3A as his warehouse. There is likewise no evidence as to how the plaintiff actually operated his trading business. In fact, all the photos produced in the trial bundles do not show any part of Office 3A had ever been used as a warehouse of any kind or otherwise occupied by any goods at all material times.
+235. Mr Ho also submits that the plaintiff's son could use the whole of Office 3A, and that adverse inference should be drawn against the plaintiff, who attempted to give evidence on his son's behalf. With respect, the submission that the plaintiff's son could use the whole of Office 3A is neither here nor there. The fact remains that there is no evidence that the son has used any other part of Office 3A apart from the resting room for his temporary residence when Office 3A is still unfit for the plaintiff to operate her business. In response to Mr Ho's submission on drawing adverse inference, first, it is observed that the defendant has not adduced any evidence to show that the plaintiff's son has been using any part of Office 3A for his own business purpose or otherwise using the whole Office 3A. Second, I am satisfied that the plaintiff herself is in a proper position to give evidence as to how Office 3A has been used since its purchase. Given the state of evidence on this matter before me, I do not think any adverse inference should be drawn against the plaintiff under the circumstances of this case.
+236. Mr Ho further submits that the plaintiff did not explore with her landlord the possibility of renting only the cockloft of the Shop for residential purpose. With respect, I do not understand how such submission can support Contention 3. The plaintiff needs to rent the entire Shop to run her business, and she had been doing so before she purchased Office 3A.
+237. In fact, the total saleable area of the Shop is 1,009 sq ft (including a yard and the cockloft) while the cockloft is only 168 sq ft in size (ie about 16.65% of the total size of the Shop). The only access to the cockloft was through the ground level of the Shop. Further, as pointed out in para 196 above and according to her testimony given at trial as well, the Shop (including the cockloft) was occupied by many statues. Given such a setting of the Shop, it would also be unrealistic to expect the plaintiff to explore with her landlord to rent the cockloft without the ground level of the Shop.
+238. For completeness sake, I wish also mention that since the plaintiff has not sought (by way of pleadings or submission) any reduction of the alternative accommodation costs by virtue of the plaintiff using the cockloft for lodging purpose, no issue of such reduction should arise for this court's consideration.
+239. As for the son's occupation of the resting room, Mr Ho once submitted in his opening submission that discount has to be given for the son's use of Office 3A. Yet he made no submission as to what the appropriate discount was. More importantly, no positive case of such discount has ever been pleaded in the Re-amended Defence or its Voluntary Particulars. It is observed such matter of discount was no longer pursued in Mr Ho's closing submission, let alone how to quantify the same. Against such backdrop, I do not think it is procedurally fair or appropriate for this Court to rule on such matter. Especially, in light of the above analysis, Mr Ho also appears to have changed his line of argument to counter the claim of alternative accommodation costs when his opening submission is compared when his closing, and the non-pursuit of such matter of reduction in his closing submission would appear be on purpose rather than a matter of neglect. However, even if any reduction has to be made for whatever reason, doing the best I can with the available evidence before me and having particular regard to the evidence that the resting room occupies about 12% of the whole area of Office 3A 118 , a corresponding deduction of 12% of the allowed accommodation costs of HK$406,000 would be made accordingly in that event . However, for avoidance of doubts, I would not make any such reduction in this case for reasons I have explained earlier.
+
+Surveyor Fee
+
+240. Miss Tsang submits that for the timely resolution of the seepage problem, the plaintiff had incurred HK$19,600 of surveyor fee for engaging HKBI to investigate into the source of seepage and prepare a report therefor. The amount is corroborated by HKBI's receipt issued on 13 November 2013 119 . Such claim is also supported by Larbons Limited v Kuo You Weaving Factory Ltd DCCJ 934 of 2006 
+(12 July 2007), per HH Judge Mimmie Chan (as Her Ladyship then was) at para 95(2) as cited by Miss Tsang.
+241. Mr Ho said such fee should form part of the costs of the action. He relied on Lam Eguchi Mayumi v Fast Well Enterprises (HK) Ltd DCCJ 3702 of 2008 
+(31 March 2010), per HH Judge Anthea Pang (as Her Ladyship then was) at para 30 and 30(2).
+242. The above two authorities are both concerned with water seepage cases.
+243. If one looks closer at Lam Eguchi Mayumi (at paras 30(1), and 38(1)), the Learned Judge also allowed the costs incurred by the plaintiff for instructing an engineering company to conduct emergency inspection of her flat following the discovery of the water seepage problem at HK$7,000, which in my view is similar to the nature of the plaintiff's present claim here. As for the fee of HK$43,000 120 incurred by the plaintiff for engaging Mr Hau of HKBI to carry out the joint inspection and prepare for the joint expert report, Miss Tsang agreed such fee should be claimed as part of the costs of the action.
+244. In these circumstances, I am of the view that the claim of HK$19,600 for the pre-action surveyor fee incurred by the plaintiff for investigating into the source of seepage is supported by authorities and the figure also appears to be reasonable in the circumstances. I allow such claim in full.
+
+Injunctive reliefs
+
+245. As per the above findings, the seepage in question has solely been sourced from the Flat Roof, and it is continuing. The plaintiff's property will continue to suffer damage if the nuisance is not abated. As such, in respect of relief # 2 under the prayer of the Amended Statement of Claim, I am of the view that it is necessary, appropriate, and just to grant an injunction ordering the defendant to take all reasonable steps to make the Flat Roof waterproof so as to prevent further seepage from the Flat Roof down to Office 3A under the circumstances of this case. (see: Chiu Hung Shun Paul v So Ka Tai CACV 136 of 2005 
+(5 December 2005), per Ma CJHC (as His Lordship Chief Justice then was) at para 16(2); Let's Go Investments Ltd v Yeung Sau Hing (DCCJ 4585 of 2004 
+(5 December 2005) per Her Honour Judge CB Chan at paras 57 and 72; 高麗琴 對 梁耀石及其他人 DCCJ 3828 of 2014 
+(30 June 2016), per His Honour Judge Andrew Li at para 64; 皇河實業有限公司 v Wan Chiu Yuen & Another DCCJ 4448 of 2011 
+(20 April 2015, per DDCJ R Lai (as His Honour then was) at para 298)
+246. In particular, I am satisfied that a properly installed waterproofing membrane at the elevated floor surface can abate the water seepage at the ceiling of Office 3A having carefully considered all the evidence before me. However, the secondary waterproofing work done at the elevated floor surface as discussed above cannot serve as a substitute to the installation of proper waterproofing membrane as it is not a proper means to provide waterproofing function for the Flat Roof and it is only of limited waterproofing effect according to both experts.
+247. Further, one would also readily appreciate that secondary waterproofing coating painted on the elevated floor surface is vulnerable to damage as it is exposed. By contrast, the experts explained at trial that a proper waterproofing membrane would be installed with a protective layer of cement/sand screeding on top, and the floor tiles would form the topmost layer.
+248. On the other hand, I do not think on balance it would be appropriate to grant a permanent injunction restraining the defendant from repeating the nuisance as sought for under relief # 1 of the Prayer. If such permanent injunction is granted, the defendant might find herself facing contempt proceedings even when she had abated the nuisance by carrying out the waterproofing work (as mentioned in para 245 above) should another seepage occur in future without fault on her part. See Chiu Hung Shun Paul (supra) at paras 16(2) and (3).
+249. Having considered the matter in the round, I am not satisfied that there exist special circumstances in this case to justify granting such permanent injunction as sought under relief # 1 of the Prayer. I heard no submission from Miss Tsang on any such special circumstances either.
+
+Conclusion and Order
+
+250. In the premises, the plaintiff succeeds in this action and judgment is entered in her favour in the total sum of HK$473,900, the breakdown of which is as follows:- 
+
+(1) HK$48,300 being the agreed damages for rectifying the damage caused by the seepage to the ceiling of Office 3A as referred to in para 175 above;
+
+(2) HK$406,000 being the alternative accommodation costs as referred to in para 227 above;
+
+(3) HK$19,600 being the surveyor fee as referred to in para 244 above.
+
+
+251. Apart from the aforesaid, interest shall accrue on (a) the sum of HK48,300 at judgment rate after the date of judgment until payment; (b) the sum of HK406,000 at half of the prevailing HSBC best lending rate plus 1% from 31 March 2014 onwards up to the date of judgment and thereafter at judgment rate until payment; and (c) the sum of HK$19,600 at the prevailing HSBC best lending rate plus 1% from 13 November 2013 onwards up to the date of judgment and thereafter at judgment rate until payment.
+252. In the premises, this court order that the defendant do pay the judgment sum of HK$473,900 to the plaintiff together with interest as mentioned in para 251 above.
+253. Apart from the aforesaid, by reason of matters discussed in paras 245 to 247 above, I also grant an injunction ordering that the defendant shall take all reasonable steps to make the Flat Roof waterproof so as to prevent further seepage from the Flat Roof down to Office 3A. Such waterproofing work shall be completed within 90 days from the date of this Judgment.
+
+Costs
+
+254. Costs should normally follow the event. In the circumstances of this case, I also make a costs order nisi that the defendant do pay the plaintiff the costs of this action, to be taxed if not agreed, with certificate for counsel. The costs order nisi shall become absolute in the absence of application to vary the same within 14 days from the date of this order.
+255. Lastly, it remains for me to thank counsel on both sides for the assistance they rendered to the court.
+[Editors' note: Please click the PDF on top to view the Annexures.]
+ 1At trial, Miss Priscilla Tsang (counsel for the plaintiff) indicated to the court that the plaintiff would no longer pursue the claim of loss of enjoyment or loss of rental of the Office 3A (originally pleaded at para 18(2) of the Amended Statement of Claim) in the alternative to her claim for the alternative accommodation costs.
+ 2paras 32-33 and 34(3)
+ 3Valuation Report of the Shop dated 24 August 2015 (C1/200)
+ 4C2/442
+ 5These MC readings are recorded in the Joint Office's Record of Moisture Measurement which is produced at the Hearing Bundle C2 at page 581 ("1st Joint Office MC Record").
+ 6C2/478-548
+ 7see : KC Surveyors' Investigation Report for Water Seepage dated 27 January 2014 (C2/594-619, 601)
+ 8C2/622-625
+ 9The relevant MC readings on that day were recorded in the Joint Office's 1st MC Record (see also : footnote 5 above)
+ 10Joint expert report dated 6 October 2015 ("the Joint Report"), para 5.1.2
+ 11C2/630
+ 12C2/631-632
+ 13The MC readings were recorded in the Joint Office's another MC Record produced at Hearing Bundle (C2/674) ("the 2nd Joint Office MC Record")
+ 14The MC readings can be found in the MC Record produced at the Hearing Bundle at (C3/678) ("the 3rd Joint Office MC Record")
+ 15C3/679
+ 16C3/681
+ 17C3/680
+ 18Mr Kau's 1st expert report dated 25 August 2015, paras 5.1-5.2 (C3/880)
+ 19C3/682-685
+ 20The 3rd ponding test was described as 'flooding test' in the joint expert report. It appears that the set up for the two prior ponding tests and the one conducted by the experts are largely the same.
+ 21C1/232-407
+ 22This is mentioned in the Chronology set out in the Joint Office's letter (for the date of 07.10.2015)
+ 23The relevant MC readings are recorded in the Joint Office's MC Record produced at the Hearing Bundle at (C3/687) ("the 4th Joint Office MC Record")
+ 24C3/691-692
+ 25C3/965-966
+ 26C2/574-577
+ 27See: the experts' CVs (C3/746, 891-896)
+ 28C1/280-282
+ 29C1/280-282
+ 30see : para 15 above
+ 31see: Appendix A to the joint expert report (C1/393) [i.e. Annexure 2 to this judgment]. See also: Appendix B to Mr Kau's 1st expert report (C3/897, 901)
+ 32Joint expert report, para 8
+ 33see: para 14 above
+ 34see: para 31 above
+ 35Joint expert report, para 9
+ 36see: KC Surveyors' MC Record taken on 22.01.2014 (at C2/614)
+ 37ie the day when the 2nd ponding test was conducted by Prudential Surveyors. (That day was marked to be a rainy day.) (C2/662)
+ 38C2/662-664;
+ 39Defendant's Closing Submission, para 37
+ 40see: para 45 above
+ 41C3/851/Fig 124
+ 42see: para 21 above
+ 43C2/631-632
+ 44see: Mr Kau's 1st expert report, para 5.1 (C3/880); joint expert report, para 9.6 (C1/287)
+ 45C1/321: Fig 173-174
+ 46Counting from 28th June 2015
+ 47C1/239
+ 48See the 1st Joint Office MC Record (C2/581).
+ 49C1/319-320/Fig 153-154, 156,164,166
+ 50See para 90 below; and Annexure 3 to this judgment
+ 51see also: photos taken by the Joint Office's officer on 19.08.2014 (C2/630) which shows a long water hose there.
+ 52C2/655 (Photo No.11)
+ 53See: photos taken on 11.09.2013 (C2/583);13.11.2013 (C2/546-547/Fig 121, 123); 22.01.2014 (C2/609-611/Photo Nos.6-9); 19.08.2014 (C2/630); 15.12.2014 (C2/655); 30.06.2015 (C3/925-929/PA-01, 02, 07, 09-11, 13, 17-21, 23)
+ 54From #1 to #16 for Area A3
+ 55C3/807/Fig 9
+ 56According to the 4th MC Joint Office Record for Area 1 (which corresponds to Area A3 in Zone A), MC readings of 91.7, 81.6, 91.7, 91.6 and 91.7 were taken at check point #CP6, CP7, CP8, CP9 and CP10 respectively on 7 October 2015. (C3/687-688)
+ 57C1/297; it appears that such floor plan is one of the record plans of the 4/F of the Building which Mr Kau obtained from the Buildings Department. (See : Mr Kau's first report, para 4.1 (C3/880, 901)
+ 58C2/676
+ 59C3/679
+ 60C2/675; C1/320/Fig 164
+ 61See: the photos contained in the joint expert report (C1/318-320/Fig 149-152, 153, 157 161-167); the photo at PA-13, 14 contained in Mr Kau's 1st report (C3/960)
+ 62C2/584
+ 63C2/588
+ 64All MC readings taken at Zone A, Zone B and Zone C were below 35% and that day was a sunny day. (See : Prudential Surveyors' Report at C2/662-664)
+ 652nd Joint Office MC Record (for Area 1 which corresponds to Zone A): MC readings of 89.6 and 89.8 at CP2 and CP3 respectively
+ 663rd Joint Office MC Record (for Area 1 which corresponds to Zone A) : MC readings of 90.3, 90, 90.2 and 90.2 at CP5, CP7, CP8 and CP9 respectively.
+ 67C3/876-964, 889
+ 68C1/395/PR-02
+ 69C1/394
+ 70see also: the photo of taken at the front sides of the two buildings at [C1/395]
+ 71C1/394
+ 72See: The approved layout plan retrieved from the Buildings Department as annexed in Mr Kau's 1st report (C3/901)
+ 73D's witness statement, para 4
+ 74The drywall is at the side of 'C6 Wall' and 'B4 Wall' as shown in the annotated floor plan of Office 3A (See: Annexure 1 to this judgment).
+ 75One opening was made near the ceiling while the other near the floor. (see : the diagrams at C1/316; C3/963-964 (PA-02, PA-04))
+ 76'B4 Wall' as defined in the annotation floor plan of Office 3A in fact extended into Zone C (C1/256). And, the two openings were made in Zone C. (C3/858-34 - 858-45; 963-964)
+ 77Checkpoints #11, 13, 18, 26, 29, 37 and 38; see also : the diagram at C1/256
+ 78Checkpoints #1, 2, 21, 22, 41, 42, 46 and 47
+ 79See : the annotated floor plan (at C1/406), that is also Annexure 1 to this judgment.
+ 80'Zone B' marked on the annotated plan contained in HKBI's 1st report (C2/499) in fact corresponds to 'Zone C' as designated in the annotated floor plan contained in the joint expert report (i.e. Annexure 1 to this judgment).
+ 81At the respective depths of 30 mm, 70mm and 110 mm above the ceiling surface (C1/539-541; 543-545)
+ 82C1/282
+ 83see: the 1st Joint Office MC Record,
+ 84see : paras 136, 146, 208-220, 226 below
+ 85see also : paras 44 and 102 above
+ 86It is an undisputed fact that the Flat Roof was an open area (save for only a small part covered by an awning at the doorway leading from the residential part to the Flat Roof) at all material times. (C3/925/Fig PA-02, PA-04, PA-05, PA-06)
+ 87see : para 17 above.
+ 88C3/901
+ 89see : Holding No.1 of the Headnote of the reported judgment.
+ 90The relevant part of the learned trial judge's decision in Keylight DCCJ 1167 of 2010 
+(22 April 2013) can be found at paras. 49-59.
+ 91see : paras 72 and 134 above
+ 92This authority was cited in both cases of Cheung Sau Ling and Born Chief. In Cheung Sau Ling, per Liu JA at p 6 of the judgment; in Born Chief, also per Liu JA at p 192F-I.
+ 93see : paras 9, 10, 13(iii) of the judgment
+ 94see : paras 13(iii), 59 and 60 of the judgment
+ 95P's Opening Submission, para 32
+ 96D's Closing Submissions, paras 43-49
+ 97A/47
+ 98C3/858-5 to 858-46
+ 99C1/154-192, 164
+ 100Plaintiff's witness statement, para 24
+ 101Plaintiff's witness statement, paras 3, 16,
+ 102'15.11.2013' and '22.01.2014' were the two days when the Joint Office's officer and KC Surveyors' staff respectively attended Office 3A to carry out inspection, took photos and MC readings of the affected areas at the time.
+ 103P's supplemental witness statement, paras 11 and 12
+ 104P's supplemental witness statement, para 12
+ 105see: Valuation Report of Office 3A (C1/159)
+ 106C2/803
+ 107C2/596
+ 108C2/606
+ 109para 17
+ 110see : paras 21 and 54 above
+ 111C2/549-550
+ 112B/33
+ 113B/42
+ 114see also : paras 17 to 19 above
+ 115i.e. the 4th day of the trial hearing when the parties had given all their evidence and their respective cases were closed. The final submission took place at a later day on 17 November 2016
+ 116see: Amended Statement of Claim, para 18(3)(b)
+ 117see: Tenancy Agreement dated 22 March 2013, Clause 2 at Schedule II (C2/466)
+ 118see: para 204 above. It is also noted that there is no evidence as to the actual sizes of the kitchen and bathroom in Office 3A.
+ 119C2/477.
+ 120see: Plaintiff's Opening Submission, para 35(2)
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

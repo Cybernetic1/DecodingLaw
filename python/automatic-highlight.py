@@ -38,16 +38,16 @@ Minor Details
 Work Flow
 ---------
 
-* read RTF text, scan text from beginning to end.
-* each word sequence is an example, with possible highlight actions as
+* Read RTF text, scan text from beginning to end.
+* Each word sequence is an example, with possible highlight actions as
 	output / "labels"
-* need a way to specify where in the sequence the "action" occurs?
-* this is a big problem, as the sequences are long
-* solution is to average out the positions...?
+* Need a way to specify where in the sequence the "action" occurs?
+* This is a big problem, as the sequences are long
+* Solution is to average out the positions...?
 	Or, we pre-destinate the mid-point and each output indicates its "strength"
 	And then we can score the strengths.
-* also, seems that we should NOT remove stop-words for this scenario
-*
+* Also, seems that we should NOT remove stop-words for this scenario
+	Nor do we need to remove punctuations.
 
 @author: YKY
 """
@@ -188,11 +188,26 @@ def get_sentence_batch(batch_size, data_x,
 	seqlens = [data_seqlens[i] for i in batch]
 	return x, y, seqlens
 
-# ========= define input, output, and RNN structure =========
+# ========================== define inputs ========================
 
 _inputs = tf.placeholder(tf.float32, shape=[None, times_steps, GLOVE_SIZE])
 _labels = tf.placeholder(tf.float32, shape=[None, num_classes])
 _seqlens = tf.placeholder(tf.int32, shape=[None])
+
+# =============== embedding for RTF format codes ===================
+
+embedding_placeholder = tf.placeholder(tf.float32, [tag_vocab_size, TAG_DIM])
+
+_tag_inputs = tf.placeholder(tf.float32, shape=[None, times_steps, TAG_DIM])
+
+# Note: this embedding is NOT pre-trained
+embeddings = tf.Variable(tf.random_uniform([tag_vocab_size, TAG_DIM], -1.0, 1.0))
+embed = tf.nn.embedding_lookup(embeddings, _tag_inputs)
+
+# ***** TO-DO:  concat 
+concatenated = tf.concat(embed, _inputs, axis, name='concat')
+
+# =================== define RNN structure ========================
 
 with tf.name_scope("biGRU"):
 	with tf.variable_scope('forward'):
@@ -205,7 +220,7 @@ with tf.name_scope("biGRU"):
 
 		outputs, states = tf.nn.bidirectional_dynamic_rnn(cell_fw=gru_fw_cell,
 														  cell_bw=gru_bw_cell,
-														  inputs=_inputs,
+														  inputs=concatenated,
 														  sequence_length=_seqlens,
 														  dtype=tf.float32,
 														  scope="biGRU")
@@ -239,6 +254,10 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
+
+	# ******** TO-DO
+	sess.run(embedding_init, feed_dict={embedding_placeholder: embedding_matrix})
+
 	for step in range(151):
 		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
 															train_x, train_y,

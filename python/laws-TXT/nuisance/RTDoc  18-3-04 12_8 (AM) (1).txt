@@ -1,0 +1,592 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:08 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Incorporated Owners of Tung Lo Court v Leung May Chun Alison Aliance
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+Incorporated Owners of Tung Lo Court v Leung May Chun Alison Aliance
+
+
+
+29 May 2013
+District Court
+DC
+Miscellaneous Proceedings No 1381 of 2011
+DCMP 1381/2011
+
+Citations:[2013] HKEC 827 English Judgment
+
+Presiding Judges: Deputy Judge R Lai
+
+Phrases: <Y<Land law - building management - closure by incorporated owners (IO) of basement of building where parking lots situated, for purpose of repair and renovation - acts done by IO during period of repair and renovation which deprived owner of access to car parks - whether constituted breach of deed of mutual covenant - whether IO authorized to do acts in question
+Tort - private nuisance - closure by incorporated owners (IO) of basement of building where parking lots situated, for purpose of repair and renovation - acts done by IO during period of repair and renovation which deprived owner of access to car parks - whether constituted interference with owner's right to property
+Damages - assessment - breach by incorporated owners of deed of mutual covenant - private nuisance - whether owner suffered actual loss>Y>
+
+Counsel in the Case: Mr YL Cheung, instructed by Tang, Wong & Chow, for the plaintiff.Ms Kitty Tsang, instructed by Tang & Lee, for the defendant.
+
+Cases cited in the judgment: Livingstone v Rawyards Coal Co [1879-80] 5 App Cas 25 
+Oscar Toys Manufactory Ltd 對 嘉威大廈業主立案法團 [2001-2003] HKCLRT 305 
+Born Chief Co v George Tsai & Another [1996] 2 HKLR 188 
+
+Miller v Jackson [1977] QB 966 
+
+Pole v Leask (1860) 28 Beav 562 
+
+Sedleigh-Denfield v O’Callaghan [1940] AC 880 
+
+Song Ling Investment Co Ltd v Kin Hing Godown Ltd (unrep., CACV 4/1994, [1994] HKEC 203) 
+
+Thompson-Schwab v Costaki [1956] 1 All ER 652 
+
+
+Judgment: 
+
+
+Deputy Judge R Lai
+
+CASE SUMMARY
+
+1. This is an action commenced by The Incorporated Owners of Tung Lo Court ("the "IO") for an order for sale against Madam Leung May Chun Alison Aliance ("Madam Leung") to enforce 18 memoranda of charge registered by the IO against 6 car parking spaces of Madam Leung at Tung Lo Court (the "Building") namely parking lot nos. 7, 15, 24, 25, 32 and 40 at the basement of the Building (the "Car Parks").
+2. The IO's case was that Madam Leung owed management fees, management contributions and repair contributions payable by the owners of the Car Parks under a Deed of Mutual Covenant dated 10 October 1960 (the "DMC") in respect of the Building.
+3. The claim of the IO was settled just before the trial. Hence, it was not necessary for me to deal with the IO's claim at the trial.
+4. Madam Leung counterclaimed against the IO for loss caused to her by the IO's various acts in depriving her of access to the Car Parks.
+5. Madam Leung had originally also counterclaimed for a declaration that the 18 memoranda of charge registered against the Car Parks were invalid. She also sought an order to discharge the said 18 memoranda of charge. As Madam Leung had settled the IO's claim before the trial, Miss Tsang representing Madam Leung, confirmed at the trial that she would not pursue these items of the counterclaim.
+6. The only matter before me at trial was Madam Leung's counterclaim for loss of use of the Car Parks. In para 41 of her Amended Defence and Counterclaim, Madam Leung pleaded that: 
+
+41. "該公契 [the DMC] 明文訂明，授予被告人 [Madam Leung] 或佔用人自由進出入車場和全面無阻礙地享用該6個車位 [the Car Parks] 的權利，現時因原告人 [the IO] 的實質上設置，或行政上達到強行阻止自由進出入該車場權利的效果，使被告人或佔用人無法，或實質上不可能繼續自由或無阻礙地使用該6個車位，嚴重侵害其基本的財產權、物權、或土地使用權，又或構成騷擾 (harassment) 。"
+
+
+
+
+7. It can be seen that Madam Leung's remaining counterclaim is for breach of the DMC, interference with her interests in her properties and harassment.
+8. There is no dispute that Madam Leung is and was at the material times the owners of the Car Parks.
+9. All parking lots of the Building are situated at the basement of the Building (the "Basement"). The IO closed the whole Basement to carry out repairs and renovation from the evening of 14 November 2010 to 14 March 2011 (the "Works").
+10. The owners and occupants of the parking lots used to have access to the Basement through the openings at Tai Po Road and Shek Kip Mei Street without security control. After the Basement was reopened on 15 March 2011, the IO introduced a system of security control for access to the Basement.
+11. During the repairs and renovation, the IO installed electric bars and electric rolling shutters at both entrance at Tai Po Road and exit at Shek Kip Mei Street. The electric bars can be lifted by using smart cards issued by the management office of the Building (the "Management Office") and the electric rolling shutters are operated by staff from the Management Office upon request by phone each time (the "Security System"). There is no dispute that daily management of the Building including the Basement was and is performed by the Management Office of the IO.
+12. The IO also introduced a registration system requiring all users of the car parking lots to produce copies of the driver's driving licence, the car's registration document and motor insurance policy to register with the Management Office (the "Registration System").
+13. Madam Leung's case was that the closure of the Basement, the installations of the electric bars and the rolling shutters, the introduction of the Security System and the Registration System were all acts of the IO in breach of the DMC and were unlawful acts interfering with her right to sole and exclusive possession of the Car Parks and her full right and privileges to the use, occupation and enjoyment of the Car Parks. She alleged that the IO had refused to issue smart cards for the Car Parks to her before she settled the IO's claim against her.
+14. After she had settled the IO's claim, Madam Leung went to the Management Office on 23 January 2013 to collect the smart cards for the Car Parks. The staff of the Management Office required her to sign a receipt for the smart cards which contained words not agreeable to Madam Leung. Madam Leung signed the receipt under protest which was not acceptable to the Management Office and the Management Office did not give her the smart cards. The position remained the same at trial.
+15. Madam Leung claims loss of rentals for the Car Parks from 15 November 2010 to the date until she is able to rent out the Car Parks.
+
+ISSUES TO BE DETERMINED
+
+16. The issues before me for determination of Madam Leung's counterclaim include: 
+
+(1) Whether the closure of the Basement for the Works, the installations of the electric bars and the rolling shutters at the entrance and exit of the Basement, the introduction and implementation of the Security System and the Registration System by the IO were acts in beach of the DMC and/or acts amounted to interference with Madam Leung's interests in the Car Parks and/or harassment? If so, what damages had been suffered by Madam Leung?
+
+(2) Whether the IO had refused to issue smart cards for the Car Parks to Madam Leung before she settled the claim of the IO? If so, whether such act was in beach of the DMC and/or act amounted to interference with Madam Leung's interests in the Car Parks and/or harassment? If so, what damages had been suffered by Madam Leung?
+
+(3) Whether the IO's requiring Madam Leung to sign the receipt concerned before the IO would give the smart cards for the Car Parks to Madam Leung was act in beach of the DMC and/or act amounted to interference with Madam Leung's interests in the Car Parks and/or harassment? If so, what damages had been suffered by Madam Leung?
+
+
+17. When the court considers whether the aforesaid acts of the IO were in breach of the DCM or otherwise interference with the right of Madam Leung or harassment, the court will also have to consider whether the IO was empowered to do such acts by the Building Management Ordinance (Cap 344) (the "BMO").
+
+THE DMC
+
+18. The following are provisions in the DMC relevant to the aforesaid issues: 
+
+(1) "The First Owner shall at all times hereafter, subject to the provisions of Clause 15 hereof, have the sole and exclusive possession and the full right and privileges to the use occupation and enjoyment of the whole of the said Building save and except SHOP NO. 4 on the GROUND FLOOR of the said Building and except as provided in Clause 2 hereof Together with all the appurtenances thereto and the entire rents and profits thereof except as aforesaid." (Clause 1(a))
+
+(2) "Each of the parties hereto and his tenants and licensees shall in common with his co-owners of the whole of the said premises and their tenants and licensees have access to and be entitled to use the lifts the entrance-hall staircases landings and the common passages of and in the said Building for all purposes connected with the proper use and enjoyment of the block or shop or car park space or roof on any part of the said Building of which he is entitled to the exclusive use occupation and enjoyment and for the purpose of ingress to and egress from such block or shop or car park space or roof on any part of the said Building." (Clause 2)
+
+(3) "An agent shall be appointed to act on behalf of the Purchaser and all other Purchasers and Owners of and in the said Building for the purpose of maintaining in good condition and repair all staircases halls passages elevators and all other parts of the said Building used by them in common ." (Clause 5)
+
+(4) "The owner or owners of any part or parts of the said Building shall observe such House Rules as shall from time to time be made by the said Agent." (Clause 7)
+
+(5) "Each of the parties hereto shall have the fullest right and liberty without any consent of or reference to the other parties hereto, or making them a party thereto (a) to sell, mortgage, charge or otherwise dispose of or deal with his or their shares and interest of and in the said premises and the block or shop or car park space or roof on any part of the said Building of which he or they are entitled to the exclusive use, occupation and enjoyment but subject to and with the benefit of these presents and (b) to let or demise to any tenant or lessee the block or shop or car park space or roof on any part of the said Building of which he or they are entitled to the exclusive use, occupation and enjoyment but he or they shall be responsible to the other owner or owners of part or parts of the said Building for the due performance and observance by his or their tenant or lessee of the covenants terms and conditions herein contained." (Clause 14)
+
+(6) "If any of the parties hereto shall fail to fulfil his or their due shares or obligations of the reinstatement of or repairs to the said Building (if such reinstatement or repairs should become necessary) or shall fail to pay his or their due shares of the cost of such reinstatement or repairs within two months from the date of any notice from the other or others of them requiring the same to be done or paid then the party or parties serving such notice may at his or their own absolute discretion proceed to carry out such reinstatement or repairs and the defaulting party shall on demand pay to the other party or parties his or their due shares of the costs and expenses incurred in such reinstatement or repairs and until such repayment the said costs and expenses or such part thereof as shall remain unpaid shall be a charge upon the shares of the defaulting party of and in the said premises AND it is hereby agreed and declared that if default shall be made in payment of the amount of such shares of the costs and expenses within one month after the same shall have been demanded by the other party or parties may at any time or times thereafter without any further consent on the part of the defaulting party sell the shares and interest of the defaulting party of and in the said premises and the said Building and the proceeds of such sale shall be applied towards the satisfaction of the proportionate shares of the defaulting party of the costs and expenses for such reinstatement or repairs as aforesaid and the surplus (if any) shall be paid to the defaulting party or other person or persons entitled thereto." (Clause 16)
+
+(7) "In general the Agent shall have the full and absolute authority to make or alter the House Rules from time to time," (Clause 21)
+
+
+
+THE BMO
+
+19. The following are provisions in the BMO relevant to the aforesaid issues: 
+
+(1) "Subject to this Ordinance, at a meeting of a corporation any resolution may be passed with respect to the control, management and administration of the common parts or the renovation, improvement or decoration of those parts and any such resolution shall be binding on the management committee and all the owners." (Section 14(1))"
+
+(2) "When the owners of a building have been incorporated under section 8, the rights, powers, privileges and duties of the owners in relation to the common parts of the building shall be exercised and performed by, and the liabilities of the owners in relation to the common parts of the building shall, subject to the provisions of this Ordinance, be enforceable against, the corporation to the exclusion of the owners,  " (Section 16)
+
+(3) "The corporation shall —— 
+
+(a) maintain the common parts and the property of the corporation in a state of good and serviceable repair and clean condition;
+
+(b) carry out such work as may be ordered or required in respect of the common parts by any public officer or public body in exercise of the powers conferred by any Ordinance;
+
+(c) do all things reasonably necessary for the enforcement of the obligations contained in the deed of mutual covenant (if any) for the control, management and administration of the building." (Section 18(1))
+
+(4) "Subject to this Ordinance, the powers and duties conferred or imposed by this Ordinance on a corporation shall be exercised and performed on behalf of the corporation by the management committee." (Section 29)
+
+
+
+COMMON GROUNDS
+
+20. The parties have no disputes on the following facts: 
+
+(1) Madam Leung was and is the registered owner of the Car Parks.
+
+(2) The IO was set up according to the provisions of the BMO (p647 of the Trial Bundles).
+
+(3) At the material times, the Building was subject to an Order dated 2 November 2007 issued by the Building Authority under section 26 of the Building Ordinance Cap 123 (the "Building Order") (pp966 to 967 of the Trial Bundles).
+
+(4) The Building Authority had issued a letter of compliance dated 1 December 2011 in respect of the Building Order.
+
+(5) The Basement was closed for repairs and renovation from the evening of 14 November 2010 to 14 March 2011.
+
+(6) The Basement was reopened on 15 March 2011.
+
+(7) Electric bars and electric rolling shutters were installed by the IO at the entrance and exit of the Basement during the renovation.
+
+(8) The Electric bars are operated by smart cards.
+
+(9) The smart cards are issued by the Management Office. One smart card will be issued for each car parking space free of charge. Any replacement or additional smart card will be charged at $100 each.
+
+(10) The electric rolling shutters are operated by staff from the Management Office upon request by phone each time.
+
+(11) Owners or tenants of the car parking spaces have to register with the Management Office with their driving licences, their cars' registration documents and their cars' insurance policies before their cars may use the car parking spaces in the Basement.
+
+(12) The Management Office issued one smart card for each of the Car Parks to Madam Leung on 23 January 2011. Madam Leung was required to sign a receipt for the smart cards. The receipt contained words not agreeable to Madam Leung. Madam Leung signed the receipt with the words "被迫同意". This was not acceptable to the Management Office. The smart cards were eventually not given to Madam Leung.
+
+
+
+MADAM LEUNG’S CASE AND EVIDENCE
+
+21. Madam Leung adopted her witness statement dated 11 April 2012 as her evidence.
+22. Madam Leung stated in her witness statement that the car parking lots of the Building had been used as workshops and factories until mid 60s when a fire broke out and the Building Department prohibited use of the car parking lots as workshops.
+23. Madam Leung stated further in paras 5 and 9 of her witness statement that: 
+
+5. "之後，因該車場設施不足和缺乏排水系統，經常處於滲漏、地底湧出水及由石硤尾山上流下的雨水或污水等狀況，令該車場長期水浸及膝，不能作爲泊車用途。 "
+
+9. "由於經常處於水浸、缺乏電力供應、沒有照明系統和 只有單一出入口，令該車場10多年均處於不可使用或不良好合用的狀況。"
+
+
+
+
+24. Madam Leung stated that since about 1980 the repairs and management of the car parking lots were taken up by the owners of the car parking lots and since then the IO had not provided any actual daily management to the car parking lots.
+25. Since about 1980 the car parking lots were managed by a Mr 卓潮 ("Mr Cheuk") who arranged for power supplies and installed lighting and water pump for the car parking lots. Madam Leung rented the Car Parks to Mr Cheuk at $200 per month each for him to use as storage or to rent out to others. Mr Cheuk was responsible for the rates, expenses for management, repairs and electricity supplies in respect of the Car Parks.
+26. Mr Cheuk passed away in about 2000. The car parking lots were continued to be managed by Mr Cheuk's staff, a Mr 梁漸鴻 ("Mr Leung") who was assisted by his wife Madam 薛秀明 ("Madam Sit"). Madam Leung said that she would then rent out the Car Parks by herself. Every month, she would pay to Mr Leung and Madam Sit as management fee $120 to $200 for each car park which had been rented out and $20 to $30 for each car park which had not been rented out.
+27. Madam Leung stated in her witness statement that the IO carried out the Works with improper purpose or motive. Although when she was under cross-examination, she agreed that the Basement needed repairs and the repairs carried out were reasonable, Madam Leung said that the repairs were expensive and not for the benefits of the owners. Madam Leung said that the IO only wanted to control the Basement for its own purpose of collecting payments in future.
+28. Madam Leung agreed that the condition and security of the Basement had been improved after the Works and the introduction of the Security System.
+29. Madam Leung stated that she used to have free access to the Car Parks. The closure of the Basement by the IO from the evening of 14 November 2010 to 14 March 2011 was in breach of Clause 2 of the DMC and had deprived her of the right to her property and land or usage of her land. She said that she had queried that it was not necessary to close the whole Basement to carry out the Works but was told by a Mr 王世平 ("Mr Wong"), the person-in-charge of the Management Office at the material times, that everyone had to leave.
+30. After the Basement was reopened on 15 March 2011, she was allowed access to the Car Parks only when she was accompanied by a staff of the Management Office.
+31. Madam Leung stated that the installation of the rolling shutters was in breach of Clause 2 of the DMC and Regulation 15 of the Fire Services (Fire Hazard Abatement) Regulation (Cap 95F). The said Regulation 15 provides that it is an offence to lock up the means of escape of any premises.
+32. She stated that the IO only issued smart cards to owners of car parking lots who had paid the outstanding to the IO or settled with the IO. This was also in breach of Clause 2 of the DMC and ultra vires. It also infringed her right to her property and land or usage of her land.
+33. She stated in para 58 of her witness statement that: 
+
+58. "根據該公契第2條明文訂明，授予本人或佔用人自由進出入車場和全面無阻礙地享用該6個車位的權利，現時因原告人 [the IO] 的實質上設置，或行政上達到強行阻止自由進出入該車場權利的效果，使本人或佔用人無法，或實質上不可能繼續自由或無阻礙地使用該6個車位，嚴重侵害其基本的財產權、物權、或土地使用權，又或構成騷擾 (harassment) 。"
+
+
+
+
+34. Madam Leung testified that both Mr Wong and Mr 林文龍, ("Mr Lam") secretary of the IO, had told her that she had to pay up all outstanding management fees, management contributions and repairs contributions before she could use the Car Parks. Madam Leung had settled with the IO its claim against her before the IO agreed to issue to her smart cards for the Car Parks on 23 January 2013.
+35. When the Management Office issued the smart cards to her, the staff of the Management Office required her to sign a receipt with a condition that she had to submit documents for registration before she might use the Car Parks for car parking purpose. She did not agree to the condition. She signed the receipt under protest with the words "被迫同意". The Management Office refused to accept such receipt. The staff of the Management Office torn out and gave her the signing part of the receipt and did not give her the smart cards. She produced the said signing part of receipt to the court at trial as evidence. It was marked exhibit "P-1".
+36. When asked by Mr Cheung, representing the IO, at trial whether she would agree to sign the receipt required by the IO and to collect the smart cards for the Car Parks. Her answer was negative.
+37. Madam Leung said that she used to rent out the Car Parks. The closing of the Basement by the IO from the evening of 14 November 2010 to 14 March 2011 had prevented her renting out the Car Parks during that period of time and caused her loss and damages.
+38. Madam Leung said that after the Basement was reopened on 15 March 2011, she was unable to rent out the Car Parks because she had no access to the Car Parks and the estate agents engaged by her were unable to show the Car Parks to prospective tenants. She continued to suffer loss until she could rent out the Car Parks.
+39. Madam Leung testified that she had rented out some of the Car Parks from time to time prior to 2010 at $1,300 to $2,500 per month for each. Some tenants were introduced to her by Mr Leung or Madam Sit. She would also advertise on the walls of the entrance and exit of the Basement.
+40. Under cross-examination, Madam Leung said that she last parked her cars in the Car Parks in about 2005/2006 and she had also used the Car Parks to store her wheelchairs and decoration tools.
+41. She testified that she had previously rented out three of the Car Parks for $1,800 to $2,500 per month each. She admitted that the last time she had rented out any of the Car Parks was six to seven years ago.
+42. Madam Leung testified that she had engaged estate agents to rent out the Car Parks for her after the Basement was reopened. She said that the Car Parks were not rented out because the estate agents were not allowed access to the Car Parks. However, under cross-examination, Madam Leung admitted that she had not made any requests to the Management Office for the estate agents to inspect the Car Parks.
+43. She stated that current average monthly rental for car parks within the vicinity was about $2,800. She claimed damages at $2,800 per month for each of the Car Parks from 15 November 2010 until the same were rented out.
+44. Madam Leung also called Mr Wong (ie 王世平) to testify at trial. Mr Wong had previously made two witness statements for the IO but made no witness statement for Madam Leung. Mr Wong adopted his witness statement dated 11 April 2012 made for the IO as his evidence at trial. Mr Cheung for the IO did not object to that.
+45. Mr Wong was the officer-in-charge of the Management Office from 14 November 2008 until 30 June 2012 when he left the employment of the IO.
+46. In his witness statement, Mr Wong stated that he had instructed watchmen of the Building to patrol the car parking lots.
+47. In respect of the repairs and renovation in 2010, Mr Wong provided the following particulars in para 6 of his witness statement: 
+
+6. "原告人 [the IO] 在2010年進行的大維修，停車場的項目包括：爲公用部份的路面鋪設防滑鋼砂，翻新全部牆身及天花，沙井去水，公用部份的地下鋪設去水管，更換照明系統及潛水泵，兩個出入口加裝捲閘，加設泊車卡感應器、信箱及閉路電視。"
+
+
+
+
+48. Mr Wong had explained the Security System and the Registration System in paras 7 to 9 of his witness statement as follows: 
+
+7. "約於2011年3月15日，停車場的維修工程已大部份完結。爲保安及保險理由，原告人藉維修停車場加強保安措施。原告人在停車場兩個出入口加裝捲閘，防止閑雜人等擅自進入。停車場重新開放後，業主在泊車前須先到管理處辦理進場手續。有關手續要求車位業主帶同查册紀錄或其他文件以證明其業主身份，同時亦要求他們出示身份證以證明是業主本人，並交回欠交之管理費/維修費，即可取得智能卡，以打開上述停車場捲閘，進出停車場。智能卡是免費的，但車位業主若遺失了智能卡而需補發，則管理處會收取每張港幣100元作成本。
+
+8.如果車位業主要泊車，就要登記駕駛者資料，包括車輛登記證、保險證書及駕駛者的駕駛執照副本等。如果出租的話，業主本人或租客均可登記；由租客登記的話，租客需出示車位業主的授權書。
+
+9.只要車位業主遵守上述規則，即可隨時使用或進出停車場。即使車位業主不遵守上述規則，只要他向管理處出示證明，管理員亦會開閘讓其入內，只是不能泊車。這是因爲除個别車位外，停車場是該大廈的公用部份。業主或其租客如要泊車的話，均需經過公用部份，因此，有關措施是要保障公用部份免受損毁，以及保障該大廈業主的人命及財產安全。"
+
+
+
+
+49. Mr Wong stated that Madam Leung had entered the Basement at the end of March 2011 to inspect the Car Parks. The IO had sent him and Mr Lam to accompany her for the inspection.
+50. He further stated that representative of the IO had informed Madam Leung that if she or her tenants needed to use the Car Parks to park cars, they had to first complete the required registration. However, until Mr Wong made his witness statement on 11 April 2012, Madam Leung had not completed the required registration or requested to park cars in the Car Parks.
+51. Mr Wong stated that according to his knowledge Madam Leung had all along left the Car Parks vacant without renting them out.
+52. Madam Leung also called a Mr 徐偉業 ("Mr Tsui") to testify at trial.
+53. Mr Tsui adopted his 2 witness statements dated 2 June 2012 and 26 July 2012 as his evidence.
+54. Mr Tsui was and is an owner of a flat in the Building. He was and is not an owner of any car parking spaces in the Basement but he took great interest in the management of the Basement.
+55. He said that the IO had no management at the Basement before its closure in November 2010.
+56. He also stated that prior to 2000, the car parking lots were managed by Mr Cheuk. After Mr Cheuk passed away in 2000, the car parking lots were managed by Mr Leung and Madam Sit.
+57. He stated that the repair works for the Basement to comply with the Building Order had been completed in October 2010. The repair works to different parts were carried out at different times. It was not necessary to close the Basement for effecting repairs to comply with the Building Order.
+58. Mr Tsui said that the repair works started in early August 2010 and continued in September and October. He produced at trial a notice dated 30 September 2010 issued by Tat Hing Construction Co Ltd ("Tat Hing"), the contractor responsible for the Works, requiring owners of different car parking lots to move their cars away at different times from 4 to 28 October 2010 each for a period of four to six days to facilitate the repairs. This notice was marked exhibit "P-2".
+
+59. The content of the 30 September 2010 notice read as follows: "東廬大樓維修工程 ─ 停車場石屎結構修葺工程
+現謹定於下列日期及時間爲 貴大廈進行停車場石屎結構修葺工程，敬請各業戶小心出入，以免被已鑿除之沙石滑倒，敬希各業戶垂注。
+爲進行上述之工程，請下列車位業主，於下列安排之日期將車輛駛走，以便工程進行。
+車輛駛走安排如下:- 
+
+車位號碼開始日期預算完工日期
+
+37-47號車位04.10.201007.10.2010
+
+48-60號車位08.10.201012.10.2010
+
+29-36號車位13.10.201018.10.2010
+
+14-28號車位19.10.201023.10.2010
+
+01-13號車位25.10.201028.10.2010
+
+如有查詢，請致電6488 3364與本公司陳振武先生聯絡。"
+
+
+60. Mr Tsui produced a further notice dated 2 November 2010 also issued by Tat Hing which stated that the repairs for the Basement would be completed by 15 January 2011. The notice required the owners to move their cars away by 15 November 2010. This notice was marked exhibit "P-3".
+
+61. The content of the 2 November 2010 notice read as follows: "東廬大樓維修工程 ─ B/F停車場維修工程
+由於停車場工程將於2010年11月15日展開，並預計於2011年1月15日前完成，其間部份地台行車位置將會進行石屎結構修葺，行車路鋪設防滑鋼沙、進行更換渠筒及沙井工程等。當停車場維修工程展開，沒有駛離之車輛將不能再駛離，爲免車輛於維修期間受到灰塵、沙石等影響，僅請各車主將車輛於2010年11月15日駛離車場，敬希各業戶垂注。"
+
+
+62. Mr Tsui stated that the closure of the Basement was not authorized by a meeting of the owners. He believed that the IO's acts had exceeded the power conferred to it by the DMC or the BMO. He had issued an open letter to query the IO's decision to close the Basement.
+63. Mr Tsui stated that the IO closed the Basement to evict Mr Leung and Madam Sit in order to gain control of the Basement. The introduction of the Security System and the Registration System was aimed at compelling the owners of the car parking lots either to settle the IO's claim for alleged outstanding management fees or to let the Management Office to rent out their car parks to pay the outstanding.
+
+THE IO’S CASE AND EVIDENCE
+
+64. The IO called Mr Lam (ie 林文龍) to testify at trial.
+65. Mr Lam adopted his 4 witness statements dated 11 April 2012, 19 June 2012, 11 July 2012 and 21 August 2012 as his evidence.
+66. Mr Lam is the secretary to the management committee of the IO (the "Management Committee"). Mr Lam had been participating in the management of the Building since 1996 when he was the chairman of the then Management Committee. He did not participate in the works of the Management Committees for the years 2000 and 2003 but joined the Management Committee again in 2008.
+67. Mr Lam said that the IO had all along been managing the common parts of the Building including the Basement and the IO had not authorized others to manage the Basement. The IO had nothing to do with the dealings between Madam Leung, Mr Cheuk, Mr Leung and Madam Sit. Their such dealings were not binding on the IO.
+68. Mr Lam stated that the repairs to the Basement were to comply with the Building Order. In para 97 of his witness statement dated 11 April 2012, he explained the reasons for closing the Basement as follows: 
+
+97. "就這大維修工程，工程項目包括維修該大廈地庫停車場。停車場的維修是因應屋宇署約於2007年11月發出的維修令而展開 (有關維修令夾附於上述附件三十五內) 。約於2010年8月，工程承建商進場維修。原告人 [the IO] 再三通知各停車位業主將其汽車駛離停車場以便維修。約於2010年11月10日，原告人向所有停車位業主發出通告，表示因爲要維修停車場，停車場於2010年11月14日起封閉，並請一眾業主取走私人物品。停車場約於2010年11月14日起封閉，以便維修。有關通告見附件三十八。"
+
+
+
+
+69. The document in Annex 35 referred to by Mr Lam was the Building Order (pp966 to 967 of the Trial Bundles) which required the IO to carry out the following repair works: 
+
+(a) "清除樓宇的鋼筋混凝土結構中鬆脫、破裂及損毁的混 凝土；清理現有外露鋼筋上鬆脫的鐵銹及雜物；如有 需要，加裝鋼筋及固定其位置，並將鋼筋混凝土結構 修復原狀。在澆注新混凝土前，必須通知建築事務監 督，建築事務監督可就這方面進行審查。
+
+(b)清除內外牆上所有鬆脫及損毁的批盪。
+
+(c)修繕、裝穩或更換所有鬆脫及損毁的窗框及玻璃。"
+
+
+
+
+70. When he was under cross-examination, Mr Lam agreed that the scope of the Works went beyond the requirements of the Building Order.
+71. Mr Lam further stated in para 98 of his said witness statement that "維修期間，停車場屬建築工地，因此不准非工程人員進入。
+72. In para 16 of his witness statement dated 19 June 2012, Mr Lam stated that "該工程包括維修停車場，工程期間，原告人 [the IO] 有實際需要關閉停車場。"
+73. Mr Lam further explained at trial that the Basement had to be closed for the Works because of insurance issue and water outburst. When under cross-examination, Mr Lam agreed that the IO had not disclosed in these proceedings the insurance policies taken out by the IO or the contractor for the Works.
+
+74. Mr Lam also said that Tat Hing requested closure of the Basement because of outburst of underground water. He relied on a letter from Tat Hing dated 15 October 2010 (pp51-52 of Vol 9 of the Trial Bundles). In the said letter, Tat Hing explained the reasons for requiring the closure of the Basement as follows: "於2010年10月頭，本公司匯報黄鄺建築師有限公司有關停車場車路之防滑鋼沙工程，修補車路地台石屎及明渠工程受停車場之地下水不斷湧上而影響不能開展工程，因為發現不斷有地下水湧上停車場地面，而當時已損毁之行車路嚴重隆起明顯受地下水壓影響，有部份石屎地台底之土壤亦流失。本司曾在地台嘗試打鑿已損毁之石屎，但打鑿一個小孔亦導致地下水不斷湧上地面，故此，遇上這不可預見之困難下，本公司暫停停車場工程要求顧問公司勘察給予進一步指示。
+其後，按顧問公司指示要求本司報價為停車場公眾位置進行改善地下水之疏水工程，疏水工程須要動用風砲，挖泥機，挖深坑，裝置疏水管，安排位置放泥，放置石屎鋼筋疏水管等等物料，亦要為湧上之地下水安排3台抽水泵抽水，重新落車路石屎地台，因為考慮到車路須要完全封閉，地下水湧上亦會浸過車位影響停泊的車輛及車位之財物以及施工之安全問題，該報價單以停車場須清場為前提，本工程之保險公司曾視察停車場，當時保險公司評估後知會本司，如車場有任何非工程人員或車輛於車場發在事故，概不包括於保險承保範圍，本司為保障業主認為有必要清場才可進行工程，所以報價之先聲明工程以業主駛走車輛及封閉停車場以便進行工程的方式來報價及要封閉四個月才可完成工程。"
+
+
+75. In paras 18 and 20 of his witness statement dated 21 August 2012, Mr Lam in reply to Mr Tsui's witness statement stated: 
+
+18. "就 TWY-2 [Mr Tsui's witness statement dated 26 July 2012] 第16至25段，2010年大維修工程須要封閉該停車場，因爲當時停車場內天花板露出鋼筋、地下出現裂縫、有地下水湧出。由於該處的公用部份須要維修，所以車位業主們必須將車輛及貴重物品移走。承建商達興建築有限公司之保險公司曾說明如在維修期間，該停車場内的車輛出現甚麼損毁，保險是不包括在内的。在這情況下，原告人 [the IO] 只好要求所有車主駛走他們的車輛，否則，萬一在維修期間車輛出現被損毁的情況，原告人會被追究。在原告人通知眾車主後，所有車主已合作地將他們的車輛駛走。在工程期間，該停車場是地盤，不是工程人員的人士就要離開，以及不能進入。如有任何人士進入地盤而發生意外，保險公司也不會負責。當時被告人梁女士也沒有反對。薛女士曾就封場一事多次報警，但警方沒有跟進。原告人現提供一些於大維修前及大維修期間所拍的一些該停車場的照片。該些照片副本見附件十一。該些照片顯示該停車場當時的情況，是必須封場維修的。照片中的沙井及污水渠，污水渠共有二十多條，若更換必須全部更換，亦要鋪帆布圍著污水，因爲渠在天花板，所以不封場根本不能更換的。照片中可見約40個車位上方天花露出鋼筋，都要搭棚維修。由於涉及面積大，不封場根本不能維修。"
+
+20. "徐先生說該工程是可以分時分位置分階段進行，這說法並不正確的。首先，徐先生並不是專家，其見解不是工程專業意見。其次，若分段維修的話，維修費會較貴，而且對人或車輛都有風險，如有人受傷或車輛被損壞都要賠償。該工程涉及該停車場的結構，過程中會掘地，掘地後路面凹陷或沒有鋼沙的話，汽車不能行駛，因此工程後就無法再進出該停車場，即使該停車場不封閉，車位業主現實上也無法使用。另外，該工程也會維修天花板，會有跌石屎之危險。徐先生以驅趕住客和商舖租戶作比喻也是不正確的，因爲住宅與商舖的情況與停車場的情況不同。該停車場進行大維修期間，車輛是不能出入的。"
+
+
+
+
+76. When under cross-examination, Mr Lam agreed that the decision to close the Basement was resolved in a meeting of the Management Committee held on 30 September 2010 and not in a general meeting of the owners. Meeting minutes for the meeting of the Management Committee held on 30 September 2010 had not been disclosed in these proceedings. Mr Lam explained that he had forgotten to disclose.
+77. In para 98 of his witness statement dated 11 April 2012, Mr Lam stated that: 
+
+98. "約於2011年3月15日，停車場的維修工程已大部份完結。原告人[the IO] 向所有停車位業主發出通告，通知停車位業主可泊回車輛及辦理進場手續。有關通告見附件四十。"
+
+
+
+
+
+78. The notice produced in Annex 40 (p1014 of the Trial Bundles) stated as follows: "由於停車場的維修工程經已大部份完工，經法團巡視後認為現時可以讓業主泊回車輛。各業主如有車輛進入停泊，請帶同車輛登記証、保險及駕駛者的執照副本到管理處辦理進場手續。"
+
+
+79. Mr Lam said that the Security System and the Registration System were required to improve the management and security for the Basement. He explained the Security System and the Registration System in para 99 of his witness statement dated 11 April 2012 as follows: 
+
+99. "由於曾經有人將停車位用作非泊車用途，或非法改建停車位，或霸佔他人之停車位，甚至有黑社會人物滋擾，故此，爲保安及保險理由，原告人藉維修停車場加強保安措施。業主泊車前須先帶同車輛登記證、保險證書及駕駛者的駕駛執照副本到管理處辦理進場手續。手續完成後，業主會獲發智能卡以便進出停車場。智能卡是免費的，但若遺失了而需補發，則管理處會收取$100元作成本。另外，原告人 [the IO] 亦在停車場兩個出入口加裝捲閘。業主可憑智能卡進出停車場，或向管理處出示證明，管理員亦會開閘讓其入內。有關保安措施亦已通知各停車位業主。"
+
+
+
+
+80. Mr Lam said that the installation of the rolling shutters was not included in the original repair and renovation works. The Management Committee only resolved in about January/February 2011 to install the rolling shutters.
+81. Mr Lam agreed that the Building Authority had issued another order dated 2 December 2011 requiring the IO to demolish the rolling shutters for causing obstruction to the means of escape (p75 of Vol 9 of the Trial Bundles). Mr Lam said that instead of demolishing the rolling shutters, the IO had opened gates on the shutters to the satisfaction of the Building Department which agreed by a letter dated 29 August 2012 to discharge the 2 December 2011 order (p77 of Vol 9 of the Trial Bundles).
+82. Mr Lam had made a further witness statement dated 11 July 2012 after Mr Wong left the employment of the IO. In his said witness statement, Mr Lam confirmed the content of witness statements previously made by Mr Wong.
+83. In paras 8 to 10 of his said witness statement, he repeated in verbatim form the content of paras 7 to 9 of Mr Wong's witness statement reproduced in paragraph 48 above. Although in para 7 of Mr Wong's witness statement which was repeated as para 8 in Mr Lam's said witness statement it was stated that the rolling shutters could be opened by the smart card, Mr Lam clarified at the trial that the rolling shutters had to be opened by watchmen of the Management Office upon request by phone. Mr Lam further said that the watchmen would also record the registration number of the cars going in and coming out from the Basement.
+84. Mr Lam said that after the Basement was reopened, he would remind Madam Leung to collect the smart cards for the Car Parks whenever he came across Madam Leung.
+85. Mr Lam agreed that he had reminded Madam Leung to pay the outstanding management fees, management contributions and repair contributions when he met Madam Leung.
+86. As to whether smart cards would be issued to owners who still owed outstanding management fees and repair contributions, Mr Lam's evidence was shifting. When he was under cross-examination, he had once agreed that the IO would not issue smart cards to owners who had not settled outstanding management fees and repair contributions. However, when he was cross-examined further, he disagreed that the owners had to pay all outstanding before smart cards would be issued to them.
+87. Mr Lam stated that as far as he knew, the Car Parks were all along vacant and not rented out. Mr. Lam said that Madam Leung had not used the Car Parks for six to seven years.
+88. He said that the receipt which the Management Office required Madam Leung to sign for the smart cards for the Car Parks only stated that when any car had to use the Car Parks, Madam Leung needed to complete the registration with the car registration document, insurance policy and valid driving licence. Mr Lam produced the receipt which the Management Office required Madam Leung to sign on 23 January 2013 which was marked exhibit "D-1" and the 6 smart cards issued for the Car Parks which were marked exhibits "D-8a to 8f".
+
+89. The content of the said receipt produced by Mr Lam read as follows: "法團曾多次貼通告，進入停車場須辦理手續 (車輛牌簿、保险紙及有效香港特區駕駛證)
+今日2013年1月23日梁美春來管理處辦理進入停車場手續，共6個車位，7、15、24、25、32、40號入車咭，車咭號碼: 
+
+7號0011128791 169 53207
+
+15號0011128790 169 53206
+
+24號0011128793 169 53209
+
+25號0011128810 169 53226
+
+32號0011128792 169 53208
+
+40號0011128794 169 53210
+
+*如有車輛使用以上車位，必須親身來管理處辦理手續，須帶同以上所提文件資料，才可進入車場"
+
+
+90. Mr Lam said that the IO had agreed with some car park owners to rent out their car parks for them and to apply part or whole of the rental collected to repay outstanding due from these owners to the IO. The IO had rented out car park no. 13 in 2011 for its owner at the monthly rent of $1,000. The IO had also rented out car park nos. 38 and 39 at the total sum of $3,000 per month in 2012. Mr Lam said that car park no. 51 was rented out in 2012 at $2,000 per month.
+91. Mr Lam said that about 10 out of the 60 car parks in the Basement were in use after the Basement was reopened. Mr Lam said that some of the car parking lots were so small that even motor-cycle could not be parked therein. Mr Lam further said that some car parking lots had pillar in the middle rendering them unsuitable for parking car.
+92. Mr Lam agreed under cross-examination that the IO had rented out certain areas of the common parts in the Basement as parking spaces to earn further income.
+
+DISCUSSION AND RULING
+Claim for breach of the DMC
+(A) Closure of the Basement
+
+93. There is no dispute that the Basement had been closed by the IO for about 4 months between the evening of 14 November 2010 and 14 March 2011. Madam Leung claims for loss of use of the Car Parks in the Basement during these 4 months. Miss Tsang representing Madam Leung submitted in her opening that from the evening of 14 November 2010 onwards Madam Leung was denied of use of the Car Parks except access/visits to the Car Parks with the companion of the staff of the Management Office or the IO.
+94. The owners of the Building had on 30 May 2010 passed a resolution to carry out repairs and renovation to the Building (pp35-36 of Vol 9 of the Trial Bundles). The first issue I have to deal with is whether the IO was entitled to close the Basement to carry out the repairs and renovation.
+95. Miss Tsang submitted that the IO was set up and derived its powers as a manager under the DMC and the BMO to manage the common facilities and common parts of the Building including that inside the Basement.
+96. She further submitted that the Basement had never been closed for previous repair works and no resolution of the owners' meeting was passed to close the Basement for the Works. Miss Tsang commented that the minutes for the meeting of the Management Committee held on 2 November 2010 resolving to close the Basement was not a true record of the meeting as required by paragraph 10(4A) of Schedule 2 of the BMO because the chairman who signed the minutes was absent in that meeting (p42 of Vol 9 of the Trial Bundles). She agreed that the Works included works in compliance with the Building Order but submitted that they also included other modifying and optional works.
+97. Miss Tsang contended that the closure was without authority. It was not justified by lawful reasons or with prior consent from the car park owners.
+98. Miss Tsang referred to Tat Hing's notice dated 30 September 2010 (exhibit "P-2") advising that the structural cement repair works to the car parks (停車場石屎結構修茸工程) would be carried out by phases and would be completed by the end of October 2010. She submitted that it was not necessary to close the Basement to execute the Works. The Works could be carried out by phases.
+99. Miss Tsang criticized the IO for producing only on 28 January 2013, i.e. just one month before the trial, the letter dated 15 October 2010 from Tat Hing and a notice dated the same date purporting to justify the closing of the Basement because of unexpected outburst of underground water (pp51-53 of Vol 9 of the Trial Bundle). These documents stated that the Basement needed to be closed for four months. However, in an open letter dated 23 November 2010, the IO stated that the length of complete closure was two months, not four (p60 of Vol 9 of the Trial Bundles).
+100. To further illustrate the inconsistency, Miss Tsang referred to exhibit "P-3" which was Tat Hing's notice dated 2 November 2010 which stated that the Works were expected to be completed by 15 January 2011. In this notice, Tat Hing only cited dust and debris affecting cars as reasons for closure of the Basement. There was no mention of outburst of underground water in this notice.
+101. Miss Tsang submitted that the IO's justification to close the Basement on the ground of outburst of underground water in the course of the Works was unreliable and unsustainable.
+102. She submitted that the DMC did not authorize the IO to close the Basement. The IO's act to close the Basement was illegal and contrary to the provisions of the DMC or the BMO. She further submitted that the IO was using the opportunity to close the Basement to drive away Madam Sit.
+103. Miss Tsang contended that clause 1(a) of the DMC provided that the owners of the Building had the sole and exclusive possession and the full right and privileges to the use occupation and enjoyment of their flats or car park spaces of the Building and under clause 2 of the DMC owners were entitled as of right to have access to the common parts in the Basement for proper use and enjoyment of their parking lots therein.
+104. Miss Tsang submitted that the car park owner's right of ingress or egress under the DMC was not subjected to any restrictions.
+105. Miss Tsang agreed that clauses 16 and 21 of the DMC gave the IO absolute discretion to proceed to carry out repairs to the common parts and to make or alter House Rules from time to time. She submitted that apart from clauses 16 and 21, there were no express provisions in the DMC which provided for the owners' private property right to their car parking spaces being subjected to any administrative measures of the IO.
+106. Mr Cheung representing the IO said that the Basement of the Building was in a dilapidated state for years before the Works and the Building Authority had issued the Building Order. Occupiers had used the car parking spaces for other purposes such as storage and even residential. He submitted that the IO had duties to repair and manage the car parking spaces.
+107. Mr Cheung disagreed that the IO used the Works to close the Basement as a mean to take control of the car parking spaces. He argued that the IO only restored proper management of the car parking spaces and the Works were beneficial to all owners of the car parking spaces as the value of their properties would be enhanced by the Works and better management.
+108. He submitted that it was necessary to close the Basement to carry out the Works. He said that the public liability policy taken out by the IO did not cover injuries, loss or damages caused by any sub-contractors during the course of renovation. He referred to a public liability policy taken out by the IO covering the period from 11 June 2003 to 10 June 2004 (pp1264-1276 of the Trial Bundles). Clause 6 in the Exceptions section of the said policy included "any liability in respect of injury loss or damage caused by any sub-contractor to the Insured [the IO] or by any person engaged in or upon the service of such sub-contractor."
+109. Mr Cheung further submitted that the closure of the Basement was necessary as requested by Tat Hing for the safe performance of the Works and due to sudden outburst of underground water (p54 of Vol 9 of the Trial Bundles). He submitted that such conduct of the IO was reasonable.
+110. The IO in managing the Building is in the position of a manager of the Building. The relation between a manager and the owners is governed by the relevant contractual documents. It is essentially a contractual matter (see Song Ling Investment Co Ltd v Kin Hing Godown Ltd unrep. CACV 4/1994 
+, 24 May 1994). In this case, the relevant contractual document is the DMC. There is another source of authority for Owners Incorporated in Hong Kong. They also derive their statutory authority from the BMO. The IO is no exception.
+111. The DMC has authorized the IO to manage and repair common parts of the Building including common parts in the Basement (Clauses 5, 7 and 21 of the DMC). In fact, the BMO has imposed a duty on the IO to maintain and repair common parts of the Building (Section 29 of the BMO). However, there are no express provisions in the DMC or the BMO authorizing the IO to close the Basement to effect repairs.
+112. I have to consider whether the IO has implied authority from the DMC or the BMO to close the Basement which includes not only common parts but also private properties of individual owners. When the IO closed the Basement, it did not only deprive the owners of the Building of the use of the common parts in the Basement but also deprive the owners of the car parking spaces, including Madam Leung, of access to their private properties which in effect deprive them of the use and enjoyment of their own properties.
+113. It was stated in 
+Pole v Leask (1860) 28 Beav 562 
+
+at 574 that: "When an express authority is given, there is an implied authority combined with it to do all acts which may be necessary for the purpose of effecting the object for which the express authority is given."
+
+
+114. Where a person is appointed as a manager, the law will imply authority for him to do whatever is necessary for, or normally incidental to, effectively carrying out the activity expressly authorized. However, this is not a licence to the manager to do whatever he wishes, but only what is necessary to do the job for which he has been engaged.
+
+115. The learned authors of Building Management in Hong Kong (by Malcolm Merry and Paul Kent 2nd edition) had pointed out at pp177-178 that: "The common law would probably imply a term into the agency relationship for a manager to enter units, as a power necessarily incidental to the achievement of the purpose of managing the building. However, except in the case of an emergency, the manager would be required to give reasonable notice to the owners. Since 1987, such a term has been included in DMCs approved under the LACO [the Legal Advisory and Conveyancing Office of the Lands Department] guidelines. The power is limited to the purpose of carrying out necessary repairs to the structure of the building and the common parts. The DMC must also provide for remedying any damage and liability resulting from the work"
+
+
+116. It can be seen that even the guidelines issued by the LACO only allow a manager to enter the owners' units for the purpose of carrying out necessary repairs to the structure of the building and common parts. Such access may affect the owners' use of their properties but will not wholly deprive the owners of their use of their properties. In this case, the act of the IO in closing the Basement had the effect of depriving the owners of the use and enjoyment of their car parking spaces in the Basement. Without express and clear contractual or statutory provisions, the court shall be slow to accept that the law confers authority on the IO to deprive the owners of access to and consequently the use of their own private properties by way of implied provisions.
+117. Private property right is a fundamental right of the members of our society. The court shall not interfere with such right lightly and readily. I am of the view that absent express provisions in the DMC, only in exceptional circumstances, the court will agree that the IO may curtail the private property right of the owners to such extent in the name of discharging its duties to repair and manage the common parts of the Building.
+118. The Building Order was issued on 2 November 2007. The repairs specified therein were required to be completed by 2 May 2008. It was issued under section 26 of the Building Ordinance. Pursuant to section 26(3) of the Building Ordinance, if the owners of the Building failed to comply with the Building Order, the Building Authority may carry out or cause to be carried out the works specified in the Building Order and recover the cost of such work from the owners. Pursuant to section 27 of the Building Ordinance, the Building Authority may even apply to the District Court for a Closure Order upon giving not less than seven days' notice by posting a copy of such notice upon a conspicuous part of the building to be affected.
+119. Although no evidence has been adduced to suggest that the Building Authority intended to apply for a Closure Order due to non-compliance of the Building Order, the required repairs were long overdue as at October 2010. The parties have no dispute that the Basement was in such a dilapidated state in October 2010 that needed repairs and renovation.
+120. I accept that the decision of the general meeting of the owners held on 30 May 2010 resolving to carry out repairs and renovation to the Building including the Basement was reasonable and within the authority of the owners' general meeting.
+121. However, this does not mean that the IO had been authorized to close the Basement. No evidence has been adduced to show that the repairs required under the Building Order could not be carried out without closing the Basement.
+122. As suggested in Tat Hing's notice dated 30 September 2010 (see paragraph 59 above) the repairs to comply with the Building Order could be carried out by phases and disturbance to each car parking space would only be four to six days. Although the said notice suggested that the repairs concerned would be completed by end of October 2010, I accept Mr Lam's evidence that the repairs concerned did not actually commence until after mid November 2010 when all cars were moved out of the Basement. The evidence of Mr Lam showed that certain areas of the common parts in the Basement could also be used as parking spaces. This might provide alternative parking to the owners affected by the repairs and there was no need to close the Basement.
+123. I do not accept that the alleged outburst of underground waters as stated in the letter of Tat Hing dated 15 October 2010 was sufficient evidence to show that the repairs could not be carried out without complete closure of the Basement.
+124. The reasons cited by Tat Hing in its said letter in support of its requiring the Basement to be closed were that it submitted its quotation on the basis that the Basement would be cleared for its works and its insurance policy did not cover non-workers. This does not mean that the repairs could not be carried out without closure of the Basement, only that the contract price would be higher and Tat Hing's insurance cover would have to be extended probably at an added premium. The fact that allowing the owners to access to their car parking spaces during the Works might cause some inconvenience to the Works and might make the Works cost more is no justification to deprive the owners of their private property right.
+125. The IO had produced an unsigned document dated 15 October 2010 with the title "有關「樓宇更新大行動」提交文件通知書" (p53 of Vol 9 of the Trial Bundles) purported to be issued by the consultant engineering company, 黄鄺建築師有限公司. Para 11 of the said document stated as follows: 
+
+11. "本司提議法團，就上述10項改善停車場維修工程，因安全理由，也為了保障車輛及車位業主和使用車場人仕安全，必須封閉地下停車場4個月，以便在施工工程順利進行及安全。"
+
+
+
+
+126. The said document, even if it was issued by the consultant engineering company, only stated that for safety reasons, they recommended that the Basement had to be closed for four months to facilitate the smooth and safe execution of the Works. No particulars were given to substantiate their said recommendation. I do not accept that this is sufficient to support the contention that the Works could not be carried out without closure of the Basement.
+127. The insurance policy produced by the IO did not cover the period of the Works and is irrelevant to this case. Even assuming that the public liability policy of the IO at the material times did not cover liabilities incurred by acts of sub-contractors, this is also no justification to deprive the owners of their right to access to their private properties. No evidence has been adduced to show that the coverage of the IO's public liability policy could not be extended to cover the contemplated risks at added premium.
+128. In Oscar Toys Manufactory Ltd 對 嘉威大廈業主立案法團 [2001-2003] HKCLRT 305 
+, the respondent (Incorporated Owners of Granville House) laid down a rule which prohibited ingress into and egress from Granville House by any person between 11 pm every day and 7 am of the following day (the "Rule"). The applicant applied to the Lands Tribunal for an order to set aside the Rule. Prior to the implementation of the Rule, there had been numerous complaints from owners about the door locks of their units being prized and damages. The unit of the chairman of the management committee of the owners incorporation had also been burgled. For the sake of security of the building and to save expenses in maintaining security, a resolution to implement the Rule was passed at the owners' general meeting on 15 August 1990. The building had since been kept at peace with no further incidents of burglary. The owners incorporation reviewed the Rule at owners' general meetings in 1998 and 2001. Most of the owners who attended the meetings resolved to continue implementing the Rule. There were incidents when people wished to leave the building after 11 pm but were refused by the watchman. Police was called before these people were able to leave the building but the Rule had not been challenged in the court until the applicant took out his application in 2002.
+129. The respondent contended that if the Rule was set aside, the owners incorporation would have to employ another watchman which would substantially increase the management expenses and the previous security problem might also re-emerge.
+130. In setting aside the Rule, the Lands Tribunal held that the Rule had contravened the deed of mutual covenant of the building which provided for the use and enjoyment by the owners of the units that they owned and for the use of the common parts of the building. The learned judge did not accept the respondent's contention that the Rule did not deprive the owners of their right to ingress to and egress from the building but merely sought to restrict the time within which each owner, tenant and user could enter and leave their premises and the building.
+131. The learned judge also rejected the respondent's contention that it was the security of the building and the owners' safety that form the paramount consideration in determining whether the Rule was reasonable. The learned judge was of the view that the key issue was whether the resolutions passed by the general meetings in respect of the Rule were in accord with the provisions of the deed of mutual covenant, not whether the Rule was reasonable. The learned judge also held that the contention that the Rule served to save management expenses that the owners had to bear did not constitute a valid defence.
+132. In this case, there are no express provisions in the DCM or the BMO authorizing the IO to close the Basement for repairs or renovation. Evidence adduced showed that the repairs to comply with the Building Order could be carried out without closing the Basement. It may be quicker and cheaper to carry out the Works with the Basement being closed but the IO failed to satisfy me that the closure was necessary. Mr Cheung submitted that it was reasonable for the IO to do so but reasonableness is really a non-starter to defend a claim for breach of contract, ie the DMC. I find that the IO was not entitled under the DMC to close the Basement for the purposes of carrying out the Works. Whether the closure had been approved in the meetings of the Management Committee held on 30 September 2010 or 2 November 2010 made no difference.
+133. The IO is liable to Madam Leung's claim for breach of the DMC in respect of closure of the Basement for the period from the evening of 14 November 2010 to 14 March 2011.
+
+(B) The Security System
+
+134. There are two aspects in the Security System which I have to consider. The first is the installations of the electric bars and rolling shutters. The second is how the electric bars and rolling shutters are to be operated.
+135. The IO's case was that rolling shutters were installed in addition to electric bars at the entrance and exit of the Basement to maintain peace and order and for the protection of the car park owners' safety and properties.
+136. Miss Tsang submitted that installation of the rolling shutters was not part of the Works. Miss Tsang said that the rolling shutters were initially built without any side gate. This was in breach of the Building Ordinance and the Building Authority had by its letter dated 2 December 2011 required the rolling shutters to be demolished. The rolling shutters were subsequently modified to satisfy the requirements of the Fire Services Department. The Building Department only confirmed its satisfaction in August 2012. She submitted that from March 2011 to August 2012, both the owners' personal safety and their properties were adversely affected, if not at risk.
+137. Mr Cheung submitted that the Security System had improved the security of the Basement.
+138. Mr Cheung submitted that it was not uncommon to have management rules for both public and private car parks. He submitted that there was no evidence that the Security System had caused any difficulties to users of the car parking spaces in the Basement, although he agreed that it might take the users some extra time to come in and go out of the Basement.
+139. Section 14(1) of the BMO authorized the IO to pass resolution with respect to the control and management of the common parts or the renovation or improvement of those parts.
+140. Section 29 of the BMO provides that the powers of the IO shall be exercised on behalf of the IO by the Management Committee.
+141. The installations of the electric bars and rolling shutters were related to the control and management of the common parts in the Basement. They had been approved by the owners' general meeting or the Management Committee. Although the rolling shutters initially installed failed to comply with all the relevant statutory requirements, I am of the view that it will not render the decision for the installation unlawful provided that the decision was not made with the intent to contravene the statutory provisions concerned. No evidence placed before me suggested that the contravention of the Fire Services (Fire Hazard Abatement) Regulation was an intended act.
+142. The electric bars are operated by smart cards issued to the users and the rolling shutters are operated by the staff of the Management Office. It is not unusual to see ingress into and egress from car parks being subjected to control by bars or gates. These measures also fall within the ambit of the control and management of the common parts in the Basement. Such control and management will not deprive the owners of the car parking spaces of their right to the exclusive use, occupation and enjoyment of their car parking spaces. They are also not inconsistent with their right to access and use the common passages in the Basement for the purposes connected with their proper use and enjoyment of their car parking spaces.
+143. Furthermore, clauses 7 and 21 of the DMC reading together with section 16 of the BMO empowered the IO to make House Rules in relation to the common parts of the Basement. The Security System being rules introduced by the Management Committee to control and manage the common passages in the Basement was also authorized by these clauses of the DMC. Madam Leung's claim for breach of the DMC in this respect fails.
+
+(C) The Registration System
+
+144. On top of the Security System, the IO also introduced the Registration System to control and manage the use of the common passages in the Basement by cars. For a car to use the common passages in the Basement, the user has to register with the Management Office first. This requires the user to produce valid driving licence, valid car registration document and valid motor insurance.
+145. The parties had disputed on whether one of the documents required under the Registration System was the vehicle registration certificate (行車證) or the vehicle registration document (車輛登記文件)
+146. Sample documents for the Registration System submitted by the IO showed that the document required was the vehicle registration document (p35 of Vol 10 of the Trial Bundles). However, I see no relevancy of the dispute on this document to the issues in dispute for Madam Leung's counterclaim. Arguing for the sake of argument shall be discouraged.
+147. The IO's case was that the Registration System was simple and reasonable. It was for the benefit of the car parking space owners.
+148. Mr Cheung submitted that the DMC recognized the IO's right to impose suitable, reasonable and proper rules for better management of the car parking spaces.
+149. Mr Cheung further submitted that the Registration System was a simple system to ensure that there was no unauthorized entry to the Basement. An owner of a car parking space without a car still had access to his/her car parking space albeit accompanying by a staff from the Management Office. He submitted that the Registration System did not infringe the owner's right to exclusive possession of his/her car parking space.
+150. Miss Tsang submitted that the installation of the Security System and the introduction of the Registration System together with the complete closure of the Basement amounted to assertion of actual control over the right to the exclusive possession and use of all the car parking lots in the Basement. With respect, I do not agree.
+151. The IO has legitimate concerns to ensure that the cars using the common passages in the Basement under the IO's management do have valid registrations and are covered by valid motor insurances and driven by people with valid driving licences as the IO has exposure to claims if any traffic accidents occurred on the common passages resulting losses and/or injuries.
+152. As in the case of the Security System, the Registration System is about control and management of the common parts in the Basement and to ensure that the car parking spaces are used properly for car parking purpose. The IO is empowered by the DMC and the BMO to introduce and implement the Registration System and the IO was not in breach of the DMC in so doing. The claim of Madam Leung against the IO for breach of DMC in this respect also fails.
+
+(D) Issuing of the smart cards for the Car Parks
+
+153. Miss Tsang said that Madam Leung had approached the IO and requested to exercise her right to use the Car Parks on several occasions but was told to pay outstanding repair costs and/or contributions to the IO first. She submitted that in reality, even though the owners, tenants or occupiers could comply with the rules set by the Management Committee, they still could not use their own car parking spaces whether for self-occupation or leasing out if they failed to settle their respective outstanding fees due to the IO or signed agreements for settlement with the IO for their disputes over the management fees and repair contributions.
+154. Miss Tsang contended that there were no legal requirements that owners of the car parking spaces had to settle the arrears of management fees or agree to the prescribed rules set by the IO before they could enjoy their private properties.
+155. She said that many owners of the car parking space had not collected their smart cards after the Basement was reopened or were still unwilling to pay management arrears or failed to comply with the prescribed rules set by the Management Committee of the IO. She submitted that the obvious reason was that they did not agree to the prescribed rules and actual administrative control of the IO.
+156. As pointed out above, the IO's stance on this issue was shifting. Mr Lam's answers to questions on this subject were evasive. When he was asked whether the IO had refused to issue smart cards to Madam Leung for the Car Parks before Madam Leung had paid up the outstanding, he did not answer the question directly but only said that he would remind Madam Leung to pay the outstanding whenever he met Madam Leung.
+157. In para 7 of Mr Wong's witness statement dated 11 April 2012 which was repeated in para 8 of Mr Lam's witness statement dated 11 July 2012, both of them clearly stated that the owners had to pay up the outstanding before the Management Office would issue smart cards to them.
+158. I accept Madam Leung's evidence and find that the IO had refused to issue smart cards for the Car Parks to her before she settled the outstanding management fees with the IO.
+159. Under clause 2 of the DMC, Madam Leung shall have access to and be entitled to use the common passages of and in the Building including the Basement for all purposes connected with the proper use and enjoyment of the Car Parks. Such right is not subjected to any pre-condition of paying up management fees or management contributions. If Madam Leung fails to perform her payment obligations under the DMC, the IO has its remedies in law. Clause 16 of the DMC has also made provisions for enforcing obligations to pay outstanding repair costs. The IO is fully aware of such remedies which led to the registration of the 18 memoranda of charge and these proceedings. It is not right for the IO to deprive Madam Leung of her right under clause 2 of the DMC by refusing to issue smart cards for the Car Parks to her on the ground that she still owed management fees and/or repair contributions to the IO.
+160. The IO wrongfully refused to issue smart cards for the Car Parks to Madam Leung until 23 January 2013 when Madam Leung had eventually settled all the outstanding with the IO. In such case, the IO had deprived Madam Leung of access to the Car Parks at the material times which she was entitled under the DCM. Such wrongful act of the IO had in effect deprive Madam Leung of her right to the proper use and enjoyment of the Car Parks after the Basement was reopened on 15 March 2011 until 23 January 2013 in contravention of the DMC. The IO is liable to Madam Leung's claim for breach of the DMC for the aforesaid period.
+
+(E) The incident of 23 January 2013
+
+161. After Madam Leung settled the outstanding with the IO, the Management Committee agreed to issue smart cards for the Car Parks to her. On 23 January 2013 she went to the Management Office to get her smart cards. She was required to give a written undertaking and consent to comply with the registration rules prescribed by the Management Committee before she could use the Car Parks.
+162. Miss Tsang contended that even if Madam Leung had not complied with the prescribed rules, smart cards for the Car Parks had to be given to her as there was no statutory provisions that the IO, the Management Committee or the Management Office were given the power to enforce the law, ie to check that each car had bought motor insurance and the driver got his driving licence. She submitted that under no circumstances, the IO could act as a police or enforcement agent in the Building.
+163. Mr Cheung submitted that requiring Madam Leung to sign receipt for the smart cards for the Car Parks was reasonable. It was unreasonable for Madam Leung asking to use the Car Parks without observing reasonable management rules. He submitted that Madam Leung had no good reasons to refuse taking up the smart cards and signing the required receipt.
+164. The smart cards are used to operate the electric bars in the Basement which is part of the Security System. As discussed above, the Security System and the Registration System fall within the ambit of the control and management of the common parts of the Basement. Madam Leung's right to access and use the common parts in the Basement is subjected to the House Rules made by the IO and the power of the IO to control and manage the common parts. If Madam Leung does not agree to abide by the House Rules set by the IO, the IO is not obliged to issue the smart cards to her for her to access and use the common parts of the Basement.
+165. As I have found that the Registration System imposed by the IO to control and manage the use of the common parts in the Basement is reasonable, I agree with Mr Cheung that it was reasonable for the IO to require Madam Leung to sign receipt for the smart cards for the Car Parks to confirm her agreement to abide by the Registration System. The terms of the receipt as set out in paragraph 89 above are reasonable. When Madam Leung put the words "被迫同意" above her signature, Madam Leung evinced in clear term that she did not agree to abide by the Registration System which is part of the House Rules for use of the common parts in the Basement. In such circumstances, the IO was not obliged to issue the smart cards to her.
+166. There is no justification for Madam Leung to complain against the IO for not giving her the smart cards for the Car Parks on 23 January 2013. Mr Cheung had proposed to Madam Leung at trial that if she agreed to sign the receipt requested, the IO would immediately issue the smart cards to her. Madam Leung still did not agree to sign the receipt.
+167. In the premise, the fact that Madam Leung does not have vehicular access to the common parts in the Basement from 23 January 2013 onwards was caused by her unreasonable refusal to abide by the House Rules made by the IO in regulating the use of common parts in the Basement which rules the IO is entitled to make. Madam Leung is the author of her own loss, if any, in respect of loss of use of the Car Parks from 23 January 2013 onwards. She has no claim against the IO arising out of this incident for breach of the DMC.
+
+Claim for interference with interests in the Car Parks
+(A) Closure of the Basement
+
+168. Madam Leung also claims that the IO had wrongfully infringed her interests in properties in denying her access to the Car Parks from the evening of 14 November 2010 to 14 March 2011. Madam Leung is claiming against the IO for private nuisance. Private nuisance is the infringement of one's interest in property without direct entry by the defendant.
+169. There are three ways in which private nuisance can arise: (1) encroachment on a neighbour's land; (2) physical damage to neighbours' land; and (3) undue interference with a neighbour's convenience and enjoyment of his land. (see para 20-06 of Clerk & Lindsell on Torts 20th edition) Generally, private nuisance arises from something emanating from the defendant's land. It may be noise, dirt, fumes, smell, vibrations and suchlike. However, a variety of different things may amount to nuisance in fact but whether they are actionable as the tort of nuisance will depend upon a variety of considerations and a balancing of conflicting interests. An actionable nuisance is incapable of exact definition. In Thompson-Schwab v Costaki [1956] 1 All ER 652 
+, it was held that the sight of prostitutes and their clients entering and leaving one's premises was so offensive to the neighbours as to constitute an actionable nuisance.
+
+170. Madam Leung's claim against the IO is for interference with her enjoyment and occupation of the Car Parks and her right to use the common parts in the Basement. For nuisance caused by undue interference with one's convenience and enjoyment of his land, the degree of interference has to be sufficiently serious to constitute a nuisance. Furthermore, as the Basement was only closed for about four months, the interference was only temporary. It has been pointed out in para 20-16 of Clerk & Lindsell on Torts that: "The duration of an interference is an element in assessing its actionability, together with the character and quality of that interference, but it is not a decisive factor, for a temporary interference which is substantial will be an actionable nuisance."
+
+
+171. As discussed above, the IO has the duties to maintain the Building including the Basement. The owners of the Building had on 30 May 2010 passed a resolution to carry out repairs and renovation to the Building. It was lawful for the IO to carry out the Works which only concerned the common parts under the management of the IO. However, if the Works or the manner of execution of the Works unduly interfered with Madam Leung in the comfortable and convenient enjoyment of her property, the IO may be guilty of private nuisance.
+172. Noise and dust caused by the Works would not be actionable if the operations were reasonably carry on, and all reasonable and proper steps were taken to ensure that no undue inconvenience was caused to Madam Leung. There is no suggestion that the Works had not been carried out reasonably or that reasonable and proper steps had not been taken to limit the inconvenience caused. This is not the complaint of Madam Leung. Madam Leung's complaint is on the manner in which the Works was carried out, ie by closing the Basement.
+173. As pointed out by Lord Denning MR in 
+Miller v Jackson [1977] Q.B. 966 
+
+at 980 D to E that: "It is the very essence of a private nuisance that it is the unreasonable use by a man of his land to the detriment of his neighbour. He must have been guilty of the fault, not necessarily of negligence, but of the unreasonable use of the land".
+
+
+174. The test for reasonableness is what is reasonable according to the ordinary usages of mankind living in society, or more correctly in a particular society and a balance has to be maintained between the right of the occupier to do what he likes with his own, and the right of his neighbour not to be interfered with. This test was proposed by Lord Wright in Sedleigh-Denfield v O'Callaghan [1940] A.C. 880 
+and adopted by Lord Denning in Miller v Jackson.
+175. In this case, I have to balance the right and duties of the IO to maintain the common parts in the Basement as against the right of Madam Leung (including the right to use and enjoy the Car Parks and the right to access to the Car Parks through the commons parts in the Basement) not to be interfered with.
+
+176. It is stated in para 20-35 of Clerk & Lindsell on Tort that: "But though the actual or constructive knowledge of such detriment on the part of the defendant is one element in determining whether user is reasonable, the courts have habitually taken more into account when assessing in cases of nuisance, reasonableness of user. In addition to the defendant's conduct and knowledge there are the considerations of the nature of the claimant's interest and a balancing of that interest against that of the defendant, the character of the interference and its duration, and indeed all material circumstances."
+
+
+177. There were suggestions that if the Basement was not closed during the Works, the IO might not be covered by its then liabilities insurance and it was not possible to carry out the Works or the Works would be more costly and the time required to complete the Works would be longer. However, no evidence has been adduced by the IO to show that insurance cover for the risks concerned could not be arranged at added premium or it was not possible to carry out the Works without closing the Basement. There was also no evidence on the extent of increased costs and time for the Works if the Basement was not closed to show that such increased costs and time were so deterring that it was reasonable for the IO to close the Basement to carry out the Works. Taking into account the interests of Madam Leung in the Car Parks, her right to use the common passages in the Basement and the extent of her interests being affected by the conduct of the IO, I am not satisfied that the conduct of the IO in closing the Basement to carry out the Works was reasonable in the circumstances of this case. In my judgment, other than in breach of the DMC, the IO is also liable to Madam Leung's claim for private nuisance for the period from the evening of 14 November 2010 to 14 March 2011.
+178. The IO is liable to Madam Leung for her loss of use of the Car Parks for the aforesaid period both under contract and in tort.
+
+(B) The Security System
+
+179. The Security System consists of reasonable measures for the benefit of the users of the common parts in the Basement. It does not interfere with Madam Leung's right to use the common passages in the Basement or the Car Parks. I see no merits in Madam Leung's complaint against the introduction and implementation of the Security System as interference with her interests in the Car Parks.
+
+(C) The Registration System
+
+180. I am of the view that the Registration System is to ensure that the car parking spaces are used properly for car parking purpose. It is reasonable and to the benefit of the users of the car park spaces. It is also consistent with the owners' right to access and use the common passages in the Basement for the purposes connected with their proper use and enjoyment of their car parking spaces.
+181. I accept that the Registration System imposed by the IO to control and manage the use of the common parts in the Basement is reasonable. It does not interfere with the owners' right to the exclusive use, occupation and enjoyment of their car parking spaces.
+182. Madam Leung's complaint against the introduction and implementation of the Registration System as interference with her use and enjoyment of the Car Parks is also without merits.
+
+(D) Issuing of smart cards for the Car Parks
+
+183. Taking into account the contractual right of Madam Leung to use the common passages in the Basement to access to the Car Parks and the fact that the IO has other legal remedies to recover outstanding from Madam Leung, I do not accept that the act of the IO in refusing to issue smart cards for the Car Parks until Madam Leung had settled the IO's claim was reasonable in the circumstances of this case. The aforesaid act of the IO amounted to undue interference with Madam Leung's interests in the Car Parks.
+184. In my judgment, the IO is also liable to Madam Leung's claim for private nuisance in respect of the period from 15 March 2011 to 22 January 2013.
+
+(E) The incident of 23 January 2013
+
+185. As I am of the view that it was Madam Leung's unreasonable refusal to abide by the House Rules made by the IO pursuant to the DCM in regulating the use of the common parts in the Basement which led to the IO refusing to give the smart cards for the Car Parks to her on 23 January 2013, the IO did not interfere with her use and enjoyment of the Car Parks. Madam Leung only has herself to blame for not having vehicular access to the Car Parks after 23 January 2013. She has no claim against the IO arising out of this incident for interference with her interests in the Car Parks.
+
+CLAIM FOR HARASSMENT
+
+186. Miss Tsang referred to section 119V of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7) in her closing submission for Madam Leung's claim for harassment. The short answer to this claim of Madam Leung is that the Landlord and Tenant (Consolidation) Ordinance has no application to her counterclaim. Madam Leung was not a tenant or sub-tenant of the Car Parks for the purpose of the Landlord and Tenant (Consolidation) Ordinance. This claim of Madam Leung fails.
+
+OTHER ISSUES
+
+187. Miss Tsang also criticized the IO of conducting estate agent business in renting out car parking spaces for the owners without valid estate agent licence. Whether the IO was conducting estate agent business has no relevancy to Madam Leung's counterclaim. I need not deal with this complaint of Madam Leung.
+188. Miss Tsang said that those owners who had paid repair contributions did not use their car parking spaces even though the IO had enhanced the market value of their properties and tightened up control of security for their protection. She submitted that the underlying reason was that the Management Committee was trying all sorts of ways to regain control over the management of the common parts in the Basement, firstly by expulsion of all parties from the Basement and secondly by strict control of the subsequent uses. She further submitted that the Security System and the Registration System were just means to an end for the IO to achieve these improper motives.
+189. Clauses 7 and 21 of the DMC authorize the IO to make House Rules for the management of the common parts of the Building. Section 18(1)(c) of the BMO require the IO to do all things reasonably necessary for the enforcement of the obligations contained in the DMC for the control and management of the Building, including the Basement. I do not see how regaining (if that had once been lost) control over the management of the common parts in the Basement by the IO can be described as improper motives. It is only proper for the IO to have control and management of the common parts in the Basement.
+190. Miss Tsang also criticized the IO for leasing out common parts in the Basement for the benefit of the Building. She said that though all residential and shop owners were happy, no one owner of the car parking spaces would accept it. She submitted that it was working against the will of the car parking spaces owners and adverse to their interests. This has nothing to do with Madam Leung's counterclaim.
+
+QUANTUM
+
+191. I have found that the IO is liable to Madam Leung's counterclaim in contract and for private nuisance for the period from the evening of 14 November 2010 to 22 January 2013. The next issue I have to deal with is quantum.
+192. Miss Tsang submitted that the Building was located in Kowloon and car parking spaces could be leased out by owners, via property estate agents or the IO. Miss Tsang said that the Management Committee's minutes and documents showed that the IO had helped owners to lease out car parking spaces and collected rents from tenants on behalf of the owners.
+193. She submitted that evidence adduced showed that it was likely that the monthly rent collected for car parking space no. 13 might be $2,000. She also contended that car parking spaces nos. 38 and 39 were rent out at the monthly rent of $3,000 each. Miss Tsang agreed that market rate might vary but submitted that Madam Leung had testified that she had, in the past, rented out at $2,500 per month for one car parking space. She suggested that the rent for each car parking space would range from $1,000 to $3,000 per month.
+194. Miss Tsang submitted that the above showed that there was market for car parking spaces of the Building.
+195. Miss Tsang agreed that after the Basement was reopened, only 1/6 owners had been using their car parking spaces with less than 10 vehicles coming in and going out of the Basement every day.
+196. Mr Cheung submitted that even if the IO was liable, Madam Leung had failed to prove any loss.
+197. Mr Cheung submitted that Madam Leung had only mentioned renting out of some of the Car Parks in 1990s and 2005/2006 without particulars of the tenants. He also criticized Madam Leung of not producing records of rental payments.
+
+(A) Damages for breach of the DMC
+
+198. For Madam Leung's counterclaim for breach of the DMC, it is a breach of contract claim.
+199. The general principle in measuring damages for breach of contract is that the claimant is, as far as money can do it and subject to the limitation imposed by law, to be placed in the same position as if the contract had been performed.
+200. For the period from the evening of 14 November 2010 to 14 March 2011, the question is what would be the position of Madam Leung if the Basement had not been closed during the Works.
+201. The evidence before me showed that immediately before the closure of the Basement, the Car Parks were not used or rented out by Madam Leung for car parking. In fact the evidence suggested that the Car Parks had not been used for car parking purpose for some years before the closure. No evidence has been adduced to show the rental value of the Car Parks when the Works were going on and no evidence has been adduced to show that Madam Leung intended to rent out any of the Car Parks in late 2010. I have serious doubt as to whether any one will rent a car parking space to park his car when substantial repair and renovation works to the ceiling, wall and road surface of the car park are going on around.
+202. In respect of the period from 15 March 2011 to 22 January 2013, the question is what would be the position of Madam Leung if the smart cards for the Car Parks had been issued to her on 15 March 2011.
+203. Madam Leung also adduced no evidence on the rental value of the Car Parks after it was reopened. There was evidence from the IO showing that some other car parking spaces had been rented out at the monthly rent of $1,000 to $2,000. Madam Leung said at trial that she had engaged estate agents to lease out the Car Parks but the estate agents were unable to show the Car Parks to prospective tenants because the estate agents did not have access to the Basement. However, this was not mentioned in her witness statement and Madam Leung gave no particulars at trial on her instructions to the estate agents. In fact, she admitted under cross-examination that she had not made any requests to the IO for the estate agents to take prospective tenants to inspect the Car Parks. Madam Leung had not called any of the estate agents to testify at the trial and produced no documents to show that she had engaged estate agents to lease out the Car Parks. I do not accept that Madam Leung had instructed estate agents to rent out the Car Parks whether during the closure of the Basement or after its reopening.
+204. The evidence adduced before me showed that only about one out of every six car park spaces in the Basement was being used after the Basement was reopened. It seems that for some reasons demand for car parking spaces of the Building was fairly low. No evidence has been adduced by Madam Leung on the supply and demand of car parking spaces in the vicinity as well as their market rental. Madam Leung failed to prove that the Car Parks would have been rented out after the Basement was reopened but for the IO's refusal to issue the smart cards to her.
+
+205. Para 26-057 of Chitty on Contract 21st edition stated that: "there must be a causal connection between the defendant's breach of contract and the claimant's loss. The claimant may recover damages for a loss only where the breach of contract was the "effective" or "dominant" cause of that loss. The courts have avoided laying down any formal tests for causation: they have relied on common sense to guide decisions as to whether a breach of contract is a sufficiently substantial cause of the claimant's loss. The answer to whether the breach was the cause of loss or merely the occasion for the loss must "in the end" depend on "the court's commonsense" in interpreting the facts."
+
+
+206. If a claimant cannot establish an actual loss, he/she is entitled only to nominal damages. As Madam Leung has failed to prove actual loss for her loss of use of the Car Parks from 15 November 2010 to 22 January 2013, she is entitled to nominal damages for her contractual claim.
+
+(B) Damages for private nuisance
+
+207. The general principle in measuring damages for tort as put forwarded by Lord Blackburn in 
+Livingstone v Rawyards Coal Co [1879-80] 5 App. Cas. 25 
+
+at 39 is that "I do not think there is any difference of opinion as to its being a general rule that, where any injury is to be compensated by damages, in settling the sum of money to be given for reparation of damages you should as nearly as possible get at that sum of money which will put the party who has been injured, or who has suffered, in the same position as he would have been in if he had not sustained the wrong for which he is now getting his compensation or reparation."
+
+
+208. In respect of damages for private nuisance, the usual measure is the diminution in the value of the property concerned. In the case of a transitory nuisance as the present case before me, the capital value of the property will seldom be reduced. However, Madam Leung may still claim compensation for loss of use and enjoyment of the Car Parks during the period for which the nuisance persisted. As Madam Leung did not have any car at the material times to use the Car Parks, she is entitled to loss of profits which are the result of her inability to use the Car Parks for the purpose of leasing out.
+209. Madam Leung had failed to adduce evidence to prove that she had lost any profits as a result of her inability to use the Car Parks when it was closed by the IO. Madam Leung is also only entitled to nominal damages for her claim against the IO under private nuisance in respect of this period of time.
+210. The measures for breach of DMC and private nuisance for interfering with Madam Leung's interests to the Car Parks for the period from 15 March 2011 to 22 January 2013 are the same. The question to be asked is what would be the position of Madam Leung if the smart cards for the Car Parks had been issued to her on 15 March 2011?
+211. In this case, there is a conspicuous lack of actual evidence on damages alleged to have been sustained by Madam Leung. In the absence of evidence establishing the quantum of damages, the appropriate award is one of nominal damages. (See Born Chief Co v George Tsai & Another [1996] 2 HKLR 188 
+) I find that Madam Leung has also failed to prove quantum of her loss for the period from 15 March 2011 to 22 January 2013. She is again only entitled to nominal damages for this period for her private nuisance claim.
+
+(C) Amount of damages
+
+212. I order that the IO do pay $10 as nominal damages to Madam Leung for its wrongful closure of the Basement and do pay another $10 as nominal damages to Madam Leung for its wrongful refusal to issue smart cards for the Car Parks to Madam Leung prior to 23 January 2013.
+
+COSTS AND COUNTERCLAIM RELATING TO MEMORANDA OF CHARGE
+
+213. Although Madam Leung failed to prove that she had suffered actual loss due to the wrongful acts of the IO in infringing her property right and under the DMC and only nominal damages are awarded to her, she has nevertheless succeeded in these parts of her counterclaim. It is noted that when Madam Leung lodged her counterclaim on 19 December 2011, the IO was still in breach of the DMC and was still infringing her property right. It was only until 23 January 2013, ie 4 weeks before the trial, that the IO had agreed to issue the smart cards for the Car Parks to her.
+
+214. As pointed out in para. 26-009 of Chitty on Contract that: "A regular use of nominal damages, however, is to establish the infringement of the claimant's legal right, and sometimes the award of nominal damages is "a mere peg on which to hang costs"."
+
+
+215. It is proper that costs should be awarded against the defendant where the purpose of the action is the creditable one of determining or protecting some right of the claimant. (See para. 10-009 McGregor on Damages 18th edition) Madam Leung should have her costs for these parts of her counterclaim.
+216. Although Madam Leung has failed in her counterclaim in respect of the period after 22 January 2013, she has nevertheless succeeded in the major part of her counterclaim for loss of use of the Car Parks. I order that the IO to pay 90% of Madam Leung's costs in relation to her counterclaim for the relief stipulated in paragraph (iii) of the prayer of her counterclaim as set out in her Amended Defence and Counterclaim, ie for loss of use of the Car Parks from 15 November 2010 onwards.
+217. Madam Leung has settled the IO's claim and does not pursue her counterclaim for the relief stipulated in paragraphs (i) and (ii) of the prayer of her counterclaim; namely for (i) a declaration that the 18 memoranda of charge are invalid; and (ii) an order ordering the IO to discharge the 18 invalid memoranda of charge. I hereby formally dismiss her counterclaim for the said relief.
+218. As Madam Leung's counterclaim for the aforesaid relief related to the 18 memoranda of charge are mirror images of the IO's claim herein, the costs of the parties in respect of such counterclaim of Madam Leung shall form part of the parties' costs in the IO's claim. Accordingly, I order that the costs of the parties in respect of the aforesaid counterclaim of Madam Leung relating to the memoranda of charge shall be in the cause of the IO's claim.
+219. The above costs orders are orders nisi which shall become absolute after 14 days from the date hereof unless any party shall apply to vary the said orders nisi within this 14 days period.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

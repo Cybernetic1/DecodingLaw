@@ -1,0 +1,124 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 24 February, 2018 at 22:32 HKT
+
+  
+
+Client ID : HKU_WLA-1
+
+Title : HKSAR v Wong Shun Kit
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Wong Shun Kit
+1 December 2017
+District Court
+DC
+Criminal Case No 481 of 2017
+DCCC 481/2017
+
+Citations:[2017] HKEC 2620 English Judgment
+
+Presiding Judges: Judge G. Lam
+
+Phrases: <Y<Criminal sentencing - road traffic offences - dangerous >Y><Y< >Y><Y< driving causing death - for reasons unknown, goods vehicle driven by defendant crashed into tow truck which was stationary within hard shoulder on highway, killing its driver who was performing duty outside truck - defendant's culpability considered>Y>
+
+Counsel in the Case: Present : Ms. Angel YUEN, PP, of the Department of Justice, for HKSAR.Ms. Judy NG of M/s Munros, for the defendant.
+
+Cases cited in the judgment: HKSAR v Lee Yau Wing (unrep., CACC 282/2012, [2012] HKEC 1713) 
+
+HKSAR v Lei Tin Seng [2011] 1 HKLRD 341 
+
+HKSAR v Wong Mun Ming [2016] 1 HKLRD 1057 
+
+R v Cooksley [2003] 3 All ER 40 
+
+Secretary for Justice v Poon Wing Kay [2007] 1 HKLRD 660 
+
+Secretary for Justice v Sze Sum [2014] 5 HKLRD 645 
+
+
+Judgment: 
+
+
+Judge G. Lam
+<G<The defendant pleaded guilty to a charge of "Causing death by >G><G<dangerous>G><G< >G><G<driving>G><G<". He drove a>G> medium goods vehicle on a highway and crashed into a tow truck which was stationary within the hard shoulder, killing its driver who was performing his duty outside the tow truck.
+
+Summary of Facts
+Location of the Accident
+
+<Y<2. The accident took place at the hard shoulder of North Lantau Highway ("the Highway") airport bound near Chainage 7.4W, Siu Ho Wan. The Highway has a total of 6 lanes, with 3 lanes each going to the Airport and Tsing Yi directions respectively. The speed limit of the relevant segment of the Highway was 80 km/h. At the time of the accident, the weather was fine with sufficient lighting. The road surface was dry and the volume of traffic was light.
+>Y>
+<Y<The Accident
+>Y>
+<Y<3. About 11:20 p.m. on 24 September 2016, Mr. LAU (PW1) was driving a private car GG318 ("the Car") along the Highway towards the Airport. The right rear tyre of the Car suddenly exploded. PW1 then drove into the hard shoulder on the left side of the Highway and stopped the Car there with its hazard lights turned on. He called for assistance and Mr. KWOK ("the deceased") arrived at the scene on a tow truck UF679 ("the Tow Truck") around 12:20 a.m. on 25 September 2016.
+4. The Tow Truck had flashing amber lights on top and the white lights at its rear were also turned on. The deceased stopped the Tow Truck in front of the Car and began putting the Car on tow. PW1 was standing inside the hard shoulder about 6 feet behind the Car. He noticed the cars on the 1st left lane slowing down as they went by, but none had to cut into the 2nd left (or middle) lane to avoid the 2 vehicles stopped at the hard shoulder.
+5. About 2 seconds before the accident, PW1 noticed the deceased, who was about 5 to 6 metres away from him, walking within the hard shoulder on the right side of the Car towards the Tow Truck. PW1 was using his mobile phone then. He suddenly saw white lights in front of him and felt a gust of wind blowing from his right to left (believed to be coming from a medium goods vehicle 3 feet away from him). That medium goods vehicle was later confirmed to be MD2613 driven by the defendant ("the MGV"). Following that, PW1 heard a loud bang noise coming from his left. He looked up and saw dust and glass debris flying in the air. He did not hear any honking. The Car was pushed forward by about 2 car-lengths, but was still inside the hard shoulder facing the Airport direction.
+6. PW1 saw the MGV, which was then about 4 car-lengths in front of the Car, moving along the 1st left lane decelerating and braking. It went forward for about 1 car-length before stopping on the 1st left lane. About 3 seconds after the collision, the MGV stopped. PW1 found the Tow Truck missing and the deceased lying on the 1st left lane behind the MGV.
+7. Mr. HO (PW2) was driving a medium goods vehicle PE1838 ("V2") along the same segment of the Highway. According to him, V2 was in the middle lane; and the MGV, the 1st left lane. Right before the accident, V2 and the MGV were parallel with each other and there were no cars in front of them. PW2 saw the MGV suddenly moving diagonally towards the left at the same speed for no apparent reason. Its driver did not steer to the right to avoid the accident or give any signals indicating that he wanted to cut into the right. At that moment, the MGV was very close to the back of the Tow Truck. PW2 then saw the deceased standing on the white line of the hard shoulder (by the right side of the Tow Truck) facing the Tsing Yi direction. At the same time, PW2 saw the left front of the MGV hitting the right rear of the Tow Truck and heard a loud bang noise. He, however, did not see if the MGV had hit the deceased.
+8. Ambulancemen arrived at the scene at 1:04 a.m. and found the deceased lying on the 1st left lane of the Highway about 5 to 6 car-lengths behind the MGV with his head facing the Tsing Yi direction. He was not breathing and had no pulse. The deceased was sent to North Lantau Hospital. He was certified dead at 1:30 a.m. the same day. The medical cause of death was head and chest injuries. Autopsy discovered the deceased having sustained multiple injuries including skull, ribs, lumber vertebrate, lungs and kidneys.
+9. PC 49380 (PW4) arrived at the scene at 12:50 a.m. and was the 1st police officer to reach there. He found the Car stopped at the hard shoulder; and the Tow Truck, in the 1st left lane in front of the MGV. The Car was about 29.5 metres behind the MGV; and the MGV was about 9.4 metres behind the Tow Truck. Upon initial enquiry, the defendant told PW4 that he was driving the MGV along the 1st left lane at 60 to 70 km/h. He saw the Car and the Tow Truck in the hard shoulder from afar. He therefore drove the MGV towards the right to avoid the Car and was about to cut into the 2nd left lane. He then saw a truck approaching at high speed from behind on the 2nd left land, so immediately steered to the left to avoid collision with that truck, causing the MGV to crash into the hard shoulder and collide with the Car and the Tow Truck. He did not see the deceased at the time.
+10. Under caution, the defendant repeated the same explanation. In his video recorded interview, the defendant stated that at the time of the accident, he had been driving the MGV for 1 to 2 months and had 10 years of experience in driving medium goods vehicles. He started working at midnight that evening. He loaded the goods at Kwai Chung and was heading towards the Airport.>Y>
+
+Mitigation & Sentence
+
+11. The defendant is 46 and married with a daughter (aged 14). He has a clear criminal record. He obtained his full driving licence in December 1990 and has 1 traffic conviction (insurance-related) in 2007. Between 2011 and 2014, he received 9 fixed penalty tickets, 8 of which were related to "Speeding".
+12. Defence solicitor Ms. NG informed me that the defendant and his wife are now casual workers earning a total of $12,000 per month. Both his wife and daughter are suffering from depression as a result of the present case. The defendant needs to contribute $3,000 each month to support his retired parents.
+13. In mitigation, Ms. NG submitted that at the time of the accident, neither the defendant was speeding nor the MGV was overloaded. The defendant was trying to avoid the fast-approaching truck on the middle lane. He made a momentary wrong judgement. The defendant has over 20 years of driving experience, with 10 years on medium goods vehicles.
+14. To the victim(s) and their families, a traffic accident which involves fatalities or serious personal injuries must be one of the most tragic events which could happen to them. It saddens me each time when I need to deal with a case in which someone has lost his/her life or has been seriously injured as a result of a traffic accident.
+15. According to the Summary of Facts, the duration of the accident was only a few seconds. But in those few seconds, the deceased lost his life. That is the reason why the court must instil into the minds of the general public that driving (whether in a professional or recreational capacity) is a privilege ‒ a privilege with great responsibilities attached. It is a message which cannot be stressed enough.
+16. In the course of sentencing, the court needs to bear in mind the principles of retribution, deterrence and denunciation in order to arrive at a punishment which is balanced, proportionate and just 1 . I must also consider the hardship caused to the deceased's family as a result of his death as well as their grievances and resentment 2 .
+17. In recent years, the courts have repeatedly emphasized the importance of having in mind a deterrent effect when sentencing in cases involving <Y<dangerous>Y> <Y<driving>Y>. I have reminded myself of the sentencing principles 3 set out by the Court of Appeal in SJ v POON Wing Kay [2007] 1 HKLRD 660 
+, in particular paragraph 10(4) "While a list can be drawn up of aggravating and mitigating factors, a sentencing court must however look at the overall circumstances and the overall culpability of the offender. In assessing the overall seriousness of a crime, culpability is often the dominant factor. It is not a case of counting the number of aggravating or mitigating factors and then arriving by mechanical means at the relevant sentence. Sentencing is not quite that exact an exercise and courts must be sufficiently nimble to take into account the overall picture in order to arrive at an appropriate sentence"
+18. In HKSAR v LEI Tin Seng [2011] 1 HKLRD 341 
+, Yeung JA (as he then was) held :- 
+
+17. "This Court has repeatedly stressed that a vehicle in the hands of an irresponsible driver is an extremely lethal weapon. A driver should always be careful when he drives so as to avoid killing/causing injuries to innocent citizens.
+
+---
+
+19. The Court is duty bound to give out a clear message that anyone who commits the offence of <Y<dangerous>Y> <Y<driving>Y> causing death will be severely punished.
+
+---
+
+22. This Court cannot overlook the fact that if a driver is sentenced to imprisonment for a traffic accident, that is in itself a very harsh punishment regardless of the length of imprisonment.
+
+
+
+
+19. When determining the starting point in the present case, I treat the defendant as a law-abiding citizen and having maintained a mediocre driving record. It is not an easy task to send someone like the defendant, who has never lost his freedom, to prison. I have considered long and hard what the appropriate length of imprisonment should be. I understand the traumatic effect of a prison term would have on the defendant and his family. The court, however, must send a clear message to the general public that motor vehicles can be lethal and that drivers must shoulder the responsibility for their acts on the road.
+20. Based on the materials before me, it seems quite clear that prior to the collision, both the Tow Truck and the Car were stationary inside the hard shoulder. According to a passer-by bus driver (PW3), shortly before the collision, the right side of the Tow Truck was about 2 feet away from the 1st left lane and the right rear tyre of the Car was on the white line beside the 1st left lane 4 .
+21. Upon seeing the Tow Truck and the Car from afar, it is of course prudent for the defendant to try to move from the 1st left lane into the middle lane in order to stay completely away from the hard shoulder. What I am unable to comprehend is, even if the defendant's attempt to move into the middle lane was unsuccessful (due to a fast-approaching vehicle coming from behind on the middle lane), he could have simply stayed on the 1st left lane. Based on PW1's observation stated in the latter part of paragraph 4 above, the MGV could not have come into contact with the Tow Truck or the Car had the defendant continued to drive normally (and perhaps slowly) on the 1st left lane. How and why he drove into the hard shoulder may well remain a mystery.
+22. I consider the present case falling almost within the intermediate culpability category on the Cooksley's scale 5 . The accident happened because for reasons unknown, the defendant drove into the hard shoulder. There is no evidence suggesting that he did so deliberately. I gave him the benefit of doubt that either he over-steered when he retracted from his attempt to move into the middle lane or he lost control of the MGV when he drove by the Tow Truck and the Car.
+23. The deceased was performing his duty in the hard shoulder as a tow truck driver. He did nothing wrong to put himself in danger. The hard shoulder is meant to be a refuge for road users who have an emergency as well as assistance providers. They should not need to worry about their personal safety within that area.
+24. Having considered all relevant factors, I adopt a starting point of 2 years' imprisonment. A one-third discount is given for the guilty plea, reducing the sentence to 16 months. Apart from this, I see no other mitigating factors which warrant any further discount. I sentence the defendant to 16 months' imprisonment.
+25. In addition to imprisonment, I make a disqualification order for a period of 5 years 6 (the disqualification period will start to run from the date of sentencing 7 ). I also order the defendant to complete a driving improvement course at his own expense within the last 3 months of his disqualification period 8 . In my view, it is unnecessary to order the defendant to re-take his driving licence test.
+ 1See HKSAR v LEE Yau Wing CACC 282/2012 
+, paras 32 to 39.
+ 2See SJ v SZE Sum [2014] 5 HKLRD 645 
+, para.26 at p.650.
+ 3See para.10 at pp.667-668.
+ 4See paragraph 8 of the Summary of Facts and still photo 5 captured from PW3's car camera footage
+ 5See R v Cooksley [2003] 3 All ER 40 
+.
+ <G<6Section 36(2) and (2A) of the Road Traffic Ordinance (Cap.374) stipulates a mandatory disqualification period of not less than 5 years in the case of a 1st conviction. See also HKSAR v WONG Mun Ming [2016] 1 HKLRD 1057>G> 
+.
+ 7Since the defendant has no previous conviction of a "scheduled offence", by virtue of section 69A(1)(b) of Cap.374, the entire section 69A does not apply. Hence, the court has no power to order the disqualification period not to start to run until he finishes serving his prison term.
+ 8See section 72A(3B) of Cap.374.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

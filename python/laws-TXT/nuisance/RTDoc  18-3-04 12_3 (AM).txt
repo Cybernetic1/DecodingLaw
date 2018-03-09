@@ -1,0 +1,316 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:03 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Tin Kin Ka Clara v Chan Koon Cheong
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Tin Kin Ka Clara v Chan Koon Cheong
+
+
+
+11 May 2015
+District Court
+DC
+Civil Action No 3139 of 2012
+DCCJ 3139/2012
+
+Citations:[2015] HKEC 779 English Judgment
+
+Presiding Judges: Judge Andrew SY Li
+
+Phrases: <Y<Tort - nuisance - water seepage from premises to premises immediately below - whether defendant had knowledge of origin of seepage - whether remedial steps taken within reasonable time
+Land law - building management - water seepage from premises to premises immediately below - whether breach of deed of mutual covenant>Y>
+
+Counsel in the Case: Ms Candy Tang, instructed by Cheng, Chan & Co, for the plaintiffMr Ernest CY Ng, instructed by Hon & Co, for the defendants
+
+Cases cited in the judgment: So John & Another v Lau Hon Man & Others [1993] 2 HKC 356 
+Tech Focus Ltd v Austria Property Management Ltd & Another [2004] 1 HKC 343 
+Wing Yim Fong v Lee Hok Chau (unrep., DCCJ 343/2013, [2014] CHKEC 700) 
+張秀玲及吳炳漢 對 鄭禮莊 (unrep., CACV 268/1998) 
+Hui Ling Ling v Sky Field Development Ltd (unrep., HCA 35/2007, [2012] HKEC 637) 
+
+Leung Wai Kee v Tam Yuet Sheung (unrep., DCCJ 5716/2007, [2012] HKEC 959) 
+
+Mak Wai Yim v Tam Siu Ling (unrep., DCCJ 1428/2012, [2014] HKEC 87) 
+
+Tong Chi Ying v Shum Ping Kuen Benson (unrep., DCCJ 3566/2004, [2010] HKEC 1479) 
+
+Tse Chit Sang v Ho Mei Ling (unrep., DCCJ 2404/2005, [2009] HKEC 991) 
+
+Wong Hon Hung v Jolly Birds Ltd (unrep., DCCJ 5341/2006, [2008] HKEC 1072) 
+
+
+Judgment: 
+
+
+Judge Andrew SY Li
+1. This is a water seepage case involving two neighbours living in a multi-storey apartment block.
+
+INTRODUCTION
+
+2. The plaintiff is the registered owner of the premises situated at Flat 25G, Dover Court, Tower 25, South Horizons, Ap Lei Chau, Hong Kong ("Flat 25G" or "the plaintiff's premises").
+3. The 1st and 2nd defendants are husband and wife and are the registered owners of the premises situated directly above the plaintiff's premises, ie Flat 26G in the same building ("Flat 26G" or "the defendants' premises").
+4. The plaintiff had been complaining of water seepage in the master bathroom in her apartment over 4 separate periods since or about May 2007. The water seepage re-occurred in 2010, 2011 and 2012.
+5. The primary issue I am asked to decide is the cause of the seepage, ie whether the seepage had come from the defendant's premises during those 4 periods. If so, whether there was any breach of the DMC or duty under the tort of nuisance.
+
+BACKGROUND
+1st period
+
+6. On or about 16 May 2007, the plaintiff noticed seepage of water at the ceiling of the master bathroom in Flat 25G. She made a complaint to the management office of the development ("the Management Office") who in turn informed the defendants of the matter.
+7. On 17 May 2007 the Management Office carried out seepage test at Flat 26G and found leakage at the pipes in the shower unit in the master bathroom, which led to water seepage to the ceiling of the master bedroom in Flat 25G.
+8. On or about 28 May 2007, the defendants engaged contractors to re-pave the floor and apply water-proof layers in Flat 26G. They also re-painted the ceiling of Flat 25G. The seepage of water then ceased. The plaintiff was apparently satisfied with the repair work on that occasion.
+
+2nd period
+
+9. On 20 April 2010, almost 3 years after the seepage in 2007, the plaintiff noticed water dripping from the ceiling in her master bathroom. She made a complaint to the Management Office accordingly.
+10. On 30 April 2010, the plaintiff, via the Management Office, filed a complaint to the Buildings Department/Food and Environmental Hygiene Department Joint Office ("the Joint Office") in relation to the seepage problem. The Joint Office could not ascertain the source of the seepage despite having carried out colour water test to the drainage pipes: see letter from the Joint Office to the plaintiff dated 25 May 2010.
+11. On 4 May 2010, the Management Office carried out seepage test at Flat 26G and found that there was seepage at the ceiling of Flat 25G. They informed the owners of 26G to carry out inspection to the bathroom utilities and to carry out appropriate repairs.
+12. By October 2010, the Joint Office still could not ascertain the source of the seepage despite further tests (including colour water test (「色水測試」); water pond test (「儲水測試」) and water spray test (「灑水測試」)) conducted by the consultant engaged by it for the purpose: see the Joint Office's letter to the plaintiff dated 14 October 2010.
+13. The plaintiff alleges that the water seepage had ceased about 2 weeks after the Management Office liaised with the defendants regarding the repairs.
+
+3rd period
+
+14. On 15 March 2011, the plaintiff again found water seepage at the same spot in the ceiling of her master bathroom. She again complained to the Management Office and it sent its staff to carry out inspection and confirmed the occurrence of the seepage.
+15. On 18 March 2011, the plaintiff filed another complaint to the Joint Office.
+16. On 23 May 2011, the Joint Office replied to the plaintiff and informed her that despite colour water test carried out by them on 8 April 2011, they could not ascertain the source of the seepage: see letter from Joint Office to the plaintiff dated 23 May 2011.
+17. On 3 August 2011, the Joint Office wrote to the plaintiff again and informed her that despite extensive tests carried out by the consultant engaged by it (including colour water test, water pond test and water spray test), they still could not ascertain the source of the seepage: see letter from Joint Office to the plaintiff dated 3 August 2011.
+18. The plaintiff alleges that the water seepage had ceased about 2 weeks after her complaint to the Joint Office on this occasion.
+
+4th period
+
+19. In or about early March 2012, the plaintiff found water seepage again at the same spot in her master bathroom, causing the paint and cement of the ceiling to peel off.
+20. On 5 March 2012, the plaintiff filed a complaint to the Joint Office regarding the seepage.
+21. On 6 April 2012, the plaintiff made a complaint to the Management Office where it sent its staff to carry out inspection at Flat 25G and confirmed that there was such seepage. The Management Office also related the matter to the defendants where the defendants informed the Management Office that they had ceased using their bathroom for one week already.
+22. On 30 April 2012, the Joint Office wrote to the plaintiff and informed her that despite colour water tests carried out by them on 27 March 2012, they could not ascertain the source of the seepage: see letter from the Joint Office to the plaintiff dated 30 April 2012.
+23. On 20 June 2012, the Joint Office wrote to the plaintiff and informed her that despite having carried out stage I and stage II of the investigation, the seepage still persisted and the source of the seepage could not be ascertained. They said they would proceed to stage III of the investigation: see letter from the Joint Office to the plaintiff dated 20 June 2012.
+24. On 12 October 2012, the Joint Office wrote to the 1st defendant and informed him that despite stage III of the investigation carried out by the consultant engaged by it on 15 June 2012, they still could not ascertain the source of the seepage. When the consultant returned on 7 July 2012 to inspect the plaintiff's premises, they could not find any colour water used in the tests had seeped through to the plaintiff's premises. However, they noticed that the water seepage persisted at the plaintiff's premises.
+25. The plaintiff alleges that the water seepage had ceased by about 20 April 2012 on this occasion.
+
+Subsequent actions
+
+26. In June 2012, the plaintiff instructed a surveyor by the name of YT Tang & Associates Limited to conduct an inspection for water seepage at her premises. However, the report was never adduced as expert evidence in this case and therefore does not form part of the consideration.
+27. On 7 September 2012, the plaintiff commenced the present proceedings.
+
+DISCUSSION
+The Joint Expert Report
+
+28. Mr Patrick Lau Wing Wai and Mr Jacob Tsang Tat Ming were appointed as experts respectively by the plaintiff and the 1st and 2nd defendants. They have prepared a joint expert report dated 16 August 2013 after a joint site inspection to the plaintiff's and the defendants' premises on 29 June 2013 ("Joint Expert Report").
+29. The experts had not conducted any water tests during their inspection, let alone any site specific tests like those conducted by the Joint Office during the 2nd to 4th periods. All they have done was to conduct a visual inspection of the two premises and took into account of (i) the incident report prepared by the Management Office; and (ii) the results of the tests conducted by the Joint Office during the 2nd to 4th periods.
+30. I suspect the main reason why such an approach was adopted is that as the seepage complained of took place between 2007 and 2012, there was very little point for them to carry out any water tests in 2013. Hence, quite understandably, the experts mainly relied on the information they have obtained during the site inspection in 2013, the incident report from the Management Office and the test results obtained by the Joint Office.
+31. The following is what I understand the experts have been able to agree upon in the Joint Expert Report:- 
+
+(a) there was water seepage in 2007 and the problem was fixed by the defendants after the shower area in the defendants' master bathroom was replaced and decoration of the plaintiff's premises was completed in early July 2007: see §5.1 (a);
+
+(b) there was water seepage during the 2nd period but the source of the seepage could not be ascertained by the Joint Office: see §5.1 (b);
+
+(c) there was water seepage during the 3rd period even though there was no rainfall occurred on the day of the reporting of the water dripping and the day immediately before: see §5.1 (c);
+
+(d) there were reported locations of dampness on the ceiling of the master bathroom at the plaintiff's premises on 18 March 2012: see §5.2;
+
+(e) there were defects on the ceiling of the master bathroom on the plaintiff's premises such as cracks, peeling off of paint on the day of the joint site inspection on 29 June 2013, but no water seepage was found on that day: see §5.3;
+
+(f) there were no extensive and serious defects found on the external walls of the master bathroom of the plaintiff's premises: see §5.4;
+
+(g) there were substantial alterations in the master bathroom at the defendants' premises which included the removal of the original bathtub, the replacement of the bathtub by a shower tray at the same location; slight relocation of the water closet and relocation of the wash hand basin: see §5.5;
+
+(h) transparent sealant could be found on all the tile joints on walls and floor of both the master bathroom and the guest bathroom at Flat 26G: see §5.6.
+
+
+32. The experts have identified 3 possible causes to the water seepage at the plaintiff's premises:- 
+
+(1) from the external walls;
+
+(2) from the pipes of Flat 26G; and
+
+(3) from the failure of waterproofing of the master bathroom at Flat 26G.
+
+
+33. Unfortunately, the experts could not reach a common opinion in relation to the above 3 possible causes.
+34. The defendants' expert opines that the possibility of rainwater seepage from the external walls could not be precluded due to heavy rainfall (45.5 mm) recorded by the Hong Kong Observatory on 5 April 2012. The defendants' expert also relies on the relatively dried moisture content measured by them on the day of the site inspection when compared with the photographs kept by the Management Office during the complained periods. The defendants' expert further relies on "some crevices and holes" he had noted on the immediate external wall finishes of the building to support his opinion that the nuisance of seepage had been resulted from such "cracks".
+35. On the 2nd possible cause of the seepage, ie water coming from the pipes from the master bathroom of Flat 26G, the plaintiff's expert opines that the major alterations to the layout of the master bathroom and the alternations at the guest bathroom of Flat 26G (which consisted of poor workmanship) might have been the cause of the water seepage to the plaintiff's premises.
+36. On the other hand, the defendants' expert considers the seepage problem had been fixed by June 2007 by the defendants. In addition, he relies on the fact that only the Management Office had recorded the source of water seepage was from Flat 26G while the Joint Office could not ascertain the source of the seepage. Therefore, he doubts whether the water seepage had come from the pipes of the defendants' premises.
+37. On the 3rd possible cause of the seepage, the plaintiff's expert opines that due to the changes in the wall and floor finishes of the master bathroom and the guest bathroom at Flat 26G, the integrity of waterproofing system had been damaged and water seeped through the floor to Flat 25G. Further, he opines that the new transparent sealant of the wall and floor tiles had strengthened the integrity of the waterproofing system of the master bathroom at Flat 26G.
+38. The defendants' expert on the other hand relies on the defendants' assertion that the "new transparent sealants" were applied in 2012 and not recently. The defendants' expert also relies on the findings made by the Joint Office where they could not ascertain the source of the seepage during the 2nd to 4th periods. Thus, the defendants' expert concludes that it is doubtful whether there had been water seepage as a result of the failed waterproofing system found within the master bathroom in Flat 26G.
+
+Issue of Causation
+
+39. It will be convenient for me to discuss the issue of causation according to the 4 different periods where water seepage had allegedly been found by the plaintiff.
+
+(i) 1st period (May to July 2007)
+
+40. I accept the plaintiff's case that the water seepage during this particular period was caused by the major alternation work done at the defendants' master bathroom at Flat 26G. Several reasons have led me to this conclusion.
+41. First, judging from the evidence, the water seepage only started after major alternation work was carried out by the contractors at the defendants' master and guest bathrooms. There is no evidence to suggest that any serious water seepage had occurred at the plaintiff's premises prior to the time when the major renovation and alternation works were done to the defendants' premises.
+42. Second, it is apparent from the documentary evidence that the defendants only agreed to carry out the repairs after they had asked the Management Office to carry out seepage test at Flat 26G. And it was only after the Management Office had confirmed with them that it was the drainage pipes of the shower tray in their unit which had caused the water seepage that they agreed to pay for the repairs. The fact that the defendants only agreed to carry out repairs and stopped using the master bathroom after the Management Office's finding is, in my view, not consistent with the 2nd defendant's oral evidence given in court. I therefore do not accept her case that she and her husband had only agreed to do so out of goodwill and to keep good neighbouring relationship. Hence, I would reject the 2nd defendant's evidence that the agreement to pay for the repair did not represent their admission to liability for the seepage during the 1st period.
+43. Under cross-examination, the 2nd defendant denies that the Management Office had performed any test in 2007 or had they informed her and her husband of the result. I reject such evidence as it is clear that according to the incident report of the Management Office, there is indisputable documentary record to show that tests were being carried out by them and as a result advice was given to the defendants to carry out repair. In my view, there is no reason why the Management Office, being a neutral party to the present proceedings, had reason to put anything in their records which are not true at all. However, what is not clear from the incident report is what test or tests had been carried out by the Management Office and why they concluded that the seepage had come from the defendants' premises. Thus, the best the incident report of the Management Office can show is that there was the existence of the seepage but not the cause of the seepage.
+44. Third, I also reject the 2nd defendant's oral evidence that the reason why they had taken such a "benevolent approach" was due to (i) the defendants had moved in for less than a year prior to that incident; (ii) that they felt pity for the plaintiff after visiting her apartment; (iii) it was their first time dealing with such issue and they had no experience of such matter before; (iv) they were frightened and did not want to get involved in legal proceedings and would rather spent money on the renovation; and (v) they did not know that there could be tests done at the time which could find out the cause of the seepage. In my view, not only the above explanations are contrary to common sense, they are also inconsistent with the various actions taken by the defendants after the plaintiff's complaints to the Management Office, particularly in agreeing to pay for the repairs without first finding out the cause of the seepage.
+45. Fourth, given the proximity of time between the major alternation work done at the defendants' bathrooms and the start of the water seepage, I consider that the most likely cause of the water seepage during the 1st period was due to the work done to the drainage pipes at the defendants' premises. In this regard, I reject the defendants' submission that it was a mere "coincident" that the seepage occurred at the time when the renovation work was done at Flat 26G.
+46. Lastly, I accept the plaintiff expert's opinion that the seepage during this period might have caused by the major alterations to the layout of bathrooms at the defendants' premises. I do not find the suggestion by the defendants' expert that the seepage during this period might have been caused by seepage from the external walls of the building credible at all. Not only there was no apparent cracks or defects found on the external wall of the master bathroom, including any holes or crevices, there was simply no heavy rainfall recorded during this period which would go to support such theory.
+
+(ii) 2nd period (April to May 2010) & 3rd period (March to June 2011)
+
+47. I agree with Mr Ernest Ng, counsel for the defendants, that since there was no material change in the circumstances between the 2nd and 3rd periods, it will be appropriate to consider the cause of the seepage during these 2 periods together.
+48. Insofar as the evidence of the plaintiff is concerned:- 
+
+(1) During both periods, the Management Office had attended the plaintiff and the defendants' premises to carry out inspections. For the 2nd period, on 4 May 2010, they had carried out seepage test at Flat 26G and found that there was seepage at 25G's master bathroom ceiling. They also informed the defendants to inspect their master bathroom facilities and to carry out appropriate repair: See Management Office's incident report entry on 4 May 2010.
+
+(2) Regarding the 3rd period, after the Management Office received the complaint from the plaintiff, they only sent their staff to carry out inspection at Flat 25G and confirmed that "the situation was true" （「情況屬實」）. According to the incident report, the Management Office did not carry out any seepage test on that occasion. Therefore, there is no direct evidence coming from the Management Office on the cause of the seepage during the 3rd period.
+
+(3) During both periods, after the plaintiff made the complaints to the Management Office and the Joint Office and when the matters were brought to the attention of the defendants, the water seepage allegedly ceased about 2 weeks thereafter. The defendants' counsel submits that there was no such "liaising" between the complaint and any act done by the defendants during the time. In my judgment, if the plaintiff's evidence is to be believed, then it may be too much of a coincident that the water seepage ceased after the plaintiff had made the complaints and when the matters were brought to the attention of the defendants. However, the problem with the plaintiff's case on this is that there is simply no evidence to suggest that the defendants had done something at the premises during these 2 periods which might have caused the water seepage to cease. More importantly, the plaintiff has not been able to prove, by way of evidence, what was the cause of the cessation of the seepage during those periods. This in my view casts serious doubt on the reliability of the plaintiff's evidence on the time of the ceasing of the seepage.
+
+
+49. Insofar as the defendants' case is concerned:- 
+
+(1) The 2nd defendant in her evidence confirms that there was no repair work done as a result of the plaintiff's complaints during those 2 periods. The plaintiff does not seem to dispute with that claim.
+
+(2) The defendants also point out the fact that on both occasions (as well as during the 4th period) they had replied to the plaintiff that they would be happy to carry out any repairs if the plaintiff could provide proof that the seepage was caused by them.
+
+
+50. For the 2nd and 3rd periods, the defendants heavily rely on the fact that the repeated tests carried out by the Joint Office could not ascertain the cause of the seepage during those periods. In particular, the defendants rely on the fact that the colour water tests, as well as other site specific tests, carried out by the consultants appointed by the Joint Office had yielded no positive result in proving what was the source or cause of the seepage during those two periods.
+51. Ms Candy Tang, counsel for the plaintiff, has fairly accepted that the tests carried out by the Joint Office had not been able to identify the source of the seepage.
+52. In my view, the test results of the Joint Office should be given significant weight in this case for the following reasons:- 
+
+(1) Unlike the mere visual inspection carried out by the experts, the tests carried out by the staff as well as the consultants appointed by the Joint Office were thorough and site specific. They included (i) colour water test (「色水測試」); (ii) water pond test (「儲水測試」); and (iii) water spray test (「灑水測試」) and monitoring of humidity change specific to the defendants' premises including its master bathroom and guest bathroom as well as their walls.
+
+(2) In the absence of any evidence of bias (and there is none in this case), test results of the Joint Office, being contemporaneous and neutral, should be given great weight: see eg Hui Ling Ling v Sky Field Development Limited HCA 35/2007 (unreported) , 8 May 2012 at §58.
+
+(3) No challenge has been raised by the plaintiff or her expert as to the propriety as well as accuracy of those tests and the fact that, despite of those very thorough and site specific tests carried out over long periods of time, it has not been shown that the source of the seepage had originated from the defendants' premises.
+
+
+53. In this regard, I bear in mind the well established principle of law that there is no assumption that, in a water leakage case, the seepage is necessarily caused by the premises above. In each case, the burden of proof lies with the plaintiff to establish, on a balance of probabilities, the source of water was from the premises above. It is not for the defendant to find out or to identify what is the source of the leakage or to prove its origin did not come from his own premises: see Hui Ling Ling v Sky Field Development Limited, supra at §§23 to 25.
+54. Similar sentiments have been expressed by the Court of Appeal in the case of 張秀玲及吳炳漢 對 鄭禮莊 CACV 268/1998 
+(unreported) 9 April 1999 where it stated clearly that knowing the consequences of the seepage does not equal to knowing the source of it. From a legal point of view, if a person does not know the source of the seepage coming from its own property, then it can be said that he has no intention to cause nuisance to his neighbour and the tort of nuisance would not able to stand.
+55. In Leung Wai Kee & Lau Sau Lin v Tam Yuet Sheng DCCJ 5716/2007 
+
+(unreported), 10 July 2012, Deputy District Judge Chan at §43 stated the test as follows:- "Essentially, a defendant must be shown to have actual or constructive notice that water originated from his property. Under this test, "knowledge" can be what a defendant actually knew, or what he should have known with normal and reasonable diligence. If it can be shown that a defendant has actual or constructive knowledge that the water leakage/seepage originated from his property, he will be liable unless remedial action is taken without unreasonably delay."
+
+
+56. Thus, in order to prove nuisance in a seepage case, whether as a standalone cause of action or as a part of the breach of DMC, a plaintiff must show, besides the seepage itself and the issue of causation, that (i) the defendants actually or constructively knew that the water originated from their premises; and (ii) remedial action was not taken within a reasonable time.
+57. I agree with Mr Ng's submission that the plaintiff's expert opinion that the seepage during these 2 periods might have been caused by the "poor workmanship" of the pipeworks alteration is not supported by any direct or contemporaneous evidence. Further, it has been accepted by the plaintiff's counsel that there was no direct evidence to suggest that the pipeworks in question served exclusively the defendants' premises. The plaintiff's expert also has not explained the reasons why he believed that it was due to the "poor workmanship" of the pipework alternation which might have caused the seepage. In addition, the plaintiff expert's view that the seepage might have been due to the damage to "the integrity of waterproofing system has been damaged" which allowed water seeping through the floor to the plaintiff's premises is not supported by any contemporaneous or objective evidence. In fact, it directly contradicts the findings made by the Joint Office, which, despite lengthy and thorough site specific tests carried out by the consultants engaged by them, could not ascertain the source of the seepage. Thus, in this regard, I prefer the opinion of the defendants' expert when he stated that it is doubtful whether there has been water seepage as a result of the failed waterproofing system within the master bathroom, at least insofar as the 2nd and 3rd periods are concerned.
+58. For the aforesaid reasons, I find that the plaintiff has failed to establish causation for the 2nd and 3rd periods.
+
+(iii) The 4th Period (March to April 2012)
+
+59. I agree with Mr Ng's submission that, insofar as the 4th period is concerned, the plaintiff's evidence is only confined to (i) her complaint made to the Management Office and the latter's confirmation of the existence of seepage (but not the cause thereof); and (ii) information given by the Management Office in relation to the defendants' stoppage in using the bathroom.
+60. During the course of her evidence, the 2nd defendant mentioned 2 matters which seem to suggest that the water might have originated from the defendants' premises. The first one was the application of sealant by her husband to the bathroom tiles and door. The second one was the defendants having stopped using the bathroom between 1 and 6 April 2014. While both matters appeared to be plausible at first glance, in my view, they turned out to be no more than red-herring.
+61. In her witness statement, the 2nd defendant claims that, due to the various water tests undertaken by the Joint Office and its consultants in 2010 and 2011, the door of the bathroom expanded and could not be shut and the wall of the bathroom was also damaged. Therefore, sealant was used to fix the damage to the door as well as the wall. The 2nd defendant added that her husband had made use of some of the leftover sealant to fill up the gaps in between the floor tiles at the master bathroom. However, under cross-examination, she admits the alleged "damage" were just stains at the wall. She further admits that the sealant was used to improve the outlook of the wall rather than to fix the damage caused during the tests. Also, under cross-examination, the 2nd defendant admits that the sealant was only applied to the adjoining points between the wall and the floor inside the shower tray and at the edge of the wooden floor.
+62. When confronted with the experts' agreed opinion that transparent sealant was found on all the tile joints on the walls as well as the floor of the master bathroom, the 2nd defendant then changed her story to say that she did not inspect each and every single tiles joint on the floor and therefore she could not exclude the possibility that sealant was applied to the whole of the floor in the shower tray.
+63. I do not accept the 2nd defendant's evidence that the sealant was applied in order to assist the wooden door which could not be shut after the Joint Office had carried out water storage tests. I simply cannot see how applying sealant at the edge of the door would help to fix that problem.
+64. I also do not believe that the real reason of applying sealant to the wall was for aesthetic purposes. Rather, I believe that the defendants tried to apply sealant in order to improve the integrity of the waterproof functions in both the wall and floor in the master bathroom and to prevent water leakage to the plaintiff's premises.
+65. Be that as it may, in my judgment, that does not necessary mean the application of the sealant as well as the stoppage in using the bathroom by the defendants had any causative link with the seepage of the water in the plaintiff's premises. My reasons are as follows.
+66. During this period, the Joint Office had repeated the 3 tests and monitored the humidity change specific to the defendants' premises as they had done during the 2nd and 3rd periods. Despite of those very thorough and comprehensive tests, they still could not ascertain the source of the seepage. What is significant to note here is that during the 4th period, the consultant appointed by the Joint Office was not able to observe any dyed water used in the tests had seeped through to the plaintiff's premises when they returned to the plaintiff's premises for inspection about 3 weeks later. However, in the meantime, the water seepage situation continued. To me, this would strongly suggest that the water seepage was not originated from the bathrooms of the defendants' premises. Otherwise, one would expect that the dyed water used in the tests would have seeped through to the plaintiff's premises. Further, it suggests that despite of the application of the sealant to all the joints at the wall and floor of the defendants' master bathroom, it did not prevent water continued to seep through to the plaintiff's premises. Hence, it indicates that the water probably has come from a different source rather than from the defendants' bathrooms.
+67. On the defendants' temporary suspension of use of their bathroom between 1 and 6 April 2012, my view is that it does not help the plaintiff in establishing causation of the seepage during this period at all. The plaintiff seems to suggest that due to the defendants' stop in using the bathroom during that period, the water seepage ceased on 20 April 2012. However, this has ignored the fact that the 2nd defendant stated in evidence that they had resumed using the bathroom after the plaintiff's complaint (as they did not see any point in stop using their own bathroom). To my mind, this shows that even after the defendants had resumed the use of the bathroom, the water seepage could stop, thus undermining the plaintiff's submission that there was a causative link between the use of the bathroom and the seepage.
+68. More importantly perhaps is the fact that the evidence shows that, save from 1 to 6 April 2012, the master bathroom was used continuously throughout the 4th period. If the seepage had originated from the defendants' premises, then I would expect the various tests undertaken by the Joint Office's consultant would have been able to either confirm or ascertain that. The fact that they were not able to do so despite of those very thorough examinations carried out in June 2012 really speaks for itself.
+69. In the aforestated premises, I find the plaintiff has failed to establish that the cause of the seepage during the 4th period in her premises has anything to do with the defendants' premises.
+
+Conclusion on issue of causation
+
+70. To conclude, I find the plaintiff has successfully established causation of the seepage for the 1st period but not the 2nd to 4th periods. I come to the view that the plaintiff has failed to discharge the burden of proof placed upon her to show that the water seepage during the 2nd to 4th periods had originated from the defendants' premises.
+71. The next matter I need to consider is whether there was any breach of the DMC or tort of nuisance for the water seepage caused during the 1st period.
+
+Breach of the DMC
+
+72. The plaintiff relies on the breach of 3 clauses under Section V of the DMC, viz. Clauses A6, A12 and A13. They are as follows:- 
+"A. Covenants, Provisions and Restrictions to be observed and performed by all the Owners:- 
+
+[]
+
+6. 'Each Owner shall indemnify all other Owners and occupiers against any actions, proceedings, claims and demands whatsoever in respect of any loss or damage to any person or property caused by or as the result of the act or negligence of such Owner or his occupiers and the breach of the Owner's obligations hereunder by or through or in any way owing to the overflow of water or the escape of fumes, smoke, or anything else originating therefrom.'
+
+[]
+
+12. 'Each Owner shall maintain his Unit in good repair and condition to the satisfaction of the Manager and in such manner so as to avoid any loss, damage, nuisance or annoyance to any other Owners.'
+
+[]
+
+13 'No Owner shall do or suffer or permit to be done anything whereby the flushing or drainage system of any part of the Estate may be clogged or the efficient working thereof may be impaired.
+
+[]"
+
+
+
+
+73. I agree with Mr Ng that in order for the plaintiff to be able to trigger the indemnification obligation under Clause 6A, she has to prove (1) loss or damage to person or property; (2) causation; (3) act or negligence of the defendants; (4) breach of obligation "hereunder"; and (5) overflow of water or escape of fumes or smoke or anything originating thereform.
+74. In my judgment, while the plaintiff will able to establish (1); (2) and (5) above for the 1st period, there is no evidence to suggest that the seepage was caused by the negligence on the defendants' part. Further, there is nothing to indicate that there was a breach of obligation "hereunder", namely any other clauses under the DMC.
+75. Similarly, for the plaintiff to trigger a breach of clause 12A, she must show that (1) the defendants' flat had not been maintained "in good repair and condition to the satisfaction of the Manager; or (2) in such manner that failed to avoid any loss damage, nuisance or annoyance to the plaintiff.
+76. I find the plaintiff has failed to show by way of evidence that the defendants' premises had not been maintained "in good repair and condition to the satisfaction of the manager" [emphasis added]. I accept Mr Ng's submission that if one goes through the correspondence between the Management Office and the parties, there is nothing to indicate that the Management Office was dissatisfied with the repair and condition at the defendants' premises. To the contrary, for the 1st period, the Management Office expressed satisfaction with the work done by the defendants, at least from the point of view of the plaintiff: see incident report entry for 11 July 2007. Thus, I find there was no breach for this clause.
+77. For a breach of clause A13, the plaintiff will have to show that (1) the defendants did or failed to do anything; (2) causation; (3) the "flushing or drainage system or any part of the Estate may be clogged" or "the efficient working thereof may be impaired".
+78. In my judgment, there is simply no evidence to suggest that the flushing system or drainage system had not been working efficiently. There is nothing to suggest that the drainage system had been "clogged" or not working efficiently which in turn led to the seepage during the 1st period.
+79. In the aforesaid premises, I find there was no breach on the relevant clauses on the DMC in this case.
+
+Breach of duty under the tort of nuisance
+
+80. In order to establish a breach of duty under the tort of nuisance, the plaintiff must establish the defendants had: 
+
+(1) actual or constructive knowledge of the origin of the seepage; and
+
+(2) failure to take remedial steps within reasonable time: See eg Tong Chi Ying & Another v Shum Ping Kuen Benson & Another unreported, DCCJ 3566 of 2004 (Deputy Judge R Yu; 24 September 2010); 張秀玲及吳炳漢 對 鄭禮莊, supra.
+
+
+81. Based on the findings made above, I dismiss the defendants' claim that they did not have any knowledge over what was the exact origin of the water seepage. As found above, I do not accept the fact that the defendants agreed to conduct the repair work after the complaint made by the plaintiff without any intention to admit liability during the 1st period: see §§43-48 above.
+82. In any event, even if the defendants did not have actual knowledge, I find that they at least would have constructive knowledge of the location of the seepage when the Management Office had brought the matter to their attention and confirmed that the seepage was caused by their renovation work during the 1st period.
+83. However, in this case, notwithstanding of the actual or constructive knowledge that the defendants had during the 1st period, I am of the view that they have taken reasonable steps to remedy the situation: 
+
+(1) The defendant had paid the works done in both the plaintiff's and the defendants' premises even before any formal investigations or tests were done by the Joint Office to find out the exact cause of the seepage;
+
+(2) The plaintiff was satisfied with the work done at her premises which were carried out by a contractor nominated by her; and
+
+(3) There was no further complaint of leakage / seepage for a period of almost 3 years after the repair work was done in 2007 which indicates that the remedial work done at both the plaintiff and the defendants' premises were of a reasonable and satisfactory standard.
+
+
+84. In the aforesaid circumstances, I am of the view that despite the seepage was caused by the major alteration work done at the defendants' bathroom and the fact that the defendants had actual or constructive knowledge of the same during the 1st period, reasonable remedial steps were taken by the defendants within a reasonable time. As such, the plaintiff has failed to prove one of the key elements of the tort and her claim under nuisance must fail also.
+
+Relief and damages
+
+85. Given my findings above, there is strictly no need for me to go into the issue of relief and damages at all. However, for the sake of completeness, I would like to briefly mention what relief or damages I would give should I find liability against the defendants in this case.
+86. In my judgment, it is clearly inappropriate to grant an injunction of a prohibitory nature which the plaintiff has asked for under the statement of claim for 2 reasons, namely, (i) for want of particularity; and (2) for lack of necessity.
+87. It is trite that a plea for a prohibitory or mandatory injunction must be "framed in precise terms so that everybody, including particular the [defendants], must know exactly what [they] must do and what steps [they] must take": Tech Focus Ltd v Austria Property Management Ltd & Another [2004] 1 HKC 343 
+at §2; Mak Wai Yim & Leung Wai Chun v Tam Siu Ling & Chan Choi Wun DCCJ 1428 of 2012 
+, unreported; 16 January 2014 at §66.
+88. In my judgment, the plea of injunction made by the plaintiff, namely, "(A)n injunction forbidding the Defendant to permit and/or suffer the occurrence of water leakage from the Defendants' premises into the Plaintiff's premises" is so wide that it practically is a mandatory injunction. However, at the same time, it lacks of particulars as to what precisely the act or omission that the defendants are forbid or mandated to do. Further, as all the evidence indicates that the water seepage had been confined to the plaintiff's master bathroom area, the injunction asked for covering all areas within the defendants' premises is unnecessary.
+89. More importantly, the plaintiff has failed to show why an injunction is still necessary given the fact that: 
+
+(1) The seepage was only confined to the 4 periods pleaded and in any event has stopped since the issue of the writ; and
+
+(2) The plaintiff can be adequately compensated by damages since any cost of repair can be easily quantified.
+
+
+90. For the above reasons, I would have declined to grant a relief of injunction in this case.
+91. As for damages, had I found liability against the defendants in this case, there is no doubt that the plaintiff will be entitled to general damages in nuisance for the "inconvenience and discomfort" suffered by the plaintiff in this case: see Tung Chi Ying & Yu Siu Tung Lisa v Shum Ping Kuen Benson & Wu Oi Wan DCCJ 3566 of 2004 
+, unreported; 24 September 2010 at §§110-111.
+92. I would have allowed general damages in the range of $50,000 in this case for the 1st to 4th periods had the plaintiff been able to prove liability against the defendants: Wong Hon Hung & Cheung Hing Mei v Jolly Birds Limited DCCJ 5341 of 2006 
+, unreported; 24 June 2008 and Wing Yim Fong v Lee Hok Chau DCCJ 343 of 2013 
+, unreported; 22 July 2014. For the 1st period alone, I would have allowed damages in the sum of $10,000 only: see So John & Another v Lau Hon Man & Others [1993] 2 HKC 356 
+, Tse Chi Sang v Ho Mei Ling DCCJ 2404 of 2005 
+, unreported; 19 June 2009.
+93. There is an agreement between the parties in the indemnification claim for the past repair cost is agreed at HK$5,500. I would have allowed such sum had I found liability against the defendants.
+94. I would have dismissed the claims for cost of the surveyor and cost of obtaining the government investigation report in this case as they should be dealt with as part of the costs of the proceedings.
+95. For the claim of future cost of repair, there is simply no evidence presented at trial to verify such claim and I would have dismissed it in any event.
+
+CONCLUSION
+
+96. In conclusion, for the reasons stated, I regret to find that the plaintiff has failed to prove her case and her claim will be dismissed with costs accordingly.
+97. I shall make a costs order nisi that the plaintiff to pay the defendants' costs in these proceedings, such costs to be taxed if not agreed, with certificate for counsel. The order nisi will become absolute after 14 days in the absence of any application to vary the same.
+98. Lastly, I would like to thank counsel for their assistance.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

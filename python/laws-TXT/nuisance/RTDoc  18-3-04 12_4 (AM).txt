@@ -1,0 +1,805 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:04 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : 皇河實業有限公司 v Wan Chiu Yuen
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+皇河實業有限公司 v Wan Chiu Yuen
+
+
+
+20 April 2015
+District Court
+DC
+Civil Action No 4448 of 2011
+DCCJ 4448/2011
+
+Citations:[2015] HKEC 609 English Judgment
+
+Presiding Judges: Deputy Judge R Lai
+
+Phrases: <Y<Tort - negligence - nuisance - water seepage from premises to premises immediately below - whether water originated from defendant's premises
+Damages - assessment - negligence - nuisance - water seepage from premises to premises immediately below>Y>
+
+Counsel in the Case: Mr Kelvin Leung, instructed by Pansy Leung Tang & Chua, for the plaintiffMr Calvin Cheuk, instructed by Alfred Lam, Keung & Ko, for the defendants
+
+Cases cited in the judgment: Born Chief Co v George Tsai & Another [1996] 2 HKLR 188 
+
+China North Industries Investment Ltd v Chum [2010] 5 HKLRD 1 
+
+Hui Ling Ling v Sky Field Development Ltd (unrep., HCA 35/2007, [2012] HKEC 637) 
+
+Kan Wai Chung v Hau Wun Fai (unrep., CACV 43/2012, [2013] HKEC 216) 
+
+Miller v Jackson [1977] QB 966 
+
+Sedleigh-Denfield v O'Callaghan [1940] AC 880 
+
+
+Judgment: 
+
+
+Deputy Judge R Lai
+
+Introduction
+
+1. In this judgment, page numbers referred to herein denote page numbers of the trial bundles unless otherwise stated.
+2. This is a water leakage claim transferred from the Small Claims Tribunal to this court. The parties are property owners of flats in Tower 1 (the "Building") of Greenheight Villa (the "Estate") at Shatin Heights Road, Tai Wai, Shatin, New Territories. The Estate comprises two low rise residential blocks of 4-storey each. The Building has a basement level used as car parks. There are four residential units (namely units A, B, C and D) at each floor of the Building from ground floor to second floor. Above the second floor is a roof.
+3. The plaintiff is and was at the material times owner of unit C at the first floor of the Building ("Flat 1C"). Flat 1C has a living/dining room (the "Sitting Room") with a balcony (the "Balcony"), a master bedroom (the "Master Room") with bathroom ensuite (the "Master Bathroom") and closet (the "Cloakroom"), a guest bathroom (the "Guest Bathroom"), a kitchen (the "Kitchen") and two further bedrooms. One of the further bedrooms was located between the Guest Bathroom and the Kitchen (the "1st Bedroom") and the other further bedroom was located at the other side of the Kitchen and next to the Sitting Room (the "2nd Bedroom").
+4. The defendants are and were at the material times owners of unit C at the second floor of the Building ("Flat 2C") and part of the roof immediately above Flat 2C (the "Roof") (together "Ds' Flat").
+5. Flat 2C was located immediately above Flat 1C.
+6. The plaintiff claimed that in the early morning of 19 July 2009, there was serious water seepage from Ds' Flat into Flat 1C (the "2009 Incident") causing damage to the ceiling paper and wallpaper of Flat 1C.
+7. The plaintiff had to replace the damaged ceiling paper and wallpaper of Flat 1C. After the replacement, it was later found that there was further and frequent water seepage from Ds' Flat into Flat 1C (the "Water Leakage") causing damage to Flat 1C and rental loss to the plaintiff.
+8. The plaintiff claimed that both the 2009 Incident and the Water Leakage were caused by the defendants' negligence and/or nuisance created by the defendants.
+
+The plaintiff’s case
+
+9. The plaintiff's case was that the defendants or their predecessors-in-title or agent had made the following alterations to Ds' Flat (the "Works"): 
+
+(1) a circular hole of about one square metre in area was built on the floor of the Roof (the "Hole"), by removing part of the floor slab of the Roof and part of the ceiling of Flat 2C, for direct access from Flat 2C to the Roof by a staircase (the "Staircase");
+
+(2) brick walls were installed on the Roof for delineating unit C from other parts of the roof;
+
+(3) large concrete water tank was installed on the Roof for keeping fishes;
+
+(4) the level of the floor on the Roof was raised;
+
+(5) the position of the wall between the sitting room and the balcony of Flat 2C had been moved to about one metre inside the sitting room; and
+
+(6) the level of the balcony of Flat 2C was raised by about 150 mm.
+
+
+10. There was a typhoon attacking Hong Kong on 19 July 2009 with rainstorm. In the early morning of 19 July 2009, there was serious water dripping and seepage from the ceiling of Flat 1C. The plaintiff pleaded that the said water dripping and seepage was caused by the Works and the negligence of the defendants in failing to guard against water seeping from Ds' Flat into Flat 1C.
+11. The plaintiff claimed that it had spent $18,000 on replacing ceiling paper and $46,700 on replacing wallpaper damaged in the 2009 Incident.
+12. After replacing the ceiling paper and wallpaper damaged in the 2009 Incident, the plaintiff later found that there was further water seepage from Ds' Flat into Flat 1C. The plaintiff also alleged that such water seepage was caused by the negligence of the defendants in failing to properly maintain Ds' Flat and/or failing to avoid water passing through the floor slab of Flat 2C into Flat 1C.
+13. The plaintiff claimed that because of the Water Leakage, the tenant of Flat 1C did not renew the tenancy after its expiration on 26 October 2010 and the plaintiff was unable to secure a new tenant until 20 July 2013. Thus suffering loss of rental for about 33 months at $18,500 per month.
+14. The plaintiff sought injunctive relief and damages against the defendants.
+15. The plaintiff marked on a plan annexed to the Re-amended statement of claim areas affected by water seepage found by the plaintiff at different dates (the "Plan"). A copy of the Plan is annexed to this judgment. I have numbered the affected areas as areas (1) to (9) on the Plan for easy reference. Areas (1) and (2) were areas where water seepage was found on 19 July 2009. Areas (3) to (5) were areas where water seepage was found on 24 August 2011. Areas (6) to (9) were areas where water seepage was found on 27 March 2012.
+
+The defendants’ case
+
+16. The defendants pleaded that the plaintiff had commenced a claim in the Small Claims Tribunal on 27 October 2010 on the same matters (the "STC Claim").
+17. The STC Claim was struck out by the Small Claims Tribunal on 1 December 2010 for want of prosecution. The plaintiff's application to set aside the striking out order was refused. The plaintiff then commenced a fresh claim in the Small Claims Tribunal on 14 January 2011 which was subsequently transferred to this court and became this action.
+18. The defendants raised the issue of res judicata and/or issue estoppel in their defence (para 2 of the Amended defence).
+19. The defendants admitted that they had carried out the Works (except raising the level of the floor of the Roof) between 1993 and 2002 but denied that the Works caused the water seepage in the 2009 Incident. The defendants further denied water seepage from Ds' Flat to Flat 1C in the 2009 Incident.
+20. The defendants did not admit that there was water seepage from Ds' Flat into Flat 1C as the plaintiff alleged in the Water Leakage claim.
+21. Of course, the defendants denied negligence and the plaintiff's claims.
+
+Issues and evidence for the trial
+
+22. The issues for the trial were as follows: 
+
+(1) Whether there was water seepage into Flat 1C during the 2009 Incident?
+
+(2) If so, whether the water came from Ds' Flat?
+
+(3) If so, whether the defendants were liable to the plaintiff's claim in respect of the 2009 Incident?
+
+(4) If so, how much?
+
+(5) Whether there was water seepage into Flat 1C after the 2009 Incident?
+
+(6) If so, whether the water came from Ds' Flat?
+
+(7) If so, whether the defendants were liable to the plaintiff's claim in respect of the Water Leakage?
+
+(8) If so, how much?
+
+
+23. The plaintiff called four witnesses to testify at the trial. They were Miss Suen Wai Ling (孫慧玲) ("PW1"), Mr Tsang Wan Tai (曾穩泰) ("PW2"), Mr Ng Sze Tak Stephen (吳仕德) ("PW3") and Miss Wong Yu Sin (王渝茜) ("PW4").
+24. PW1 was the tenant of Flat 1C from 2002 until October 2010. She had signed a witness statement dated 25 July 2012. PW2 was a caretaker of the Estate at the time of the 2009 Incident. He had attended Flat 2C and the roof of the Building with PW1 in the early morning of 19 July 2009. He had also signed a witness statement dated 25 July 2012. PW3 is a director and the majority shareholder of the plaintiff (pp 803 to 812). He had signed a witness statement dated 26 July 2012. PW4 is the wife of PW3. She had signed a witness statement dated 3 September 2013. All of them adopted their signed witness statements as their evidence at the trial.
+25. The 1st named defendant ("D1") testified at the trial for the defendants. D1 had signed a witness statement dated 4 September 2012 and a supplemental witness statement dated 23 September 2013. D1 adopted both his witness statement and his supplemental witness statement as his evidence at the trial.
+26. The defendants called no further factual witness.
+27. The court had on 8 May 2012 granted leave for the parties to adduce expert evidence on whether there was water leakage or seepage at the Kitchen, the Master Room, the bathrooms, the Sitting Room and the bedrooms at Flat 1C. If so, the source of such water leakage or seepage. The plaintiff nominated Mr Wong Man Hong ("P's Expert") as its expert on the issue of water leakage or seepage and the defendants nominated Mr Chan Jor Kin Kenneth ("Ds' Expert") as their expert on this issue.
+28. On 28 September 2012, the court granted leave for P's Expert and Ds' Expert to file their respective report on damage arising from the water seepage. The court also directed P's Expert and Ds' Expert to prepare a joint statement.
+29. On 18 January 2013, the court directed ponding test to be carried out at the kitchen, the master bathroom, the guest bathroom and the balcony of Flat 2C. The court further directed that if the parties' experts could not agree on the duration of ponding, Ds' Expert should nevertheless proceed with the ponding test and P's Expert should attend to observe the conduct of the test for the purpose of preparing his report (the "Ponding Test Directions"). The parties' experts could not agree on the duration for the ponding test. Ds' Expert then conducted the ponding test on 20 March 2013 with P's Expert observing. The two experts prepared a joint report dated 27 September 2013 (the "Joint Report").
+30. On 28 September 2012, the court granted leave for the parties to adduce expert evidence on market rental of Flat 1C since 27 October 2010. The plaintiff nominated Mr Cheung Hoi Tat Peter ("P's Valuer") as its expert on market rental of Flat 1C. The defendants nominated Mr James KT Cheung ("Ds' Valuer") as their expert on this issue. The court granted leave for the parties to file the valuation reports prepared by their respective valuers and directed the valuers to prepare a joint statement (the "Joint Valuation"). The court further directed that the Joint Valuation should be adduced as evidence at the trial without calling the makers.
+31. Accordingly, both parties only called their experts on the issue of water leakage or seepage to testify as expert witnesses at the trial.
+
+The plaintiff’s factual evidence
+PW1’s evidence
+
+32. PW1 stated that at about 2 am to 3 am on 19 July 2009, she found serious water seepage at the ceiling of the 2nd Bedroom and the Guest Bathroom. She immediately went to call at Flat 2C but no one answered the door.
+33. She then went to the management office of the Estate to seek assistance. PW2 went with her to call at Flat 2C but still no one answered the door. She said that when they knocked at the door of Flat 2C, they could hear sound like waterfall from inside Flat 2C.
+34. She then went to the roof of the Building with PW2. On their way to the roof, they found water flowing down the staircase from the roof. When they opened the door leading from the staircase to the roof, she stated in her witness statement that the roof was flooded by 1 to 2 feet. At the trial she corrected that the depth of the water was no less than 5 inches. PW2 then clean up the sewage at the roof which was blocked by leaves to ease the flooding at the roof.
+35. PW1 said that water was still dripping in the Guest Bathroom and the 2nd Bedroom when she returned to Flat 1C after visiting the roof with PW2. She described the water leakage from the ceiling of the Guest Bathroom as like a tap having been turned on. She said that her daughter had to sleep in her room that night because of the water dripping in the 2nd Bedroom which was her daughter's bedroom.
+36. Later in the morning, PW1 found that there were obvious water stains at the ceiling of the 2nd Bedroom, two pieces of false ceiling and the wall mirror in the Guest Bathroom had fallen down, the storage cabinet fixed to the wall of the Guest Bathroom was wet inside out and things kept inside were all damaged.
+37. PW1 then informed PW3 who attended Flat 1C on the same day and found further water stains at the ceiling of the Sitting Room and the bedrooms.
+38. PW1 said that one or two months after the 2009 Incident mould stains started to appear at the Sitting Room, the 2nd Bedroom and the entrance of the Master Room mainly on the ceiling paper but also on the wallpaper. She had to clean the mould stains with bleach almost weekly. Wallpaper in the bedrooms and the Sitting Room near the ceiling also detached.
+39. PW1 said that before the 2009 Incident she did not find mould stains in the Sitting Room. Such mould stains were found only during her last year of living in Flat 1C. She also said that mould stains were not found on the lower part of the wall in Flat 1C prior to the 2009 Incident. PW1 agreed that before the 2009 Incident, she would sometimes find mould stains at the ceiling of the Master Room near the Master Bathroom but the problem became more serious after the 2009 Incident.
+40. PW1 said that she also found water dripping at the edge of the ceiling of the Balcony. She had told D1 about this and D1 said that this was because of his watering of his plants at his balcony.
+41. PW1 moved out from Flat 1C after the tenancy expired on 26 October 2010. She moved to rent a flat at Tsimshatsui at the monthly rent of $19,000 in 2010. She said that the main reason for her to move to another district was because she wanted to have a change in living environment. She said that the mould stains found in the Master Room was also a contributing factor.
+
+PW2’s evidence
+
+42. PW2 worked as a caretaker at the Estate in 2009. He attended Flat 2C with PW1 in the early morning of 19 July 2009 and saw water flowing from Flat 2C into the public corridor. He stated in his witness statement that he also heard sound like waterfall from inside Flat 2C. At the trial he clarified that the sound was water falling from height similar to that of waterfall but he agreed that the sound was not as loud as a waterfall.
+43. When PW2 went to the roof of the Building, he found the two drainage holes at the roof were blocked by leaves and the roof was seriously flooded. He told the court at the trial that the depth of water was no less than 5 inches. He immediately cleaned up the leaves and eased the flooding at the roof.
+
+PW3’s evidence
+
+44. PW3 stated that PW1 called him on 19 July 2009 informing him that there was serious water seepage in Flat 1C. He visited Flat 1C and found water stains at the ceiling of the 2nd Bedroom, the Sitting room and the Guest Bathroom. He had taken photographs on the water damage.
+45. PW3 said that when he went to inspect the roof of the Building, he met D1 who told him that Ds' Flat was flooded the night before. PW3 said that D1 had sent a letter to the Incorporated Owners of the Estate (the "IO") complaining about flooding of Ds' Flat on 19 July 2009. PW3 further said that he had a telephone conversation with D1 after the 2009 Incident when D1 admitted that Ds' Flat had also been flooded on that occasion. PW3 produced audio recordings and transcripts of the aforesaid telephone conversation at pp 661 to 664.
+46. PW3 produced various photographs taken by him and PW4 in respect of Flat 1C and the Roof. The photographs showed the damage to the Guest Bathroom and water stains at the ceiling of Flat 1C caused by the 2009 Incident (pp 627 to 630). PW3 admitted that he had made mistakes when he labeled the dates for some of the photographs.
+47. PW3 said that PW1 later told him that there were mould stains coming out at the ceiling and walls of Flat 1C and there was water dripping at the edge of the Balcony. PW3 said that due to these reasons, PW1 did not renew the tenancy after its expiration in October 2010.
+48. The plaintiff spent $18,000 to replace the ceiling paper of Flat 1C in December 2010. The plaintiff also repaired the detached wallpaper in the 2nd Bedroom and the Sitting Room.
+49. On 13 June 2011, PW3 discovered that water seepage at the Balcony had damaged the railings of the Balcony.
+50. The plaintiff spent $46,700 in August 2011 to repair the walls and balcony railings of Flat 1C including replacing the wallpaper.
+51. After the aforesaid repair works, PW3 found water stains at the ceiling paper of the Master Room on 24 August 2011. He went to inspect the floor of the master bedroom of Flat 2C at the corresponding position and found water stain there (see the lower photograph at p 649).
+52. On 8 September 2011, PW3 found four further water seepage areas at the ceiling of Flat 1C. One in the Master Bathroom. Another one in the Guest Bathroom and two in the Kitchen.
+53. PW3 said that the plaintiff was unable to find new tenant for Flat 1C because of the aforesaid water seepage problem.
+
+PW4’s evidence
+
+54. PW4 said that she had taken photographs on 19 July 2009 on damage caused to Flat 1C by the 2009 Incident. She had also taken some photographs on water seepage in Flat 1C at various other dates thereafter. Some of the photographs produced in the trial bundle were taken by her. She explained at the trial that some of the photographs were wrongly dated in the trial bundle. She nevertheless confirmed that the photographs were taken by her to show the water damage to Flat 1C.
+55. PW4 said that after PW1 moved out because of the water seepage problem, she had approached two estate agents to lease out Flat 1C together with a carpark (the "Carpark"). When other estate agents called her, she would also agree for them to find tenant for Flat 1C and the Carpark. She had informed the estate agents of the water seepage problem.
+56. PW4 said that she put the asking rent for Flat 1C and the Carpark together at $25,000 (inclusive of management fee and rates) per month at the beginning. She lowered the asking rent down to $20,000 after six months and told the estate agents that it was negotiable.
+57. She engaged a further estate agent in August 2011 and displayed an advertising banner near the Estate.
+58. PW4 said that potential tenants had inspected Flat 1C but she was told by a few estate agents that some of these potential tenants did not eventually rent the premises because of concern of the water seepage problem. PW4 said that she had been personally told by some potential tenants that they were interested in renting the premises but eventually gave up because of concern of the water seepage problem. The premises were eventually rented out from 21 July 2013 at the monthly rental of $20,000 (inclusive of management fee and rates).
+
+The defendants’ factual evidence
+
+59. D1 admitted that the defendants had carried out the Works (except raising the floor of the Roof) from 1993 to 2002.
+60. He stated that he and his wife (the 2nd named defendant) went to bed at about 1:30 am on 19 July 2009. At that time, no water was found in Flat 2C. He said that he would usually go to bed at around 11:30 pm to midnight. He stayed late on 18 July 2009 until early morning of 19 July 2009 to watch the development of the approaching typhoon as typhoon would bring a lot of leaves and debris to the Roof and he had to clean them up. He said that the drainage at the Roof would be blocked easily.
+61. D1 and his wife woke up at about 5 am on 19 July 2009 and found water at the master bedroom and one-third of the sitting room of Flat 2C. He said that the water in the master bedroom was about 0.1 inch odd ("分幾") deep and there were water patches or water marks in the sitting room. There was also a small water stain at the entrance of the bedroom next to the master bedroom. He referred to the plan at p 905 to show the areas inside Flat 2C where water was found in the morning of 19 July 2009. D1 and his wife came up and spent half an hour to clean up the water. D1 stated that no water stain was found at the other bedroom (which was located immediately above the 2nd Bedroom), the kitchen and the two bathrooms of Flat 2C. He denied that Flat 2C was flooded.
+62. D1 said that when he woke up on 19 July 2009, he did not see water flowing down from the Staircase.
+63. He stated that PW1 had called at Flat 2C in the morning of 19 July 2009 at about 6:30 am and informed him that there was water seepage at Flat 1C causing damage to her towels and cosmetics in the bathroom. PW1 also told him that there was water dripping in Flat 1C at about 3 a.m. awaking PW1's daughter. PW1 asked him whether D1 had third party insurance cover. D1 told PW1 that he had to check. After checking with his insurance agent, D1 told PW1 that his household insurance did not cover third party's loss.
+64. D1 denied that there had been water flowing out from Flat 2C as alleged by PW2. He also denied that he had told PW1 that the water dripping at the Balcony was caused by his flower watering.
+65. D1 said that PW2 did not work at the Estate from early 2009 to the end of 2009 as stated in PW2's witness statement but only for about one month. He queried the credibility of PW2 and said that only a small part of the door mattress placed outside Flat 2C was found wet on 19 July 2009.
+66. D1 said that because of its location, humidity at the Estate was very high during the change of seasons between spring and summer. He produced various photographs to show that Flat 2C also had water stains and mould stains at the guest bathroom and the kitchen (pp 62 and 821 to 822). He also produced photographs (pp 824 to 825, 975, and 977 to 980) and letters dated 29 October 2012 and 25 January 2013 issued by the Joint Office of the Buildings Department and the Food and Environmental Hygiene Department (the "Joint Office") to the IO (pp 816 to 817) to show want of repairs of the common areas of the Estate.
+67. D1 said that the guest bathroom of Flat 2C was seldom used. D1 stated in his witness statement and his supplemental witness statement his own opinion on the cause of water seepage into Flat 1C and the reasons for Flat 1C not being rented out for a long time. These are matters for experts and for the court. D1 was factual witness giving evidence on factual matters for the defendants. I give no weight to D1's opinion evidence.
+
+Discussion on evidence of factual witnesses
+
+68. PW1 and PW2 are independent third parties. They do not have the slightest interest in the outcome of this action. Their evidence was mainly on the 2009 Incident.
+69. PW1 had given an inaccurate estimate in her witness statement as to the depth of the water flooding the roof. She explained at the trial that at that time it was quite dark. She felt that the water was quite deep. She did not actually measure the depth but only made a rough estimate. This is understandable, bearing in mind that the incident occurred in the early morning when PW1 was probably woken up in the middle of her sleep. One can also expect that lighting at the roof of the Building at the early hours of a stormy night would not be good. Furthermore, it serves no purposes for PW1 to exaggerate the depth of the water from 5 inches to 1 to 2 feet. I accept that the error arose out of a genuine mistake. Her credibility will not be affected by such mistake. I accept PW1 as a reliable witness and accept her evidence.
+70. PW2 had wrongly stated his length of service at the Estate in his witness statement. He confirmed at the trial that he worked at the Estate for less than four months. He explained that the aforesaid mistake in his witness statement was due to oversight. PW2 was giving evidence on a single incident which had nothing to do with his length of service at the Estate. It also serves no purposes for him to exaggerate his length of service at the Estate. I accept that the error was a careless mistake. This will not affect his credibility. I also accept PW2's evidence.
+71. PW3 is a director and the majority shareholder of the plaintiff. His interest in this case is obvious. His evidence was mainly on his communication with D1 and on inspection of Flat 1C. His evidence could be checked against objective evidence such as tape or video recordings and photographs. I shall consider his evidence bearing in mind his interest in this case.
+72. PW4 is the wife of PW3. She also has interest in this case. Her evidence was mainly on the plaintiff's loss of rental claim. Her evidence on loss of rental was not supported by objective documents or independent third party evidence and thus could not be verified. I shall consider her evidence with caution.
+73. D1 is one of the defendants and is of course interested in the outcome of this case. Most of his evidence was also not supported by objective documents or independent third party evidence and thus also could not be verified. His evidence was inconsistent with the evidence of PW1 and PW2 in respect of the 2009 Incident. He had given evidence on matters which he said was told by PW1 to him such as the reasons for PW1 not to renew the tenancy of Flat 1C in 2010. D1 said that PW1 told him that she did not renew the tenancy because the plaintiff drastically increased the rent and her daughter would move abroad to study therefore she did not require such big apartment. This turned out to be false. PW1 denied that she had said such things to D1. PW1's evidence was that she had not discussed renewal of tenancy with the plaintiff and the plaintiff had never told her about increasing her rent upon renewal. PW1 also said that by 2010 her two daughters had already finished their studies in England and had returned to Hong Kong. PW4 also confirmed that the plaintiff had not discussed the rent for renewal with PW1 in 2010 as PW1 had previously told the plaintiff that she did not want to renew the tenancy of Flat 1C. At the trial, D1 tried to salvage his case by explaining that the conversation might have taken place two years earlier when PW1 last renewed her tenancy for Flat 1C with the plaintiff in 2008. Again, D1's explanation did not match the factual situation as the monthly rental for PW1's last tenancy agreement had in fact been revised downward in 2008 from $15,600 to $15,000 (pp 790-57 to 790-59 and 1014 to 1016). PW1 could not have told D1 in 2008 that the plaintiff had proposed to increase the rental of Flat 1C substantially. D1 was clearly fabricating the aforesaid conversation. He did so for the obvious reason of resisting the plaintiff's claim for loss of rental.
+74. PW3 had produced a taped conversation between PW3 and D1 after the 2009 Incident. PW3 said that in the said conversation D1 had admitted that water leaked from Ds' Flat to Flat 1C. D1 did not dispute that he had the conversation with PW3 but denied that he had made such admission in the conversation. The parties had spent some times in the examination of D1 at the trial on what had been said by D1 in this conversation. Transcripts of the conversation were produced at pp 662 to 664.
+75. In the taped conversation, when PW3 said: "果個上次你果度咪漏水嘅" (item 6 of p 662), it was clear that PW3 was referring to water leakage to Flat 1C in the 2009 Incident. D1 confirmed in his witness statement that PW1 had asked D1 whether he was insured. D1 also confirmed that PW1 had previously asked him for compensation. PW1 and the plaintiff had all along maintained that the water was leaked from Ds' Flat into Flat 1C. D1 replied: "係呀。" (Item 7 of p 662) To understand D1's said reply in the context of the aforesaid background, it was clear that D1 agreed that the water leaked into Flat 1C in the 2009 Incident came from Ds' Flat. However, D1 tried to explain at the trial that his aforesaid reply was not agreeing that the water leaked from Ds' Flat but only acknowledging that there was water leaked into Flat 1C but he did not know the source of the water.
+76. When PW3 said: "你嗰度漏水漏咗落來嘅，我的租客孫小姐嗰度呢  佢就初步點算過，佢就佢D毛巾呀，佢就毛巾啦，就有9百蚊倒，化妝品就 2千4百蚊，咁有D雜物就3百蚊倒，佢話希望你可以賠返畀佢。"D replied: "喂，我嘅燕疏唔包，無個喎，我已經話左畀佢聽嘅啦。" (Items 8 to 9 of p 662) It can be seen from the aforesaid exchanges that before this conversation PW1 had previously asked for D1 to pay compensation. This was not the first time for D1 to encounter compensation claim for PW1's loss in the 2009 Incident. D1 did not deny PW3's statement of "你嗰度漏水漏咗落來嘅". Furthermore, when PW3 repeated PW1's claim, D1's reply was not that he was not liable to compensate PW1 because the water did not come from Ds' Flat but that his insurance did not cover PW1's loss. D1's case was that he did not admit that the water leaked into Flat 1C came from Ds' Flat. If so, he would not have checked with his insurance agent whether his insurance covered PW1's loss.
+77. When PW3 said: "燕疏唔包，無呀？咁但係問題就係  因為你漏水畀佢呀嘛！你漏水畀佢，係咪？" (Item 10 of p 662) D1 in reply did not dispute that the water was leaked from his flat. Instead he said: "唔係，漏水係天然的，無辦法架，呢個係人不能阻止到嘅嘢，我有乜辦法呀？" (Item 11 of p 662) D1 only sought to argue that the water leaked from his flat to Flat 1C was not caused by him but by Act of God.
+78. When PW3 said that D1 had opened the Hole at the Roof, D1 said: "去水佢塞咗嗰度咁就無辦法去得切啦。" (Item 15 of p 662) It was clear that D1 admitted that the drainage at the Roof was blocked and water had flown down from the Hole. However, when D1 was cross-examined, he repeatedly reiterated that he did not know the source of the water found in Flat 2C and the source of the water leaked into Flat 1C.
+79. What D1 further said was in dispute. The plaintiff's case was that D1 further said: "因為呢個係我唔能夠抗拒嘅嘢，我自己都浸咗啦，係味？" The defendants' case was that D1 further said: "因為呢個係我唔能夠抗拒嘅嘢，已經浸咗啦，係味？" (Item 19 in p 663) When D1 was cross-examined on which areas were soaked when he said"已經浸咗啦", D1 said that he referred to the Roof and the areas of Flat 2C marked on the plan at p 905. In such case, there was not much difference between"我自己都浸咗啦" asserted by the plaintiff and D1's version of"已經浸咗啦". Both mean that Ds' Flat had been soaked in water (浸咗). D1 tried to deny that he had said the words "我自己"probably thinking that without such words he could deny having made any admission. This is a futile exercise.
+80. When PW3 accused D1 of opening the Hole causing the water leakage, D1 replied: "唔開窿冧咗樓都唔定啦！你話係咪先？" (Item 21 of p 663) When the plaintiff's counsel put to D1 that in saying so, he meant that the Roof was seriously flooded, D1 disagreed and said that his statement was only emotional outburst (晦氣話) because PW3 kept accusing him of opening the Hole.
+81. When the plaintiff's counsel cross-examined D1 on what he said in item 25 of p 663 ie "就係咁，如果我燕疏有，咪冇問題啦！係未？燕疏公司賠啫！" D1 said that this was to fan off (敷衍) PW3. This was not true as D1's evidence was that he did check with his insurance agent as to whether his insurance covered PW1's loss.
+82. In the conversation, D1 said that if the water leaked into Flat 1C came from water flew through the Hole, the plaintiff should sue the developer. (Items 27 and 31 of p 663) When D1 was cross-examined on whether he meant the developer built the Building so badly that water leaked from Ds' Flat to Flat 1C. D1 again said that this was emotional outburst (晦氣話).
+83. When PW3 said: "咁如果你天棚無個窿呢，D水就唔會喺你果度落去啦嘛！你話係咪？" (item 44 o p 664), the parties had different versions on D1's answer. The plaintiff said that D1 replied: "係  ". The defendants had two versions. When the transcripts were prepared, the defendants said that D1's reply was "唔係  ". (Item 45 of p 664) After listening to the taped conversation at the trial, D1 changed to say that his rely was "係咩？" I agreed with the plaintiff's counsel that in the taped conversation D1 neither said"唔係" nor "係咩？" He did said "係  ". As PW3 interrupted D1's statement before he finished, whether this constituted an admission of water flowing from Ds' Flat to Flat 1C might be open for argument. However, the changing versions of D1's evidence both contradicted by the audio recording would only go against his credibility.
+84. D1 said at item 49 of p 664 "係不能抗拒嘅，係咪？"When the plaintiff's counsel cross-examined D1 on whether he was referring to water leaked into Flat 1C could not be resisted, D1 said not necessarily as he was not sure how water would leak. To read this item together with item 46 when PW3 said: "你唔落到去，就唔會浸到我地樓下面啦！"D1's subsequent statement made at item 49 was obviously referring to the water leaked to Flat 1C stated in item 46. However, D1 would still answer the question of the plaintiff's counsel in an evasive way.
+85. Looking at the aforesaid taped conversation as a whole, I have no doubt that D1 had in the conversation agreed that the water leaked into Flat 1C in the 2009 Incident came from water flew down from the Roof through the Hole. The cross-examination of D1 on this taped conversation showed that when D1 could not deny that he had said certain statements because the conversation was taped, he would try to twist what he had said and even change his evidence to try to retract statements which might be of disadvantage to his case.
+86. I find that D1 was not a reliable witness. He was prepared to twist his evidence and even make up story to suit his purposes. I shall treat his evidence with extreme sceptic.
+
+Expert evidence on water seepage
+
+87. The parties' experts were not instructed until more than two years after the 2009 Incident. It is understandable that they could only give restricted and limited expert opinion in respect of the 2009 Incident.
+88. Nevertheless P's Expert was of the view that it was not impossible for water to seep through the floor slab of Flat 2C into Flat 1C in 30 minutes to 1.5 hours. Ds' Expert also agreed that water could seep through concrete floor slab although he opined that the speed of seepage would be affected by the thickness and the type of concrete concerned. He said that it would take long time for water to seep through concrete unless there were cracks in the floor slab. He said that no test had been conducted by the parties' experts to ascertain the time required for water to seep through the concrete floor slab of Flat 2C.
+89. Pursuant to the Ponding Test Directions the defendants engaged Building Diagnostic Consultants Limited ("BDC") to carry out ponding test with fluorescent material at the kitchen, the two bathrooms and the balcony of Flat 2C on 20 March 2013. The duration of ponding was one hour. The parties' experts conducted visual inspections at Flat 1C before the ponding test, immediately after the ponding test, on 28 March 2013, 5 April 2013 and 15 April 2013. Ds' Expert also conducted humidity reading test at certain areas of the ceiling of Flat 1C. BDC also took infra-red photographic record (the "infra-red test"). BDC produced its reports on the ponding test with fluorescent material and the infra-red test as Annex F to the Joint Report (the "BDC Report").
+90. P's Expert was of the view that the ponding test with fluorescent material was a more reliable test for finding source of seepage whereas the humidity reading test or the infra-red test might only show water seepage without identifying the source of water.
+
+91. P's Expert stated in para 3.1.8 of the Joint Report that: "紅外線攝影機是以溫度差距來量度濕度差距，亦有很多因素均會影響到紅外線測試的結果，包括解析度、角度、靈敏度、距離、陽光照射方向等等，均會影響其結果。若然攝影機的調較未能精準，是可以完全顯示不到濕度的存在。"
+
+
+92. P's Expert said that the humidity reading test could only show the humidity between two testing points of about 1 cm apart and the reading would be affected by change of weather and temperature.
+
+Matters agreed by the parties’ experts
+
+93. The parties' experts on the issue of water leakage or seepage agreed that according to the Building (Construction) Regulations (Cap 123B), the floor slabs of the master bathroom, the guest bathroom and the kitchen should be constructed of suitable impermeable material whereas floor slabs of the sitting room and the bedrooms needed not be constructed of such material.
+94. The parties' experts also agreed that the Hole and the Staircase were illegal structures.
+95. Both parties' experts were not present at the 2009 Incident. They were unable to give opinion on specific matters occurred. They were only able to render opinion on general matters.
+96. Both experts agreed that fluorescent material was found at the ceiling of the Guest Bathroom after the ponding test (see para 3.3.7 of the Joint Report).
+97. Both parties' experts agreed that if the defendants were liable for the 2009 Incident, the costs of repairing the ceiling paper at the Sitting Room and the three bedrooms of Flat 1C were $15,000. If both the ceiling paper and wallpaper needed to be repaired, the costs were $48,000.
+98. For the costs to repair damage caused by the Water Leakage, the total costs were $7,800 of which $1,300 was for each of the Balcony and the Kitchen, $1,800 for each of the two bathrooms and $1,600 for the corridor outside the Master Bathroom.
+
+Evidence of P’s Expert
+The 2009 Incident
+
+99. P's Expert observed that the hatch cover for the Hole did not seal off the Hole completely. If the Roof was flooded, water could flow into Flat 2C through the Hole. As the floor slabs of the sitting room and the bedrooms were not constructed of impermeable material, if there was flooding, water could seep through these floor slabs to the floor below quickly. He was of the opinion that if there was not a hole at the floor slab of the Roof, water would not get into Flat 2C even when the Roof was flooded. Instead, water would flow down through the public staircase and would not enter Flat 1C.
+100. P's Expert opined that if the water found in Flat 1C in the 2009 Incident came from the external wall, the part near the external wall should be mostly affected and similar water seepage would occur to Flat 1C whenever there was heavy rain and would not be confined to the 2009 Incident.
+
+The ponding test
+
+101. P's Expert said that the visual inspection at Flat 1C before the ponding test did not discover any fluorescent material at its ceiling.
+
+The Kitchen
+
+102. Inspection at the Kitchen immediately after the ponding test found fluorescent material at the ceiling near the drainage pipe (photos 9 to 10 at p 268A). Inspections on 28 March 2013 (photos 38 to 52 at pp 284A to 291A), 5 April 2013 (photos 86 to 99 at pp 311A to 317A) and 15 April 2013 (photos 131 to 139 at pp 336A to 340A) found fluorescent material at further areas of the Kitchen ceiling. P's Expert said that the affected areas showed water stains and paint peeling. These suggested that the areas had water seepage for a long time.
+
+The Guest Bathroom
+
+103. P's Expert said that inspection before the ponding test found water marks, rusty and detached cement at the ceiling and water marks at the false ceiling. He explained that the rusty marks were caused by steel embedded inside rusted by water. If the water seepage continued, the process would cause cement detachment.
+104. Immediately after the ponding test, fluorescent material was only found above the shower head at the ceiling (photos 5 to 8 at pp 265A to 267A). However, inspection on 28 March 2013 found further fluorescent material at another area of the ceiling near to a drainage pipe. Furthermore, seepage was found getting serious at the area above the shower head (photos 27 to 37 at pp 278A to 283A). The area affected was found to have extended at the inspection on 5 April 2013 (photos 76 to 85 at pp 306A to 310A). On 15 April 2013, visual inspection did not find water droplet but fluorescent material could still be found at that area (photos 123 to 130 at pp 332A to 335A).
+
+The Master Room and the Master Bathroom
+
+105. P's Expert found fluorescent material at the Master Bathroom immediately after the ponding test at the ceiling next to the drainage pipe close to the shower head (photos 1 to 3 at pp 263A to 264A). He found further fluorescent material at another area of the Master Bathroom on 28 March 2013 near the stalactite found at the ceiling. Fluorescent material was found dropped onto the floor beneath the stalactite. (Photos 12 to 26 at pp 270A to 277A) P's Expert explained that stalactite was formed after prolonged period of water dripping. Fluorescent material was again found at the ceiling of the Master Bathroom on 5 April 2013 (photos 56 to 75 at pp 295A to 305A). P's Expert clarified that photos 73 to 75 should be referring to the floor of the Master Bathroom as indicated in photo 72 instead of the "ceiling" as stated in the description to the photos.
+106. P's Expert stated that on 5 and 15 April 2013, fluorescent material was found at the ceiling of the corridor of the Master Room outside the Master Bathroom (photos 104 to 108 at pp 320A to 322A and photos 145 to 147 at pp 344A to 345A). As no ponding test was carried out at the corridor of the master bedroom of Flat 2C, P's Expert opined that such fluorescent material came from the ponding test at the master bathroom of Flat 2C.
+107. P's Expert said that the aforesaid findings showed that the impermeable material of the floor slab in the master bathroom of Flat 2C was damaged allowing water to seep from the master bathroom of Flat 2C into the Master Bathroom and the corridor of the Master Room.
+108. P's Expert said that pre-ponding test inspection already found water marks, rusty marks, detached cement and stalactite at the affected areas of the Master Bathroom.
+
+The Balcony
+
+109. P's Expert agreed that no fluorescent material was found at the Balcony immediately after the ponding test. However, fluorescent material was found at the Balcony on 28 March 2013 at place where stalactite was found and also at place beneath the stalactite (photos 53 to 55 at pp 292A to 293A). P's Expert had invited Ds' Expert to inspect the aforesaid positions but was refused by Ds' Expert (see para 3.3.20 of the Joint Report at p 221).
+110. P's Expert explained that no fluorescent material was found at the Balcony of Flat 1C immediately after the ponding test because the defendants had thickened the floor slab of the balcony of Flat 2C and it took longer time for the water to seep through the thickened floor slab. Fluorescent material was again found at the ceiling and the railings of the Balcony on 15 April 2013 (photos 140 to 144 at pp 341A to 343A).
+
+Conclusion of P’s Expert
+
+111. P's Expert concluded that as fluorescent material was found at the ceiling of the Balcony, the Kitchen, the Guest Bathroom, the Master Bathroom and the corridor of the Master Room after the ponding test, this showed that there was continuous water seepage from the balcony, kitchen and the two bathrooms of Flat 2C to Flat 1C. He considered that after the ponding test, it was not necessary to conduct other tests such as humidity reading test or infra-red test.
+
+Evidence of Ds’ Expert
+The 2009 Incident
+
+112. Ds' Expert agreed that the floor slabs of the sitting room and the bedrooms of Flat 2C were not constructed of impermeable material but said that it would take time for the Roof to be flooded and further time for the water to pass through the concrete floor slabs of Flat 2C. He said that as the Hong Kong Observatory only hoisted the red rainstorm signal at 2:25 am on 19 July 2009, it was improbable that water would have been seeped into Flat 1C within one hour at about 2 am to 3 am. He suggested that the water would have been seeped from the external walls or other common areas. He further said that the ponding test could not show water seepage from the common pipe well (marked (10) by me on the Plan) near the Guest Bathroom and the Guest Bathroom was one of the alleged water seepage areas in the 2009 Incident.
+
+The ponding test
+The Kitchen
+
+113. Ds' expert stated that the ponding test did not show that there was water seepage at the ceiling of the Kitchen.
+
+The Guest Bathroom
+
+114. Ds' Expert agreed that fluorescent material was found at the Guest Bathroom at the inspection on 28 March 2012. He contended that this was caused by defect of the floor slab when the Building was constructed and the floor slab structure concerned was common facility. He argued that the defendants should not be liable for such water seepage.
+
+The Master Room and the Master Bathroom
+
+115. Ds' Expert stated that the ponding test did not show water seepage at the ceiling of the Master Bathroom. He said that some of the photographs produced by P's Expert did not show any fluorescent material or fluorescent material used by BDC. He contended that fluorescent effect showed in the photographs was produced by fluorescent material of the original building material.
+116. Ds' Expert explained that water seeped into Flat 1 C could come from the external walls or other common areas. He said that no ponding test was carried out at the corridor of the Master Room. In such case, there was no evidence to say that the alleged water seepage at the corridor came from Flat 2C. The humidity reading test conducted by him on 15 April 2013 showed that the humidity reading at the ceiling of the corridor of the Master Room only ranged between 13% and 22% (p 537).
+117. Ds' Expert said that he had conducted a ponding test at the Roof on 24 August 2011 which showed that water seeped into Flat 2C through the ceiling of the common pipe well. As Ds' Expert's aforesaid ponding test was not conducted in the presence of P's Expert or with the court's direction and such test only showed water seepage from the Roof to Flat 2C which did not concern us, I give little weight to such evidence.
+118. When cross-examined, Ds' Expert agreed that P's Expert had showed him photographs which P's Expert said had shown fluorescent effect at the ceiling of corridor of the Master Room. He said that he had checked the corridor but did not see the fluorescent effect. He agreed that in the Joint Report he had not stated that he had checked the positions concerned.
+
+The Balcony
+
+119. Ds' Expert said that the ponding test did not show water seepage at the Balcony. He said that after the ponding test there was no sign of water dripping at the edge of the Balcony ceiling where stalactite was found. Water dripping was found on 28 March 2013 after heavy rainfall. He said that the colour appeared on the photographs produced by P's Expert was blue instead of fluorescent colour. He also commented that these photographs had not been compared with pre-ponding record or the infra-red test record. He said that the seepage was from the external wall after rain.
+
+Conclusion of D’s Expert
+
+120. Ds' Expert concluded that after the ponding test, fluorescent material was found only at the Guest Bathroom.
+
+Discussion on expert evidence on the Water Leakage
+
+121. Before I discuss the expert evidence on individual issue, I would note a few remarks on the evidence of Ds' Expert which I found shifting in the course of his giving evidence at the trial.
+122. When the plaintiff's counsel queried Ds' Expert for not producing photographs on areas where P's Expert had identified fluorescent material, Ds' Expert at once said that he did not take photographs because he did not found fluorescent material used for the ponding test. He later changed to say that he did not take photographs and relied on BDC to take photographs. The plaintiff's counsel pointed out that in the video recording the post-ponding inspection, it had recorded Ds' Expert instructing his assistant to take photographs of those areas. Ds' Expert then changed to say that he had only taken those photographs for own records.
+123. At the trial Ds' Expert said that he had noticed fluorescent material at the ceiling of the Kitchen during the pre-ponding inspection. He said that the fluorescent effect came from building material. He admitted that he had not recorded this pre-ponding finding and that he had not pointed this out to others at that time. When cross-examined on the reasons for not telling others at the pre-ponding inspection of his aforesaid finding, Ds' Expert first said that he had forgotten the reasons. He later changed to say that he did not mention that to others because fluorescent material found by him at the pre-ponding inspection was different from the fluorescent material used in the ponding test.
+124. The aforesaid explanation contradicted his earlier evidence that the fluorescent material which he had seen at the pre-ponding inspection was similar to the fluorescent material used in the ponding test. Ds' Expert then changed his evidence as aforesaid to find a reason for his not mentioning this material finding to others at the pre-ponding inspection. When he was further cross-examined, Ds' Expert changed again to say that the fluorescent material might or might not be the fluorescent material used by BDC.
+125. At one stage Ds' Expert said that he had found fluorescent material in Flat 1C at the pre-ponding inspection. He later changed to say that he did not see such fluorescent material but was told by BDC that there was such fluorescent material when he was preparing his report. However, such finding was neither stated in the BDC Report nor in the Joint Report.
+126. Ds' Expert produced some photographs taken by him at Flat 2C as Annex I to the Joint Report to show that paints could also produce fluorescent effect. At first he said that photographs PR-25 and PR-26 at p 544A were taken on 6 September 2013. He said that he remembered that the photographs were taken on 6 September 2013 because it was not dark yet at 6 pm when the photographs were taken. He further explained that he took these photographs on 6 September 2013 as no photographs were taken at the joint inspections to show water leakage also occurred at Flat 2C. He took these photographs to fill the missing part. He firmly said that these photographs were not taken on 28 March 2013, ie one of the dates of joint inspection, to explain why the photographs were not taken in the presence of P's Expert. After checking electronic copies of the photographs, Ds' Expert admitted that they were taken on 28 March 2013 but explained that he had remembered the date wrongly when he was first being cross-examined on these photographs by the plaintiff's counsel. He admitted that he had made up evidence to fit his story told in the court.
+127. I find Ds' Expert changing his evidence from time to time. He would make up evidence to suit his story. As can be seen from the discussion below on the humidity reading test conducted by Ds' Expert, Ds' Expert would also not include unfavourable readings in his report. I do not find Ds' Expert a reliable witness and I shall treat his evidence with caution.
+128. The plaintiff's counsel in his closing submissions commented on the competency of Ds' Expert in strong words (para 26 of the plaintiff's closing submissions). Although I am of the view that Ds' Expert's ways of conducting the joint inspection and the humidity reading test were unsatisfactory and I have reservation to his evidence, I do not agree that these shall disqualify Ds' Expert to act as expert in this action.
+
+The tests
+
+129. Three types of test had been conducted on 20 March 2013 in the presence of the experts of both parties, namely the ponding test with fluorescent material, the infra-red test and the humidity reading test. The ponding test and the infra-red test were conducted by BDC who was engaged by the defendants. The humidity reading test was conducted by Ds' Expert. P's Expert only relied on the result of the ponding test with fluorescent material and dismissed the infra-red test and the humidity reading test as unreliable.
+130. Infra-red test is to read the temperature of the surface to see if there are differences in surface temperature at different parts of a surface to show whether one part of the surface is wetter than other parts on the basis that wet surface has lower temperature.
+131. P's Expert had made the following comments in the Joint Report on BDC's infra-red test: 
+
+3.4.8 "至於BDC展示，聲稱為浸水測試在"1C"各處拍到的紅外線照片（B1至B99頁）。以黃先生[P's Expert]的意見，這些照片並無價值。第一，如上所述，既然已經有螢光色物料出現，已經足以證明"2C"有滲漏到"1C"，再用其它比較不可靠的方式測試濕度，根本不能證明有沒有滲漏。
+
+3.4.9第二，紅外線測試的方式，是量度目標點與它四週的溫度差距，從而推斷目標點是否有濕氣。而BDC報告中的紅外線照片的拍攝手法、演譯及分析亦不正確。BDC的報告中，BDC圈出了一個於紅外線照片中呈現藍色的位置（B45頁），並稱該位置發現有滲漏。BDC似乎是以紅外線照片上呈現的顏色來推斷目標位置是否有滲漏，但這是不正確的。為此，黃先生作了一個紅外線測試示範。證實靈敏度的調較會影響影像顏色，令有濕的位置未能從顏色顯示出來。在示範中可見靈敏度經過調較後，同一影像會得出不同的結果及顏色，就有如電視屏幕的光暗度和顏色對比度被調低一樣。此外，在電腦軟件上可指出特定位置的溫度，縱使未能以顏色反映，亦能知道當時正確的溫度，而知道測試的表面是否濕。
+
+3.4.10在BDC報告中，紅外線照片的靈敏度調較不足，在不同照片的靈敏度調較亦不一致。例如，B43至B45頁的紅外線照片中，靈敏度的調較是每格0.2度（即靈敏度較高），而其它的紅外線照片的靈敏度的調較就每格0.3度（即靈敏度較低）。因此，就算不同地點有同樣的濕度情況，這些紅外線照片從顏色來看，都不會顯示這結果。再者，BDC報告中沒有特別點出疑滲水位置與周圍位置的溫度以作參考，只單純以顏色參考作判斷。這做法並不正確。
+
+黃先生就有關紅外線測試示範照片隨附錄C附上。
+
+3.4.11 第三，BDC在其報告中第B43至B45頁，展示了一些聲稱為浸水測試後當天及其他兩個檢視日拍攝到的紅外線照片。BDC並稱這些照片顯示浸水測試前直至測試當天16:00時無發現滲漏，而17:30時及之後兩個檢視日有發現滲漏於"目標點"。以下列表顯示BDC提供的紅外線照片中有關數據： 
+
+頁拍攝日期及時間目標點的溫度目標點環境的溫度溫度差距
+
+B43試水測試前24.925.20.3
+
+B4320.03.2013/12:4522.623.00.4
+
+B4320.03.2013/14:0024.024.30.3
+
+B4420.03.2013/16:0023.924.30.4
+
+B4420.03.2013/17:3024.725.10.4
+
+B4504.05.2013/18:3018.318.60.3
+
+B4515.04.2013/18:3018.919.20.3
+
+3.4.12以上列表顯示，目標位置一直有濕氣，而並非BDC所稱的情況（即只是在2013年3月20日17:30時才發現有濕）。而在黃先生於相關時間拍攝到的普通照片，顯示2013年4月5日在這位置的滲漏情況特別嚴重，如果紅外線照片是準確的話，應該會顯示同樣情況。但以上列表卻未有這樣的顯示，表示BDC所展示，聲稱為當時拍攝到的紅外線照片，並不可靠地反映事實。
+
+3.4.13第四，BDC報告中展示的紅外線照片，除了客廳浴室外，有很多地方的溫度差距都是大約0.3度至0.8度（例如B85至B87頁—主人房浴室），這顯示目標位置如客廳浴室的情況一樣有濕氣。但BDC卻在報告中錯誤地演譯這現像為"沒有發現滲漏的跡象"。
+
+3.4.14第五，"1C"露台呈現「鐘乳石」的位置，很明顯是因為長期有水滲漏而形成。所以，無論"2C"有否滲漏到"1C"，以紅外線拍攝「鐘乳石」的位置，應該會顯示濕度的存在。當然，「鐘乳石」上的水的來源，有待浸水測試的結果來引證。無論用那一種測試方法，那些「鐘乳石」都是滲漏的目標。但BDC報告中展示的紅外線照片，就偏偏忽略了這位置（B4頁—測試前）；或者有些照片的靈敏度調較，使到「鐘乳石」表面的濕度沒有清楚地呈現在這些照片上（B4至B5頁—2:45至1600時拍攝的照片）。事實上，從BDC報告中展示，聲稱日期為2013年3月20日17:30時拍攝到的紅外線照片中（B5頁），清楚顯示「鐘乳石」的一帶的溫度，與其週邊的溫度差距超過0.6度，表示「鐘乳石」的一帶是有濕氣的。但BDC卻錯誤地把這現象演譯為"沒有發現滲漏的跡象"。
+
+3.4.15第六，黃先生看過原告人提供，於2013年4月5日拍攝到目視檢查過程的錄影記錄，看到被告人專家陳先生[Ds' Expert]於當日以濕度測試儀器量度廚房天花的濕度。影片大約到了5分39秒的時候，陳先生正在量度廚房天花近 "2C"去水喉的位置。當時儀器發出長響的聲音,表示測試點的濕度極高, 而陳先生亦隨即向助手說「呢度濕」。黃先生同意被告人專家陳先生當時對濕度測試儀器反應的演譯（即「呢度濕」）。當時以濕度測試儀器量度到的天花濕度狀況，亦與黃先生拍攝到的螢光劑照片的結果吻合。但於BDC的報告中，聲稱於浸水測試後拍到廚房天花的紅外線照片（B13至B15頁），並無明顯反映到當時的濕度狀況。這表示BDC提供的紅外線照片並不可靠。"
+
+
+
+
+132. In the BDC Report, BDC reported that water seepage was detected only at the Gust Bathroom after the ponding test. BDC reported that no water seepage was found at other areas subject to the ponding test. In support of its said findings, BDC produced various infra-red reading scan photographs in Attachment B of the BDC Report. These scan photographs showed difference in temperatures in different colours. In pp B44 and B45 of the DBC Report (pp 416 to 417), BDC stated that after the ponding test, water seepage was discovered at the ceiling of the Guest Bathroom at 17:30 hours. No explanation was provided as to how it arrived at that finding. In other parts of Attachment B, BDC stated that no water seepage was found. Again, no explanation was given as to how BDC arrived at such conclusion. BDC stated in the BDC Report that it had done analysis but BDC had not set out details of its analysis leading to its conclusion. Ds' Expert admitted that he did not know whether BDC had checked each point on the infra-red photographs as he had left it to BDC to do its analysis.
+133. The scan photographs provided by BDC also showed changing colour patterns for the same area at different times which meant change in temperature. No explanation was provided by BDC for such change of colour patterns at the same area. Even Ds' Expert agreed that eye inspection of the photographs was not accurate. They should be checked against the actual temperature readings which BDC should have kept in its computer. However, BDC did not provide the actual temperature readings in the BDC Report.
+134. I do not find the infra-red test of assistance to this court and I give little weight to the infra-red test conducted by BDC.
+135. D's Expert also conducted the humidity reading test at the Kitchen, the Master Bathroom and the Guest Bathroom. The readings were produced as Annex H to the Joint Report.
+136. Photographs were taken when Ds' Expert was conducting the humidity reading test and produced at Annex D of the Joint Report. From these photographs, it can be seen that Ds' Expert had not marked on the ceiling the spots where he took the readings. This was admitted by Ds' Expert under cross-examination. He said that he was measuring humidity at about the same place. He agreed that they might not be the same spot. In such case, Ds' Expert might have been taking readings from different spots at different times. Humidity reading test is to compare the humidity of a number of spots at the same time and at different times to see whether there was difference in humidity between them. Readings shall be taken at the same spots. There is no point to compare humidity of different spots at different times. The way Ds' Expert conducting the humidity reading test was most unsatisfactory which rendered the resultant readings useless.
+
+137. P's Expert commented at para 3.1.11 of the Joint Report that: "因為濕度測試儀器只可以量度儀器上兩個接觸點之間的情況，若然陳先生沒有把儀器準確地放在有濕的地方（無論輕微濕或嚴重濕），儀器都不會錄得可錄到的濕度。例如，廚房的天花有一個頗大及成圈狀的地方出現滲漏情況，若然陳先生於量度廚房天花濕度時，沒有把濕度測試儀器正好放在出現滲漏的地方，儀器根本就不會測到應有的濕度。"
+
+
+138. When under cross-examination, Ds' Expert admitted that when he conducted the humidity reading test, he did not have target points. He only took readings at those areas. He agreed that his humidity reading test could not prove whether there was water seepage at the positions claimed by P's Expert.
+139. To illustrate the unreliability of the humidity reading test conducted by Ds' Expert, one only has to look at the readings produced by Ds' Expert for the Kitchen taken on 20 March 2013 at 10 am, 1 pm and 4 pm (see pp 532 to 535). Ds' Expert measured the humidity at 10 spots in the Kitchen. I set out his readings in these spots (column by column from left to right) below in the order of 10 am, 1 pm and 4 pm: 
+
+
+10 am1 pm4 pm
+
+Spot 1:10.712.613.7
+
+Spot 2:36.535.250.0
+
+Spot 3:30.440.035.5
+
+Spot 4:12.614.413.0
+
+Spot 5:14.613.223.5
+
+Spot 6:12.915.913.0
+
+Spot 7:12.617.418.0
+
+Spot 8:11.613.612.8
+
+Spot 9:13.514.914.0
+
+Spot 10:12.112.012.5
+
+140. Spots 1 and 7 showed continuous increase in humidity from 10 am to 4 pm on 20 March 2013. Spots 2, 5 and 10 showed decrease in humidity from 10 am to 1 pm but increase in humidity from 1 pm to 4 pm. Other spots showed increase in humidity from 10 am to 1 pm but decrease in humidity from 1 pm to 4 pm. No explanation had been given by Ds' Expert for these different patterns in change of humidity at different spots of the Kitchen on the day of the ponding test bearing in mind that Ds' Expert's evidence was that there was no water seepage detected in the Kitchen after the ponding test.
+141. The areas affected by water seepage in the Kitchen as complained by the plaintiff were the area near spots 2 and 3 and the area near spot 7.
+142. The humidity measured by Ds' Expert at spots 2 and 3 was substantially higher than the surrounding areas. After the ponding test, humidity at spot 3 increased significantly from 10 am to 1 pm when humidity at spot 2 slightly decreased. Humidity at spot 2 increased significantly from 1 pm to 4 pm when humidity at spot 3 decreased significantly. No explanation was offered by Ds' Expert.
+143. The humidity measured by Ds' Expert at spot 7 increased significantly from 10 am to 1 pm and further increased from 1 pm to 4 pm. This suggested water seepage but Ds' Expert's evidence was that there was no water seepage at the Kitchen.
+144. The humidity reading at spot 5 showed a decrease in humidity from 10 am to 1 pm but a significant increase from 1 pm to 4 pm. This also suggested water seepage but there was no claim of water seepage around the area of spot 5. Again no explanation was provided.
+145. In para 3.1.17 of the Joint Report, the Ds' Expert stated that no significant changes in humidity were found at his humidity reading test. If the change from 35.2 to 50.0 (increase by over 42%) at spot 2 and change from 13.2 to 23.5 (increase by over 32%) at spot 5 both from 1 pm to 4 pm were not significant changes, I do not know what will constitute significant changes.
+146. The video recording the post-ponding inspections showed that on 5 April 2013, Ds' Expert measured the humidity at Flat 1C in the presence of P's Expert. Ds' Expert had read out various readings including 178, 159, 171 and 538 (which meant 17.8, 15.9, 17.1 and 53.8) (pp 692 to 695) but these readings were not found on the records for 5 April 2013 produced by Ds' Expert (see p 536-1). The video also showed that at a spot in the Kitchen, the humidity measuring equipment made a continual "beeping" sound which Ds' Expert agreed at the trial that it meant the humidity reading at that spot was almost 100. However, no record of humidity reading near to 100 was found in the aforesaid humidity reading records for the Kitchen provided by Ds' Expert. This event was also recorded in para 3.4.15 of the Joint Report. Ds' Expert said under cross-examination that he did not know why humidity reading of 100 was not marked on his humidity reading records for the Kitchen annexed to the Joint Report.
+147. From the above, it can be seen that Ds' Expert had not produced all readings taken during his humidity reading test. He would not include in his report unfavourable readings. The test was not conducted in an accurate way as the exact spots of measuring were not marked. The results produced were inconsistent as pointed out above. Such results are of no assistance to this court. I place no weight to the humidity readings produced by Ds' Expert.
+148. P's Expert opined that the ponding test with fluorescent material was the most reliable test to show the source of water seepage, if any. Ds' Expert also agreed at cross-examination that the ponding test with fluorescent material was one of the most reliable methods although Ds' Expert maintained that it should be supplemented and counter-checked by the infra-red test and the humidity reading test. In his re-examination, Ds' Expert said that if the ponding test with fluorescent material and the infra-red test showed different results, the fluorescent material found at the ponding test should be sent to laboratory for analysis. He agreed that this was not done in this case.
+149. I have found that the infra-red test and the humidity reading test conducted by DBC and Ds' Expert in this case were of little or no assistance to this court. I shall now consider the results of the ponding test with fluorescent material.
+150. Defence counsel submitted that ponding test was not a reliable way to prove water seepage as it was conducted in an artificial environment with water pressure (which would not occur in the ordinary daily use of the premises concerned) being created. With respect, I disagree. The artificial pressure created in the ponding test would speed up the effect of water seepage. If there is no water seepage at the area concerned, the ponding test will not yield positive result even with this artificial pressure. Ponding test does not create seepage but only shows the source of seepage in a shorter period of time.
+151. DBC was the contractor engaged by the defendants to carry out the ponding test. However, Ds' Expert admitted at the trial that he did not know how much fluorescent material was used by BDC in each of the four areas at which the ponding test was conducted. He agreed that the amount of fluorescent material used would affect the concentration of the testing solution and the consequential fluorescent effect.
+152. P's Expert produced 147 photographs on finding of fluorescent material in Flat 1C after the ponding test at Annex E of the Joint Report. Ds' Expert said in cross-examination that he had not inspected most of the positions covered by these photographs. Ds' Expert repeatedly stated in the Joint Report that he was unable to identify the positions concerned from looking at these photographs. This is not surprising as Ds' Expert had refused to conducted inspection together with P's Expert in the joint inspections after 20 March 2013. This was recorded in para 2.6 of the Joint Report and not disputed by Ds' Expert. In para 3.1.21 of the Joint Report, Ds' Expert explained that he did not conduct inspection together with P's Expert after 20 March 2013 was because it was more appropriate to carry out analysis and comparison of the findings at the inspections before discussions between the experts. This was no explanation for the two experts not conducting inspection together. If the two experts were inspecting different positions, there would be no basis for their discussion at all. Ds' Expert agreed that for those positions which he had not inspected, he did not have grounds to oppose to P's Expert's evidence.
+153. The refusal of Ds' Expert to conduct inspection together with P's Expert frustrated the purposes of joint inspection and made him unable to give any meaningful comments to the findings of P's Expert on positions inspected by P's Expert. I reject Ds' Expert's evidence that fluorescent material was not found at those positions which he had not inspected.
+
+The Kitchen
+
+154. Ds' Expert's evidence as to whether there was fluorescent material found at the alleged affected areas at the Kitchen ceiling in the ponding test was not clear, if not evasive. His evidence was shifting on whether fluorescent effect was seen at the ceiling of the Kitchen after the ponding test. In para 3.3.6 of the Joint Report, Ds' Expert said that no water seepage was found at the Kitchen ceiling in the ponding test. He contended that the colour on photo 10 at p 268A was blue instead of fluorescent green. Ds' Expert admitted under cross-examination that he had not inspected the positions in the Kitchen covered by photos 39 to 41 and 139 produced by P's Expert.
+155. The conversation recorded during the post-ponding inspection (item 17 to item 27 of p 675) showed that Ds' Expert admitted that he had seen fluorescent material at the Kitchen. Under cross-examination Ds' Expert said that the material appeared similar to BDC material and he was not sure whether it was BDC material. That was the reason why he instructed his assistant to take photographs (item 16 at p 669). He then said that the photographs produced by P's Expert were not reliable as they had not been compared with the pre-ponding records and the infra-red test results. He said that rusted areas and paints would also show fluorescent effect under ultraviolet light ("UV light"). He suggested that the alleged water seepage marks found in the Kitchen came from external wall seepage.
+156. I have mentioned above that Ds' Expert had changed his evidence to say that he had seen fluorescent material at the ceiling of the Kitchen at the pre-ponding inspection. When Ds' Expert was cross-examined on why he did not tell P's Expert his aforesaid pre-ponding finding when P's Expert identified to him the fluorescent material found at the Kitchen after the ponding test, Ds' Expert's explanation was that he was considering to conduct humidity reading test to see if there was change of humidity at that position. I find the explanation of the Ds' Expert evasive.
+157. I do not agree that the photographs did not show fluorescent material. I also do not agree that the colour showed at the affected areas was blue instead of fluorescent. If the alleged affected areas had showed colour assemble or close to the BDC fluorescent material in the pre-ponding inspection, Ds' Expert should have made record of such finding. No such record had been made by Ds' Expert and P's Expert confirmed that the inspection before the ponding test did not show any pre-existing fluorescent effect appear at the affected areas. I find Ds' Expert's evidence changing and incredible. Ds' Expert admitted that there were water seepage marks at the affected areas but explained that by possible water seepage from external walls. Ds' Expert's suggestion was mere speculation without supporting evidence. I do not accept such bare speculation.
+158. When the parties inspected the Kitchen at about 6 pm on 20 March 2013, part of the process was videoed. The video showed that fluorescent material was found by P's Expert at the ceiling of the Kitchen. Ds' Expert did not raise any objection to P's Expert's finding. I accept P's Expert's evidence and find that fluorescent material was found at the ceiling of the Kitchen after the ponding test. I find that water had seeped from Flat 2C into the Kitchen of Flat 1C.
+159. I agree that the two positions in the Kitchen showed in the Joint Report to have water seepage were not exactly the two positions of water seepage complained by the plaintiff and marked on the Plan (ie areas (8) and (9) marked on the Plan). Water seepage found next to the partition wall between the Kitchen and the 2nd Bedroom was not marked on the Plan and no water seepage was found at area (9) marked on the Plan. However, the positions showed by photos 9 to 11, 42 to 52, 86 to 94 and 131 to 136 at Annex E of the Joint Report (see pp 262A, 269A, 294A and 323A for location plans) were closed to the other water seepage position in the Kitchen (ie area (8)) marked on the Plan. The water seepage positions marked by the plaintiff on the Plan were for identification purpose. I am of the view that the positions proved to have water seepage at the ponding test were sufficiently close to one of the positions marked on the Plan. This is sufficient to prove the plaintiff's claim that water did seep from Flat 2C into the Kitchen of Flat 1C albeit at a slightly different position.
+
+The Guest Bathroom
+
+160. There was no dispute that fluorescent material was found at the ceiling of the Guest Bathroom after the ponding test.
+161. Ds' Expert argued that the ponding test could not show that the water seepage found at the ceiling of the Guest Bathroom on 28 March 2013 was caused by Flat 2C. His reasoning was that there was no evidence to show that when the plaintiff discovered the seepage at area (7) marked on the Plan in 2012 there was flooding at the locations where the ponding test was conducted and there was no water dripping at the affected area after the ponding test. He said that according to the defendants, they seldom used the shower in the guest bathroom of Flat 2C.
+162. Fluorescent material found at the ceiling of the Guest Bathroom clearly showed that water did seep from Flat 2C into the Guest Bathroom. Flooding or ponding only speeded up the process to demonstrate the seepage. Water dripping at the affected area only showed the seriousness of the water seepage at a particular moment. The evidence of the defendants that they seldom used the shower in the guest bathroom of Flat 2C was self-serving evidence and has to be treated with caution.
+163. I accept the evidence of P's Expert and find that water had seeped from Flat 2C into the ceiling of the Guest Bathroom.
+
+The Master Room and Master Bathroom
+
+164. In the video recording the parties' post-ponding inspection on 20 March 2013, P's Expert pointed out that fluorescent material was found at the Master Bathroom albeit of small quantities. Ds' Expert did not express any different views (p 680). When cross-examined, Ds' Expert agreed that he had not inspected the positions covered by photos 3, 14, 15, 17, 18, 23, 26, 58 to 60, 62 to 64, 69, 70, 73 to 75, 111, 113, 115, 119, 121, 122 produced by P's Expert in respect of the Master Bathroom.
+165. Ds' Expert alleged that he had checked the positions concerned at the corridor of the Master Room after P's Expert showed him the photographs taken by P's Expert said to have shown fluorescent effect. He said that he did not see the fluorescent effect at his checking. He explained that he did not state this in the Joint Report because he did not see water leakage at these positions. He had also taken humidity readings at these positions and did not find water leakage. But when Ds' Expert was cross-examined, he admitted that he did not inspect the specific positions at the ceiling of the corridor of the Master Room covered by photos 106 to 108, 146 and 147. He admitted that he only used a few points at the corridor to conduct his humidity reading test.
+166. Water seepage at the corridor of the Master Room was one of the claimed positions. If Ds' Expert had conducted inspection at the specific positions pointed out to him by P's Expert and found no water seepage, there was no reason for Ds' Expert not to include such facts in the Joint Report. The way in which Ds' Expert conducted his humidity reading test at the corridor of the Master Room was so unscientific that there is no possibility that the finding will be accepted by this court.
+167. I have no hesitation to reject Ds' Expert's evidence.
+168. PW3 said that when he visited Flat 2C on 24 August 2011, he noticed water stain at the wooden floor of the corridor of the master bedroom of Flat 2C. This was confirmed by Ds' Expert in para 3.3.18(3) at p 220 although Ds' Expert was of the view that the water came from the common pipe well. This is clear evidence of water seepage.
+169. Although the photographs of fluorescent material found at the corridor of the Master Room was not as bright as those found at other areas, the fluorescent material could still be identified. P's Expert opined that the water found at the corridor of the Master Room came from ponding test conducted at the master bathroom of Flat 2C. As the water had to travel a longer way away from the master bathroom and there was ceiling paper at the surface of the ceiling, these would affect the fluorescent effect of the material observed from outside the ceiling paper. I accept that water with fluorescent material did pass from Flat 2C into the ceiling of the corridor of the Master Room outside the Master Bathroom.
+170. I accept P's Expert's evidence and find that water had also seeped from Flat 2C to the ceiling of the Master Room and the Master Bathroom.
+
+The Balcony
+
+171. No fluorescent material was found at the Balcony on 20 March 2013 after the ponding test. However, P's Expert found fluorescent material at the Balcony at the joint inspection of 28 March 2013. P's Expert said that it took longer time for water to seep through the floor slab of the balcony of Flat 2C because the defendants had thickened the floor slab of Flat 2C's balcony. The video on the parties' joint inspection on 5 April 2013 also showed that P's Expert had pointed out the fluorescent material found at the Balcony.
+172. When Ds' Expert was under cross-examination, he agreed that photo 141 (at p 341A) showed fluorescent effect but argued that it was not fluorescent material used by BDC as the fluorescent material used by BDC was brighter. Ds' Expert said that he saw similar fluorescent effect at the same position in the Balcony before the ponding test but he had not stated that in the Joint Report as he considered that it was fluorescent effect produced by building material. Ds' Expert's explanation of not including such material pre-ponding finding in the Joint Report was simply incredible and I reject the same.
+173. When Ds' Expert was cross-examined on the fluorescent material found on the floor of the Balcony (photos 142 to 143 at p 342A), he said that it was fluorescent effect from paints. However, he admitted that he had not inspected the positions at the Balcony shown by photos 100, 102, 103, 143 and 144. Ds' Expert's opinion was nothing more than speculation and is not accepted by this court.
+174. Photographs of the stalactite at the Balcony taken under UV light were produced at Annex E of the Joint Report. I have considered these photographs and accept that they did show fluorescent material. I note that the surrounding environment at the Balcony was brighter than indoor. This would affect the fluorescent effect shown on the photographs. I accept P's Expert's evidence and find that water did seep from Flat 2C into the ceiling of the Balcony.
+
+BDC’s report on fluorescent effect of ponding test
+
+175. BDC stated in its report that fluorescent effect was found only at the Guest Bathroom after the ponding test (pp 356 to 357). BDC produced photographs taken by it to support its aforesaid finding (pp 473 to 484). P's Expert had the following comments on this part of the BDC Report (pp 224 to 225): 
+
+3.4.3 "拍攝螢光色物料照片，是要有一定的技巧。第一，螢光色物料必須要用在較黑暗的環境，以合適的紫外光燈照射目標，加上慮光鏡，才可以拍攝到螢光色物料的存在。第二，於拍攝時，攝影機必須以近距離及合適的角度，焦點調較準確，才可以清楚拍攝到螢光色物料的情況。
+
+BDC報告中的螢光劑照片
+
+3.4.4在BDC報告中展示的螢光劑照片中，有聲稱於浸水測試後在"1C"露台拍到的（C1至C3頁）。以黃先生的意見，這些照片並無價值。第一，從照片中看到，拍照時的環境太光，若然當時有螢光色物料出現，就算肉眼看得到，攝影機亦很難會拍攝得到。第二，有些照片顯示了紫外光燈照射天花的某部份，但那部份並非發現螢光色物料的地方，所以照片沒有顯示螢光色物料於紫外燈照射的地方亦可理解。第三，很明顯，露台的天花有一個位置呈現了「鐘乳石」，這位置自然是觀察滲漏的目標。雖然陳先生在這位置拍攝了一些用紫外光燈照射的照片，但他並沒有展示這些照片。
+
+3.4.5在BDC報告中展示的螢光劑照片中，有聲稱於浸水測試後在"1C"廚房拍到的（C4至C6頁）。以黃先生的意見，這些照片並無價值。第一，在BDC報告中第C5頁（於2013年3月30[原文如此]日下午5時30分拍攝）的照片中，有燈在照射目標。但從照片的顏色看，這燈不似是紫外光燈。所以，就算當時有螢光色物料出現，亦應不會被拍攝到。第二，BDC拍照的距離及角度都是不合適的。因為當時既然有拍攝的目標（有燈照射的地方），慣常的專業方式就是盡量於近距離及盡量接近垂直角度拍攝目標。而BDC展示的照片，攝影機與目標的距離甚遠，角度亦與垂直有很大差別，就算拍攝時在紫外光燈照射的地方有螢光色物料出現，亦不會被拍攝到。相反，在BDC報告中的第C8及C9頁的照片所取的距離及角度，就是一般的做法。第三，廚房的天花，環繞著"2C"去水喉的位置，有很明顯的水積及油漆脫落情況。這位置就是觀察滲漏的目標，但陳先生或BDC並沒有展示任何拍攝這位置的照片。
+
+3.4.6在BDC報告中展示的螢光劑照片中，有聲稱在浸水測試後在"1C"主人房浴室拍到的（C10至C12頁）。於黃先生的意見，這些照片亦無價值。第一，拍攝者於拍攝時沒有用紫外光燈照射，或者拍攝時，拍攝者沒有以紫外光燈適當地照射目標。這樣的拍攝方式根本沒有意義。第二，在"1C"主人房浴室的天花，有明顯的水積、鐵繡積、石屎剝落及「鐘乳石」。這些地方就是觀察滲漏的目標，但BDC或陳先生並沒有展示拍攝這些目標的照片。"
+
+
+
+
+176. I accept P's Expert's comments and reject BDC's finding of no water seepage at the Kitchen, the Master Bathroom, the Master Room and the Balcony.
+
+Photographs produced by Ds’ Expert
+
+177. Ds' Expert produced some photographs on the fluorescent effect after the ponding test (pp 539 to 550) to show that no water seepage was found at the Kitchen, the Master Bathroom, the Master Room and the Balcony.
+178. P's Expert had the following comments on these photographs produced by Ds' Expert: 
+
+3.4.7 "陳先生提供了數張有燈照射天花的照片，其中"PR-19"聲稱為於2013年3月28日於"1C"廚房天花拍到，及"PR-20"聲稱為於同日在客廁天花拍到。第一，"PR-19"的照射點及其範圍都沒有呈現明顯紫色，黃先生不能確定照射的燈是否紫外光，或者攝影機有否加了任何慮光鏡。無論如何，若然"PR-19"用作證明照射點是否出現螢光物料，那麼拍攝的角度及距離都不恰當。如果陳先生或他的助手以黃先生或他的助手所採用的拍攝角度及距離，陳先生是必定會清楚拍攝到螢光物料出現在天花。至於"PR-20"，這張照片雖然能拍攝到螢光物料的出現，但也未算理想，因為拍攝距離仍可以更接近，令結果更為清楚。而從這照片的解像度看，這照片應該不是以高解像度攝影機拍的。以上數點，加上"PR-20"照片中從右邊來的光干擾的情況來看，這兩張照片的拍攝者都未能掌握應有的拍攝技巧。"
+
+
+
+
+179. Ds' Expert produced two photographs of a ceiling allegedly taken inside Flat 2C on 28 March 2013 at 6 pm (PR-25 and PR-26 at p 544A). He said that the photographs also showed fluorescent effect to support his contention that building material also produced fluorescent effect. The plaintiff's counsel submitted in his closing submissions that: 
+
+45. "First, the photos do not really show any fluorescent effect on the ceiling. They only showed the lit-up part and shadows of something protruding from the surface of the ceiling.
+
+46. Second, if it were really the case that fluorescent effect appeared on the ceiling of Unit 2C, Mr Chan (Ds' Expert) would have taken and produced photos without the ceiling light switched on (as Mr Chan agreed during cross-examination that the fluorescent effect would be more distinct if the surrounding were made darker). Now it is plain that the photos were taken with the ceiling light switched on.
+
+47. Third, if it were true that fluorescent material was found on the ceiling of Unit 2C, Mr Chan would have alerted Mr Wong (P's Expert) or invited him to inspect such occurrence on that day, when the experts were present at Unit 1C for joint inspection."
+
+
+
+
+180. I agree to the aforesaid comments of P's Expert and the above observation of the plaintiff's counsel. I reject Ds' Expert's evidence that no fluorescent material was found at the Kitchen, the Master Bathroom, the Master Room and the Balcony after the ponding test and that fluorescent material had been found at the ceiling of Flat 2C on 28 March 2013.
+
+Expert evidence on rental value
+
+181. P's Valuer and Ds' Valuer inspected Flat 1C on 17 October 2012. They submitted their respective valuation reports in October 2012 and also submitted the Joint Valuation on 23 November 2012.
+
+P’s Valuer’s valuation
+
+182. P's Valuer used the rateable value of Flat 1C and the Carpark and the average rent published by the Rating & Valuation Department as basis for his valuation as he was unable to find suitable market rental transaction comparables. He also considered other rental listings in Shatin and sales transactions in nearby areas.
+183. The rateable value for Flat 1C for the period of 2010 to 2011 was $142,800 (p 790/1) and for the period of 2011 to 2012 was $168,000 (p 790/5). The rateable value for the Carpark for the period of 2010 to 2011 was $9,360 (p 790/2) and for the period of 2011 to 2012 was $9,840 (p 790/6).
+184. The saleable floor area of Flat 1C is approximately 99.8 square metres and the gross area is approximately 128.6 square metres. P's Valuer referred to the information published by the Rating & Valuation Department on the average rent for units with a size of 70 to 99.9 square metres in the New Territories which was $174 per square metre saleable area per month.
+185. P's Valuer said that the rental listings for similar size units in Shatin for 2010 indicated a range of $200 to $260 per square metre gross area per month.
+186. P's Valuer also said that sales transactions of adjoining developments recorded in 2010 indicated a range of $5,360 to $6,733 per square metre saleable. He adopted an annual return on investment of 3.5% to arrive at the monthly rental ranging from $168 to $211 per square metre saleable per month.
+187. Based on the above information, P's Valuer opined that as at 27 October 2010 the market rental of Flat 1C was $17,500 per month and the market rental of the Carpark was $1,000 per month. P's Valuer's valuation was exclusive of rates and management fee.
+
+Ds’ Valuer’s valuation
+
+188. Ds' Valuer valued the market rental of Flat 1C by direct comparison approach. He did not value the market rental of the Carpark. However, based on rental value of other developments which also lack or having minimal public transport system in general, he assumed that rental value of a car parking space within the comparable development was around $2,400 per month as at 2009 to 2010 and was $2,700 per month as at 2012. He deducted such rental value for each carpark from comparable transactions which included carpark(s).
+189. Ds' Valuer did not find any rental transactions on the Estate for the period from 2009 to 2012. The Estate was situated at Shatin Heights Road. Ds' Valuer used comparable transactions in the immediate locality (ie developments along Shatin Heights Road and Yau On Street) with various adjustments as set out in his report dated 26 October 2012 ("Ds' Valuation") as comparables. He did not find any comparable transactions being registered at the Land Registries. He relied on rental transactions concluded by a company in the same group of his company, ie Centaline Property Agency Limited, to find the comparables for his valuation. He also took reference of the rateable value of Flat 1C as at 2010.
+190. The transaction dates of the comparable transactions were dated 14 October 2009, 21 December 2010, 14 June 2012 and 27 June 2012. Ds' Valuer made adjustments in respect of date of transaction, size, availability of lift, floor level, building age, availability of recreational facilities, location and external conditions.
+191. Ds' Valuer valued that the monthly market rental of the Flat 1C (inclusive of rates and management fee) was $13,700 as at 27 October 2010 and was $15,900 as at 26 October 2012.
+
+Discussion of expert evidence on valuation
+
+192. P's Valuer relied on information which was non-specific to arrive at his valuation. He used the average rent for units with a size of 70 to 99.9 square metres in the New Territories for 2010 as one of his reference data. Such data covered a wide spectrum of properties in the whole New Territories which included areas with rental market very different from the Shatin Heights area. No meaningful adjustments can be made to such general information to render it useful for valuation of a specific property.
+193. P's Valuer also relied on rental listings for similar size units in Shatin for 2010. Although Shatin is more specific than New Territories, it still covers areas with great variant rental market. However, no adjustment was made by P's Valuer to reflect such variant. Furthermore, rental listings are asking prices of landlords. They are not the transaction prices. They are usually set at a level higher than the transaction prices. The extent of difference between the asking prices and the transaction prices will depend on the aggressiveness of individual landlord. Such figures are unreliable to be used as basis for valuation of a specific property.
+194. P's Valuer also relied on sales transactions of adjoining developments in 2010 and an annual return on investment of 3.5% to arrive at his valuation. P's Valuer had not stated the basis for him to adopt an annual return of investment of 3.5%. If this was the average annual return on investment on rental properties in Hong Kong in 2010, it was too general. Ds' Valuer rightly pointed out in the Joint Valuation that the undifferentiated nature between districts and large variation between classes of yield rendered the investment method less appropriate than the direct comparison method in doing the valuation. If 3.5% was only the expected return for investment on rental properties, it was nothing more than an expectation. Furthermore, no adjustment was made by P's Valuer to reflect the differences between the reference properties and Flat 1C.
+
+195. I am of the view that valuation based on such general and unspecific information was unreliable. Furthermore, as pointed out by the defendants' counsel in para 100 of his closing submission: "Significantly, apart from saying that he has considered all the information available to him, the Plaintiff's expert (P's Valuer) has not explained how the final figures are arrived at." I am of the view that the direct comparison method adopted by Ds' Valuer would produce a more reliable valuation. P's Valuer did not dispute that the direct comparison method was the best method to value the market rental of a property. P's Valuer stated in para 6.2 of his report dated 24 October 2012 ("P's Valuation") that: "Since tenancy for residential units which usually runs for a period of 2 years are not normally registered in the Land Office, there is a lack of market rental transaction comparables available for the purpose of this report. Therefore, the rateable value of the subject property and average rents prepared by the Rating & Valuation Department would appear to serve as the best indicator for this instruction."
+
+196. P's Valuer did not adopt the direct comparison method for this valuation only because he did not have information on comparable transactions. P's Valuer stated in the Joint Valuation that: "As I was unable to access to rental transaction records concluded by Centaline Property Agency, I did not relied [sic] on such data in the course of my valuation."
+
+
+197. Ds' Valuer arrived at his valuation after making various adjustments to the comparables obtained by him. P's Valuer did not contend that any of the adjustments made by Ds' Valuer was unreasonable or inappropriate.
+198. The plaintiff's counsel commented in his closing submissions that the comparables which Ds' Valuer had chosen were not in the public domain but transactions handled by a related company to Ds' Valuer's company. He further commented Ds' Valuer for not producing the relevant tenancy agreement in Ds' Valuation. He submitted that the figures relied on by Ds' Valuer were all secondary material.
+199. The parties had by consent agreed for the evidence of both P's Valuer and Ds' Valuer to be admitted at the trial without the need to call them to give oral evidence. If the plaintiff wished to challenge the genuineness of the comparables adopted by Ds' Valuer, the plaintiff should have required Ds' Valuer to attend the trial for cross-examination. To criticize Ds' Valuer at his back and without allowing him a reasonable opportunity to respond is simply unfair to Ds' Valuer. In the Joint Valuation, Ds' Valuer confirmed that he had adopted all transactions along Shatin Heights Road as comparables in his valuation without prejudice. I do not accept the aforesaid criticism of the plaintiff's counsel on Ds' Valuer's valuation.
+
+200. Both P's Valuer and Ds' Valuer referred to the rateable vale of Flat 1C in their reports. Rateable value is an amount equal to the rent assessed by the Commissioner of Rating and Valuation at which a property might reasonably be expected to let from year to year pursuant to the Rating Ordinance (Cap 116). Section 7(2) of the Rating Ordinance provides that: 
+"The rateable value of a tenement shall be an amount equal to the rent at which the tenement might reasonably be expected to let, from year to year, if - 
+
+(a) The tenant undertook to pay all usual tenant's rates and taxes; and
+
+(b) The landlord undertook to pay the Government rent, the costs of repairs and insurance and any other expenses necessary to maintain the tenement in a state to command that rent."
+
+
+
+
+201. In the Joint Valuation, P's Valuer stated that the approach adopted by the Rating and Valuation Department was to exclude all outgoings such as rates and management fees in rental valuation. Ds' Valuer did not express any different views although he pointed out that it was a common practice in Hong Kong to have rental inclusive of rates and management fee. The Rating Ordinance excludes from rental not only government rates but "all usual tenant's rates". It also provides for the landlord to pay the government rent, insurance and repair costs and maintenance expenses. Under the Rating Ordinance, expenses of capital nature are responsible by the landlord. Management fee is not capital expense in nature. It is regular recurring expense like government rates. Like government rates, management fee paid by the tenant to the landlord would not be pocketed by the landlord but would have to be paid out to a third party, ie the government or the manager of the property. In the premises, I accept the evidence of P's Valuer that rateable value is exclusive of rates and management fee.
+202. Under the Rating Ordinance, the Commissioner of Rating and Valuation has statutory power requiring the owners and occupiers of any tenenment to provide him with particulars required for assessing the rateable value of the tenement.
+
+203. Ds' Valuer in para 7.8 of Ds' Valuation stated that: "Under Rating Ordinance, owners and occupiers of any tenenment are required to provide Rating and Valuation Department with their respective rental particulars. The Department should have collected as many rental particulars as possible in order to assess rateable value. According to the Rating and Valuation Department, rateable value is defined as " an estimate of the annual rental value of the property at a designated valuation reference date, assuming that the property was then vacant and to let In assessing the rateable value, reference is made to other open market rents agreed at or around the date of valuation, for similar properties in the locality, with due adjustments to reflect any differences in size, location, facilities, standards of finish and management.""
+
+
+204. The Rating and Valuation Department with its statutory authority should have collected a representative percentage, if not all, of the rental transactions at the material times to assess rateable value of properties. Of course special features of individual property such as internal decoration; historical nature of the information obtained by the Rating and Valuation Department and change of market conditions after the designated valuation reference date will all affect the valuation of market rental at a particular date. It should also not be forgotten that the rateable value of a property is assessed for the purpose of determining how much is payable as rates for the property. Various adjustments have been made by the Rating and Valuation Department to the data collected to achieve the statutory purposes. The rateable value is not the exact rental which a particular property may fetch in the open market but it provides a useful reference of the market rental of a property.
+205. The rateable value of Flat 1C for 2010 to 2011 was $142,800 (ie $11,900 per month) and for 2011 to 2012 was $168,000 (ie $14,000 per month).
+206. P's Valuer valued the market rental of Flat 1C at $17,500 (exclusive of rates and management fees) as at 27 October 2010. In such case, the valuation of P's Valuer was 47% of above the rateable value of Flat 1C for 2010 to 2011 (ie $17,500 ÷ $11,900 x 100% = 147%) and was 25% above the rateable value of Flat 1C for 2011 to 2012 (ie $17,500 ÷ $14,000 x 100% = 125%).
+207. Ds' Valuer valued the market rental of Flat 1C at $13,700 (inclusive of rates and management fee) as at 27 October 2010. The rates payable for the 3rd quarter of 2010 for Flat 1C was $595 per month. The management fee for Flat 1C as at 2012 was $1,799 per month (p 790/29). No evidence was adduced to say that the management fee for Flat 1C in October 2010 was different. I assume that the management fee of Flat 1C in October 2010 was also $1,799. Ds' Valuer's valuation of Flat 1C's market rental (exclusive of rates and management fee) was $11,306 which was about 5% below the rateable value of Flat 1C for 2010 to 2011 and about 19.24% below the rateable value of Flat 1C for 2011 to 2012 (ie $11,306 ÷ $14,000 x 100% = 80.76%).
+208. As discussed above, I am of the view that the direct comparison method adopted by Ds' Valuer is preferable to P's Valuer's valuation relying on general and unspecific data. When compared with the rateable value, Ds' Valuer's valuation was also closer to Flat 1C's reateable value than P's Valuer's valuation.
+209. Instead of relying on P's Valuer's valuation, the plaintiff's counsel in his closing submissions proposed a valuation by comparing the historical figures of actual rental of Flat 1C and the rateable value of Flat 1C from 2005 to 2008. He arrived at the following conclusion: 
+
+84. "As shown in the above tables (tables showing the historical figures of actual rental and rateable value of Flat 1C and the Car Park from 2005 onwards), the market rental for Unit 1C, including car park, should be a figure between $15,800 per month ($15,000 as in 2008 + $800 car park) and $20,000 (as in 2013). It is submitted that for the purpose of assessing P's damage for loss of rental during the period between 27.10.2010 and 20.07.2013, it is fairest to take the median of $15,800 and $20,000 (i.e. $17,900) as the average monthly rental for the entire period."
+
+
+
+
+210. Even the plaintiff's counsel did not feel comfortable with the valuation of P's Valuer. However, counsel is no expert on property valuation. I do not accept "expert evidence" of the plaintiff's counsel contained in his closing submissions. For reasons stated above, I prefer Ds' Valuer's valuation to P's Valuer's valuation.
+
+Determination of issues for the trial
+The 2009 Incident
+
+211. The plaintiff pleaded that during the 2009 Incident, water had seeped into the Guest Bathroom and the 2nd Bedroom.
+
+Whether there was water seepage as claimed by the plaintiff?
+
+212. PW1 had given evidence on what happened at Flat 1C in the early morning of 19 July 2009. Her evidence was supported by the evidence of PW2. Even D1 admitted that PW1 sought compensation from him for her loss suffered in the 2009 Incident.
+213. I find that PW1 had called at Flat 2C and sought assistance from PW2 at about 3 am on 19 July 2009 because of water seeping into Flat 1C. If there was no water seepage into Flat 1C as testified by PW1, I see no reasons for PW1 getting up at the early hours, seeking help from the management office of the Estate and calling at Flat 2C. PW1's evidence was not only supported by PW2 but also found support in D1's evidence.
+214. The plaintiff had produced photographs taken by PW3 and PW4 on damage sustained by Flat 1C in the 2009 Incident (pp 627 to 632).
+215. I accept PW1's evidence and find that water did seep into Flat 1C at early hours of 19 July 2009 and mould stains did start to appear thereafter at the ceiling paper and wallpaper of the Sitting Room, the Master Room and the 2nd Bedroom as testified by PW1.
+
+Whether the water seeped into Flat 1C came from Ds’ Flat?
+
+216. In Hui Ling Ling v Sky Field Development Ltd (unrep., HCA 35/2007 
+
+, 8 May 2012), Recorder Yuen SC stated at para 23 of his judgment that: "It is well established that there is no presumption that water leakage was necessarily caused by the flat above. The plaintiff in a water leakage case bears the burden of proof to establish, on the balance of probabilities, that the source of water was the defendant's flat. Hence, it is not for the defendant to find out or identify the correct source of water leakage or to prove that its origin did not come from his property."
+
+
+217. D1 said that PW1 and PW2 had not mentioned to him that they had heard sound like waterfall from inside Flat 2C or that water flew from Flat 2C to the corridor was neither here nor there. They did not specifically tell D1 such things did not mean that these things did not happen. Both PW1 and PW2 have no interest in this action. They are independent witnesses. I see no reasons for them not telling the truth to the court.
+218. Defence counsel relied on the timing when the Hong Kong Observatory hoisted the amber and red rainstorm signals at 1:45 am and 2:25 am respectively (p 60) to submit that rain water seeped from Flat 2C would not have reached Flat 1C by 2 am to 3 am on 19 July 2009. With respect, I do not agree. Amber rainstorm signal was hoisted at 1:45 am. By 2 am, 41mm of rainfall was already recorded by the Hong Kong Observatory at Shatin area (p 826). The Hong Kong Observatory had to hoist the red rainstorm signal by 2:25 am (ie after 40 minutes after hoisting of the amber rainstorm signal). By 3 am, another 46.5 mm of rainfall was recorded at Shatin area (p 826). D1's evidence was that the weather was relatively calm when he went to bed at 1:30 am. If the rain only became heavy after D1 went to bed, it meant over 80 mm of rainfall was recorded within 1.5 hours. With rainfall of such intensity, the Roof would probably be flooded in minutes with blocked drainage and the flooding water could reach Flat 1C via Flat 2C in this 1.5 hour's time bearing in mind that the Staircase would lead the water to the sitting room of Flat 2C where the floor slab was not built with impermeable material.
+
+219. Defence counsel submitted that Ds' Expert had previously conducted a water test during the proceedings in the Small Claims Tribunal which showed that it took several hours for water to pass through a floor slab. He referred to para 3.2.7(3) of the Joint Report at p 210 when Ds' Expert stated that: "這些事情不可能在短時間內發生，而以前的測試亦顯示水要經過幾個小時才會經由樓板缺陷之處滲漏，而非上面聲稱在短短的一個小時內由"2C"單位導致"1C"單位天花嚴重滲水。"
+
+
+220. Ds' Expert did not say that the test referred to in the aforesaid paragraph was conducted at Flat 2C in the proceedings at the Small Claims Tribunal. Ds' Expert had previously prepared a report dated 19 September 2011 for the proceedings in the Small Claims Tribunal (pp 1211 to 1322). In the aforesaid report, Ds' Expert stated that ponding test was conducted at the common pipe well at the Roof and at the planter outside the bedroom at Flat 2C immediately above the 2nd Bedroom (see para 6.1 at pp 1222 to 1224 and 1244). No test was conducted by Ds' Expert on the time required for water to pass through the floor slabs of Flat 2C. At the trial, Ds' Expert agreed that the time required for water to seep through a floor slab would be affected by the thickness and the type of concrete concerned. I do not find that the aforesaid paragraph of the Joint Report assists the defendants.
+
+221. In the letter dated 30 November 2009 sent by D1 to the IO (pp 600 to 602), D1 said at p 600 that: "九[原文如此]月莫拉克[原文如此]颱風襲港，大風大雨下，一座天台由於被風吹來的樹葉尽堵两排水口，天台如水塘，不少傢俬杂物被浸，并严重影响两住戶。"
+
+
+222. From the aforesaid letter, it can be seen that D1 agreed that the Roof had been seriously flooded because of the two drainage holes being blocked. D1 stated that this had seriously affected two units. D1 was referring to Flat 2C and Flat 1C. If Flat 1C was seriously affected by water accumulated at the Roof, it was more likely than not that such water seeped from the Roof into Flat 1C via Flat 2C. The fact was that the water did come from Ds' Flat.
+223. D1 had admitted in the aforesaid letter that the Roof was seriously flooded. He used the word "reservoir" to describe the scene. D1 also stated that his flat was seriously affected. D1 admitted that water was found in Flat 2C in the morning of 19 July 2009. I do not accept his evidence that only the parts identified on the plan at p 905 was wet. I find that D1 had tried to play down the extent of flooding in Flat 2C in his evidence for obvious reasons. I reject his evidence on the extent of flooding found in Flat 2C in the morning of 19 July 2009.
+224. I accept the evidence of PW2 and find that water was flowing out from Flat 2C when he called at Flat 2C with PW1 at about 3 am on 19 July 2009. For water to flow out from the door of Flat 2C into the public area, the amount of water leaked into Flat 2C could not be limited to the extent as D1 wished this court to believe. Photograph produced by the defendants showed that at the main door of Flat 2C there was a door kerb of about 0.7 inch high (p 975). Before water would flow out from Flat 2C, the sitting room of Flat 2C would have been flooded by water of no less than 0.7 inch deep. That was serious flooding.
+
+225. Defence counsel submitted that the water seeped into Flat 1C might be caused by leakage from common areas. He referred to para 3.2.7(3) of the Joint Report to support his aforesaid contention. In para 3.2.7(3) of the Joint Report, Ds' Expert stated that: "事實上1C單位天花出現滲水可以有很多原因，在強風之下，水可以從外牆或其他公共地方滲到"1C"，翠嶺山莊入伙已有20年，從現場所見，屋苑的維修做得並不好，多處公共地方都出現裂紋，因此不能因為在1C發現滲水就認為是"2C"造成。"
+
+
+226. If the water seepage came from the external walls, the water would also seep through the walls of Flat 1C and the area near the external walls would have more serious seepage. This did not happen in this case. The proposition put forward by Ds' Expert was not supported by evidence adduced before me.
+227. D1 repeatedly said in his witness statement and at the trial that he did not know where the water found in Flat 2C came from. He did not agree that the water came from the Roof through the Hole on the ground that he did not see that happened. The fact D1 did not see that did not mean that it did not happen. In the taped telephone conversation between D1 and PW3, D1 stated that: "如果佢去得切水，咪唔會喺我度落囉，佢去唔切水啫嘛，係咪？" (Item 43 at p 664) This showed that D1 clearly knew where did the water come from. His repeated denials of this fact only worked against his credibility. I am satisfied on balance of probabilities that the water found in Flat 2C came from the Roof through the Hole. Such water subsequently found its way to Flat 1C.
+228. I am satisfied that the plaintiff has proved on balance of probabilities that the water seeped into Flat 1C in the early morning of 19 July 2009 came from Flat 2C.
+
+Whether the defendants were liable to the plaintiff’s claim in respect of the 2009 Incident?
+
+229. The plaintiff claimed against the defendants for negligence and/or nuisance in respect of the 2009 Incident.
+230. There are three ways in which private nuisance may arise, namely: (1) encroachment on a neighbour's land; (2) physical damage to a neighbours' land; and (3) undue interference with a neighbour's convenience and enjoyment of his land. (See para 20-06 of Clerk & Lindsell on Torts 21st ed) Generally, private nuisance arises from something emanating from the defendant's land. In this case, water emanated from Ds' Flat and caused physical damage to Flat 1C.
+231. As pointed out by Lord Denning MR in 
+Miller v Jackson [1977] QB 966 
+
+at 980 D to E that: "It is the very essence of a private nuisance that it is the unreasonable use by a man of his land to the detriment of his neighbour. He must have been guilty of the fault, not necessarily of negligence, but of the unreasonable use of the land."
+
+
+232. In Sedleigh-Denfield v O'Callaghan [1940] AC 880 
+the appellant was the owner and occupier of a house and garden. To the north of his land was a field owned by the respondents. On the southern edge of that field was a hedge, and to the south of that hedge there was a ditch. The area of the ditch was owned by the respondents. To the west of the respondent's land there was another land called Holcombe Court. Before 1934 the ditch, as an open watercourse, flowing from east to west, continued along the north edge of Holcombe Court, to a roadway called Lawrence Street. In 1934, the then owner of Holcombe Court made an agreement with the local county council under which the county council undertook to substitute a pipe or culvert, 15 inches in diameter, in the line of the ditch along the north side of Holcombe Court. To prevent the possibility of wood, leaves or other refuse carried down by the stream, blocking the opening of the 15-inch pipe, it would have been proper practice to fix a grid or grating in the ditch a little to the east of the opening of the pipe. The county council recognized the necessity for a grating and provided one; but their workman instead of fixing it in the ditch some couple of feet from the opening of the pipe or culvert where it would intercept leaves and other refuse, placed it on the top of the culvert where it was completely useless. The mouth of the culvert was on the respondents' land. In April 1937, a heavy storm of rain occurred, the culvert became blocked with refuse and the appellant's premises were consequently flooded by water coming down the ditch which could not get away down the 15-inch pipe. The appellant suffered substantial damage.
+
+233. Lord Atkin said at 895 to 896 that: "I agree with the finding of the learned judge, accepted by the Court of Appeal, that the laying of a 15-inch pipe with an unprotected orifice was in the circumstances the creation of a nuisance or of that which would be likely to result in a nuisance. It created a state of things from which the ditch was flowing in full stream an obstruction might reasonably be expected to result: though I am not satisfied that granted this reasonable expectation of obstruction it would be necessary for the plaintiff to prove that the particular injury was such as reasonably to be expected to result from the obstruction. Now, if the defendants had themselves laid the pipe in the manner described, I have no hesitation in saying that the plaintiff once he had suffered damage from flooding so caused, would have had a good cause of action against them for nuisance. It is probably strictly correct to say that as long as the offending condition is confined to the defendant's own land without causing damage it is not a nuisance, though it may threaten to become a nuisance. But where damage has accrued the nuisance has been caused."
+
+234. Lord Wright also stated at 902 that: "If it were merely a question of the physical conditions no one would doubt that a case of private nuisance was established. The interposition of the pipe as the means of carrying the water from the ditch in place of the former open watercourse was not in itself objectionable. The trouble was that no protecting grid was put in place, and there was nothing to prevent the pipe getting choked. There was thus the risk of a flood, which might spread, as in fact happened, to the appellant's premises, causing damage which in the actual result was considerable. The structure of the orifice of the pipe was on the respondent's land. If the work had been done by or on behalf of the respondents, the conditions requisite to constitute a cause of action for damages for a private nuisance, would be beyond question complete."
+
+
+235. In the case before me, the defendants had built an illegal structure, ie the Hole, on their property without a water-tight hatch cover. It created a state of things from which when there was heavy rain, the drainage at the Roof might reasonably be expected to be blocked by leaves or debris, from which obstruction flooding of the Roof would result and spread to Flat 1C via Flat 2C through the Hole might reasonably be expected to result. The defendants had created a state of things which result in a nuisance when damage was accrued in the 2009 Incident.
+236. The parties' experts agreed that the Hole built by the defendants at the Roof was illegal structure. This is clearly unreasonable use by the defendants of the Roof. It created a potential nuisance which became an actual nuisance when the Roof was flooded in the 2009 Incident and damage was caused to Flat 1C.
+237. In Born Chief Co v George Tsai & Another [1996] 2 HKLR 188 
+the defendants were the owners of premises which included a flat roof. The premises were used for storage purposes but left unattended except for a watch dog. A sliding door was left about 12 inches ajar to allow the dog access to the flat roof. In the early hour of 15 October 1991 there was exceptionally heavy rainfall to the extent that the flat roof was flooded. The water overflowed into the defendants' premises and seeping underneath the main entrance door to the plaintiff's restaurant which was immediately below and causing damage to the plaintiff's restaurant. The judge found negligence and nuisance against the defendants for causing flooding damage to the plaintiff's property. This finding of negligence and nuisance against the defendants was upheld by the Court of Appeal.
+
+238. Liu JA stated at 191 E-H that: "According to "the ordinary usage of mankind living in (our) society", the possibility of flooding of Flat C [the defendants' premises] and consequential water damage to other premises in the same building should reasonably have been foreseen. Nuisance was, in my view, established before the judge.
+In addition, were the defendants negligent by leaving their sliding door open by 12 inches? The defendants were responsible for opening and keeping open that sliding door. For the reasons I have given, there was reasonable foreseeability of harm to the plaintiff as an occupier of premises below in the same building. Clearly, the defendants owed a duty of care to their neighbour, the plaintiff. The defendants must have foreseen that a variety of reasons, flooding might be caused with an open door to their flat roof. The possibility of flooding in heavy rainfall must be or should reasonably have been within the knowledge, as the judge rightly put it, of "anyone living in Hong Kong". They were negligent.
+Having found negligence, it would matter little to the judge whether the defendants could also be held liable for nuisance. But in this case, the defendants were in my judgment, guilty of as well as nuisance as negligence. Once this conclusion is reached, it would be unnecessary to go further to the other peripheral matters in this appeal."
+
+
+239. D1 said in his evidence that he stayed late until 1:30 am on 19 July 2009 because he was concerned that the drainage at the Roof might be blocked by leaves or debris brought to the Roof by the typhoon. D1 was fully aware of the likelihood of the drainage of the Roof being blocked at typhoon time. However, he took no appropriate action to prevent the likely blockage which actually occurred in the 2009 Incident and caused damage to Flat 1C. D1 also took no appropriate action to ensure that the hatch cover of the Hole could prevent water leaking through the Hole in the event of the Roof being flooded. The defendants had breached their duty of care towards their neighbour, ie the plaintiff. They were liable to the plaintiff for negligence.
+240. I have found that the water seeped into Flat 1C at the early hours of 19 July 2009 came from Flat 2C. If the defendants had not built the Hole or if they had built the Hole with a water-tight hatch cover, water flooding the Roof on 19 July 2009 would not have flowed into Flat 2C and further into Flat 1C. Instead the overflowed water would have flowed to other common areas at the roof of the Building or gone down the public staircase. I find that the water leaked into Flat 1C in the 2009 Incident was caused by the nuisance created by the defendants. The defendants were liable to the plaintiff for such nuisance.
+241. I accept PW1's evidence that the mould stains appeared at the Sitting Room, the Master Room and the 2nd Bedroom were found or getting more serious after the 2009 Incident. They were probably caused by moisture trapped between the floor slab and the ceiling paper or between the walls and the wallpaper in the 2009 Incident.
+242. I find that the defendants are liable to the plaintiff's claim in respect of the 2009 Incident.
+
+The quantum of the plaintiff’s claim in respect of the 2009 Incident
+
+243. The parties' experts on water leakage expressed the following views in the Joint Report on the repair costs caused by the 2009 Incident: 
+
+4.1 "原告人專家黄先生：假如2009年7月19日的事件的責任歸於被告人，雙方專家同意"1C"客廳、飯廳及3個睡房天花紙的維修費用是港幣15,000元，而同時維修天花紙和其他牆身牆紙的費用則為港幣48,000元。
+
+4.2 被告人專家陳先生：假如責任歸於被告人，雙方專家同意"1C"客廳、飯廳及3個睡房天花紙的維修費用是港幣15,000元，而同時維修天花紙和其他牆身牆紙的費用則為港幣48,000元。"
+
+
+
+
+244. The parties' counsel held different interpretation to the aforesaid agreement of the water leakage experts. The plaintiff's counsel submitted that the agreed total repair costs were $63,000 (ie $15,000 + $48,000). The defendants' counsel contended that the sum of $48,000 was inclusive of the sum $15,000 and the total repair costs agreed should be $48,000.
+245. The agreement reached between the experts was clearly stated in the Joint Report as set out above. They agreed that the costs for replacing the ceiling paper of the Sitting Room and all the bedrooms of Flat 1C should be $15,000. The experts further agreed that if the ceiling paper and the wallpaper were replaced together, the total costs should be $48,000. Only the Sitting Room and the bedrooms of Flat 1C had ceiling paper. The ceiling paper referred to in the agreed repair costs of $48,000 should have covered the items agreed at $15,000. In such case, I agree with the defendants' counsel that the repair costs agreed by the experts to repair all damage caused by the 2009 Incident should be $48,000. However, this was subject to a condition that all repairs were done together. The experts had not agreed on the repair costs for replacing the ceiling paper and the wallpaper separately as occurred in this case.
+246. The plaintiff had submitted the following payment evidence paid to Wah Tai Engineering Co ("Wah Tai") in support of its claim for repair costs arising out of the 2009 Incident: 
+
+(1) a cheque dated 24 December 2010 made payable to Wah Tai for the sum of $18,000 (p 599);
+
+(2) a bank statement showing that the aforesaid cheque for $18,000 had been clear (p 790-50);
+
+(3) a cheque dated 10 August 2011 made payable to Wah Tai for the sum of $20,000 (p 790/26);
+
+(4) a bank transfer made on 11 August 2011 to Wah Tai in the sum of $20,000 (p 790/27); and
+
+(5) a cheque dated 19 December 2011 made payable to Wah Tai for the sum of $26,700 (p 790/28).
+
+
+247. The plaintiff also produced the following three documents of Wah Tai for the repair works: 
+
+(1) a quotation dated 25 October 2010 for replacing ceiling paper for Flat 1C at $18,000 (the "1st Quotation") (p 79);
+
+(2) an invoice dated 15 March 2011 showing repair costs to a property at Tai Wai at $18,000 (the "Invoice") (p 598); and
+
+(3) a quotation dated 1 August 2011 on repair costs for Flat 1C in the sum of $46,700 (the "2nd Quotation") (p 790/25).
+
+
+248. It can be seen from the aforesaid documents that the plaintiff had carried out repair works to Flat 1C on two separate occasions. One in later 2010 and the other in about August 2011. The aforesaid payment evidence suggested that the plaintiff had paid a total sum of $84,700 to Wah Tai to effect repairs to the damage caused by the 2009 Incident. The plaintiff's pleaded case was that it expended $18,000 on replacing the damaged ceiling paper and $46,700 on replacing the damaged wallpaper (see para 7 of the Re-amended statement of claim).
+249. The total amount of repair costs covered by the two quotations was $64,700. This was less than the payment evidence adduced by the plaintiff. No explanation was offered by the plaintiff in the witness statements of its witnesses or when they testified at the trial. As the plaintiff only claimed the sum of $64,700 as repair costs in respect of the 2009 Incident, I assume that the cheque dated 10 August 2011 was in duplicate with the bank transfer dated 11 August 2011.
+250. PW3 said that when the plaintiff claimed at the Small Claims Tribunal for $18,000 and submitted the 1st Quotation as supporting evidence, the plaintiff was required to provide breakdown for the sum claimed. Accordingly, he obtained the Invoice to provide the breakdown.
+251. However, I note that the 1st Quotation was for one item of"更換天花紙"whereas the Invoice included five items, namely: (1) "鏟除原有牆紙人工", (2) "牆身造底油防水漆人工", (3) "買牆紙", (4)"安裝牆紙", and (5) "完工清走工作垃圾"。 The plaintiff annexed various photographs to the documents submitted to the Small Claims Tribunal (pp 619 to 640) in reply to the defendants' defence filed with the Small Claims Tribunal. In the note to photograph P13 at p 633, the plaintiff stated that as at 18 March 2011 only the ceiling papers but not the wallpaper had been replaced. In such case, the sum of $18,000 paid to Tai Wai in December 2010 was for replacing only the ceiling paper of Flat 1C. The "wallpaper" referred to in the Invoice should mean the "ceiling paper".
+252. The 2nd Quotation was dated 1 August 2011, it should cover repair to other areas of Flat 1C other than the ceiling. The plaintiff had submitted payment evidence for the 2nd Quotation.
+253. The evidence of PW1 showed that the damages to the ceiling and wallpaper of Flat 1C caused by the 2009 Incident had become apparent before she moved out from Flat 1C on 26 October 2010. The plaintiff should have repaired all the damage to the ceiling paper and the wallpaper in one go. No explanation had been offered by the plaintiff for carrying out the repairs separately. I am of the view that the plaintiff should have repaired all damage caused by the 2009 Incident together. In such case, the repair costs should be $48,000 as agreed by the experts of the parties.
+254. I order the defendants to pay $48,000 to the plaintiff as damages in respect of the 2009 Incident.
+
+The Water Leakage
+
+255. The plaintiff pleaded that after the 2009 Incident, water was found to have been seeped into Flat 1C at the Master Room's corridor, the Balcony, the Master Bathroom, the Guest Bathroom (near the external wall) and the Kitchen.
+256. The plaintiff pleaded in para 9 of the Re-amended statement of claim that the Water Leakage had caused the following damage to Flat 1C: 
+
+(1) "Part of the ceiling paper in the second bedroom was seriously damaged and required replacement.
+
+(2) Part of the ceiling paper in the sitting room was seriously damaged and required replacement.
+
+(3) Part of the wallpaper of the sitting room was seriously damaged and required replacement.
+
+(4) Part of the plaster and paint on the ceiling of the kitchen was seriously damaged and required repair.
+
+(5) Part of the ceiling paper of the master bedroom was seriously damaged and required replacement.
+
+(6) Part of the false ceiling in the bathroom was damaged and required repair or replacement.
+
+(7) Rental losses due to the condition of the Plaintiff's Unit as a result of frequent water seepages."
+
+
+
+
+257. The plaintiff claimed damages to the ceiling paper of the "second bedroom" in para 9(1) of the Re-amended statement of claim. As point out in para 3 above, Flat 1C had two bedrooms other than the Master Room. The plaintiff had not identified the "second bedroom" referred to in para 9(1) of the Re-amended statement of claim.
+258. In para 8 of the Re-amended statement of claim, the plaintiff pleaded that positions of water seepage claimed were shown on the Plan.
+259. On the Plan, the plaintiff identified different positions with water dripping or seepage found on 19 July 2009, 24 August 2011 and 27 March 2012.
+260. The Plan showed one position in the Gust Bathroom and one position in the 2nd Bedroom (ie areas (1) and (2) marked on the Plan) as positions where water dripping were found on 19 July 2009. This was related to the claim in respect of the 2009 Incident.
+261. The Plan further showed two positions in the Master Room (one at the corridor and the other in the Cloakroom) and one position at the Balcony (ie areas (3) to (5) marked on the Plan) as positions where water seepage was found on 24 August 2011. This was related to the claim in respect of the Water Leakage.
+262. The Plan also showed one position in the Master Bathroom, one position in the Gust Bathroom and two positions in the Kitchen (ie areas (6) to (9) marked on the Plan) as positions where water seepage was found on 27 March 2012. This again was related to the claim in respect of the Water Leakage.
+263. The Plan did not show any water seepage in the "second bedroom" and the Sitting Room as pleaded in paras 9(1), 9(2) and 9(3) of the Re-amended statement of claim.
+264. The Joint Report did not mention water seepage at the "second bedroom" and the Sitting Room. The repair costs agreed by the parties' experts for the Water Leakage as set out in para 4.2 of the Joint Report also did not include repairs to the Sitting Room and the "second bedroom".
+265. In his witness statement, PW3 only referred to water seepage found in the Balcony, the Master Bathroom, the Gust Bathroom and the Kitchen and water mark found at the ceiling paper of the Master Room. There was no mention of water seepage at the "second bedroom" and the Sitting Room.
+266. No evidence had been adduced from factual witnesses or expert witnesses to prove water seepage at the Cloakroom. The quantum of repair costs for the Water Leakage claim agreed by the parties' experts also covered only the Balcony, the Kitchen, the Master Bathroom, the Guest Bathroom and the corridor of the Master Room (see para 4.2 of the Joint Report at p 232). The plaintiff's counsel also made no submissions on water seepage at the Sitting Room, the 1st Bedroom, the 2nd Bedroom or the Cloakroom in his submissions in respect of the plaintiff's claim on the Water Leakage.
+267. I find that the plaintiff had failed to prove that there was water seepage at the Sitting Room, the 1st Bedroom, the 2nd Bedroom or the Cloakroom. I shall now deal with the plaintiff claim for water seepage at the areas marked on the Plan in the Kitchen, the Guest Bathroom, the Master Bathroom, the Master Room (other than the Cloakroom) and the Balcony (together the "Claimed Areas").
+
+Whether there was water seepage into Flat 1C after the 2009 Incident?
+
+268. I have discussed the expert evidence above and accept the evidence of P's Expert. I find that water had seeped into the Claimed Areas (other than area (9) marked on the Plan in the Kitchen) after the 2009 Incident.
+
+Whether the water seeped into Flat 1C came from Ds’ Flat?
+
+269. P's Expert produced 147 photographs at Annex E of the Joint Report to show fluorescent material found at Flat 1C after the ponding test. The video recordings of the post-ponding inspections showed that fluorescent material was seen by both experts during the inspection. On 20 March 2013, after the post-ponding inspection on that day was completed, P's Expert pointed out:"因為 其實已經 即係3個位置都已經睇到D嘢架啦！" (Item 27 of p 682). It is obvious that P's Expert was referring to fluorescent material being found at the Guest Bathroom, the Master Bathroom and the Kitchen. None of the parties present objected to P's Expert's statement. Ds' Expert also said: " seal up咗 為依家呢 就見到有D，係咪？然後再睇下一個禮拜返來，嗰D係咪 有冇嚴重咗呢？或者多咗呢？或者無再惡化呢？咁樣亦會有出現，變咗可以畀我哋睇多D，究竟呢次嘅咁樣浸水有幾多嘢 " (item 33 at pp 682 to 683). Ds' Expert further said that: "我覺得呢度呢，即係 你 嗱 我依家睇到就係話，已經好快就已經出啦，唔使等14日。" (Item 52 at p 684) Ds' Expert clearly agreed that fluorescent material was seen at Flat 1C after the ponding test. Ds' Expert's explanation was that he was referring to fluorescent effect not from fluorescent material used at the ponding test. When Ds' Expert said: "已經好快就已經出啦，唔使等14日。", he could only be referring to fluorescent material used at the ponding test. Ds' Expert's explanation was simply incredible.
+270. Ds' Expert contended that the fluorescent material appeared on the photographs taken at the Kitchen, the Master Bathroom and the Master Room was not fluorescent material of BDC on the ground that it was not as bright as the fluorescent material found at the Guest Bathroom. The plaintiff's counsel submitted in his closing submissions that: 
+
+39. "During cross-examination, Mr Chan (Ds' Expert) agreed that fluorescent material would illuminate under UV light because it contained a particular material. Denser that material present, brighter would be the fluorescent effect. Also, darker the background, brighter would be the fluorescent effect. Mr Chan agreed that there was no monitor on the concentration of the fluorescent material for the 4 areas under test such that they could be different. Mr Chan also agreed that the background colour of various places where fluorescent material was found were not the same. Mr Chan also agreed that the background material in the 4 testing area were different. It follows that the appearance of the fluorescent material found in each of the test area may be different. Thus, there is no merit for Ds to argue that, by reason of the slight difference in appearance, the fluorescent material shown in the photos produced by Mr Wong (P's Expert) were not BDC material. In any event, the fluorescent material was discovered at various areas gradually. If the fluorescent material were pre-existing, they would not appear gradually at different dates.
+
+40. Moreover, there are places where fluorescent material was found on the surface vertically below a dripping point [C/276A-277A; 302A-305A; 329A-331A; 341A-343A]. This indicated that the fluorescent material as found could not have been pre-existing."
+
+
+
+
+271. I agree with the aforesaid observation of the plaintiff's counsel and find that fluorescent material found at the Balcony, the Guest Bathroom, the Master Bathroom, the Master Room and the Kitchen after the ponding test proved that water had seeped from Flat 2C into Flat 1C.
+272. From the analysis of the expert evidence discussed above, I am satisfied that the plaintiff had proved on balance of probabilities that the water seeped into the Claimed Areas (other than area (9) marked on the Plan) did come from Flat 2C.
+
+Whether the defendants were liable to the plaintiff’s claim in respect of the Water Leakage?
+
+273. As the defendants had not properly maintained their property leading to water being able to seep from Flat 2C into Flat 1C, the defendants shall be liable to the plaintiff's claim in respect of the Water Leakage.
+
+The quantum of repair costs in respect of the Water Leakage
+
+274. The quantum regarding the repair costs for the Water Leakage had been agreed between the experts of the parties at $7,800 (see para 4.2 of the Join Report). I accept the repair costs agreed by the parties' experts and find that the defendants are liable to pay $7,800 to the plaintiff as repair costs for damage caused by the Water Leakage to Flat 1C.
+
+Loss of rental claim
+
+275. There were no disputes that PW1 did not renew the tenancy for Flat 1C after the same expired on 26 October 2010. The plaintiff said that this was because of the Water Leakage. However, this was not supported by PW1's evidence. PW1 did not say so in her witness statement. When she testified at the trial, she said that she did not renew the tenancy for Flat 1C because she wanted to have change of living environment although she did mention the mould stains found at the Master Room as a contributing factor. However, according to evidence adduced to the court, the mould stains found during the occupancy of PW1 were not caused by the Water Leakage but was a residual problem caused by the 2009 Incident.
+276. The evidence of PW1 and PW4 was that PW1 had informed the plaintiff before the expiration of her tenancy in October 2010 that she did not intend to renew the tenancy. This was well before the discovery of the Water Leakage claimed by the plaintiff. I find that PW1's non-renewal of the tenancy for Flat 1C was not due to the Water Leakage.
+277. After PW1 moved out from Flat 1C, it took the plaintiff about 33 months before the plaintiff could find a new tenant for Flat 1C. The plaintiff said that this was because of the Water Leakage.
+278. PW4 admitted that the plaintiff had put the asking rent at $25,000 after PW1 moved out. This asking rent included the Carpark. The rateable value of the Carpark was $9,360 for 2010 to 2011 (ie $780 per month) and was $9,840 for 2011 to 2012 (ie $820 per month). P's Valuer valued that the market rental of the Carpark as at 27 October 2010 was $1,000. Ds' Valuer had not valued the market rental of the Carpark. Ds' Valuer reported that the Estate had altogether 24 flats and 24 parking spaces in the development (see para 5.2 of Ds' Valuation). There was no shortage of carpark for residents of the Estate. I am of the view that the rateable value of the Carpark provided a good indicator of its market rental. For the purpose of discussion in this judgment, I take the median of the rateable value for the year 2010/2011 and 2011/2012 as the market rental of the Carpark which was $800. The rates for the Carpark for the 3rd quarter of 2010 was $117 (ie $39 per month). No evidence had been adduced to show the amount of management fee for the Carpark. In the deed of mutual covenant for the Estate, 28 undivided shares were allocated to Flat 1C and 1 undivided share was allocated to the Carpark (p 590). If the management fee for Flat 1C was $1,799, the management fee payable for the Carpark would be about $65 (ie $1,799 ÷ 28 = $64.25). After deducting the rent (inclusive of rates and management fee) for the Carpark (ie $800 + $39 + $65 = $904), the rent asked for by the plaintiff for Flat 1C was $24,096 (ie $25,000 - $904) (inclusive of rates and management fee). This was more than 75% above the market rental accepted by this court (ie $24,096 ÷ $13,700 [Ds' Valuer's valuation] x 100% = 175.88%). It was more than 60% above the last rent paid by PW1 (ie $24,096 ÷ $15,000 x 100% = 160.64%)
+279. The asking rent for Flat 1C exclusive of rates and management fee was $21,702 (ie $24,096 - $595 [rates] - $1,799 [management fee]). This was more than 24% above the valuation of P's Valuer (ie $21,702 ÷ $17,500 x 100% = 124.01%). It was more than 82% above the reteable value of Flat 1C for 2010 to 2011 (ie $21,702 ÷ $11,900 x 100% = 182.36% and more than 55% above the rateable value of Flat 1C for 2011 to 2012 (ie $21,702 ÷ $14,000 x 100% = 155.01%).
+280. If the Water Leakage had affected the conditions of Flat 1C to such extent that it would put off potential tenants, the plaintiff would not have increased the asking rent for the premises by more than 60% after PW1 left. Such asking rent was beyond the market rental opined not only by Ds' Valuer but also by P's Valuer. When the plaintiff lowered the asking rent to $20,000, the asking rent for Flat 1C became $19,096 (ie $20,000 - $904 [for the Carpark]). It was still more than 27% above the rent paid by PW1 and more than 39% above the market rental accepted by this court. The asking rent for Flat 1C net of rates and management fee would be $16,702 (ie $19,096 - $595 [rates] - $1,799 [management fee]) It was still more than 40% above the rateable value of Flat 1C for 2010 to 2011 and more than 19% above the rateable value of Flat 1C for 2011 to 2012. This level of rental was not achieved until July 2013, ie more than 2 years and 8 months after PW1 moved out when the rateable value of Flat 1C had been increased to $201,000 (ie $16,750 per month) (p 790/12).
+281. The evidence of potential tenants backing out because of the Water Leakage was only hearsay evidence from PW4. No evidence from those potential tenants had been adduced. Not even evidence from the handling estate agents had been adduced. I have to treat evidence from PW4 with caution for obvious reasons of her interest in the outcome of this action. I agree with the defendant's counsel that renting a unit depended on a lot of factors, to which only those potential tenants would have knowledge, and the court should not embark on a speculation without proper evidence. In the absence of supporting independent evidence, I am not prepared to accept PW4's evidence as sufficient proof of the plaintiff's claim for this head of loss. I am not satisfied that the plaintiff had proved on balance of probabilities that the Water Leakage had caused Flat 1C not being rent out for 33 months after PW1's moving out. I am of the view that the aggressive asking rent set by the plaintiff was the main factor causing this long delay in renting out Flat 1C.
+282. I do not allow the plaintiff's claim for loss of rental.
+
+Other issues
+Water seepage at Flat 2C
+
+283. Ds' Expert had also inspected Flat 2C and produced photographs to show that Flat 2C also suffered from water seepage. D1 in his evidence also produced photographs and letters from the Joint Office to the same effect. The fact that Flat 2C also suffered from water seepage was no answer to the plaintiff's claims herein. The fact that there was water seeped from the Roof or other common part of the building into Flat 2C does not mean that water had not seeped from Flat 2C to Flat 1C. To prove water seepage at Flat 2C is neither here nor there. It does not assist the defendants' case.
+
+Seepage at common areas
+
+284. Ds' Expert had suggested that water seeped into Flat 1C might have came from the external walls. The letters issued by the Joint Office only referred to Flat 2C and Flat 1B of the Building, the staircase at the second floor, and the second floor electric meters room had water seepage problems. After their investigation, the Joint Office suspected that the water seepage problems at the aforesaid areas were caused by damages to the waterproofing layer of the external walls and/or the roof. The fact that want of repairs to the common areas had caused water seepage to Flat 2C and Flat 1B of the Building, the staircase at the second floor, and the second floor electric meters room was not evidence to prove that the water seepage to Flat 1C complained by the plaintiff was also caused by such want of repairs of common areas. The letters of the Joint Office did not assist the defendants. To certain extent, they worked against the defendants' case as they specifically identified Flat 2C and Flat 1B of the Building but not Flat 1C as units being affected by possible want of repairs of the external walls and the roof.
+285. Defence counsel submitted that there was evidence of water seepage in the common pipe well (ie area (10) marked on the Plan) inside the Guest Bathroom. He argued that the water seeped into Flat 1C might come from the common pipe well which was a common part responsible not by the defendants but by the IO.
+286. I accept that there was evidence of water seepage at the common pipe well. However, there was no evidence that water had seeped from the common pipe well into Flat 1C. On the other hand, the ponding test showed that water had seeped from Flat 2C into Flat 1C. The fact that there was also water seepage at the common pipe well does not assist the defendants.
+287. Defence counsel further submitted that even if the water seeped into Flat 1C came from Flat 2C, it was apparently caused by the building defects in the structural slab, which was common area and therefore the responsibility rested with the manager of the Building. He referred to paragraph 1 of Schedule 1 of the Building Management Ordinance (Cap 344) which includes "external walls and load bearing walls, foundations, columns, beams and other structural supports" as part of common parts. The short answer to this contention can be found at section 34H of the Building Management Ordinance which provides that: 
+
+(1) "Where a person who owns any part of a building, has the right to the exclusive possession of any part of a building or has the exclusive right to the use, occupation or enjoyment of that part, as the case may be, but the deed of mutual covenant in respect of the building does not impose an obligation on that person to maintain the part in good repair and condition, that person shall maintain that part in good repair and condition.
+
+(2) The obligation in subsection (1) shall be deemed to be an obligation owed to all owners of the building under the deed of mutual covenant."
+
+
+
+
+288. No evidence had been adduced to show that the floor slabs of Flat 2C were defective when the construction of the Building was completed in 1993. Evidence adduced showed that water was found seeping from Flat 2C into Flat 1C since 2009, ie 16 years after the construction of the Building was completed. The defendants have the right to the exclusive possession of Flat 2C which included its floor slabs. It is the obligation of the defendants to maintain the floor slabs of Flat 2C in good repair and condition so that water would not seep through the floor slabs of Flat 2C into Flat 1C. The defendants had breached such obligation.
+
+Res judicata and issue estoppel
+
+289. The defendants in their defence raised the issue of res judicata and/or issue estoppel relying on the fact that the plaintiff had once commenced proceedings in the Small Claims Tribunal for the same claim. The plaintiff's aforesaid claim in the Small Claims Tribunal had been dismissed for want for prosecution. The plaintiff's application to set aside the dismissal order had also been refused by the Small Claims Tribunal.
+290. Defence counsel did not pursue this issue in his submissions though he did not expressly abandon the same. As such, I do not propose to enter into lengthy discussion on this subject in this judgment but shall deal with this issue briefly.
+291. In order for an issue estoppel to arise, three conditions have to be satisfied, namely:- 
+
+(1) the issue raised in the two sets of proceedings is the same ("the Issue Requirement");
+
+(2) that issue must have been determined with finality in the earlier proceedings ("the Finality Requirement"); and
+
+(3) the parties to the two sets of proceedings must be the same, or where they are not, the party in the second set of proceedings must be the privy in interest of the party in the earlier set of proceedings ("the Privity Requirement"). (See Kan Wai Chung & Others v Hau Wun Fai & Others (unrep, CACV 43/2012 , 7 February 2013))
+
+
+292. In 
+China North Industries Investment Ltd v Chum [2010] 5 HKLRD 1 
+at 18-19 the Court of Appeal set out the law on res judicata and issue estoppel as follows: 
+
+46. "Where a final decision has been pronounced on the merits by an English or (with certain exceptions) a foreign judicial tribunal's jurisdiction over the parties and subject matter any party to such litigation as against any other party  is estopped in any subsequent litigation from disputing such decision on the merits, whether it be used as the foundation of an action, or as a bar to any claim, indictment, affirmative defence or allegation provided the party entitled raises the point at the proper time.1
+
+47. This doctrine, res judicata, is not a rule of evidence but one of substantive law, for which the underlying public policy is the interest of the community in the termination of disputes and the finality of judicial decisions and, further, the need for individuals to be protected from vexatious multiplicity of suits.2 It arises where a claim has previously been finally determined between the parties, or their privies3, by a court of competent jurisdiction and the same issue falls directly in question in subsequent proceedings (cause of action estoppel) or where the issue has been determined by such a court as a necessary step in reaching judgment in case between those parties or their privies (issue estoppel)4. It has been held too that the doctrine applies only to fundamental issues determined in earlier proceedings and not to collateral or incidental ones: Angle v Minister of National Revenue5."
+
+
+
+
+293. The STC Claim was not dismissed by the Small Claims Tribunal on merits. The case had not gone through the trial process. None of the issues had been canvassed or determined by the Small Claims Tribunal, not to say determined with finality. The Finality Requirement is lacking in this case. Furthermore, the STC Claim was commenced on 27 October 2010, prior to the discovery of the Water Leakage. It only concerned the 2009 Incident but not the Water Leakage (p 930). The Issue Requirement was not satisfied in respect of the Water Leakage claim in this action. I do not see how the principle of res judicata or issue estoppel may apply in this case. The defendants' counsel had sensibly not to pursue this issue further at the trial.
+
+Testing of fluorescent material
+
+294. The defendants' counsel contended that if the plaintiff genuinely believed that there was BDC testing material found other than at the Guest Bathroom, the plaintiff could have easily obtained a sample and proved its case. With respect, I do not agree. I am of the view that the defence counsel had confused the burden of proof. It is correct to say that the plaintiff in a water leakage claim bears the burden of proof to establish that the source of water was the defendant's flat. When fluorescent material was found in Flat 1C immediately beneath the areas subject to the ponding test, the plaintiff had discharged its initial burden to prove that water had seeped from Flat 2C to Flat 1C unless there was existing evidence suggesting the otherwise, such as evidence of pre-existing fluorescent material. There was no such evidence in this case. The burden had then shifted onto the defendants to prove that the fluorescent material found was not the fluorescent material used in the ponding test if this was the defendants' case. The defendants might obtain sample of the fluorescent material found and send it to laboratory for analysis to prove their case. The defendants did not do so and failed to prove this contention on balance of probabilities.
+
+Other leakage paths
+
+295. The defendant's counsel further contended that even if the court accepted that fluorescent material used at the ponding test was found at Flat 1C, it did not affect the improbability of the plaintiff's case as the places of water seepage shown in the ponding test were quite different from those allegedly discovered by the plaintiff. He contended that this showed that there were other leakage paths. In the above discussion, I found that water seepage at the Sitting Room, the "second bedroom" and the Cloakroom as pleaded in paras 9(1) to (3) of the Re-amended statement of claim had not been proved. I also found that one of the places of water seepage in the Kitchen claimed (ie area (9) marked on the Plan) did not show fluorescent material after the ponding test. I agree that there might be other leakage paths. However, the ponding test produced positive results at most of the seepage areas claimed by the plaintiff. The fact that there might be other leakage paths would not relieve the defendants from their liabilities for water seeped from Flat 2C into Flat 1C.
+
+Conclusion and costs
+
+296. I find that the defendants are liable to pay $48,000 to the plaintiff as damages for the 2009 Incident and to pay $7,800 to the plaintiff as damages for the Water Leakage. The total amount of damages payable by the defendants to the plaintiff is $55,800.
+297. The defendants shall pay interest on the aforesaid damages at judgment rate from 14 January 2011 when the plaintiff commenced its claims herein in the Small Claims Tribunal to the date of judgment and thereafter also at judgment rate until payment.
+298. The water seeped into Flat 1C came from Ds' Flat. If the nuisance is not abated, the plaintiff's property will suffer continuous damage. The defendants shall repair Ds' Flat to stop further seepage of water from Flat 2C into Flat 1C. I grant the injunctive relief sought by the plaintiff and order that the defendants shall carry out repair works to Flat 2C within three months from the date of this judgment to stop further seepage of water from Flat 2C into Flat 1C. The parties are at liberty to apply for further directions on implementation of the aforesaid injunctive relief, if so required.
+299. Costs shall follow event. Although the plaintiff succeeds in its claim on liability, it fails in its claim for loss of rental. The plaintiff is not entitled to claim costs in respect of its loss of rental claim but shall bear the defendants' costs for defending the plaintiff's loss of rental claim.
+300. Not much time of the trial had been spent on the plaintiff's loss of rental claim as expert evidence on market rental was adduced as evidence without requiring the valuers to give oral evidence. Nevertheless, the plaintiff had adduced factual evidence on this head of claim and counsel had spent time to prepare and make submissions on this head of claim. Expert fees had also been incurred by the parties to deal with this head of claim. To do my best to apportion the costs relating to this head of claim and after taking into account my above ruling that the plaintiff is not only not entitled to costs incurred for this head of claim but should also be liable to pay the defendants' costs incurred in defending this head of claim, I make a costs order nisi that the defendants shall pay 70% of the plaintiff costs incurred for the whole action including costs previously reserved with counsel certificate, to be taxed if not agreed.
+301. The above costs order nisi shall become absolute after 14 days from the date hereof unless any party shall apply to vary the said order nisi within this 14 day period.
+
+Annex
+
+[Editors' note: Please click the PDF on top to view Annex.]
+ 1Spencer Bower, Turner and Handley, The Doctrine of Res Judicata (3rd ed., 1996) para..9
+ 2The Doctrine of Res Judicata, para 10.
+ 3The Doctrine of Res Judicata, para 231.
+ 4Halsbury's Laws of England (4th ed.) Vol 16(2), para 953.
+ 5[1975] 2 S.C.R. 248.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

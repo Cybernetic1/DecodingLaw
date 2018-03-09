@@ -1,0 +1,260 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:34 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : HKSAR v Ng Chun Ho
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Ng Chun Ho
+4 August 2017 at 10:38 am
+District Court
+DC
+Criminal Case No 175 of 2017
+DCCC 175/2017
+
+Citations:[2017] HKEC 1748 English Judgment
+
+Presiding Judges: Judge E Yip
+
+Phrases: <Y<Criminal sentencing - road traffic offences - dangerous >Y><Y< >Y><Y< driving - driving while disqualified - using a motor vehicle without third party insurance
+Criminal sentencing - dangerous drugs - trafficking - 1.47 g cocaine>Y>
+
+Counsel in the Case: Present: Miss Angel YUEN, Public Prosecutor, of the Department of Justice, for HKSARMs LIANG Pui Saw Kian Susan, of M/s Yip Tse & Tang assigned by DLA for Defendant
+
+Cases cited in the judgment: HKSAR v Au Chin Hang (unrep., DCCC 437/2011) 
+HKSAR v Chan Ho Wing (unrep., DCCC 443/2013) 
+HKSR v Mok Cho Tik (2001) 1 HKC 261 
+R v Cooksley & Others [2004] 1 Cr App R (S) 1 
+Secretary for Justice v Poon Wing Kay & Another [2007] 1 HKC 289 
+HKSAR v Lacroix Stephane Pierre (unrep., HCMA 612/2009, [2009] HKEC 1988) 
+
+HKSAR v Wong Wai Wah (unrep., DCCC 137/2017, [2017] HKEC 1307) 
+
+Secretary for Justice v Ko Wai Kit [2001] 3 HKLRD 751 
+
+
+Judgment: 
+
+
+Judge E. Yip
+
+Charges
+
+1. The Defendant pleads guilty to the following charges: 
+
+<G<(1) Dangerous driving, contrary to section 37(1) of the Road Traffic Ordinance, Cap. 374 (1st Charge);
+>G>
+<G<(2) Driving while disqualified, contrary to section 44(1)(b) of the Road Traffic Ordinance, Cap. 374 (2nd Charge);
+>G>
+<G<(3) Using a motor vehicle without third party insurance, contrary to section 4(1) and (2)(a) of the Motor Vehicles Insurance (Third Party Risks) Ordinance, Cap. 272 (3rd Charge);
+>G>
+<G<(4) Possession of a dangerous drug, contrary to section 8(1)(a) and (2) of the Dangerous Drugs Ordinance, Cap. 134 (4th Charge).
+>G>
+
+
+Facts
+<Y<The Incident
+>Y>
+<Y<2. At around 4:30 a.m. on 13 August 2016, the police set up a roadblock at westbound Tsuen Wan Road near Chainage 15.5 W, Tsuen Wan, New Territories, in Hong Kong ("Roadblock"). At the material time, the road surface was dry, there was sufficient lighting from street lamps and the traffic flow was light.
+3. At around 4:57 a.m. of the same day, police officers stopped a private car bearing registration mark TD7457 ("V") at the Roadblock. PC 10776 then asked the driver of V, later known to be the Defendant, to produce his driving licence. V suddenly accelerated and fled the Roadblock. PC 1872 ("PW1") onboard AM8074 ("PV") gave chase with PV's sirens turned on. During the pursuit, PW1 witnessed the following: 
+>Y>
+<Y<(a) Near Chainage 16.2 of Tsuen Wan Road, V was travelling at a speed of around 130-140km/h where the speed limit was 70 km/h;
+>Y>
+<Y<(b) The Defendant drove along the slip road near Chainage 16.7 of Tsuen Wan Road, entered the roundabout at Hoi Hing Road, turned right into Hoi Kok Street, turned left into Hoi Shing Road, turned right into Chai Wan Kok Street, turned left into Tai Chung Road and then accelerated;
+>Y>
+<Y<(c) At the junction between Tai Chung Road and Sha Tsui Road, the Defendant violated the road marking and drove straight ahead via the 3rd lane which was right-turn only;
+>Y>
+<Y<(d) At Tai Chung Road near Pak Tin Par Street, the Defendant dropped his mobile phone out of the driver seat's window, which was later recovered;
+>Y>
+<Y<(e) At the junction between Tai Chung Road and Castle Peak Road, the Defendant jumped the red light and drove on at around 100 km/h;
+>Y>
+<Y<(f) At Sai Lau Kok Road, the Defendant was about to turn left and was decelerating, PV was at V's left rear and the Defendant suddenly steered left. PV immediately dodged to the left and decelerated to avoid collision. At the closest point, V and PV were only around half a feet apart;
+>Y>
+<Y<(g) The Defendant drove on and when he reached the junction between Sai Lau Kok Road and Tai Ho Road, he suddenly crossed the double white lines, jumped the red light and turned right onto Tai Ho Road where it travelled against the direction of traffic;
+>Y>
+<Y<(h) PV followed V and got to V's left while turning right into Tai Ho Road. V then suddenly leaned to the left towards the front of PV and PW1 immediately decelerated, but V's left rear still collided with the right front part of PV. During the collision, PW1 hit his head onto the right window and sprained his neck; and
+>Y>
+<Y<(i) V continued driving against the direction of traffic on Tai Ho Road and turned right onto Castle Peak Road, after which V suddenly slowed down. The Defendant then got off V and fled. V continued moving forward at around 10 km/h with no driver on board.
+>Y>
+<Y<
+4. V moved forward onto the pavement, hit the wall of Nan Fung Centre near lamppost DC 2228 and finally came to a halt. PW1 got off PV and chased after the Defendant, who was running into the bus terminus at Nan Fung Centre, Castle Peak Road. PW1 was around 3m behind him and never lost sight of him. He was finally intercepted inside the bus terminus after running for about 80m.
+5. The police pursuit lasted for around 3 minutes and a distance of around 4 km.
+6. PW1 was sent to Yan Chai Hospital where he was found to suffer from head injury and neck pain.
+7. Those are the facts for the 1st Charge.
+>Y>
+<Y<The Arrest
+>Y>
+<Y<8. PC 33959 ("PW2") arrived at the scene and arrested the Defendant. Under caution, the Defendant admitted that he had something on him and was scared so he fled.
+9. PW2 searched the him and found from his front left trouser pocket one transparent resealable plastic bag containing white solids suspected to be dangerous drugs ("Exhibit"), later confirmed by the government chemist as 1.57 grammes of a solid containing 1.47 grammes of cocaine. Those are the facts for the 4th Charge.
+10. PW2 arrested him for driving whilst disqualified, driving without third party insurance, and possession of a dangerous drug. Under caution, he admitted those offences.
+>Y>
+<Y<The Damage to V and PV
+>Y>
+<Y<11. V was examined at Tai Lam Chung Vehicle Examination Centre. The left side of its rear bumper was found to be damaged and loosened. PV was inspected by the EMSD. Parts of its front bumper were found to be deformed and scratched. Its right front fender was slightly dented and scratched. Its right headlamp protective grille was deformed.
+>Y>
+<Y<The Investigation
+>Y>
+<Y<12. Three fingerprints were lifted from the inside of the rear-view mirror of V. They were found to belong to the Defendant. The Transport Department confirmed that the traffic lights in question were in normal operation at the material time.
+13. The Defendant had never obtained a full driving licence. He was issued a learner's licence on 8 January 2015, which had already expired on 7 January 2016. Further, he was disqualified from holding or obtaining a driver licence on 27 May 2016 for a period of 24 months. Therefore, he was driving while disqualified at the material time. Those are the facts for the 2nd Charge.
+14. SIU was the owner of V and only person listed as the named driver under V's third party risks insurance policy. The insurance company confirmed that the Defendant would not be covered under the policy as he was driving without a valid licence. Those are the facts for the 3rd Charge.
+15. The repair cost of PV is $26,656.
+>Y>
+<Y<The Cautioned Interviews
+>Y>
+<Y<16. Three cautioned interviews were conducted with the Defendant on the same day, during which he admitted the following: 
+>Y>
+<Y<(a) At around 1 a.m. on the offence date, he borrowed V from his friend SIU to go for a joyride. He told SIU that he had a driving licence. SIU did not check his licence since they were close friends;
+>Y>
+<Y<(b) He drove to Shing Mun Reservoir alone and stayed there until around 4-5 a.m. He then drove towards Kwai Chung to get home;
+>Y>
+<Y<(c) He fled when he was intercepted at the Roadblock as he was disqualified from driving in May 2016 and had no driving licence to produce to the police. He had never obtained a full driving licence;
+>Y>
+<Y<(d) He got more nervous when he was chased by the police so he just drove wherever he could. He jumped two red lights and drove against the direction of traffic on westbound Castle Peak Road. He was also speeding as he was scared. His highest speed was around 100 km/h;
+>Y>
+<Y<(e) When he was driving along Castle Peak Road against the direction of traffic, he saw PV getting close so he immediately braked and hit PV's front with V's rear. After the collision he immediately got off the car and ran; and
+>Y>
+<Y<(f) The Exhibit was a packet of cocaine for his self-consumption. He purchased it in Jordan for $1,000 before going to SIU's home the night before the offence. He took drugs once or twice a week and had been an addict for 2-3 years.
+>Y>
+<Y<
+>Y>
+<Y<Personal background and mitigation
+>Y>
+<Y<17. He is 26 years of age, of secondary education level. He is single and lives with his parents and an elder sister. He worked as a transportation worker before arrest. His monthly salary was about $11,000. He had the following criminal records: 
+>Y>
+<Y<(a) 3 for Possession of dangerous drugs (fined $2,500 on 5 January 2009, sentenced to 14 months on 3 March 2014, and sentenced to DATC on 12 January 2017 respectively);
+>Y>
+<Y<(b) 1 for Driving without a valid driving licence (sentenced to 1 month suspended for 2 years and fined $2,000 on 27 May 2016);
+>Y>
+<Y<(c) 1 for Using a motor vehicle without third party insurance (sentenced to 1 month suspended for 2 years concurrent with (b) above and fined $7,000 and disqualified for 24 months).
+>Y>
+<Y<
+18. Ms. Liang informs me that he is prepared to apply his police bail money, $10,000, as partial contribution to the repair cost of $26,656 for PV. Thus I order payment into court.>Y>
+
+Sentencing considerations
+
+19. Ms. Liang refers me to the case of R v. Cooksley & Others [2004] 1 Cr App R (S) 1 
+where the English Court of Appeal has identified a non-exhaustive list of factors relevant to the sentencing of dangerous driving causing death cases as follows: 
+
+Aggravating Factors 
+
+I. Highly culpable standard of driving at time of offence
+
+(a) the consumption of drugs (including legal medication known to cause drowsiness) or of alcohol, ranging from a couple of drinks to a 'motorised pub crawl';
+
+(b) greatly excessive speed; racing; competitive driving against another vehicle; 'showing off';
+
+(c) disregard of warnings from passengers;
+
+(d) a prolonged, persistent and deliberate course of very bad driving;
+
+(e) aggressive driving (such as driving much too close to the vehicle in front, persistent inappropriate attempts to overtake, or cutting in after overtaking);
+
+(f) driving while the driver's attention is avoidably distracted, eg by reading or by use of a mobile phone (especially if hand-held);
+
+(g) driving when knowingly suffering from a medical condition which significantly impairs the offender's driving skills;
+
+(h) driving when knowingly deprived of adequate sleep or rest;
+
+(i) driving a poorly maintained or dangerously loaded vehicle, especially where this has been motivated by commercial concerns.
+
+
+
+II. Driving habitually below acceptable standard
+
+(j) other offences committed at the same time, such as driving without ever having held a licence; driving while disqualified; driving without insurance; driving while a learner without supervision; taking a vehicle without consent; driving a stolen vehicle;
+
+(k) previous convictions for motoring offences, particularly offences which involve bad driving or the consumption of excessive alcohol before driving.
+
+
+
+III. Outcome of offence
+
+(l) more than one person killed as a result of the offence (especially if the offender knowingly put more than one person at risk or the occurrence of multiple death was foreseeable);
+
+(m) serious injury to one or more victims, in addition to the death(s).
+
+
+
+IV. Irresponsible behaviour at time of offence
+
+(n) behaviour at the time of the offence, such as failing to stop, falsely claiming that one of the victims was responsible for the crash, or trying to throw the victim off the bonnet of the car by swerving in order to escape;
+
+(o) causing death in the course of the dangerous driving in an attempt to avoid detection or apprehension;
+
+(p) offence committed while the offender was on bail.
+
+
+
+Mitigating Factors
+
+(a) a good driving record;
+
+(b) the absence of previous convictions;
+
+(c) a timely plea of guilty;
+
+(d) genuine shock or remorse (which may be greater if the victim is either a close relation or a friend);
+
+(e) the offender's age (but only in cases where lack of driving experience has contributed to the commission of the offence); and
+
+(f) the fact that the offender has also been seriously injured as a result of the accident caused by the dangerous driving.
+
+
+
+20. The Court states as a reminder as follows: It was important to appreciate that the significance of the factors could differ. There could be a case with three or more aggravating factors, which were not as serious as a case providing a bad example of one factor.
+
+
+21. The above observations are adopted by the Court of Appeal in Hong Kong in Secretary for Justice v Poon Wing Kay & Another [2007] 1 HKC 289 
+.
+22. Ms. Liang has four other cases for comparison of sentences for dangerous driving and other driving offences.
+23. In The Secretary for Justice v Ko Wai Kit, Paul CAAR 12 /2001 
+, the defendant pleaded guilty to one charge of dangerous driving and one charge of resisting police officers in due execution of duties. He was sentenced to 12 months and 1 week consecutively, and disqualified from driving for 2 years. He had made an unlawful U-turn, crossing double white lines, jumping red lights, colliding with motor vehicles, injuring a police officer and two civilians, disobeying the police orders to stop. He was under the influence of drugs. The Court of Appeal increased the sentences to 2 years and 1 year consecutively, and disqualified him from driving for 5 years.
+24. In HKSAR v Au Chin-hang DCCC 437/2011 
+, the defendant faced four charges, namely dangerous driving, driving whilst disqualified, using a motor vehicle without third party insurance, and resisting a police officer. Noticing that the defendant was in breach of a traffic contravention, the police tried to intercept him. He tried to flee from the pursuit at high speed. He jumped red traffic lights, cut double white lines, drove on the wrong side of the traffic, wove in and out of the lanes, driving at 180 km/h and 190 km/h at different junctures, and driving on the hard shoulder of the road. Two police officers trying to subdue him sustained minor injuries. The court described his driving as the worst form. He had records for speeding and driving without third party insurance. The starting point for dangerous driving was 33 months. He had a one-third discount for his pleas of guilty. Based on partly concurrent terms, he was sentenced to 26 months in total and disqualified from driving for 4 years.
+25. In HKSAR v Chan Ho-wing DCCC 443/2013 
+, the defendant proffered a timely plea of guilty to four charges, namely driving while disqualified, driving an unlicensed vehicle, using a motor vehicle without third party insurance, and possession of dangerous drugs. He had multiple records for possession of dangerous drugs and a recent record for each of the other three offences. Based on partly concurrent terms, his total sentence was 16 months. He was also disqualified from driving for 3 years 6 months in total.
+26. In HKSAR v Wong Wai-wah DCCC 137/2017 
+, the defendant was charged with dangerous driving, driving whilst disqualified, using a motor vehicle without third party insurance, and improper window glass installation. He was speeding under a slight rain, jumping the red lights at 7 junctures, once nearly colliding with a car, driving against the traffic for 180 metres and then likewise for another 200 metres, turning against traffic sign, and getting off his car in motion and leaving a passenger on board, resulting in its collision with a metal gate before it stopped. He had similar driving records. The court adopted an overall starting point of 33 months. He was also disqualified from driving for 6 years in total.
+27. Ms. Liang has one case on the sentence for possession of a dangerous drug. In HKSAR v Lacroix, Stephane Pierre HCMA 612/2009 
+, the defendant possessed 1.57 grammes of cocaine. The court referred to the Court of Appeal judgment in HKSR v Mok Cho Tik (2001) 1 HKC 261 
+for the suggestion that a bona fide user of dangerous drugs should be sentenced to 12 - 18 months except where very small quantities or rehabilitative measures were involved. Based on the rather peculiar features of the case, the appeal affirmed the sentence of 4 months suspended for 2 years.
+
+Sentencing this Defendant
+
+28. Absenting any death, major injury or damage to property, his way of driving was approaching the worst irresponsible type of dangerous driving. Not only was it accentuated by the 2 attempts to hit the pursuing police car, which are obvious under para. 2 (f) and (h), and the abandonment of his moving vehicle which then rammed into a wall on the roadside, it was also committed less than 2 months after his being disqualified from driving for 24 months and given a suspended sentence. I take a starting point of 33 months for the 1st Charge. After a one-third discount for his timely plea of guilty, the sentence is 22 months. I order a reduction of 1 month for his voluntary compensation of $10,000 for the repair of PV. The sentence is 21 months.
+29. I take a starting point of 6 months each for the 2nd and the 3rd Charges. After a one-third discount for his timely plea of guilty, the sentence is 4 months each. The facts for these two charges have been canvassed in the sentence of the 1st Charge. So the 1st - 3rd Charges shall have concurrent sentences.
+30. I take 12 months as the starting point for the 4th Charge. After a one-third discount for his timely plea of guilty, the sentence is 8 months.
+31. I adjust the sentences as follows based on totality considerations: 
+
+(1) 21 months to be served for the 1st Charge, concurrent with the 2nd and the 3rd Charges;
+
+(2) 4 months out of the 8 months for the 4th Charge to be consecutive to other charges.
+
+
+32. The total sentence is 25 months.
+33. His present offences are in breach of 2 suspended sentences each of 1 month for a period of 24 months. They relate to his driving without a valid driving licence and his using a motor vehicle without third party insurance (KT/2258/16). I activate both suspended sentences but order them to run concurrently with his present sentence.
+34. On the issue of disqualification, his previous records do not involve any "relevant scheduled offence" under section 69A of the Road Traffic Ordinance, Cap. 374, as an offence for 10 points in the Schedule of the Road Traffic (Driving-offence Points) Ordinance, Cap. 375. In other words, his disqualification under the 1st Charge shall commence on the date of sentence, and not upon his release from prison. I order disqualification for 3 years. He cannot apply for a learner's driving licence within 3 years.
+35. I order his disqualification for 3 years under the 2nd Charge. Section 44(3) of the Road Traffic Ordinance provides that the disqualification period shall be in addition to any other period of disqualification ordered under any other provision of the same ordinance. So the 3 years' disqualification period herein ordered shall commence after the disqualification period for the 1st Charge. I also disqualify him for 3 years under the 3rd Charge; this order shall be concurrent with the 1st Charge.
+36. The total disqualification period is therefore 6 years from the date of sentence.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

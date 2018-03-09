@@ -1,0 +1,174 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:08 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Chung Wah Steel Works Co Ltd v Chan Kwong Kwan
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+Chung Wah Steel Works Co Ltd v Chan Kwong Kwan
+
+
+
+12 September 2013
+District Court
+DC
+Civil Action No 4763 of 2011
+DCCJ 4763/2011
+
+Citations:[2013] HKEC 1439 English Judgment
+
+Presiding Judges: Judge Wilson Chan
+
+Phrases: <Y<Tort - negligence - nuisance - plaintiff's premises damaged by fire, cause of which was (according to Fire Services Department) unknown - whether doctrine of res ipsa loquitur applicable - whether defendant stored items in adjoining premises which caused or permitted fire to start and/or which constituted non-natural use caught by rule in Rylands v Fletcher - whether plaintiff had no interest in premises and hence no locus standi to sue on nuisance >Y>
+
+Counsel in the Case: Ms Emma Wong, instructed by K M Lai & Li, for the plaintiffMr Stanley C K Siu, instructed by Deannie Yew & Associates, for the defendant
+
+Judgment: 
+
+
+Judge Wilson Chan
+
+INTRODUCTION
+
+1. The plaintiff claims against the defendant for damages caused by a fire which occurred in the evening on 18 September 2007 (the "Fire") in a building known as the Tsing Yi Industrial Building Phase II (the "Building").
+
+THE PLAINTIFF’S CLAIM
+
+2. As the name implies, the Building is an industrial building containing various workshops, factories and warehouses. At all material times, a Mr Wong Kin Keung ("Mr Wong ") was and is the owner of Workshop E15 ("Unit E15") on the second floor of the Building. Mr Wong is and was at all material times a director and shareholder of the plaintiff. At the material time, Mr Wong allowed the plaintiff to occupy and use Unit E15, and the plaintiff alleges that it was a licensee with exclusive possession of Unit E15. Unit E15 was used by the plaintiff as office and factory for its steel work business.
+3. At all material times, the defendant was and is the owner of Workshop E16 ("Unit E16") on the second floor of the Building. At the material time, the defendant used Unit E16 as a warehouse for the storage of second-hand furniture, electrical appliances and various other miscellaneous items.
+4. Both Unit E15 and Unit E16 consisted of a flat roof. Unit E15 and Unit E16 were adjacent to each other.
+5. In the evening on 18 September 2007, the Fire broke out on the second floor of the Building. The Fire caused loss and damage to the flat roofs of both Unit E15 and Unit E16.
+6. The Fire Services Department investigated into the cause of the Fire but was unable to find out the cause of the same. The Fire Services Department concluded in its Fire Incident Report dated 18 October 2007 that the cause of the Fire was "unknown".
+7. It is the plaintiff's case that the Fire broke out in Unit E16 and escaped and spread onto Unit E15 thus resulting in loss and damage suffered by the plaintiff.
+8. It is the plaintiff's contention that the defendant has kept a dangerous thing, i.e. fire, in Unit E16 which was a non-natural use of the premises.
+9. Further or in the alternative, the plaintiff alleges that the Fire and its escape were caused by negligence on the part of the defendant.
+10. Further or in the further alternative, the plaintiff alleges that the escape of the Fire was caused by nuisance created by the defendant in Unit E16.
+11. As a result of the Fire, Unit E15 itself as well as the stock, tools, equipment and fittings therein were damaged. The plaintiff claims against the defendant for damages in the total sum of HK$382,018.
+
+EVIDENCE OF THE PLAINTIFF’S WITNESSES
+Yeung Ping Kwai (Mr Yeung)
+
+12. Mr Yeung was the Divisional Officer of the Management Group of the Fire Services Department.
+13. Pursuant to a subpoena, he attended the trial and produced a bundle of documents in relation to the fire incident in question, including the Fire Incident Report mentioned above and statements taken from the caretaker of the Building and the defendant.
+
+Chu Yiu Hong (Mr Chu)
+
+14. On the day of the fire, Mr Chu was a Senior Station Officer of the Fire Services Department and was amongst the first batch of fire-fighters arriving at the scene. He was also the maker of the said Fire Incident Report. He has since retired. He attended the trial under a subpoena.
+15. According to Mr Chu, when he arrived, his fire engine stopped to the east of the Building. He observed that the flat roof of Unit E16 was on fire which reached a height of 2 to 3 storeys. At that point of time, he could not see whether the fire had spread to Unit E15.
+16. After the Fire was put out, he carried out investigation of the units of the Building. Having regard to the extent of damage caused by the Fire to each of the units, Mr Chu concluded that the origin of the Fire was the flat roof of Unit E16.
+17. Mr Chu eliminated all other units as the origin of the Fire. He also added that the goods stored in Unit E12 were classified as dangerous goods but they were not inflammable substances.
+18. The cause of the Fire was stated in the Fire Incident Report as "Unknown". This finding was based on his in situ investigation after the Fire was put out and the statements given by the caretaker of the Building and the defendant. Basically, he concluded that no possible cause could be found as he could not find eye-witnesses or solid evidence to identify the fire source.
+19. Mr Chu said that there were 3 essential elements to cause fire breaking out, i.e. heat, oxygen and material. In this case, the material was the foam, PVC and rubber contained in the items stored on the flat roof of Unit E16. The materials stored thereon fuelled the Fire and generated tremendous heat which radiated and penetrated into Unit E15 through the partition board and the exhaust fan on the partition board.
+20. Mr Chu added that wind blowing at the time of the Fire was not strong. The main cause of the Fire spreading onto Unit E15 was the tremendous heat generated by the burning of the goods stored on the flat roof of Unit E16.
+21. Mr Chu was specifically asked in-chief as to the fire preventive measures that could have been put in place at the outdoor portion of Unit E16. Mr Chu declined to give any suggestion, saying that he had no expertise on such matters.
+
+Mr Wong
+
+22. Mr Wong gave important evidence on the status of the plaintiff in occupying Unit E15. In this regard, Ms Emma Wong, counsel for the plaintiff at trial, agreed that the following is a correct summary of his evidence under cross-examination: -- 
+
+(1) Mr Wong was the owner of Unit E15, he was in charge of Unit E15;
+
+(2) Mr Wong verbally permitted the plaintiff to use Unit E15 in about 2003;
+
+(3) There was no fixed term for the plaintiff's use of Unit E15, no fee was able by the plaintiff to Mr Wong for its occupation of Unit E15;
+
+(4) The plaintiff's occupation of Unit E15 could be terminated by Mr Wong any time;
+
+(5) If Mr Wong wished to enter Unit E15, he did not need to seek approval from the board of directors of the plaintiff;
+
+(6) If Chung Wah Engineering (Hong Kong) Ltd, a related company, had business affairs, Mr Wong could allow it to occupy Unit E15 jointly with the plaintiff;
+
+(7) The plaintiff had no right to evict Mr Wong from Unit E15; and
+
+(8) The plaintiff could not "replace" Mr Wong as the owner of Unit E 15.
+
+
+23. Regarding the use by the defendant of Unit E16, Mr Wong said that the defendant has employed a caretaker at night and he has seen the caretaker doing cooking in Unit E16. He also saw the caretaker smoking.
+
+NEGLIGENCE
+
+24. The plaintiff's case on negligence is pleaded under paragraph 5 of the Statement of Claim. In paragraph 5(d), the plaintiff pleaded reliance on the doctrine of res ipsa loquitur.
+25. In this regard, Mr Stanley Siu, counsel for the defendant, referred me to the Court of Appeal's decision in Wayfoong Credit Ltd v Tsui Siu-man t/a Wilson Plastics Manufactory [1984] HKLR 259 
+, where the Court of Appeal examined the legal principles of negligence in relation to fire incident cases.
+26. In the Wayfoong case, the defendant manufactured plastic dolls on the eighth floor of an industrial building in Kwun Tong. The 5th plaintiff operated a printing press on the ninth floor of that building. One evening when all the workers had left, fire broke out in the defendant's factory. The 5th plaintiff brought an action in respect of damage done to his premises and machinery by heat and smoke from the fire and the water used to put it out.
+27. It was not known how the fire started but the extent of the damage was greater than might have been expected because of the accumulation on the eighth floor of plastic materials, namely, about 4 tons of plastic being either polyvinyl chloride or polypropylene. These plastic materials had the characteristic that once they have been set alight they were very difficult to extinguish and they burnt at a very high temperature.
+28. After the fire had been put out, the Fire Services Department conducted an investigation and concluded that the cause of fire was "unknown".
+29. The similarity between the facts in the Wayfoong case and the present case is immediately apparent. In the Wayfoong case, the learned trial judge found in favour of the 5th plaintiff based on negligence and the rule in Rylands v Fletcher. The Court of Appeal unanimously reversed the decision.
+30. On the question of negligence, the Court of Appeal held that the evidence at trial was insufficient to support the finding "res ipsa loquitur". At page 262D, Cons JA (as he then was) commented that: "When it [the fire] actually started, how it actually started, how long it smouldered before it really took hold, and how easily it might have been detected during that period, are all matters of pure speculation". At page 262G, Cons JA concluded that the circumstances revealed by the evidence could not be regarded as anything other than equivocal.
+31. In my view, the exact same conclusion ought to be drawn in the present case. The evidence in the present case likewise cannot be regarded as anything other than equivocal, so that the doctrine of res ipsa loquitur is not engaged.
+32. Understandably, Ms Emma Wong in her Closing Submissions concentrated her criticisms on the manner in which the items were stored at the flat roof of Unit E16 (thus causing the Fire to spread), rather than the defendant having "caused or permitted" the Fire to start. At paragraphs 70 and 71 of her Written Closing, Ms Wong submitted as follows: -- 
+
+70. "As admitted by D, some of the goods stored on the flat roof could ignite easily and he foresaw that foreign objects from upper floors or E15 might have contacted his goods and set them on fire. However, the way how he stored a large quantities of goods without any proper measure to prevent the same from having contact with fire, has created a situation of danger in E16 and his neighbour.
+
+71. It is submitted that even if D was not responsible for the start of the fire, his antecedent negligence by storing a large quantity of goods in an open space without proper safety measures and exposing those materials to the external source of heat which was foreseeable by D, has initiated the chain of causation leading to the spread of fire onto E15 and resulting in damage to E15."
+
+
+
+
+33. In considering Ms Wong's submissions, it is, I think, important to bear in mind that we are looking at the situation with the benefit of hindsight. Hindsight may show that some additional precaution was necessary but this fact by itself would not prove that the defendant was guilty of negligence at the relevant date of the accident. As Cons JA put it in the Wayfoong case at page 263H: " Most risks can be reduced, or perhaps eliminated, by more stringent precautions, but the law of negligence is based, not on the absolute, but on what can reasonably be expected".
+34. As to what can reasonably be expected from the defendant, in Morris v West Hartlepool Steam Navigation Co Ltd [1956] AC 552 
+
+, in the context of a claim by an employee against his employer, Lord Reid said: "It is the duty of an employer, in considering whether some precaution should be taken against a foreseeable risk, to weigh, on the one hand, the magnitude of the risk, the likelihood of an accident happening and the possible seriousness of the consequences if an accident does happen, and, on the other hand, the difficulty and expense and any other disadvantage of taking the precaution." (Emphasis added)
+
+
+35. In the present case, there is essentially no evidence going to the second part of that equation. As mentioned in paragraph 21 above, there is no evidence from Mr Chu as to the fire preventive measures that could have been put in place at the outdoor portion of Unit E16. There is no evidence that the defendant had acted in breach of any Fire Regulations or directions issued by the Fire Services Department in storing the goods at the flat roof in the manner in which he did. Further, the plaintiff has not adduced evidence of any common practice adopted in similar circumstances. Ms Wong, during the cross-examination of the defendant, has put forward the use of fire-retardant cloth and cabinets built with fire-retardant boards as possible fire preventive measures. However, there is no evidence on the cost, practicability or effectiveness of such measures.
+36. In absence of such evidence, I am not prepared to find the defendant guilty of negligence on the basis submitted by Ms Wong.
+
+RYLANDS v FLETCHER
+
+37. Mr Stanley Siu cited the recent English Court of Appeal's decision in Gore v Stannard (t/a Wyvern Tyres) [2013] 1 All ER 694 
+, where the court discussed in detail the rule in Rylands v Fletcher as applied to cases of accidental fire.
+38. In the Stannard case, a fire which broke out in the defendant's business premises ignited some 3,000 rubber composite motor vehicle tyres stored there. The tyres were stored in racks inside a building and in piles outside. The fire spread with great rapidity and intensity. The claimant's adjoining premises were destroyed. He brought proceedings in negligence and in strict liability. The claim in negligence failed; the judge held that the fire was accidental. The claimant failed to prove that the defendant could have stored the tyres in a way which would have prevented their igniting or would have had reduced the chances of doing so. However, the judge held that the defendant was liable under the rule in Rylands v Fletcher.
+39. The Court of Appeal unanimously reversed the decision. At paragraph 48 on page 716c, Ward LJ had this to say: 
+
+[48] "Cases of fire damage are likely to be very difficult to bring within the rule because (1) it is the 'thing' which had been brought onto the land which must escape, not the fire which was started or increased by the 'thing'. (2) While fire may be a dangerous thing, the occasions when fire as such is brought onto the land may be limited to cases where the fire has been deliberately or negligently started by the occupier or one for whom he is responsible. Is this not a relic of the ignis suus rule? (3) In any event starting a fire on one's land may well be an ordinary use of the land".
+
+
+
+
+40. Ward LJ went on to reach, inter alia, the following conclusions at paragraph 50: (1) The 'thing' brought onto the defendant's premises was a large stock of tyres. (2) Tyres, as such, are not exceptionally dangerous or mischievous. (3) The tyres did not escape. What escaped was the fire, the ferocity of which was stoked by the tyres which were burning on, and remained burning on, the defendant's premises. The recorder was wrong to conclude it was the escape of fire that brought the case within Rylands v Fletcher principles. (4) In any event, keeping a stock of tyres on the premises of a tyre-fitting business, even a very large stock, was not for the time and place an extraordinary or unusual use of the land. Here again the recorder erred.
+41. In my view, the same conclusion ought to be drawn in the present case. The 'thing' brought onto the defendant's premises was second-hand furniture, electrical appliances and various other miscellaneous items. They are not exceptionally dangerous or mischievous. The items did not escape. What escaped was the fire. In any event, keeping those items at the flat roof of Unit E 16 was not an extraordinary or unusual use of the land. In respect of this last point, I will also refer to the Wayfoong case at 264H to 265A, where the court held the accumulation of that large quantity of plastic (some 4 tons) in an industrial building was not a "non-natural" use of the land.
+42. In an attempt to salvage her position, Ms Emma Wong invited the court to infer that the fire which escaped to Unit E15 had been brought onto Unit E16 by the defendant's caretaker (see: paragraph 23 above).
+43. I am not prepared to draw such an inference. Taking at its highest, Mr Wong might have seen the caretaker at Unit E16 before, there was however no evidence that Mr Wong or anyone else had seen the caretaker at Unit E16 on the material day.
+
+NUISANCE
+
+44. Mr Stanley Siu, quoting paragraph 20-63 from Clerk & Lindsell on Torts, 20th edition, submitted that persons with no proprietary interest are accorded no cause of action under the tort of nuisance.
+45. Ms Emma Wong, on the other hand, submitted that a person who has the right to have possession of the land would have sufficient locus standi to sue in nuisance. Interest in land is not a prerequisite to a claim for nuisance.
+46. Ms Emma Wong cited the House of Lord's decision in Hunter v Canary Wharf Ltd [1997] AC 655 
+
+, in particular, the speech of Lord Goff of Chieveley at 688E: "Since the tort of nuisance is a tort directed against the plaintiff's enjoyment of his rights over land, an action of private nuisance will usually be brought by the person in actual possession of the land affected, either as the freeholder or tenant of the land in question, or even as a licensee with exclusive possession of the land (see Newcastle-under-Lyme Corporation v Wolstanton Ltd [1947] Ch 92...." (Emphasis added)
+
+
+47. I do not think the speech of Lord Goff cited by Ms Wong really assist her on the facts of this case. In the present case, Mr Wong is and was at all material times the owner of Unit E15, not the plaintiff. Further, from the evidence of Mr Wong summarised in paragraph 22 above, the plaintiff clearly was neither a tenant nor even a licensee with exclusive possession of the premises in question. Exclusive possession is the right to exclude all other persons, including the landlord, from the premises [see: e.g. Megarry & Wade, The Law of Real Property, 8th ed, para 17-013]. Accordingly, I am of the view that the plaintiff has no locus standi to sue the defendant on nuisance.
+
+ORDER
+
+48. For the foregoing reasons, I would dismiss the plaintiff's claim against the defendant in this action.
+49. The defendant shall have the costs of this action against the plaintiff, including any costs reserved (if any). Such costs shall be taxed, if not agreed (with a certificate for counsel for the trial).
+50. The above order as to costs is nisi and shall become absolute in the absence of any application within 14 days to vary the same.
+51. Lastly, I thank counsel on both sides for their helpful assistance in this matter.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

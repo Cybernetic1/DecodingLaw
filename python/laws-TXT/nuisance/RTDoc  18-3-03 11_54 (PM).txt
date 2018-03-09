@@ -1,0 +1,245 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 03 March, 2018 at 23:54 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Putai Ltd v Yau Lee Ho
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Putai Ltd v Yau Lee Ho
+
+
+
+19 December 2017
+District Court
+DC
+Civil Action No 2666 of 2013
+DCCJ 2666/2013
+
+Citations:[2017] HKEC 2733 English Judgment
+
+Presiding Judges: Deputy Judge Daniel Tang
+
+Phrases: <Y<Tort - negligence - nuisance - backflow and seepage of water from premises to premises immediately below - whether seepage caused by backflow - whether backflow caused by negligence of third party or defendant's agent
+Damages - assessment - seepage of water from premises to premises immediately below>Y>
+
+Counsel in the Case: Mr Erik Shum, instructed by Joseph Leung & Associates, for the plaintiffMiss Van Ma, instructed by Terry Yeung & Lai, for the 1st and 2nd defendantsMr Patrick Siu, instructed by S K Lam, Alfred Chan & Co, for the third party
+
+Cases cited in the judgment: Berton & Others v Alliance Economic Invest Co Ltd & Others [1922] 1 KB 724 10 
+Leung Yung Chun and Tsoi Chik Lai v Chan Wing Sang, Lau Koon Cao and Tsang Sheung Ying [2000] HKCU 1103 
+Lo Yuk Chu v Hang Yick Properties Management Ltd [1996] 4 HKC 278 
+Ma Chung Lam & Another v Citybase Property Management Ltd [2007] 1 HKC 192 
+Realty Harvest Ltd v Gold Margin Development Ltd [2001] 1HKC 234 
+The Incorporated Owners of Hoi Luen Industrial Centre & Anor v Ohashi Chemical Industries (Hong Kong) Ltd [1995] 2 HKC 11 
+Yu Yuk Sun v Wing Shing Firm (1951) 35 HKLR 136 
+劉文光 對 黃屏屏及另二人 (unrep., LDBM 276/2012, [2014] CHKEC 624) 
+Hui Ling Ling v Sky Field Development Ltd (unrep., HCA35/2007, [2009] HKEC 1341) 
+
+Jobson v Middleton (1827) 6 B & C 295 
+
+Lam Po Chun v Leung Wai Chun (unrep., DCCJ 1085/2003, [2004] HKEC 206) 
+
+Lee Ming Yueh v Broadway-Nassau Investments Ltd and another [2012] 5 HKLRD 208 
+
+Sky Heart Ltd v Lee Hysan Co Ltd [1999] 1 HKLRD 100 
+
+
+JUDGMENT: 
+
+
+Deputy Judge Daniel Tang
+
+The Issues
+
+<Y<1. This case concerns the backflow and seepage of waste water.
+2. At the material times, the plaintiff was the registered owner of Flat B, 1st Floor, Winning Heights, 7 Fu Wah Street & 8 Wun Tung Street, Tsuen Wan, New Territories (respectively "Flat 1B" and "Building"); the defendants were the registered owners of Flat B, 2nd Floor of the Building ("Flat 2B") and the third party was the Owners Incorporation of the Building. On 13 March 2013, waste water entered from the ceiling of Flat 1B and flooded it; caused loss and damage to the plaintiff ("Seepage Incident"). The plaintiff now sues the defendants for compensation ("Main Action"). The defendants issue a third party notice, alleging >Y><Y<inter alia>Y><Y< that, due to the third party's negligence, the external main drainage pipe located outside Flat 1B and Flat 2B ("Drainage Pipe") was blocked and chocked, which caused the waste water back-flowed into Flat 2B ("Backflow Incident") and caused the Seepage Incident ("Third Party Action").
+>Y>
+<Y<The Undisputed or Indisputable Facts
+>Y>
+<Y<3. The following facts are indisputable or not disputed: 
+>Y>
+<Y<a. Flat 2B locates directly on top of Flat 1B.
+>Y>
+<Y<b. On 19 January 2011, the third party resolved to retain PWL Surveyors as the consultant in coordinating the renovation of the Building, the contract was entered on 17 March 2011. On 23 May 2012, the third party resolved to retain Duotien Contractors Ltd as the contractor in carrying out the renovation of the Building, and the contract was entered on 25 May 2012.
+>Y>
+<Y<c. In the morning of 13 March 2013, Flat 2B was flooded with waste water due to the backflow at its water closet (the "Water Closet") inside the toilet (the "Toilet"); and the Seepage Incident occurred at Flat 1B.
+>Y>
+<Y<d. The Water Closet was connected to the Drainage Pipe, which is connected to all unit Bs of the Building.
+>Y>
+<Y<e. The plaintiff and the defendants then lodged complaints about the Backflow Incident and the Seepage Incident to the management office of the third party;
+>Y>
+<Y<f. Later on same day, a plumber was engaged to clear the blockage in the Drainage Pipe, and a towel was found inside the Drainage Pipe in Flat 1B ("Towel"). No other remedial work has been carried out, and the water back-flow or seepage problem has been solved completely.
+>Y>
+<Y<g. No other similar incident occurred thereafter.
+>Y>
+<Y<h. Three experts were involved in this case; Mr John Wong acted for the plaintiff, Mr Simon Cheung for the defendants and Mr Dickie Lau for the third party.
+>Y>
+<Y<
+>Y>
+<Y<The Backflow Incident
+>Y>
+<Y<4. According to Mr Simon Cheung and Mr Dickie Lau, they both confirmed that the Backflow Incident was caused by a blockage of the Drainage Pipe. Mr Dickie Lau and Mr John Wong, both agreed it was likely the Towel could have blocked the Drainage Pipe that caused the Backflow Incident, as opposed to any other inherent conditions or problems with the Drainage Pipe. Mr Simon Cheung gave evidence that a poorly maintained pipe allowed rubbish to accumulate; if the Drainage Pipe was not maintained in good condition, the Towel could be a factor that accelerated the blockage.
+5. It is undeniable that: 
+>Y>
+<Y<a. Soon after the Backflow Incident, the Towel was found at the Drainage Pipe; once it was removed, the Backflow Incident was resolved completely;
+>Y>
+<Y<b. Other than removing the Towel, no other remedial work had been done;
+>Y>
+<Y<c. No similar incident happened thereafter;
+>Y>
+<Y<d. The Drainage Pipe connected to the Water Closet where the waste water back-flowed.
+>Y>
+<Y<
+6. Accordingly, on the balance, I conclude that as the Drainage Pipe was blocked and chocked by the Towel, it caused the Backflow Incident; which had no casual linkage to the renovation that carried out by the third party or its failure to remove the illegal structure as alleged.
+7. According to Mr Simon Cheung, a poorly maintained pipe would allow rubbish to build up that the Towel could be a factor to accelerate the blockage of the Drainage Pipe. Mr Cheung's opinion does not rebut the fact that the blockage created by the Towel caused the Backflow Incident. After all, it is confirmed that no other remedial work had been carried out and such incident did not happen again; which rebuts any other inherent causes of the Backflow Incident.
+8. The defendants argue that the Backflow Incident was caused by the negligence, and/or breach of the Deed of the Mutual Covenant of the Building (the "DMC") and/or breach of the statutory duty of the third party and/or its agent.
+9. In >Y><Y<劉文光>Y><Y< v. >Y><Y<黃屏屏及另二人>Y><Y< LDBM 276/2012 (unreported 
+, 16 June 2014) §21, which adopts Lee Ming Yueh v Broadway-Nassau Investments Ltd and another CACV 265/2008 
+(unreported, 19 September 2012), that an owners incorporation is entitled to appoint independent contractors in discharging its duties; if there is no evidence suggesting that the appointment is improper, the owners incorporation should not be faulted for such appointment.
+10. There is simply no evidence to prove that the third party acted improperly when appointing its contractors or agents.
+11. In 
+Lo Yuk Chu v Hang Yick Properties Management Ltd [1996] 4 HKC 278 
+>Y>
+<Y<at 282 B-C, the Court of Appeal rules that: "Those requirements (in the Deed of Mutual Covenant), if they are absolute duties, could only be satisfied by employing a virtual army of maintenance and security staff. This could never have been the intention of the parties. Indeed cl 12, upon which the appellant places some reliance, itself gives a clear indication of the extent of the duty. It requires the managers to 'keep all common facilities in good condition and working order'. This, we are satisfied, was plainly never intended to pose an absolute duty to ensure that no common facility ever breaks down. That would impose an impossible burden.
+The overall duty imposed on the (building manager) by the Deed of Mutual Covenant is one of 'proper' management. Such management entails doing all that is reasonably required of a manager in the circumstances. Things like keeping drains clear are specific aspects of a building manager's overall duty. But the mere fact that such a thing is listed without being qualified by expressions such as 'take reasonable steps to' does not turn a manager into an insurer against the consequences of a drain becoming obstructed through no failure on its part to act reasonably as a manager should."
+
+>Y>
+<Y<12. Further, the third party's duties at common law could not be wider than those under the DMC (see Ma Chung Lam & Another v Citybase Property Management Ltd [2007] 1 HKC 192 
+at §24)
+13. Accordingly, I accept the Backflow Incident is an accident and conclude that the third party should not be liable for it.>Y>
+
+The Seepage Incident
+
+14. It is also indisputable that: 
+
+a. In the same morning, waste water seeped from the ceiling of Flat 1B and dripped to its floor;
+
+b. Then the plaintiff engaged Mr John Wong and the defendants engaged Mr Simon Cheung as their respective experts, to prepare a joint expert report for liability and quantum. Both agreed the Backflow Incident and the Seepage Incident were one-off incidents which were caused by the said water back-flow from the Drainage Pipe via the Water Closet at the Toilet; then seeped through from the floor slab of Flat 2B to the structural ceiling of Flat 1B.
+
+
+15. According to Madam Kou Wai Ping, the director and witness of the plaintiff, on 13 March 2013, at around 9:00 am, large amount of waste water suddenly started dripping down from the ceilings at various parts of Flat 1B; which was soon flooded with waste water. The dripping continued until around 5:30 pm of the same day.
+16. Madam Yau Lee Ho, the 1st defendant, mentions that on 13 March 2013, at around 9:00 am, she received a call from her tenant ("Tenant") that large amount of water suddenly rushed out from the Toilet, which had flooded the bathroom area, the hallway, the living room and the guest room of Flat 2B. When Madam Yau arrived there, she found it was completely flooded by water which back-flowed from the Toilet. The flooring and some of the furniture were soaked in water and badly damaged. She tried her best to clean up by using mops and towel to absorb the water; then informed the management office.
+17. The defendants argue that pursuant to Hui Ling Ling v Sky Field Development Limited HCA35/2007 
+, it is the plaintiff's burden to show on the balance that the seepage was emanated from Flat 2B; there is no presumption that the source must be from Flat 2B and it is not for the defendants to find out or identify the correct source or to prove that its origin did not come from Flat 2B.
+18. It is obvious from the undisputable facts that the Backflow Incident and the Seepage Incident started and ended at around the same time; that Flat 2B located directly on top of Flat 1B; that the same nature of water (ie waste water) that flooded Flat 2B and seeped to Flat 1B; that once the Towel was removed, the Backflow Incident stopped, then the Seepage Incident stopped also; that other than removing the Towel, no other remedial work had been done; that the Backflow Incident and the Seepage Incident were one-off incidents and never happened again; that there is no evidence any other sources could create the seepage of such amount of waste water in such short period of time.
+19. From the abovementioned facts, on the balance, I conclude that it was the waste water that back-flowed from the Water Closet, and flooded the Toilet, then flooded the floor of Flat 2B, and further seeped to the ceiling of Flat 1B and caused the Seepage Incident.
+20. I conclude that the plaintiff had proved on the balance that the Seepage Incident was caused by the Backflow Incident.
+21. The plaintiff relies on 4 alternative causes of action, namely: breach of the DMC, breach of statutory duties, nuisance and negligence.
+22. The plaintiff submits that the DMC operates as a system of local law binding on all co-owners of the Building, including the plaintiff and defendants. I agree.
+23. In The Incorporated Owners of Hoi Luen Industrial Centre & Anor v Ohashi Chemical Industries (Hong Kong) Ltd [1995] 2 HKC 11, 12H - I 
+
+, the Court of Appeal held that: "It has to be remembered that almost every multi-storey building in Hong Kong, residential and industrial alike, operates under a system of local law, being the rules prescribed for its management by a deed of mutual covenant."
+
+
+24. In Sky Heart Ltd v Lee Hysan Co Ltd [1999] 1 HKLRD 100 
+<G<,>G><G< at 118F - 119J, Lord Hoffman stated that with the operation of the codified law under section 41 of the Conveyancing and Property Ordinance (Cap 219), both positive and negative covenants under a deed>G> of mutual covenants would be binding upon all owners and their successors in title.
+
+<G<25. The plaintiff also submits that pursuant to clause 10(c) of the DMC, the defendants were covenanted "(n)ot to use his part of the said building for any illegal or immoral purposes nor do or>G> permit anything therein or thereupon which may create unnecessary noise or may be a nuisance or annoyance to or may cause damage or inconvenience to the other occupier of the said building";
+
+
+ as the defendants permit the waste water to cause damages or inconvenience to the plaintiff, they breached the DMC and should be liable.
+26. The defendants argue that they did not permit the waste water to cause damages to the plaintiff; further, it is not an absolute or straight liability.
+27. In Realty Harvest Ltd v Gold Margin Development Ltd [2001] 1HKC 234 
+, at 510G to J, the Court of Appeal apparently has accepted the dicta of Atkin LJ in Berton & Others v Alliance Economic Invest Company Limited & Others [1922] 1 KB 724
+ 10 
+
+on the meaning of "permit" that: "It is not suggested that there is any difference between the words "permit" and "suffer" in this context, and I treat them as having the same meaning. It is clear that a person under a covenant not to use premises in a particular way cannot commit a breach of the covenant except by his own act or that of his agent. The same is true of a covenant not to permit. The user in one case and the permission in the other must be something which can be predicated of the defendant or the defendant's agent. It is not sufficient to show that the premises have been used in a way which would constitute a breach of the covenant; it must further be shown that the user is by the defendant or his agent, or that it is permitted by the defendant or his agent  To my mind the word "permit" means one of two things, either to give leave for an act which without that leave could not be legally done, or abstain from taking reasonable steps to prevent the act where it is within a man's power to prevent it. Acts which fall short of that, though they be acts of sympathy or assistance, do not amount to permission at any rate in the covenants with which we are dealing "
+
+
+28. Further, at 511A to C, the Court of Appeal referred to Yu Yuk Sun v Wing Shing Firm (1951) 35 HKLR 136 
+, which it quoted from the judgment of Jobson v Middleton (1827) 6 B & C 295 
+
+that: "The onus being on the plaintiff to establish a permission or sufferance what is the meaning of a covenant not to permit or suffer an act? It does not mean that the covenantor will not sympathise with the person who is doing the act, or that he will not tell that person what he honestly believes his legal position to be. It does not include an obligation at all costs to take steps to prevent the act. Its scope is less extensive than that "
+
+
+29. The 1st defendant, Madam Yau, gives evidence that the defendants leased Flat 2B to the Tenant. Before Flat 2B was leased out in April 2009, it was waxed professionally with crystal wax; apart from that and routine maintenance carried out by the Tenant, no other construction work, repairing work or further waxing work with crystal wax had been carried out. On or about 8 March 2013, the Tenant informed the defendants that there was a backflow of water from the Water Closet and flooded the Toilet. Madam Yau then complained to the management office of the third party and was informed that the blockage had been cleared by the management office. Then on 13 March 2013, at around 9 to 10 am, the Tenant informed Madam Yau that all of a sudden, large amount of water rushing out of the Toilet. The water has flooded the bathroom area, the hallway, the living room and the guest rooms of Flat 2B. Madam Yau then proceed to Flat 2B immediately and found it was completely flooded by water which back flowed from the Toilet, at the depth of about 2.5 cm. The flooring and some of the furniture in Flat 2B were soaked in water and were badly damaged. She tried her best to clean the water up by using mops and towels to absorb the water.
+30. Mr Simon Cheung gives evidence that he received instructions from the defendants the backflow started at around 4 am.
+31. Under cross-examination, Madam Yau is extremely evasive about when the backflow started and the court has to remind her repeatedly to answer the questions directly. At the end, she says that Mr Simon Cheung might have heard that from the Tenant who was present during the inspection.
+32. Mr Simon Cheung have no reason to lie in this aspect and I accept the backflow started at about 4 am that morning.
+33. Madam Yau further gives evidence that she tried to clean up the area all by herself until lunch time, then her friend came to assist her; she only used a mob, a few towels and rubbish bins to mod the waste water; it took her until about 2 to 3 pm to substantially clean up Flat 2B.
+34. The time for starting and ending of the Backflow Incident tallies with Madam Kou's evidence that she found waste water seeped to Flat 1B from its ceiling at around 9 am and ended at around 5:30 pm, as it would take time for the waste water to penetrate from the floor of Flat 2B to the structural ceiling of Flat 1B.
+35. Madam Yau admits that she did not seek help from any professional cleaner; or use any tool to pump away the water; or place large towel on the doorstep of the Toilet to stop the flow of waste water from the Closet or use a plastic board to stop the outflow of waste water from the Toilet.
+36. If the Backflow Incident occurred at around 4 am that morning; the Tenant informed Madam Yau at around 9 to 10 am; and when Madam Yau arrived at Flat 2B she found it was completely flooded by waste water at the depth about 2.5 cm, it would be totally unreasonable for her to only employ rather primitive methods to clean up Flat 2B, but not to engage professional cleaner, nor asked more helping hands, nor to do something more to stop the backflow.
+37. It follows naturally that even I accept the defendants' " reasonable " standard, the defendants still acted unreasonably and failed to discharge their duties.
+38. Madam Yau also mentions there was a similar incident of backflow of waste water happened 5 days before, ie on 8 March 2013; which was denied by the third party. If Madam Yau was telling the truth, it would make her remedial works further unreasonable as a similar incident happened not long before. However, as there is no evidence to show there is any linkage between the two incidents, I simply disregard this alleged incident, be it true or not.
+39. Further, other than Madam Yau's verbal evidence, there is no other evidence to support her version. I have doubt on her evidence and found the incident dated 8 March 2013 did not happen at all.
+40. In Mr Simon Cheung's report dated 29 June 2013, he observes that the wooden floor slab, wooden skirting and wooden bedroom door of Flat 2B had all swollen and bulged as a result of the Backflow Incident [B/62 - 63] 1 . On 21 July 2015, Mr Dickie Lau and Mr Simon Cheung jointly report that the flooding at Flat 2B was a one-off incident; the water seepage was caused by the waste water back flowed from the Drainage Pipe via the Water Closet; then seeped through from the non-waterproof floor slab of Flat 2B to the structural ceiling of Flat 1B [TP A2/551] 2 . On 24 July 2015, Mr John Wong and Mr Simon Cheung together make a similar conclusion [A/63]. On 15 April 2016, Mr Simon Cheung reports that the teak floor was intact with no sign of being soaked in waste water; and crystal wax and asphalt coating beneath the wooden floor slabs are effective in stopping water from seeping to the structural floor slab of the living room, bedrooms and corridor of Flat 2B [A/164].
+41. Mr Simon Cheung's opinion on 15 April 2016 conflicts with his previous ones.
+42. He argues that the crystal wax and asphalt layer have waterproof ability. I accept Mr Dickie Lau's evidence that the crystal wax is brittle and would crack easily, and the photos in Mr Simon Cheung's report dated 29 June 2013 show many cracks in the crystal wax (photo 9 & 12 [A/186 - 187]). Further, Madam Yau admitted that apart from April 2009 that Flat 2B was waxed professionally with crystal wax, and the routine maintenance carried out by the Tenant, no other waxing work with crystal wax had been conducted, which means the crystal wax layer should be subject to wear and tear over the years. I conclude that the crystal wax in Flat 2B could not be used as a waterproof material.
+43. It is accepted that the asphalt layer could be used as a waterproofing material; however, it does not mean that it has to be waterproofing. It all depends on the purpose and method it was applied. I accept Mr Dickie Lau's evidence that unless the asphalt is applied intentionally in a thick layer, it has no waterproofing ability. The photos in Mr Simon Cheung's report dated 15 April 2016, show that the asphalt was not applied continuously. The asphalt in Flat 2B under the teak floor was used as adhesive only. I conclude the asphalt layer could not be used as a waterproof material.
+44. I also conclude that either jointly or individually, the crystal wax and the asphalt layer in Flat 2B did not have any waterproofing ability.
+45. I find the defendants had breached the DMC and the statutory duties by permitting the waste water to seep through the floor of Flat 2B to the structural ceiling of Flat 1B, and then entered to Flat 1B and caused damage to the plaintiff.
+46. Accordingly, the defendants are liable to the Seepage Incident. For the same reasons, the defendants created nuisance and were negligent that caused damage to the plaintiff.
+
+The Experts
+
+47. On 15 May 2013 and 10 June 2013, one Morden Testing Consultants Ltd. ("Morden"), which was engaged by the Joint Office of Building Department and Food and Environmental Hygiene Department, conducted tests on Flat 1B and 2B. It was concluded that the seepage at the store room ceiling of Flat 1B sourced from the bathroom floor of Flat 2B; as to the seepage at the living room ceiling of Flat 2B, the source was uncertain. Such finding generally tallies with the conclusion of Mr John Wong and Dickie Lau. When one considers Morden carried out the test about 2 months after the Incidents, which had never reoccurred, it would not be difficult to understand they could not confirm the source of seepage at the living room ceiling of Flat 1B.
+48. In Mr Simon Cheung's report dated 15 April 2016, he observes that: 
+
+a. the teak floor of Flat 2B was intact and no sign of being soaked in waste water and
+
+b. crystal wax and asphalt coating beneath the wooden floor slabs are effective in stopping water from seeping to the structural floor slab of Flat 2B.
+
+
+49. As mentioned before, the above are inconsistent with his pervious opinions. I observe and conclude that Mr Simon Cheung is not a reliable expert witness. While Mr John Wong and Mr Dickie Lau maintain their opinions consistently that the Backflow Incident was caused by the waste water back flowed from the Drainage Pipe via the Water Closet in the Toilet, which seeped through the non-waterproof floor slab of Flat 2B to the structural ceiling of Flat 1B; Mr Cheung keeps shifting his evidence to suit the defendants' case.
+
+The Un-pleaded Cases
+
+50. The defendants argue the unauthorized structural alterations in Flat 1B play a part in the Seepage Incident; the third party also alleges that the plaintiff should be liable for contributory negligence. Both allegations had not been pleaded and should be disregarded.
+
+Quantum
+
+51. The plaintiff claims $55,300 as the costs of reinstatement of Flat 1B and the furniture; $9,600 as damages of alternative accommodation and $80,000 as general damages, in the total of $144,900.
+52. For the costs of reinstatement, the main difference between Mr John Wong and Mr Simon Cheung is Mr Simon Cheung opines that the reinstatement should be limited in the affected area, like to repaint only part of the ceiling, or to demolish and re-install only the defective floor tiles; whereas Mr John Wong opines the entire ceiling and all the floor tiles should be repainted or reinstalled. For the costs of reinstatement of furniture inside Flat 1B, Mr Simon Cheung opines no costs should be included for some of the items, and the sofa should be reused after dry-cleaning and sterilization.
+53. I disagree with Mr Simon Cheung. Flat 1B is rather small and it would be impractical and unreasonable to repaint only part of the ceiling or to reinstall only part of the floor tiles. It is also unreasonable not to include any costs to reinstate the cabinets and the wardrobe. Due to the material of the sofa, it should be replaced.
+54. In this regard, I would award $55,300 under this head.
+55. I accept it would take 18 days to renovate Flat 1B and the damages for alternative accommodation is therefore $9,600 ($16,000 x 18/30).
+56. The plaintiff seeks general damages of $80,000 for disturbance, annoyance and/or inconvenience caused by relying on Leung Yung Chun and Tsoi Chik Lai v Chan Wing Sang, Lau Koon Cao and Tsang Sheung Ying [2000] HKCU 1103 
+; that the plaintiffs and their family suffered great inconvenience by the water leakage, and the High Court awarded $80,000 for the damages for inconvenience.
+57. In Lam Po Chun v Leung Wai Chun [2004] HKEC 206 
+, the court awarded $12,000 for general damages; that the plaintiffs found water dripping down from the ceiling and all the chattels, fixtures and floor of their flat were soaked with water. The dripping stopped shortly after the management office turned off the water supply and the problem resolved after the defendant replace a copper bypass one or two days after. The court awarded $12,000 for the general damages.
+58. However, I am not persuaded that the plaintiff, as an incorporation, suffers any general damage in the incident. One must not forget the plaintiff is a holding company holds Flat 1B; which is a separate legal entity from its shareholders. No doubt, Madam Ku did go to Flat 1B to remedy the situation; and her parents, as occupiers, had to move out from Flat 1B after the incident; however, there is no evidence to show the plaintiff, as a holding company, suffers any general damage.
+59. Hence the total award is $64,900 ($55,300 + $9,600 = $64,900).
+60. Had the plaintiff provided sufficient evidence to prove that it suffered any general damage, I am of the view that the present case is quite similar to Lam Po Chun that both incidents were of short duration and resolved completely after remedial work. However, one important feature in our case is waste water that seeped to Flat 1B, which is extremely unpleasant and unhygienic; hence I would award $20,000 under this head if sufficient evidence was provided.
+
+The Amendment
+
+61. In the middle of the trial on 13 April 2016, the plaintiff sought to amend her statement of claim by deleting "at the bathroom area" at paragraph 3. I allow the amendment and explain my reasons hereunder.
+62. All along, it is the plaintiff's case that waste water seeped from the floor of Flat 2B to the ceiling of Flat 1B and caused damage. The locations of the seepage showed clearly in the photos and video which should not take the defendants by surprise.
+63. Further, it makes no difference if the waste water first penetrated from the surface of the Toilet into its floor slab, then spread through it and eventually dripped down from the ceiling of Flat 1B; or the waste water overflowed from the Toilet, passed through the surface of the floor of Flat 2B into the floor slab, spread through it and then dripped down from the ceiling of Flat 1B.
+64. The amendment causes no prejudice to the defendants and clarifies the real question to be tried (even through it is only very marginal and makes no real difference at all), hence I allow the amendment.
+65. For the costs of the application, the usual practice is the party who seeks for the amendment should pay all the costs incurred and thrown away by the amendment and the costs of any consequent amendment. There is no subsequent amendment and no costs thrown away.
+66. Accordingly, the plaintiff should pay half day's costs to the defendant for the application and argument for the amendment.
+
+Costs
+
+67. Costs should follow the event. I grant cost order nisi that the defendants should bear the costs (including all reserved costs) for the plaintiff and the third party, except the plaintiff should pay half day's costs to the defendants for the amendment; which should become absolute within 14 days, to be taxed if not agreed. I also grant one counsel's certificate to each party.
+
+Conclusion
+
+68. The third party is not liable for the Backflow Incident and the Seepage Incident.
+69. The defendants are liable for the Seepage Incident and the damages to be awarded to the plaintiff is $64,900 with interest, at judgment rate from the date of writ until payment.
+70. I thank the assistance from counsels.
+ 1Means Main Action, Bundle B, pages 62 and 63.
+ 2Means Third Parties Proceeding, Bundle A2, page 551
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

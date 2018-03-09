@@ -1,0 +1,87 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:40 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : HKSAR v Lee Ka Keung
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Lee Ka Keung
+17 May 2017 at 12.05 pm
+District Court
+DC
+Criminal Case No 1152 of 2016
+DCCC 1152/2016
+
+Citations:[2017] HKEC 1281 English Judgment
+
+Presiding Judges: Judge Woodcock
+
+Phrases: <Y<Criminal sentencing - road traffic offences - dangerous >Y><Y< >Y><Y< driving causing death - driving vehicle with alcohol concentration in breath exceeding prescribed limit - vehicle driven by defendant, whose breath alcohol content was 65ug in 100 ml of breath, hit and killed 76-year-old male pushing trolley - repeat offender of driving under influence of alcohol>Y>
+
+Counsel in the Case: Present: Mr Peter Tse, Counsel on fiat, for HKSARMs Eugenia Yang, instructed by KCL & Partners, for the defendant
+
+Cases cited in the judgment: R v Cooksley & Others [2003] 3 All ER 40 
+
+Secretary for Justice v Poon Wing Kei [2007] 1 HKLRD 660 
+
+
+Judgment: 
+
+
+Judge Woodcock
+<Y<1. The defendant has pleaded guilty to Charge 1, causing death by dangerous driving, and Charge 2, driving a motor vehicle with alcohol concentration in his breath exceeding the prescribed legal limit.
+2. The defendant was the driver of a private vehicle, TH-5919. On 14 May 2016 at about 5.40 in the morning, when this accident happened, he was driving along Canton Road outside Yau Ma Tei Police Station, which is a one-way northbound carriageway consisting of three lanes. Where the accident happened is where the right lane merges with the middle lane to make it a two-lane carriageway. This accident did not happen on a pedestrian crossing, the nearest one being some 18 metres from the accident spot.
+3. At about 5.40 am, two police officers who were on foot patrol saw the defendant's vehicle stopped between the right and the middle lane. They saw oranges scattered all over the road. They saw the defendant in front of his own vehicle. When the defendant saw the police officers, he ran towards them. The defendant told the police that he had just hit a person, and asked them to call for an ambulance.
+4. Subsequently, he told the police that he was driving along Canton Road when he saw the deceased pushing a trolley towards his vehicle, so he honked his horn. The victim did not stop, and the trolley collided with the defendant's vehicle.
+5. At the time, the sky was dull, but this stretch of road was well lit with street lights.
+6. The speed on that stretch of road was 50 kilometres per hour, and at that time of the morning, there was not much traffic. That stretch of road was straight for 57 metres from the nearest junction to the accident location.
+7. The police officers saw a male, the deceased, who was 76 years old, lying underneath a pile of oranges in front of the defendant's vehicle. He was not breathing, and bleeding from his mouth. The front of the vehicle was severely damaged. The hood was completely buckled inwards.
+8. The victim was rushed to hospital, but unfortunately declared dead within the hour. He died of multiple injuries.
+9. The defendant was breathalysed by the police and found to be over the legal limit. His breath alcohol content was found to be 65ug in 100 millilitres of breath, when the legal limit is 22ug in 100 millilitres of breath. The defendant was well over the legal limit.
+10. I have seen photographs of the location of the accident as well as the damage to the front of the defendant's vehicle. The impact of the vehicle and the deceased and his trolley must have been very significant.
+11. The defendant is not a man with a clear record. He has five previous convictions, with the last being in 2013. This is the significant conviction, because he was convicted of drink driving in Kowloon City Magistracy. He was convicted and sentenced to 6 weeks' imprisonment suspended for 18 months, as well as disqualified from driving for 2 years. He was given a chance of a suspended sentence, yet this is his second drink driving conviction today. The defendant has no other significant traffic convictions.
+12. I have heard mitigation in full today. Ms Yang has said all she can say on the defendant's behalf. The defendant's best mitigation is his plea of guilty.
+13. The defendant is 42 years old, a family man, as well as the sole proprietor of a small restaurant, which has, since the accident, closed down. He has two sons and a supportive wife who is in court today. The defendant is the sole breadwinner of the family. I have had many letters from the defendant's wife, his eldest son, as well as friends and customers. All say the defendant is a responsible and filial son, husband and father. He is full of remorse and will never drive again. He knows he must take responsibility for his poor judgment. The authors of the letters ask for leniency on his behalf.
+14. By way of explanation, the night before the accident, he was in his barbecue restaurant. Some of his customers asked him to drink with them. He felt he could not refuse them. What he should have then done was leave his car behind, but he chose to take the risk and drive it home after drinking. It goes without saying that this is all the more serious because he has a previous recent conviction for drinking and driving.>Y>
+15. I have to determine the culpability of the defendant's driving when considering an appropriate sentence. I take into account the English authority of R v Cooksley & Others [2003] 3 All ER 40 
+, as did the Court of Appeal here in Hong Kong in Secretary for Justice v Poon Wing Kei [2007] 1 HKLRD 660 
+. That English authority sets out various factors that can be considered aggravating and defining a highly culpable standard of driving.
+16. For the purposes of this case, one relevant aggravating factor which would amount to a highly culpable standard of driving is the consumption of alcohol and being significantly over the legal limit significantly.
+17. As I said earlier, the defendant knew he had been drinking, yet chose to drive after that. The authority of Cooksley also says at the same time the court should take into account, if they exist, any mitigating factors such as, in this case, a timely plea of guilty and genuine remorse.
+18. I have taken into account mitigation put forward and all of those letters. However, the fact is an innocent life has been taken away as a result of an act or omission that should have been avoided. The victim's death was senseless. A vehicle can be a lethal machine, and there is no acceptable excuse for dangerous driving and drink driving.
+19. Here, the defendant saw the victim. He even honked his horn. He could have avoided the victim, because this was a straight road for some distance. The defendant had time and distance to avoid the victim, but did not. I imagine alcohol played a part in affecting his driving skills and decision making.
+20. In such circumstances, good character and remorse do not count for much, and will not be given undue prominence.
+21. The Court of Appeal has said on many occasions that the dominant sentencing principle must be one of deterrence.
+22. I have taken into account the circumstances of this accident, the aggravating factor that exists, as well as all the mitigation that I have heard. I find a starting point of 3 years and 9 months appropriate.
+23. The defendant has pleaded guilty. He is entitled to a discount of one-third. That would be a discount of 15 months.
+24. For Charge 1, the defendant is sentenced to 2 years and 6 months. For Charge 1, the defendant is <G<disqualified, pursuant to section 36(2)(a) of Cap 374. The defendant is disqualified for a period of 5>G> years. The defendant must complete a driving improvement course within 3 months prior to the end of the disqualification period at his own cost.
+25. For Charge 2, the maximum term of imprisonment would be one of 3 years. The alcohol content is relevant. Here, it is tier 2; the very high end of tier 2. This level, and the fact that it is the defendant's second similar conviction in only a few years, means a term of imprisonment is inevitable. I take a starting point of 2 years and 6 months.
+26. The defendant has pleaded guilty and is entitled to a discount of one-third from that starting point, a discount of 10 months. After that discount is applied, for Charge 2, the defendant is sentenced to 1 year and 8 months.
+<G<27. Pursuant to section 39A(2)(a)(b) of Cap 374, I disqualify the defendant, for Charge 2, for a period of 3 years.>G>
+28. I have taken into account the totality principle. Charges 1 and 2 are connected and intertwined. In the circumstances of the case and mitigation, I find an overall sentence of 2 years and 6 months would be an appropriate punishment.
+29. Therefore, I order that Charges 1 and 2 be served concurrently. Therefore, that is a total sentence of 2 years and 6 months. The two disqualification periods should also be served concurrently. That is one of 5 years' disqualification.
+30. I repeat the defendant needs to complete a driving improvement course within 3 months prior to the end of the 5-year disqualification period.
+31. Defendant, do you understand that sentence?
+DEFENDANT: Understood.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

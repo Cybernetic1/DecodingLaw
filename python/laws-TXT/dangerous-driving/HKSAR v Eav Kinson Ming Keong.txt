@@ -1,0 +1,161 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 24 February, 2018 at 22:29 HKT
+
+  
+
+Client ID : HKU_WLA-1
+
+Title : HKSAR v Eav Kinson Ming Keong
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Eav Kinson Ming Keong
+
+
+
+17 January 2018
+Court of Appeal
+CA
+Criminal Appeal No 385 of 2016
+CACC 385/2016
+
+Citations:[2018] HKEC 65 English Judgment
+
+Presiding Judges: McWalters JA
+
+Phrases: <Y<Criminal law and procedure - road traffic offences - dangerous >Y><Y< >Y><Y< driving causing grievous bodily harm - leave to appeal conviction - granted >Y>
+
+Counsel in the Case: Mr Kamlesh A Sadhwani, on fiat and Ms Peggy Leung SPP, of the Department of Justice, for the respondentMr Joseph Tse SC, Mr Chung Boey and Mr Dickson Chan, instructed by Peter KS Chan & Co, for the applicant
+
+REASONS FOR JUDGMENT: 
+
+
+McWalters JA
+<G<1. The applicant faced one charge of >G><G<dangerous>G><G< >G><G<driving>G><G< causing grievous bodily harm, contrary to section 36A of the Road Traffic Ordinance, Cap 374.>G> He pleaded not guilty to this charge but indicated he was willing to admit to the lesser offence of careless driving. The applicant was convicted as charged after trial before Deputy District Judge Bina Chainrai ("the judge") on 25 November 2016. He was sentenced to a total of 15 months' imprisonment and having completed serving this sentence he has been discharged from prison.
+2. On 19 December 2016, the applicant filed an application for leave to appeal against conviction and sentence, but abandoned his appeal against sentence on 17 February 2017.
+3. At the hearing of the application I granted the applicant leave to appeal his conviction. These are my reasons for doing so.
+
+The trial
+
+<Y<4. On 30 December 2014 at around 7:04 pm, the applicant was driving his car, registration number BT189, near the junction of Argyle Street and Tong Mi Road in Mong Kok. As he traversed this junction he collided with a motorcycle RW5129, driven by Yeung Tin Lok Patrick (PW1). The applicant was driving down Argyle Street westbound when he entered the junction with Tong Mi Road. PW1 was driving along Tong Mi Road, southbound when he entered the junction with Argyle Street. The junction is of two busy roads and is governed by traffic lights. When the applicant drove into the junction the traffic light applicable to him was red and the traffic light applicable to PW1 was green.
+5. The applicant admitted that he drove into the junction against a red light and admitted that he did so as a consequence of having made a number of errors. The issue at trial was whether the applicant was guilty of >Y><Y<dangerous>Y><Y< >Y><Y<driving>Y><Y< or of the lesser offence of careless driving.
+6. For the purposes of this judgment I shall not go into the evidence in any detail. Apart from the victim there were three civilian witnesses, two police officers and two experts. The three civilian witnesses consisted of two taxi drivers and a passenger in one of the taxis. A camera in one of the taxis captured the accident as it happened. Another video camera on a public light bus which was stopped at the intersection, in a lane of Tong Mi Road northbound, also captured the accident.
+7. The evidence of the two police officers included contested evidence of statements made by the applicant to them at the scene of the accident.
+8. The prosecution did not seek to prove that the applicant exceeded the speed limit. But the prosecution did call an expert witness to determine the applicant's speed. This witness concluded that the applicant's vehicle was driving at an estimated speed of 47 km/hr, and it was "highly likely jumping the red light of the vehicular traffic signal governing westbound Argyle Street before the collision. The traffic light governing V2 (BT189) changed from green to amber at about 7 seconds before the front of V2 (BT189) arrived at the yellow box of the junction" 1 . He agreed that there was a double decker bus stationary in the first lane of Argyle Street, westbound, and that BT189 was probably on the second lane from the left when it passed the white stop line of the junction.>Y>
+
+The defence case
+
+9. The applicant testified in his defence, and called two other witnesses. They were an expert, Mr Tim Sterling (DW2) and the applicant's friend (DW3). The defence case at trial was essentially that the applicant had been careless in misreading traffic lights which were inapplicable to him, causing him to mistakenly drive onto the intersection against a red light resulting in the accident. The traffic signals visible at this intersection were designated as follows: 
+
+Signal Light A - This is the nearside primary traffic light situated on the left of Argyle Street westbound at the junction with Tong Mi Road;
+
+Signal Light B - This is the offside primary traffic light situated on the right of Argyle Street westbound at the junction with Tong Mi Road. It solely governs vehicles on Argyle Street that are in the far right lane and which are turning right into Tong Mi Road northbound;
+
+Signal Light C - This is a secondary traffic light situated on the right side of the junction;
+
+Signal Light D - This is a set of the traffic lights which governed traffic from Tong Mi Road southbound; and
+
+Signal Light E - This is a set of traffic lights at the next westbound junction, some 290 metres away.
+
+
+10. The scene can be best understood diagrammatically. A simplified description of the scene is as follows: This is graphic legend. 
+
+A, B, C and D - Signal Lights controlling traffic at the Argyle Street / Tong Mi Road intersection.
+
+E - Signal lights controlling a separate intersection some 290 metres further west from the Argyle Street / Tong Mi Road intersection.
+
+
+11. In the above diagram signal lights A and C governed the applicant's direction of travel. Signal Light B only governed vehicles turning right from Argyle Street into Tong Mi Road. Signal Light D governed PW1's direction of travel and Signal Light E regulated traffic at a quite separate intersection some distance away. It was the applicant's case that he could not see signal lights A and B because his view of them was blocked by large vehicles. He saw only Signal Light C as he entered the junction and saw only one red light which he took to be applicable to vehicles turning right from Argyle Street into Tong Mi Road. He saw the distant Signal Light E and he also saw Signal Light D both of which were green and both of which he mistook as being applicable to him.
+12. In his evidence, the applicant said that he was driving on the fourth lane from the left of Argyle Street westbound, and stopped for the red signal ahead as the cars in front of him were stationary. When the green light with the right turn arrow appeared, he changed to the third lane and drove forward. As he approached the junction he saw a green light ahead on the left side of the road 2 , which he now realizes was Signal Light D, and could not see any red light. Consequently, he believed the green light allowed him to drive straight ahead. He said that there was a bus blocking his view of Signal Light A, and a truck in the fourth lane blocking Signal Light B. The applicant only found out afterwards from viewing the video that his view to Signal Light A had been obstructed by the bus on lane 1. He saw there was another bus around 15 metres ahead of his car that was driving through the junction. He also saw another green light in the distance which he now realizes was Signal Light E 3 and thought it also governed the junction he was driving through. As to Signal Light C, he saw only the red bulb on the left until he was 10 metres from the stop line, and he thought that it governed the fourth lane turning to the right into Tong Mi Road. The combination of these errors and circumstances caused him to believe that he had a green light to drive through the intersection.
+13. He admitted that he was careless because he thought that Signal Light C only governed the fourth lane.
+14. The expert witness (DW2) prepared a report in which he identified four issues associated with the risk of vehicles contravening red traffic signals at the westbound stop line at Argyle Street. The "most significant safety concern" he stated were "situations in which the traffic signals facing westbound traffic from Argyle Street can be obstructed by large vehicles and cannot be seen" 4 . He concluded 5 : 
+
+4.45 "In view of the observations above, it is clear that in some circumstances the sightline from a car approaching the Argyle Street stop line to all three traffic signals intended for such traffic (Signals A, B and C) is obstructed by other vehicles. 
+
+
+
+4.46 Furthermore, in such circumstances, the sightline to Signal D (for southbound traffic from Tong Mi Road) would not be obstructed by such vehicles and Signal E would also be visible for some of the approach. Signals D and E would be the only signals visible to drivers approaching the material junction westbound from Argyle Street."
+
+
+
+ This evidence was adduced to support the applicant's claim that his entry onto the intersection against the red light was not because he was deliberately jumping the red light or deliberately acting contrary to it but because he did not see the red lights and believed that the traffic lights for his direction of travel were green.
+
+The judge’s Reasons for Verdict
+
+15. The judge identified the only issue to be determined in this case was whether "at the material time, the Defendant's driving amounted to '<Y<dangerous>Y> <Y<driving>Y>' i.e. the Prosecution must prove that the driving acts of the Defendant fell far below what would be expected of a competent and careful driver, and that it would be obvious to a competent and careful driver that the Defendant's driving manner or acts could be dangerous." 6 
+16. The judge was satisfied that the applicant entered the junction in contravention of the red traffic signals 7 , but there was no evidence he was speeding 8 .
+17. As to the applicant's evidence, the judge noted that the video image captured the applicant driving straight into the junction without slowing down which was contrary to his explanation to the police officers which was that he had stopped for the red traffic light at the junction 9 .
+18. She concluded her discussion of the applicant's evidence by saying: 
+
+44. "As it was conceded by the Defence, there was an error of judgment. But in my view, it goes beyond this. This was a busy junction. To enter such a junction without being consciously aware and taking care to be aware of the nature of the traffic light conditions and traffic is especially dangerous. There is evidence the Defendant did not lower his approach speed and appeared of oblivious of traffic conditions. To drive in this manner at this location is dangerous judge by any objective standard. The definition of the offence provides an objective standard. Necessarily there may be some subjective aspect of culpability. I have borne this in mind.
+
+45. I did not believe the Defendant. That I comment thus is not to misconstrue the burden of proof remaining throughout on the Prosecution to prove guilty beyond all reasonable doubt but takes account of practice matters pertaining to the credibility of witnesses and the weight to be attached to evidence." 10 
+
+
+
+
+19. In respect of DW2's evidence, the judge made the following comment: 
+
+46. "I did consider the evidence of DQ2 [DW2] - I did not find his evidence very helpful. He conducted test runs at the material junction and in his report appended still images from the video taken during the test runs. But he accepted that the traffic signals at the junction complied with safety regulations in force here. He also testified that if there was obscuring of the traffic lights, this was not continuous as there was movement of traffics. He also said that the Defendant should have been able to see Signal C from 10 to 15 metres behind the stop line."
+
+
+
+
+
+The grounds of appeal
+
+20. At the invitation of the court Mr Joseph Tse, SC, on behalf of the applicant, applied to amend the Perfected Grounds of Appeal to give more focus to what was the essence of the applicant's complaint. There being no objection to the amendment I granted leave to amend. The Perfected Grounds of Appeal, as amended, 11 then became as follows: 
+
+(1) "The learned Deputy Judge failed to give adequate reasons for her decision in that: 
+
+(i) she failed adequately to deal with one of the applicant's main defences, namely that as he was approaching and entering the material junction between Argyle Street and Tong Mei Road at the material time, there was sufficient obscuration by other large vehicles on the road of the relevant traffic lights governing his direction of traffic such that he had not been able to realise the lights were red against him;
+
+(ii) she failed adequately to explain why she disbelieved the applicant and rejected his evidence;
+
+(iii) she failed adequately to explain what it was about the applicant's manner of driving that made it dangerous.
+
+(2) The conviction of the applicant on causing grievous bodily harm by <Y<dangerous>Y> <Y<driving>Y> was in the circumstances unsafe and unsatisfactory which should be quashed and a conviction for careless driving substituted."
+
+
+
+
+
+Discussion
+
+21. The applicant's complaints are that the judge's Reasons for Verdict are inadequate. The key paragraphs that explain how the judge reached her verdict are paragraphs 43-46, but only a small part of paragraph 43 actually consists of reasons.
+22. There is no doubt that the judge has exercised restraint in revealing her thought processes and adopted a somewhat minimalist approach to explaining the reasons why she reached certain conclusions. Whether that has resulted in an inadequate Reasons for Verdict in the context of the evidence adduced at trial and the issues which were presented to the judge to resolve are not for me to say.
+23. I am dealing only with the question of whether leave to appeal should be granted. The threshold for leave is quite a low one and I was satisfied that the Amended Perfected Grounds of Appeal met that threshold.
+
+Conclusion
+
+24. For these reasons I granted the applicant leave to appeal his conviction on the Amended Perfected Grounds of Appeal.
+[Editors' note: Please click the PDF on top to view the Annex.]
+ 1Reasons for Verdict, paragraph 16; Appeal Bundle, page 51B.
+ 2Photo 5, Exhibit P5.
+ 3Photo 19, Exhibit P5, Signal E.
+ 4Exhibit D3, paragraph 4.3(i); Appeal Bundle, page 458.
+ 5Exhibit D3, paragraph 4.45; Appeal Bundle, page 476.
+ 6Reasons for Verdict, paragraph 35; Appeal Bundle, pages 65S-66C.
+ 7Reasons for Verdict, paragraph 36; Appeal Bundle, page 66L.
+ 8Reasons for Verdict, paragraph 38; Appeal Bundle, page 67E.
+ 9Reasons for Verdict, paragraph 43; Appeal Bundle, page 69S-70C.
+ 10Reasons for Verdict, paragraphs 44-5; Appeal Bundle, age 70G-P.
+ 11The court directed that an Amended Perfected Grounds of Appeal be filed in the High Court within 7 days of this hearing.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

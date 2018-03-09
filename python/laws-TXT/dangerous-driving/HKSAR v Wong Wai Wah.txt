@@ -1,0 +1,210 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:39 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : HKSAR v Wong Wai Wah
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Wong Wai Wah
+9 June 2017 at 10:15 am
+District Court
+DC
+Criminal Case No 137 of 2017
+DCCC 137/2017
+
+Citations:[2017] HKEC 1307 English Judgment
+
+Presiding Judges: Judge E Yip
+
+Phrases: <Y<Criminal sentencing - dangerous >Y><Y< >Y><Y< driving - driving while disqualified - using motor vehicle without third party insurance - using motor vehicle failing to comply with safety glass or safety glazing regulations>Y>
+
+Counsel in the Case: Present: Mr Chung BOEY, Counsel on Fiat, for HKSARMr LAM King Pok Peter, of M/s Francis Kong & Co assigned by DLA for Defendant
+
+Cases cited in the judgment: HKSAR v Chau Lap Pui [2007] 2 HKC 342 
+HKSAR v Leung Ting Fung [2015] 1 HKC 290 
+HKSAR v Woo Chung Hung [2002] HKCU 606 
+HKSAR v Yeung Gang Shing [1997] HKCU 303/1997 
+R v Cheung Chi Man [1989] HKLR 88 
+R v Cooksley & Others [2004] 1 Cr App R (S) 1 
+Secretary for Justice v Poon Wing Kay & Another [2007] 1 HKC 289 
+HKSAR v Chau Lap Pui (unrep., CACC 358/2006, [2007] HKEC 307) 
+
+
+Judgment: 
+
+
+Judge E. Yip
+1. The Defendant pleads guilty to the following 4 charges: 
+
+<G<(a) Charge 1: Dangerous driving, contrary to section 37(1) of the Road Traffic Ordinance, Cap. 374;
+>G>
+<G<(b) Charge 2: Driving while disqualified, contrary to section 44(1)(b) of the Road Traffic Ordinance, Cap. 374;
+>G>
+(c) Charge 3: Using a motor vehicle without third party insurance, contrary to section 4(1) and (2)(a) of the Motor Vehicles Insurance (Third Party Risks) Ordinance, Cap. 272;
+
+<G<(d) Charge 4: Using a motor vehicle failing to comply with safety glass or safety glazing regulation, contrary to regulations 28(2) and 121(1) of the Road Traffic (Construction and Maintenance of Vehicles) Regulations, Cap. 374A.
+>G>
+
+
+<Y<Charge 1
+>Y>
+<Y<2. At around 3:14 a.m. on 21st December 2016, PC 60 was driving police car AM 8101 ("the Police Car") along Fanling Highway in Hong Kong towards Shatin with PC 5185 ("PW1") onboard. PW1 is a qualified operator of the ProVida 2000 system ("the System") and was operating the System onboard the Police Car at the material time. The System has a video camera that records the front of the Police Car and is used to calculate the speed of target vehicles. At the material time, it was raining lightly and the road surface was wet. There was sufficient lighting from street lamps. At around 3:15 a.m. of the same day, the Police Car was near Chainage 19.7A of Tolo Highway and PW1 saw a private car bearing registration mark RE 6430 ("V") cut from the third lane to the second lane and through the hatched area onto the first lane without signaling. The Police Car proceeded to follow V. When V reached Tai Po Tai Wo Road, where the speed limit was 50 km/h, the Police Car's flashing lights were turned on and PW1 through the loudspeaker ordered the driver of V, later known to be the Defendant, to slow down. The Defendant ignored the warnings and sped up to 80 km/h as indicated by the System. The Police gave chase and during the course of pursuit, PW1 observed the Defendant committing the following traffic violations, which were also captured by the System: 
+>Y>
+<Y<(a) He consistently drove V at around 80 to 100 km/h where the speed limits for the relevant roads were 50 km/h or 70 km/h;
+>Y>
+<Y<(b) He jumped a total of seven red lights. When he was jumping the red light at the junction between Tai Po Tai Wo Road and Po Heung Street, an unknown car travelling along Po Heung Street had to brake suddenly to avoid collision with V;
+>Y>
+<Y<(c) He cut between lanes twice without signaling;
+>Y>
+<Y<(d) He drove V against the direction of traffic for around 180 metres at the junction between Chung Nga Road and Ting Lai Road; and
+>Y>
+<Y<(e) He turned right onto Ting Kok Road where only left turns are permitted and drove against traffic for around 200 metres towards Block 1 of Tai Ping Industrial Centre ("the Centre").
+>Y>
+<Y<
+3. The Defendant then turned right into the car park of the Centre, alighted V and fled up the staircase of the Centre. V continued moving forward, collided with a metal gate and came to a halt. No damage was caused to the metal gate. Miss PANG Tsz-yan was found on board the front passenger seat of V and she stated that the Defendant was driving V at the material time.
+4. The police pursuit lasted for 3 minutes and a distance of 4.7 km.
+>Y>
+<Y<Charges 2 and 3
+>Y>
+<Y<5. The Defendant was disqualified from holding or obtaining a licence from 11th September 2015 to 10th September 2018. V was registered under the name of one Mr. NG Po-lam ("NG"). V's third party insurance policy did not have the Defendant listed as a named driver. The policy only covers drivers who hold a valid licence and are not disqualified from doing so.
+>Y>
+<Y<Charge 4
+>Y>
+<Y<6. Subsequently V was examined at Tai Lam Chung Vehicle Examination Centre and the front registration mark plate was found to be damaged, likely resulting from V's collision with the metal gate outside the Centre. Another mechanical defect was also found, where the offside rear window glass were adhered with dark plastic sheet that obscures the view of the interior of the motor vehicle whereby the ability of such safety glass or safety glazing to transmit light was decreased.
+>Y>
+<Y<Arrest and Cautioned Interview
+>Y>
+<Y<7. Police officers swept the area and at 4:56 a.m. of the same day, the Defendant was found hiding at the staircase between the 4th and 5th floor of the Centre. PW1 arrested the Defendant, who admitted under caution that he was driving without a licence and fled because he was scared.
+8. The Defendant was interviewed on the same day, during which he admitted, inter alia, the following: 
+>Y>
+<Y<(a) He borrowed V from NG in the afternoon on 20th December 2016. He lied to NG that he held a valid driving licence;
+>Y>
+<Y<(b) He had a learner's licence in 2011 but was disqualified from obtaining a driving licence in 2015. He had never obtained one since then;
+>Y>
+<Y<(c) He was driving V at the material time. He had driven over the hatched area on Tolo Highway as he realized he had taken the wrong way and immediately steered left to change paths;
+>Y>
+<Y<(d) He did not stop despite police warnings as he was driving without a licence and was scared of being arrested. He knew that he was driving against the direction of traffic at some points but he did not care and just wanted to flee; and
+>Y>
+<Y<(e) After he met a dead end at the Centre, he left the car and ran inside where he hid under a van inside the car park. He then hid at the staircase on the 4th floor.
+>Y>
+
+
+Sentencing considerations
+
+9. In R v. Cooksley & Others [2004] 1 Cr App R (S) 1 
+
+, a case of dangerous driving causing death, the English Court of Appeal identified a non-exhaustive list of factors relevant to sentence (at p 3 H7) as follows: 
+Highly culpable standard of driving at time of offence
+
+(a) the consumption of drugs (including legal medication known to cause drowsiness) or of alcohol, ranging from a couple of drinks to a 'motorised pub crawl'
+
+(b) greatly excessive speed; racing; competitive driving against another vehicle; 'showing off'
+
+(c) disregard of warnings from passengers
+
+(d) a prolonged, persistent and deliberate course of very bad driving 
+
+(e) aggressive driving (such as driving much too close to the vehicle in front, persistent inappropriate attempts to overtake, or cutting in after overtaking)
+
+(f) driving while the driver's attention is avoidably distracted, eg by reading or by use of a mobile phone (especially if hand-held)
+
+(g) driving when knowingly suffering from a medical condition which significantly impairs the offender's driving skills
+
+(h) driving when knowingly deprived of adequate sleep or rest
+
+(i) driving a poorly maintained or dangerously loaded vehicle, especially where this has been motivated by commercial concerns
+
+
+
+Driving habitually below acceptable standard
+
+(j) other offences committed at the same time, such as driving without ever having held a licence; driving while disqualified; driving without insurance; driving while a learner without supervision; taking a vehicle without consent; driving a stolen vehicle
+
+(k) previous convictions for motoring offences, particularly offences which involve bad driving or the consumption of excessive alcohol before driving
+
+
+(My emphasis underlined)
+
+10. The Court stated as a reminder as follows: It was important to appreciate that the significance of the factors could differ. There could be a case with three or more aggravating factors, which were not as serious as a case providing a bad example of one factor.
+
+
+11. The above observations are adopted by the Court of Appeal in Hong Kong in Secretary for Justice v Poon Wing Kay & Another [2007] 1 HKC 289 
+.
+12. I regard other aggravating factors as follows present from the facts before me: 
+
+(a) Speeding whilst it was slightly raining;
+
+(b) jumping the red lights at 7 junctures, one of which almost led to collision with a car;
+
+(c) driving against the traffic for 180 metres at one juncture;
+
+(d) turning right on a road where only left turns were permitted;
+
+(e) driving against the direction of traffic for around 200 metres at another juncture;
+
+(f) alighted from the motor vehicle to leave it moving with a passenger on board unattended, resulting in its collision with a metal gate before it stopped.
+
+
+
+Mitigation
+
+13. The Defendant is aged 47, of F. 1 education level. He was a mobile phone salesman before arrest. He is married.
+14. He had a lot of criminal and traffic records. Traffic records from 2011 (based on offence date) onwards included the following: 
+
+(1) crossing white line with broken white one x 1;
+
+(2) driving without a licence x 1;
+
+(3) Using vehicle without third party insurance x 6;
+
+(4) Speeding x 2;
+
+(5) Driving while disqualified x 5 (the last sentenced on 11/9/2015);
+
+(6) Dangerous driving x 2 (the last sentenced on 11/9/2015 and disqualification ordered for 11/9/2015 - 10/9/2018).
+
+
+15. He was also convicted by the District Court in DCCC 854/2016 on 8/5/2017 for possession of dangerous drugs, date of offence 11/4/2016. He is presently serving its sentence of 18 months imposed on 26/5/2017. I understand that the Defendant was on bail in DCCC 854/2016 when he committed the present offences on 21/12/2016. It is well-established that if a person commits an offence when he is already on bail for another offence is an aggravating factor in his sentence 1. The offence the subject of bail does not have to bear any semblance to the subsequent offences 2. As the logic goes, quite ironically, sentencing both cases together in my court appear to feature an aggravated sentence rather than a reduced sentence, though subject to totality considerations. His solicitor, Mr. Lam, previously applied to have a partly concurrent sentence between that case and the case before me by way of totality. However, upon second thought, notably of the risk of first having an aggravated sentence then to be left to totality adjustment, the Defendant now seeks to withdraw this application. In other words, I am to sentence him today without regard to that case.
+
+Sentencing this Defendant
+
+16. The statutory maximum sentence for dangerous driving is 3 years. The only saving grace in Charge 1 is the absence of anyone injured or major property damage. His appalling traffic records and his persistently irresponsible driving manner, his driving while disqualified (the subject-matter of Charge 2) and driving without third party insurance (the subject-matter of Charge 3) are matters of sufficient gravity for me to adopt a starting point of 2 years and 9 months. I have included driving while disqualified and driving without third party insurance in the computation of Charge 1 as these two factors are regarded as factors in aggravation of sentence according to Cooksley (above).
+17. The only mitigating factor is the timely plea of guilty. After the one-third discount, the sentence is 22 months for Charge 1.
+18. The circumstances of Charge 1 already canvass Charges 2 and 3 but I still need to spell out their individual computations. Each of Charges 2 and 3 warrants a basic starting point of 6 months. His repeat offending shall attract a more deterrent sentence. The actual starting point is 9 months. I give a one-third discount for his timely pleas of guilty. The sentence is 6 months for each of Charges 2 and 3.
+19. Charge 4 shall have a starting point of 3 weeks. I give a one-third discount for his timely plea of guilty. The sentence is 2 weeks.
+20. I make an order for all sentences to be concurrent. For his committing the present offences while on bail for the previous offence in DCCC 854/2016, I think it is against the Defendant's interest to make application to have both cases sentenced together by the same court.
+21. So far as disqualification is concerned, section 69A provides that a person sentenced to imprisonment for a "scheduled offence" (such as dangerous driving) in the case of a subsequent conviction within 5 years shall have his disqualification period commence only upon his completion of imprisonment. His last record was less than 5 years ago. I order disqualification for 3 years in Charge 1.
+22. I order disqualification for 1 year in Charge 3. This shall be concurrent with the disqualification period in Charge 1.
+23. I order disqualification for 3 years in Charge 2. For a subsequent conviction, the disqualification period is not less than 3 years. It is mandatory under section 44(3) of the Road Traffic Ordinance, Cap. 364, to have the disqualification period made in addition to any other disqualification period ordered under the same ordinance. This disqualification period shall be consecutive to that of Charges 1 and 3.
+ 1Cross and Cheung's Sentencing in Hong Kong, 7th ed., p. 5, citing R v Cheung Chi-man [1989] HKLR 88, 89 
+, HKSAR v Yeung Gang-shing [1997] HKCU 303/1997 
+, 
+HKSAR v Woo Chung-hung [2002] HKCU 606 
+, HKSAR v Leung Ting-fung [2015] 1 HKC 290 
+, HKSAR v Chau Lap-pui 
+[2007] 2 HKC 342 
+, 347
+ 2For example, in HKSAR v Chau Lap Pui CACC 358/2006 
+, the defendant's sentences for subsequent theft and burglary were aggravated, subject to totality of sentence, as he was already on bail for possession of a bottle of pepper spray without a licence
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

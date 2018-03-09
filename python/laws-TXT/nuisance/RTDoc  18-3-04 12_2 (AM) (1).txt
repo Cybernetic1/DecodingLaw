@@ -1,0 +1,365 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:02 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Cheung Yat Ping v Yip Tai Him
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Cheung Yat Ping v Yip Tai Him
+
+
+
+20 August 2015
+District Court
+DC
+Civil Action No 2259 of 2012
+DCCJ 2259/2012
+
+Citations:[2015] HKEC 1716 English Judgment
+
+Presiding Judges: Deputy Judge Brian Mak
+
+Phrases: <Y<Tort - negligence - nuisance - water seepage from premises to premises immediately below - whether former premises source of seepage>Y>
+
+Counsel in the Case: Mr Ivan Cheung, instructed by Wong & Lawyers for the 1st and 2nd plaintiffsMr Desmond Leung, instructed by Michael Li & Co for the 1st and 2nd defendants
+
+Cases cited in the judgment: 張秀玲 對 鄭禮莊 (unrep., CACV 268/1998) 
+Chung Che Shum & Another v Dong Sai Ming & Another (unrep., DCCJ 21504/2001, [2007] HKEC 329) 
+
+Hui Ling Ling v Sky Field Development Ltd (unrep., HCA 35/2007, [2012] HKEC 637) 
+
+Leung Yung Chun & Another v Chan Wing Sang & Others [2000] 1 HKLRD 456 
+
+
+Judgment: 
+
+
+Deputy Judge Brian Mak
+
+Introduction
+
+1. All too often, water leakage disputes arise between owners of adjoining upper and lower units of multi-storey buildings. Such disputes, if not resolved amicably, have proved to be a heavy burden to those involved. This case is no exception.
+
+The plaintiffs’ case
+
+2. The 1st and 2nd plaintiffs are the registered owners of Flats C and D, 33rd Floor, Tower 9, Tierra Verde, Tsing Yi, New Territories, Hong Kong ("Ps' premises").
+3. The 1st and 2nd defendants are the registered owners of Flat D, 35th Floor, Tower 9, Tierra Verde, Tsing Yi, New Territories, Hong Kong ("Ds' premises").
+4. As with many housing estates built in the last decade or so, the description of the floor levels is somewhat misleading. Ds' premises are in fact immediately above Ps' premises insofar as Flat D is concerned.
+5. On or about 15 July 2011, the plaintiffs found water was seeping from the floor slab of Ds' premises to the ceiling of the master bathroom of Ps' premises. By reason of the water seepage, the plaintiffs suspended the renovation that was undergoing at Ps' premises in order to avoid potential damage.
+6. It is the plaintiffs' case that the seeping water came from Ds' premises.
+7. The plaintiffs sought to establish liability against the defendants on the bases that the defendants were in breach of section E clause 7 of the Deed of Mutual Covenants; nuisance and negligence.
+
+The defendants’ case
+
+8. The defendants denied that Ds' premises were the source of the water seepage.
+9. The defendants further said that the water came from the external wall of the building.
+
+Legal principles
+
+10. There is no presumption that the source of the water seepage must be coming from the flat immediately above: see the speech of Leong, JA (as he then was) in 張秀玲 對 鄭禮莊 CACV 268/1998 
+, unreported, 9/4/1999 at p9.
+11. The onus of proof is on the plaintiff to establish, on a balance of probabilities, that the source of water was the defendant's flat: see Hui Ling Ling v Sky Field Development Ltd HCA 35/2007 
+, unreported, 8/5/2012 at para 23.
+12. It is not for the defendant to identify the source of the water leakage or to prove that its origin did not come from his property: see 張秀玲 (supra) at p9 and Hui Ling Ling (supra) at para 23.
+
+Issues
+
+13. The following issues are for determination by this trial :- 
+
+(a) Were Ds' premises the source of the water seepage;
+
+(b) If the source of the water seepage was Ds' premises, whether 
+
+(i) the defendants were in breach of section E clause 7 of the Deed of Mutual Covenants of Tierra Verde ("DMC")
+
+(ii) the defendants had cause a nuisance to the plaintiffs;
+
+(iii) the defendants were liable in negligence;
+
+(c) Whether an order for injunction ordering the defendants to repair the concrete ceiling slab of the plaintiffs' master bathroom ("MB") and guest bathroom ("GB") should be made;
+
+(d) If the answer to (c) above is positive, whether an order for indemnity for the plaintiffs' costs of and incidental to the repair should be made; and
+
+(e) what is the quantum of damage.
+
+
+
+Were Ds’ premises the source of the water seepage?
+
+14. The 1st plaintiff ("P1") first discovered the seepage of water at the ceiling of the MB of the Ps' premises. He saw brownish water droplets adhering to the ceiling. It should be noted that as part of the design of merging both Flat C and Flat D of Ps' premises into one unit, the plaintiffs had enlarged the MB. However, the area where water droplets were found still corresponded to the floor slab of the MB of Ds' premises.
+15. Complaints were lodged to the management office and the Joint Office of the Buildings Department and Food and Environmental Hygiene Department ("JO") respectively on 28 July 2011.
+16. The JO conducted colour water test at the Ds' premises on 26 September 2011. By a letter from the JO dated 15 November 2011, the JO reported that despite the said test, the source of the water seepage could not be identified.
+17. On 24 November 2011, the JO assigned Modern Testing Consultants Ltd ("MTC") to conduct further investigation.
+
+1st MTC Test
+
+18. On 6 December 2011, MTC conducted the following tests at the MB and GB of Ds' premises : 
+
+(1) fluorescein sodium ("FS") pond test to the floor of the MB;
+
+(2) FS pond test to the shower tray and its enclosing walls of MB;
+
+(3) brilliant scarlet 4R ("BS") pond test to the floor of GB; and
+
+(4) BS colour water test to the bathtub and its enclosing walls of GB.
+
+
+19. Based on the above tests, MTC concluded that leakage from the MB floor and the MB floor underneath the shower tray and its enclosing walls of Ds' premises was certain. From a sketch plan of Ps' premises showing the exact location of the seepage area prepared by MTC, it can be seen that the location of the dripping water at the ceiling of the plaintiffs' MB was within the area of FS colour dye detected on 10 January 2012.
+20. MTC also conducted moisture content check and concluded that leakage from water supply pipe and rainwater penetration from building envelope was uncertain.
+21. Mr Jacob Tsang ("Mr Tsang") of K & K Chartered Architect & Associates ("K & K") was engaged by the defendants as their expert in July 2012. In other words, when the tests were conducted by MTC, Mr Tsang was not present. Based on the information provided by the defendants, he made the following comments : 
+
+(1) only one type of dye was used for both the bathroom floor and shower ("Comment 1");
+
+(2) there was an overflow of dyed water to the wooden flooring of the master bedroom ("Comment 2"); and
+
+(3) the level of flooding was apparently above the top of the vertical floor drain ("Comment 3").
+
+
+22. In relation to Comment 1, Mr Tsang did not elaborate further in his evidence in court. I think the significance of using different dyed water in different areas of test is that the source of the leaking water can be readily identified. Here, only one type of dyed water was used for both the floor and the shower tray of the defendants' MB. Hence, there is no way to differentiate where did the dyed water come from.
+23. A lot had been said about Comment 2 and Comment 3 in court. Firstly, it is the 1st defendant's ("D1") evidence that the water level of the pond test was over 40 mm. Secondly, Mr Tsang said that MTC was departing from the standard procedures of Flooding/Ponding Test, which would only require a depth of 10-15 mm of colour water. The point Mr Tsang is making is demonstrated by a sketch he drew and annexed to the Joint Report as Annex C of Appendix V. By the said sketch, Mr Tsang estimated that the top of the vertical floor drain was 60-70 mm above the waterproofing membrane. The vertical edge of the waterproofing membrane would therefore be laid about the same height of the vertical floor drain. According to his sketch, the vertical floor drain, which is about 32-40 mm in diameter, was sitting on top of the cement sand screeding. Given that the water level of the pond test was 40 mm above the floor tiles and therefore was higher than the vertical waterproofing membrane, the colour water could permeate through the vertical wall and seep into the floor slab.
+24. The fallacy of Mr Tsang's theory is that all figures that he used are estimation only: the water level of 40 mm is D1's estimation, the height of the vertical edge of the waterproofing membrane and the diameter of the vertical floor drain are his own estimation. No actual measurement was made.
+25. In cross-examination, Mr Tsang was referred to the photograph of the vertical floor drain after the hacking off of the wall tiles. The picture showed that the vertical edge of the waterproofing membrane was way higher than the vertical floor drain. Mr Tsang agreed to the suggestion of Mr Cheung, counsel for the plaintiffs, that it was higher than 100 mm. Furthermore, Mr Tsang agreed to Mr Cheung's suggestion that the wall tiles are not water permeable. This factor had not been taken into account by Mr Tsang in his theory.
+26. For the above reasons, I do not think the challenge of Mr Tsang to the reliability of MTC's test bears fruit.
+27. Bearing in mind the fact that the location of the colour water coincided with the location of the dripping water, it is more likely than not that the pond test was not adversely affected by the alleged high level of the colour water. I accept that the conclusion drawn by MTC was reliable.
+28. But for the reasons hereinafter appearing, that is not the end of the matter.
+
+Nuisance Notice
+
+29. Based on the findings of MTC, the Food and Environmental Hygiene Department issued a Nuisance Notice to the 2nd defendant ("D2") on 24 May 2012, requiring her to repair the floor slab and the floor slab (including its enclosing walls) underneath the shower tray of the MB of Ds' premises.
+30. As a matter of fact, before the said Notice was issued, the defendants had engaged KS Construction Co ("KS") to repair waterproofing system of the shower tray and its enclosing walls of the MB of Ds' premises between 7 and 17 May 2012.
+
+Microwave Moisture Measuring Test
+
+31. On 18 July 2012, the defendants engaged Water Leakage & Concrete Spalling Detective ("WLCSD") to carry out a microwave moisture measuring test at Ds' premises.
+32. A total of 246 measurements were taken at the floors of the MB, the GB and the corridor, and also at the 4 walls of the MB, the GB and the corridor.
+33. From the combined pictures showing the moisture content at the respective sites, it can be seen that all the floors and walls had moisture content at varying degree. It should be noted that the shower tray area of the MB was dry.
+34. WLCSD concluded that there was water seepage through the external wall and migrated downward to the floor of the bathrooms and the internal corridor.
+35. Mr Andrew Kung ("Mr Kung"), the plaintiffs' expert, made the following criticisms: 
+
+(1) WLCSD is a non-HOKLAS (The Hong Kong Laboratory Accreditation Scheme) accredited laboratory ("Comment 4");
+
+(2) there was no mention of the details of the person who carried out the test including his qualification and experience ("Comment 5");
+
+(3) there was no mention of whether regular calibration of the equipment was carried out or not ("Comment 6");
+
+(4) there was no mention that whether the practice of taking 3 readings at each check point was adopted ("Comment 7"); and
+
+(5) whether reference reading was taken on the surface of the different finishing materials ("Comment 8").
+
+
+36. There is no counter-argument from Mr Tsang. He only said by way of reply that the management office ("MO") accepted his query to the integrity of the external walls so that further water tightness test on the external walls was done. WLCSD was not called to give evidence at the trial.
+37. In relation to Comment 4, HOKLAS is an accreditation scheme operated by Hong Kong Accreditation Service. The scheme is open to voluntary participation from any Hong Kong laboratory, proficiency testing provider and reference material producer: see the web site of Innovation and Technology Commission. Hence, the accreditation is not a mandatory requirement.
+38. In relation to Comment 5, it is apparent from the report that the test was conducted by WLCSD by the use of the equipment "Moist 200" and software "Moistanalyze". The person using the equipment, regardless of whether or not his name and qualification were disclosed in the report, must have possessed the know-how in conducting the test.
+39. Comment 6 to Comment 8 concern the way in which the test should be carried out. Although there was no mention of the steps taken by the person carrying out the test, there is no evidence to show that those steps were in fact not taken. Indeed, the steps suggested by Mr Kung are recommended practice only. There is no evidence before me that the non-taking of those steps would render the result of the test unacceptable.
+40. As noted above, the test shows that the area near the shower tray of the MB was found to be dry. It is consistent with the fact that the defendants had carried out repair to the waterproofing system of the shower tray and its enclosing walls in May 2012.
+41. For the above reasons, I do not think the criticisms of Mr Kung to the result of the microwave moisture measuring test are validly made.
+
+Building Inspection Report by K & K
+
+42. Though not legally obliged to do so, in July 2012, the defendants engaged K & K as their expert and to conduct an investigation to, inter alia, find out the cause of the water seepage.
+43. On 18 July 2012, 7 and 8 August 2012, K & K carried out inspection of the MB and the GB of Ds' premises. The inspection on 7 and 8 August 2012 were done after the removal of the wall and floor finishes and concrete whereby the piping of the MB was exposed.
+44. According the report of K & K, clear moisture was present at the floors and walls in the vicinity of external walls. The moisture content matches well with the measurement results by microwave equipment. The piping of the MB was found to be sound and had no leakage.
+45. On 10 August 2012, the MO carried a water spraying test on the external wall of the MB of Ds' premises. Moisture was noted shortly after the start of the test.
+46. Based on the reasons stated at paragraph 21 of this judgment, K & K doubted the accuracy of the MTC's test. Those challenges have already been dealt with at paragraphs 22 to 27 of this judgment.
+47. K & K considered the fact that during the time in August 2012 when the use of the MB of Ds' premises was suspended, there were still water droplets at the ceiling soffit of the MB and GB of Ps' premises. Coupled with finding of water seepage from the external wall, K & K formed the opinion that rainwater seepage was the cause of the water seepage to Ps' premises.
+48. Mr Kung, in addition to Comment 4 to Comment 8, made one further criticism, namely, that he doubted the uniform adoption of the reading of 3 as normal moisture index. He said it is the common practice of HOKLAS accredited laboratories to take a few check points where it is believed to be dry as a reference/benchmark for comparison purpose ("Comment 9").
+49. Again, Comment 9 is raised by reference to the recommended practice of HOKLAS.
+50. There is no evidence before me that the non-taking of such steps would render the result of the test unacceptable. In any event, the normal moisture index of 3 is set by the manufacturer of the equipment. There is no evidence that such index is inaccurate or unreliable.
+51. I do not find Mr Kung's criticisms of the Microwave Moisture Measuring Test have merits.
+52. In view of the observation of Mr Tsang that after the opening up of the wall and floor concrete of the MB of Ds' premises, moisture was seen in the vicinity of the external walls, and that at the time of the water spraying test, moisture was apparent shortly, I accept that the external wall is one of the sources of the water seepage.
+
+Repair of the floor slab of defendant’s master bathroom
+
+53. At the same time when K & K conducted its investigation, the defendants engaged KS to repair the floor slab of the MB and rebuilt the waterproofing system with skirting up to 100 mm in height.
+
+2nd MTC Test
+
+54. According to 2 letters from JO respectively dated 12 and 13 November 2012, JO inspected Ps' premises on 15 August 2012 and found that there was still water seepage at the bathroom.
+55. MTC was therefore instructed to conduct colour water test on the floor slab and the shower tray of the MB of Ds' premises between 12 September 2012 and 24 October 2012. This time, the test yielded negative result. This result is not challenged by the plaintiffs' expert.
+
+The argument over flushing water
+
+56. It is Mr Kung's opinion that leakage of flushing water had happened in Ds' MB and GB. His reasons are the following :- 
+
+(a) on 15 July 2011, Tracy of MO saw water on the floor between the bathtub and the floor drain of Ds' premises ("Reason 1");
+
+(b) on 21 July 2011, it was recorded that Ds employed a contractor to replace a flush water stop valve and ball valve ("Reason 2");
+
+(c) the MO in a letter to the plaintiffs dated 24 May 2012 disclosed that on 27 April 2012 the defendants said that they discovered water leakage from the flush water cistern of the MB and suspected that that was the cause of water leakage at Ps' premises ("Reason 3");
+
+(d) a quotation dated 17 April 2012 disclosed by the defendants showed that they had replaced the flushing water supply stop valve and ball valve of the flushing cistern of water closet at the MB ("Reason 4");
+
+(e) he has doubt that the contractor had actually carried out the repair work to the shower area of Ds' MB ("Reason 5"); and
+
+(f) 6 out of 9 concrete samples taken from the MB and the GB of Ps' premises were found to have high chloride content (exceeding 0.0496%). It shows that there had been leaking of flushing water in Ds' premises ("Reason 6").
+
+
+57. Mr Tsang's counter-argument is somewhat convoluted. His opinion can be summarized as follows :- 
+
+(a) the replacement of the flushing water stop valve and ball valve on 21 July 2011 was not because of leakage of flushing water but out of caution ("Response 1");
+
+(b) on 30 April 2012, Tracy of MO inspected the flushing cistern and water valve at the MB and confirmed that there was no leakage. The defendants later came to know that the water droplets were left by their domestic helper due to her carelessness ("Response 2");
+
+(c) before performing the chloride ion content test, background information about the external wall repair works done between November 2012 and March 2013 should be sought from the MO which are essential to the investigation to find out the cause of the water seepage ("Response 3");
+
+(d) the MO had carried out repair works on the portion of the external wall where there were private uPVC (sic) pipes supplying flushing water to the MB and GB of Ds' premises ("Response 4");
+
+(e) an abandoned pipe was accidentally broken during the course of the taking of concrete samples. The rust water from the pipe was not tested for chloride ion content. He was of the opinion that the pipe did not belong to Ds' premises ("Response 5");
+
+(f) in the course of the external wall repair, serious honeycombing was seen ("Response 6");
+
+(g) presence of abandoned pipe and honeycombing are regarded as latent defects ("Response 7");
+
+(h) the inspection on 22 August 2012 showed that only rust stain and hairline cracking of the concrete were noted ("Response 8");
+
+(i) the defendants purchased Ds' premises in April 2008. The possibility of there was bursting of flushing water before the defendants became owners cannot be excluded ("Response 9");
+
+(j) it is possible that in the course of the external wall repair works, damage was done to the embedded PVC private flushing water pipes which caused the leakage of flushing water into the concrete slab ("Response 10");
+
+(k) leaked flushing water can find its way along the abandoned pipe and honeycombing into the floor slab where high chloride content was found ("Response 11");
+
+(l) the tests carried out by the plaintiffs' expert on 30 July 2012, 7 and 22 August 2012 yielded negative results. It showed that there were other defective locations on the external walls through which rainwater found its way to Ps' premises ("Response 12"); and
+
+(m) if there had been continuous seepage of flushing water since July 2011, the extent of damage to the reinforced concrete would be much more substantial and widespread than it was found ("Response 13").
+
+
+58. From Reason 1 to Reason 5 and Response 1 to Response 2, it can be seen that both experts are indulging in an argument as to the state of mind of the defendants. With respect, this is not within the province of their expertise and they are not engaged to express opinion in this respect.
+59. During the trial, D1 was not cross-examined on the replacement of the flush water stop valve and ball valve in July 2011. He was only asked whether the obtaining of a quotation from Contemporary Home Services Centre ("CHSC") dated 17 April 2012 for the replacement of the flush water stop valve and ball valve was due to the fact that he discovered the water cistern in the MB had problem. To this question, D1 replied that it was not the case. At that time, he had already decided that the works would be carried out by KS. The quotation was only used to push KS to commence the works earlier. It should be noted that in the quotation of KS, no such replacement work was included.
+60. As a matter of fact, the invoice of CHSC shows that the replacement work undertaken in July 2011 was in respect of the GB of Ds' premises. It is not in dispute that the test carried out by MTC in December 2011 in relation to the GB yielded negative result. Mr Kung should not have overlooked this fact.
+61. Mr Kung also based on the quotation of CHSC dated 17 April 2012 and the subsequent repair works carried out by KS on 7 May 2012 came to the conclusion that there was a continuous leakage of flushing water for at least 20 days. In arriving at his conclusion, Mr Kung is assuming firstly that the quotation was proof of leakage of flushing water and secondly that KS might have carried out the items of work quoted by CHSC. The 2 assumptions obviously defy logic and cannot stand.
+62. Hence, there is not a shred of evidence showing that the defendants knew that there was water leakage from the flush water cistern of the MB and I so find.
+63. In his witness statement, P1 stated that on 2 May and 10 July 2012, Miss Chui of the MO used a device called salinometer to measure the salinity of the dripping water in the MB of Ps' premises. He was told by Miss Chui that the reading was over 20 and exceeded the maximum (which was 28) respectively. He was told that in general a reading of 5 could be regarded as salty. He considered that the salt water was coming from the MB of Ds' premises.
+64. No evidence was led on the methodology adopted by Miss Chui in testing the dripping water by the use of the device. Nor was there evidence about the device and the function thereof.
+65. In the absence of such evidence, I do not accept that a conclusion can be reached that salt water was seeping from the MB of Ds' premises to the MB of Ps'premises.
+66. At the trial, both experts expressed that they had no knowledge of the device of refractometer. Mr Tsang said that according to a search in the web and information gathered from the supplier, the device is used to measure the degree of concentration of the substance in the water but it cannot tell what the substance is.
+67. In any event, both experts were of the view that in order to determine whether the dripping water contained salt, the water should be tested by a laboratory.
+68. It was P1's evidence (at paragraph 126 of his witness statement) that before KS commenced rebuilding the waterproofing system of the floor of the MB of Ds' premises on 7 August 2012, the contractor (Mr Yung according to P1 and 勇哥 according to D1) used the salinometer provided by the MO to test the flushing water in the cistern of the MB of Ds' premises and the dripping water at the ceiling of the MB of Ps' premises. He was told that the flushing water gave a reading of about 3 to 4 whereas the dripping water gave a reading that exceeded the maximum. That being the case, leaving aside what was contained in the water, it is more likely than not that the dripping water was coming from a source other than the flushing water in the cistern of the MB of Ds' premises.
+69. To my mind, such possibility makes more sense as there is no evidence of leakage of flushing water in the MB of Ds' premises.
+70. Turning to the question of the presence of chloride in the concrete ceiling of Ps' MB and GB, both experts agreed that it was caused by flushing water. Once flushing water enters into the concrete, the chloride of salt water cannot be removed. The question remains, therefore, is at what point in time the concrete was contaminated by flushing water.
+71. It must be noted that the defendants are not the first hand owners of Ds' premises. According to the land search record, they became the owners thereof in February 2008, which was almost 8 years after the ownership by the first hand owners. Mr Tsang in Response 9 pointed out that it is possible that a burst of flushing water happened before the defendants became owners. At the trial, Mr Kung said he could not exclude the possibility that bursting of flushing water had happened before 2008, but adding that if chloride entered the concrete slab from 1999, the spalling of concrete would be much more serious.
+72. No evidence was adduced by either party as to the degree of concrete spalling against time.
+73. There is no evidence to prove that bursting of flushing water had happened after the defendants became owners of Ds' premises.
+74. In the absence of evidence on the duration of the contamination of the floor slab by flushing water and evidence of bursting of flushing water after the defendants became owners, the possibility of flushing water entering the floor slab before 2008 cannot be excluded. In the circumstances, I am not prepared to find on balance of probabilities that leakage of flushing water had happened during the time the defendants were owners of Ds' premises.
+
+Seepage of rain water from external wall
+
+75. Based on the negative test results of water spraying tests conducted by the MO on 11 May, 13 and 22 June 2012, Mr Kung was of the opinion that there was no sign or evidence of water leakage from the external wall. He was also of the opinion that the corrosion by rain water of the reinforcement bars would not be at such fast rate as it was.
+76. According to the record of the MO, the way they conducted the water spraying tests was to spray water on the external wall of the MB of Ds' premises and then inspect (presumably the ceiling of) the MB of Ps' premises afterwards.
+77. By contrast, the water spraying test conducted on 10 August 2012 was after the opening up of the floor slab and skirting of the MB of Ds' premises. This time, moisture was observed at the MB of Ds' premises shortly after the spraying of water on the external wall. After the said test, the MO acknowledged by its letter dated 18 August 2012 to the defendants that there was leakage of water of the external wall on the right side of the window.
+78. In arriving at his conclusion, Mr Kung was totally silent about this fact. In my view, this is where he has fallen into error.
+79. In any event, when cross-examined at the trial, Mr Kung rightly agreed that seepage through the external wall was one of the sources of seepage and that there might be more than one source of seepage.
+80. In the circumstances, it is obvious that seepage of rain water from the external wall was a source of water seepage to Ps' premises.
+
+Tests initiated by Ps’ expert
+
+81. For the purpose of finding out the exact cause or causes of water seepage, Mr Kung commissioned Fugro Technical Services Ltd to conduct the following tests : 
+
+(a) water spraying test to a section of the external wall of the MB and GB of Ds' premises and infrared moisture survey to the upper section of the wall and ceiling of the MB and the GB of Ps' premises and the lower section of the wall of the MB and the GB of Ds' premises on 30 July 2013;
+
+(b) fluorescent dye water leakage test to the floor and discharge pipe of the MB of Ds' premises between 7 and 22 August 2013;
+
+(c) on 27 August 2013, dye water test to the toilet and floor and water spraying test to the shower tray of the MB of Ds' premises. Infrared Thermographic Survey was conducted to the upper section of the wall and ceiling of the MB of Ps' premises.
+
+
+82. All of the above tests yielded negative results.
+83. Faced with such situation, Mr Kung still sought to argue that after 20 March 2013, "nearly all wall/floor joints of the Ds' master bathroom were newly covered up by either white colour or transparent sealant". He believed that the minor water leakage that he observed on 20 March 2013 "may be coming from Ds' master bathroom floor and/or shower area as the water leakage situation improved significantly with no works done at the external wall since mid March 2013 but there was sealant applied internally": see Mr Kung's opinion at para 6.1(g) of the joint experts' report. He theorized that "due to the development of cracks as a result of chloride attack, there was a possibility that the waterproofing layer might be damaged and that was the reason of water leakage during the first joint inspection on 20 March 2013". He further said "as the water leakage was not serious with no water dripping down for nearly an hour, as agreed by both experts, new sealants may seal up the tiny gaps on the floor of Ds' master bathroom and that may explain why the water leakage problem improved at the subsequent inspections": see para 6.3(e) of the joint experts' report.
+84. It seems that Mr Kung is developing his theory from a preset conclusion that the seepage of water must be coming from Ds' MB. That is so despite the fact that the waterproofing system of the shower tray and floor of the MB of Ds' premises were rebuilt in May and August 2012 respectively and the test carried out by MTC on 12 September 2012 had yield negative result. Particularly, I find Mr Kung's theory that the new waterproofing layer was possibly damaged by the development of cracks as a result of chloride attack too far-fetched and without foundation.
+85. In relation to the application of the sealant at the defendants' MB, D1 said in cross-examination that it was done by himself. At the time of his doing so, he was not informed that further tests would be done in his premises. He denied that it was done because he knew that his premises were the source of the water seepage.
+86. From the photographs taken at the MB of Ds' premises on 30 July 2013, the sealant was obviously applied in an amateurish manner. The continuity of the sealant was broken at places. Underneath the cabinet, the sealant was applied to the surface of the tiles rather than the edges. More importantly, the sealant was only applied to the joints of the walls, the shower tray and at the base of the toilet. No sealant was applied to the joints of the floor tiles. If the purpose of the sealant was to stop water on the floor from seeping down to the lower floor, it is bound to fail.
+
+87. In my view, the argument of Mr Kung is unsustainable. In putting forward his argument, he is on the verge of stepping into the arena by acting as the advocate of the plaintiffs, which, of course, is against paragraph 4 of the Code of Conduct of expert witnesses in Appendix E of the Rules of the District Court, which states : "An expert witness is not an advocate for a party."
+
+
+Analysis of evidence and conclusion
+
+88. After considering all of the above evidence, test results and opinion of the expert from both sides, I am satisfied that there are two possible sources of water seepage, namely, 
+
+(1) the floor slab and the floor slab underneath the shower tray (including its enclosing walls) of the MB of Ds' premises; and
+
+(2) the external wall of the building.
+
+
+89. However, the question remains whether or not the dripping water at the ceiling of the MB of Ps' premises originated from Ds' MB.
+90. Indeed the floor slab and the floor slab underneath the shower tray and its enclosing walls have weakness through which water can penetrate. However, it does not necessarily follow that the dripping water found at the ceiling of the defendants' MB must have originated from Ds' MB. This is particularly so because after the defendants rebuilt the waterproofing system of the shower tray and its enclosing walls in May 2012 and the floor in August 2012, the water seepage still persisted.
+91. It is not in dispute that the pond test carried out by MTC in September 2012 confirmed that no fault could be found in the waterproofing system of the MB of Ds' premises.
+92. In such situation, the dripping water must have come from another source.
+93. It is the plaintiffs' case that the dripping water, which was salty, originated from the flushing water from the defendants' MB.
+94. To this premise, it must first be noted that there is no evidence to prove that the dripping water was salty. The reading of the salinometer or refractometer, according to the research of Mr Tsang, was an indication of the degree of concentration of the substance (not necessarily chloride) in the water.
+95. Although it is common ground that the chloride content in the concrete of the floor slab was caused by flushing water, it does not follow that there was a leakage of flushing water during the ownership of Ds' premises by the defendants.
+96. Finally, the testing of the flushing water in the defendants' MB and the dripping water at the ceiling of the plaintiffs' MB by KS on 7 August 2012 by salinometer showed that they did not share the same characteristic in terms of the concentration of the substance therein contained.
+97. For the foregoing reasons, I come to the view that the flushing water from Ds' premises was unlikely to be the source of water seepage in Ps' MB.
+98. Bearing in mind that the burden is on the plaintiffs to prove on balance of probabilities that the water seepage originated from Ds' premises, I am unable to find that the plaintiffs have discharged the burden.
+
+Whether the defendants (i) were in breach of the DMC; (ii) had caused a nuisance to the plaintiffs; or (iii) liable in negligence?
+
+99. Given my findings at paragraphs 97 and 98 of this judgment, the answers to the above questions must be in the negative.
+
+Whether an order for injunction ordering the defendants to repair the concrete ceiling slab of the plaintiffs’ MB and GB should be made?
+If so, whether an order for indemnity for the plaintiffs’ costs of and incidental to the repair should be made?
+
+100. Likewise, given my findings at paragraphs 97 and 98 of this judgment, the answers to these 2 questions are both in the negative.
+101. As the plaintiffs are asking for an order for the demolition (hacking in the plaintiffs' terminology) and re-casting of the concrete floor slab of the MB of Ds' premises, I need to say a few words on this matter.
+102. Mr Kung was of the view that due to the high chloride content in the floor slab which exceeded the amount permitted under Buildings (Construction) Regulations, demolition of the existing concrete slab affected by chloride and re-casting is the only permanent solution. Under cross-examination, he said that there was no imminent danger but the corrosion of the steel bars would develop quickly.
+103. On the other hand, Mr Tsang was of the view that the repair works by exposing the rusted steel bar, removing the rust on the steel bars and protecting them by anti-rust paint and patching up with repair mortars would be sufficient. He added that demolition and re-casting of the floor slab would cause a great deal of nuisance.
+104. As a matter of fact, the steel bars at the ceiling of the plaintiffs' MB were not exposed for examination by both experts. All they can see (as shown by photographs) was a hairline crack with no spalling of concrete and a straight line of rust colour on the surface of the ceiling. There was argument between the 2 experts as to the cause of colour of rust.
+105. Against that background, it seems to me that the way of repair as suggested by Mr Kung is too drastic and without foundation. I would prefer the way of repair as suggested by Mr Tsang as being more reasonable and appropriate.
+
+What is the quantum of damage?
+
+106. For the sake of completeness, I would also deal with the question of quantum.
+
+Loss of rental and/or loss of enjoyment of Ps’ premises
+
+107. Originally, the plaintiffs and their son lived in Flat C of Ps' premises. The plaintiffs acquired Flat D of Ps' premises in 2003 which was then rented out until 2007. After the tenant moved out in May 2007, the plaintiffs decided to merge the 2 units into a conjoint unit.
+108. In the meantime, the plaintiffs and their son acquired another conjoint unit at Tower 5 of the same housing estate in January 2010.
+109. On 26 April 2011, P1 entered into a contract with Altec Design & Decoration Co. for the renovation of Ps' premises. The renovation works commenced on 28 April 2011 and it was expected to complete on 30 September 2011.
+110. One month after the discovery of the water seepage, all renovation works of Ps' premises were suspended. The reasons for suspending the renovation works, according to the son of the plaintiffs, Mr Cheung Wing Him, are : 
+
+(a) avoidance of damages to the completed works in Ps' premises by subsequent works, including the remedial works to be carried out in the MB;
+
+(b) if the family moved in after the completion of the renovation of the other parts of Ps' premises, the subsequent demolition and re-casting of the concrete slab and renovation of the MB would cause nuisance and health hazards to them.
+
+
+111. By reason of the suspension of the renovation works, the plaintiffs will need to engage another contractor at added costs in order to complete the remaining works.
+112. I can see the need that during the currency of the water seepage in the MB, the renovation works thereof should be suspended.
+113. However, I can see no justification for suspending the renovation of the other parts of Ps' premises which were not affected by the seepage. If subsequent remedial works were to be done to the MB, adequate protective measures could of course be taken. Unavoidably, the daily life of all those residing in the premises would be disturbed to a certain extent. But suspending all the renovation works pending the remedial works of the MB is, in my view, tantamount to putting the cart before the horse. The anticipation of health hazards when the remedial works are done, in my view, is too far-fetched.
+114. For this reason, there is no justification for the plaintiffs to suspend the renovation works and therefore the defendants should not be liable for the decision of the plaintiffs to call off the renovation which would result in extra costs being incurred.
+115. That being the case, the plaintiffs are not deprived of the use or enjoyment of Ps' premises before remedial works are done to the MB. The plaintiffs are therefore entitled to damages for inconvenience as opposed to the loss of enjoyment of the premises.
+116. Bearing in mind that the MB of Ps' premises is functional even without renovation, inconvenience would be caused to the plaintiffs before the remedial works.
+117. In Leung Yung Chun & Another v Chan Wing Sang & Others [2000] 1 HKLRD 456 
+, one of the plaintiffs' bedrooms suffered serious leakage problem which extended to the corridor and 2 other bedrooms. The problem lasted for 20 months. The plaintiffs were awarded $80,000 on damages for inconvenience.
+118. In Chung Chi Shum & Another v Dong Sai Ming Fernando & Another DCCJ 21504/2001 
+, 15/2/2007, unreported, both the master and guest bathrooms suffered water leakage problems which lasted for 2 years. An award of $80,000 was made under the same head.
+119. Compared with the circumstances of the two cases, the inconvenience that would have caused to the plaintiffs is in my view far less serious.
+120. Therefore, the appropriate award under this head would be $30,000.
+
+Conclusion and Order
+
+121. By reasons of the foregoing, the plaintiffs' claim against the defendants is dismissed.
+
+Costs
+
+122. Costs should follow the event. I make an order nisi that the plaintiffs shall pay the defendants costs of this action with certificate for counsel, to be taxed if not agreed.
+123. The order nisi shall become absolute in the absence of an application to vary the same within 14 days from the date of this judgment.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

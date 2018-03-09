@@ -1,0 +1,704 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 03 March, 2018 at 23:57 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Lam Kit Yee v Lam Shuk Lam
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Lam Kit Yee v Lam Shuk Lam
+
+
+
+10 March 2017
+District Court
+DC
+Civil Action No 3115 of 2011
+DCCJ 3115/2011
+
+Citations:[2017] HKEC 474 English Judgment
+
+Presiding Judges: Deputy Judge Lawrence Ng
+
+Phrases: <Y<Tort - negligence - nuisance - water seepage from premises to presmises immediately below - whether owners of former premises liable
+Damages - assessment - water seepage from premises to presmises immediately below>Y>
+
+Counsel in the Case: Mr Alexander Cheung, instructed by Philip S W Chan & Co, for the plaintiffMs Priscilla Tsang, instructed by Chan, Lau & Wai, for the defendants
+
+Cases cited in the judgment: Moorjani v Durban Estates Ltd [2016] 1 WLR 2265 
+The Ikarian Reefer [1993] 2 Ll Rep 68 
+Cheng Chi Wing & Others v Ho Shu Wah & Another (unrep., DCCJ 2370/2005, [2007] HKEC 1367) 
+
+Cosmos Legal Consultant Ltd v Skycherry Development Ltd (unrep., DCCJ 2548/2009, [2013] HKEC 741) 
+
+Earle v Charalambous [2007] HLR 8 
+
+Hong Kong Air Cargo Terminals Ltd v Commissioner of Rating and Valuation [2004] 2 HKLRD 702 
+
+Hui Ling Chun v Shiu Mak Ying & Another (unrep., DCCJ 10294/2001, [2004] HKEC 286) 
+
+Hui Ling Ling v Sky Field Development Ltd (unrep., HCA 35/2007, [2012] HKEC 637) 
+
+Larbons Ltd v Kuo You Weaving Factory Ltd (unrep., DCCJ 934/2006, [2007] HKEC 1378) 
+
+Lau Ting Hang v Leung Chi Wing (unrep., DCCJ 6539/2005, [2008] HKEC 271) 
+
+Let's Go Investment Ltd v Yeung Sau Hing (unrep., CACV 16/2006, [2007] HKEC 436) 
+
+Leung Yung Chun v Chan Wing Sang [2000] 1 HKLRD 456 
+
+Re Estate of Kung Nina (unrep., HCAP 8/2007, [2010] HKEC 156) 
+
+Tang Ping Choi v Secretary for Transport [2004] 2 HKLRD 284 
+
+Three Rivers DC v Bank of England [2003] 2 AC 1 
+
+Wong Hon Hung v Jolly Birds Ltd (unrep., DCCJ 5341/2006, [2008] HKEC 1072) 
+
+Wong Ping Chun v Giant King Corp Ltd (unrep., DCCJ 4020/2012, [2016] HKEC 623) 
+
+Yan Wing Fai Rick v Century One Ltd (unrep., DCCJ 2773/2009, [2011] HKEC 167) 
+
+
+Judgment: 
+
+
+Deputy Judge Lawrence Ng
+
+A. INTRODUCTION
+
+<Y<1. This is a water seepage case involving two units of a multi-story building known as Tower 1, The Astoria, No 198 Argyle Street, Kowloon, Hong Kong ("the Building"). The plaintiff is the registered owner of Flat A on the 6th Floor ("Flat 6A") of the Building whilst the defendants are the registered owners of the flat immediately above ("Flat 7A").
+2. The occupation permit of the Building was issued on 14 June 1991. It is common ground that both Flat 7A and Flat 6A are subject to a Deed of Mutual Covenant registered in the Land Registry by Memorial No 4995394 ("the DMC"). Clause 13 of Section IV of the DMC provides that:- "Each owner shall maintain in good repair and condition his Unit to the satisfaction of the Manager and in such manner as to avoid any loss, damage, nuisance or annoyance to the Owners or occupiers of any other part or parts of the Building".
+3. The saleable area of each of Flat 7A and Flat 6A is about 923 square feet. Each of Flat 7A and Flat 6A has a living/dining room, a master bedroom with master bathroom, two bedrooms and a guest bathroom.
+4. The plaintiff became the registered owner of Flat 6A on 9 August 2010 and has been living at Flat 6A with her parents shortly after 9 August 2010.
+5. The defendants are an elderly married couple who are and were at all material times living at Flat 7A.
+6. On 15 August 2011, the plaintiff commenced the present action against the defendants claiming damages for water seepage. She claims that the defendants are liable to her for breach of Clause 13 of Section IV of the DMC and in nuisance and negligence. The plaintiff also claims for a mandatory and prohibitory injunction.
+7. The particulars of the plaintiff's claim can be summarised as follows 1 :- 
+>Y>
+<Y<(1) In or about December 2010, water was found emerging along the foot of the walls in the dining room, corridor, and the wall in the master bedroom near the master bathroom of Flat 6A;
+>Y>
+<Y<(2) In or about early January 2011, water was found emerging from underneath the bathtub in the master bathroom of Flat 6A;
+>Y>
+<Y<(3) In or about mid-January 2011, water was found emerging from the ceiling in the master bathroom of Flat 6A;
+>Y>
+<Y<(4) In or around mid-March 2011, sewage was found emerging from the master bathroom and walls of the dining room of Flat 6A;
+>Y>
+<Y<(5) On or about 19 October 2011, water was found to seep through a branch waste pipe connecting to the outlet of vertical floor drain in the master bathroom of Flat 7A to the skirting of the living room of Flat 6A;
+>Y>
+<Y<(6) On or around 19 July 2012, water was found to seep through the floor slab underneath the bathtub and its enclosing walls in the guest bathroom of Flat 7A to the ceilings and walls of Flat 6A; and
+>Y>
+<Y<(7) On or around 16 August 2012, water was found to seep through the floor slab underneath the bathtub and its enclosing walls in the guest bathroom of Flat 7A to the ceilings and walls of Flat 6A.
+>Y>
+<Y<
+8. The defence denies that any water seepage had occurred in Flat 6A. Further or alternatively, if any water seepage had occurred in Flat 6A, the defence case is that 2 :- 
+>Y>
+<Y<(1) Water seepage was caused by water emanating and/or otherwise originating from the fresh water pipes of Flat 6A, including those concealed in the walls in the master bathroom of Flat 6A at a position between the water heater and the faucet of the bathtub, and/or from the rims of the bathtub in the master bathroom, and/or from the drainage pipe fittings of the bathtub in the master bathroom;
+>Y>
+<Y<(2) As a result of such water seepage, water accumulated in the floor recess underneath the bathtub in the master bathroom of Flat 6A;
+>Y>
+<Y<(3) The water which had thus accumulated seeped along the floor slab of the master bedroom of Flat 6A into other parts of Flat 6A, thereby causing seepage to the areas of Flat 6A set out in §§7(1), (2) and (4) of the Amended Statement of Claim;
+>Y>
+<Y<(4) As regards water seepage at the ceiling in the master bedroom of Flat 6A, water did not emanate or otherwise originate from Flat 7A; and
+>Y>
+<Y<(5) Moreover, there was dilapidation in the external wall of Flat 6A and Flat 7A which may have caused and/or contributed to the water seepage in the ceilings of Flat 6A.
+>Y>
+<Y<
+9. As agreed between the parties in the Joint Statement of Issues in Dispute dated 12 November 2015, the main issues in dispute in this case are: (1) whether any water seepage at Flat 6A originated from Flat 7A or from other sources; (2) insofar as the water seepage originated from Flat 7A, the period during which Flat 6A was affected by the water seepage, and whether such seepage has already cased and, if so, when? (3) whether the defendants are liable to the plaintiff for negligence, nuisance and breach of the DMC; and insofar as the defendants are held liable, what loss and damage the plaintiff has suffered as a result of the water seepage, and whether the plaintiff has properly mitigated the loss and damage?
+10. Some of these issues overlap to a large extent and where appropriate they will be dealt with together.>Y>
+
+B. LEGAL PRINCIPLES APPLICABLE TO WATER SEEPAGE CASES
+
+11. The following principles apply to water seepage cases. Firstly, causation is a question of fact: Three Rivers DC v Bank of England [2003] 2 AC 1 
+, at 194B-C per Lord Steyn. Secondly, in water seepage cases, there is no presumption that the source of the water must come from the flat above. The plaintiff has to establish, on a balance of probability, that the source of water was the defendant's flat. Thirdly, the defendant has no obligation to find out or identify the source of the water seepage or to prove that its origin did not come from his property. See: Leung Yung Chun v Chan Wing Sang [2000] 1 HKLRD 456 
+, at 461 I-J per Cheung J (as he then was); Hui Ling Chun v Shiu Mak Ying & Another DCCJ 10294/2001 
+(unreported, 3/3/2004), at §2 per HH Judge Marlene Ng; Wong Ping Chun v Giant King Corporation Limited DCCJ 4020/2012 
+(unreported, 16/3/2016), at §14 per DDJ Phillis Loh.
+
+C. BACKGROUND AND MATERIAL FACTS NOT IN DISPUTE
+
+12. The following material facts, which are taken from documentary and unchallenged evidence, are not in dispute.
+13. Since about December 2010, the plaintiff discovered that water was emerging along the foot of the walls in the dining room, corridor, and the wall in the master bedroom near the master bathroom of Flat 6A. Since early January 2011, the plaintiff discovered that water was emerging from underneath the bathtub in the master bathroom and the ceiling in the master bathroom of Flat 6A. Since about March 2011, the plaintiff further discovered that water was emerging from the master bathroom and the walls of the dining room of Flat 6A. Since about mid-March 2011, the plaintiff also noticed foul smell in the master bathroom of Flat 6A.
+14. On 11 April 2011, a blue dye test was conducted by a Mr Poon, a plumber, to the flushing cistern of the toilets in Flat 7A. On 16 April 2011, the plaintiff found blue colour water underneath the bathtub in the master bathroom of Flat 6A.
+15. On 21 April 2011, an orange dye test was conducted by Mr Poon to the flushing cistern of the toilets in Flat 7A. On 24 April 2011, the plaintiff found yellowish orange colour seeped out at the foot of the wall in the dining room in Flat 6A. Meanwhile, a Mr Kong of the Management Office of the Building ("the MO") reported the water seepage in Flat 6A to the Joint Office of the Buildings Department/Food and Environmental Hygiene Department Joint Office (respectively "the Joint Office", "the BD" and "the FEHD").
+16. Pausing here, I note that the orange dye test conducted in Flat 7A on 21 April 2011 and the discovery of water seepage in Flat 6A on 24 April 2011 were referred to in the following documents:- 
+
+(1) Firstly, in the Survey Report prepared by Great East Asia Surveyors & Consultants Co Ltd ("GEA") dated 30 April 2011 ("GEA's Report") (see below), it is stated that:- "On 21st April 2011, the Management Office arranged a technician to carry out the dye test on [Flat 7A]. Yellow colour water was found on the floor of the Dining room (near the Bathroom) [of Flat 6A] after two days".
+
+(2) Secondly, in the email from the plaintiff to the defendants dated 22 July 2011, the plaintiff stated that:- " plumber Mr. Poon had applied orange dyes & blue dyes in your washroom, both come out in my dining room & washroom a few days after application under the surveillance of the Customer Service of Astoria in end Apr. I am sure you are aware of the results "
+
+ The defendants did not reply to this email.
+
+(3) Thirdly, it is stated in the letter from the Joint Office to the plaintiff's solicitors dated 18 September 2015 that on 21 April 2011, a Mr. Kong of the MO reported the water seepage in Flat 6A to the Joint Office.
+
+
+17. In April 2011, the plaintiff engaged GEA to assess the damage caused by the water seepage to Flat 6A. On 30 April 2011, GEA prepared the GEA's Report.
+18. On 12 August 2011, the FEHD inspected Flat 6A and found two seepage areas in Flat 6A, namely, at the ceiling in the master bedroom and the gap between the wood parquet tile and wall edge near the guest bathroom. The moisture content at the ceiling in the master bedroom was found to be above 35%. On the same day, the FEHD conducted colour water test in all the drainage outlets in the master bathroom, guest bathroom and kitchen of Flat 7A.
+19. On 15 August 2011, the plaintiff issued the writ in this action with the statement of claim.
+20. On 19 August 2011, the FEHD visited Flat 6A. The plaintiff submitted tissue and cardboard which were stained with colour to FEHD for analysis. According to the plaintiff, the samples were collected from the gap between the wood parquet tile and wall edge near the guest bathroom.
+21. On 31 August 2011, the FEHD visited Flat 6A again. The plaintiff's mother submitted 2 bags of cardboard with pink colour to FEHD for analysis. According to the plaintiff's mother, the cardboards were collected from the gap between the wood parquet tile and wall edge near the guest bathroom.
+22. According to the government laboratory reports respectively dated 9 and 14 September 2011, colour water was found in the samples submitted by the plaintiff and the plaintiff's mother, which indicated that the floor drain in the master bedroom of Flat 7A was defective causing dampness at the gap between the wood parquet tile and wall edge near the guest bathroom of Flat 6A.
+23. On 14 September 2011, the FEHD visited Flat 6A again for a review of the colour water test. The moisture content at the ceiling in the master bathroom of Flat 6A was found to be above 35% and colour stain was detected on the bottle traps on the external walls of 7/F. The plaintiff submitted samples which she said were collected from the gap between the wood parquet tile and wall edge near the guest bathroom to FEHD for analysis.
+24. On 6 October 2011, the plaintiff engaged Hong Kong Building Inspection & Structural Diagnostic Ltd ("HKBISDL") to inspect Flat 6A. On 10 January 2012, HKBISDL prepared a water seepage report on Flat 6A.
+25. On 8 October 2011, the defendants engaged Wong Shun Tai, Stewart of Proficient Surveyors & Co ("Mr Wong") to inspect Flat 7A and Flat 6A. He conducted a green dye test to the floor and floor drain of the guest toilet and a bluish brown dye test to the basin, toilet bowl and bathtub in the master bathroom of Flat 7A but did not conduct any dye test on Flat 6A. He also measured the moisture content of the ceiling and walls in the master bathroom of Flat 6A. On 11 November 2011, Mr Wong prepared a survey report ("Mr Wong's Survey Report") in which he opined that water leaked from the fresh water pipes concealed in the walls in the master bathroom of Flat 6A at a position between the water heater and the faucet of the bathtub, that water accumulated in the floor recess underneath the bathtub of the master bedroom of Flat 6A and that water seeped along the floor slab of master bathroom to reach the timber flooring outside the guest bathroom of Flat 6A. I shall have more to say about Mr Wong's opinion contained in this survey report when I analyse his opinion contained in the Joint Report dated 11 August 2015 ("the Joint Report") (see Section E below).
+26. On 17 October 2011, the FEHD visited Flat 6A again and found that the moisture content at the ceiling in the master bathroom of Flat 6A was below 35%. The plaintiff submitted to FEHD tissue and paper samples which she claimed were collected from the gap between the wood parquet tile and wall edge near the guest bathroom for analysis as suspected fluorescent colour was detected on the cement between the tiles in the guest bathroom of Flat 6A.
+27. On 19 October 2011, the FEHD served a Nuisance Notice on the defendants ("the 1st Nuisance Notice"), stating that the nuisance was "water seepage through the branch waste pipe connecting to the outlet of vertical floor drain in the master bathroom at [Flat 7A] to the skirting of living room of [Flat 6A]." The defendants were demanded to repair satisfactorily the branch waste pipe connecting to the outlet of vertical floor drain in the master bathroom of Flat 7A within 14 days.
+28. It is the defendants' case that upon receiving the 1st Nuisance Notice, they blocked the branch waste pipe in the master bathroom of Flat 7A.
+29. On 16 November 2011, the FEHD visited Flat 7A and found that the floor drain in the master bathroom of Flat 7A was blocked and the Nuisance Notice complied with.
+30. On 24 November 2011, the FEHD visited Flat 6A again and found that the moisture content at the gap between wood parquet tile and lower portion of wall near guest bathroom of Flat 6A was above 35%. On 15 December 2011, considering the persistence of the water seepage, the FEHD referred the matter to the BD for Stage III professional investigation.
+31. For the purpose of Stage III professional investigation, the Joint Office engaged Multiple Surveyors Ltd ("MSL") to conduct various tests on Flat 7A and Flat 6A. At the visual inspection/initial investigation stage on 7 January and 16 February 2012 respectively, MSL noted that the condition of seepage was consistently all day long at the ceiling of master bathroom and guest bathroom and the wall of living room of Flat 6A and that the moisture content at the ceiling in master bathroom and wall of living room of Flat 6A was above 35%. After the visual inspection/initial investigation, MSL recommended to proceed with further investigation. As part of the further investigation, on 9 March 2012, MSL conducted the following tests on Flat 7A:- 
+
+(1) Water ponding test with acid red ("AR") dye applied to the bathtub and its enclosing walls of master bathroom;
+
+(2) Water ponding test with fluorescent sodium ("FS") dye applied to bathtub and its enclosing walls of guest bathroom; and
+
+(3) Water ponding test with brilliant scarlet ("BS") dye applied to the floor slab of the guest bathroom.
+
+
+32. Based on the above tests, MSL prepared an Inspection Report dated 15 May 2012 ("MSL's Inspection Report"). In MSL's Inspection Report, it is stated that MSL observed FS at the wall of the living room of Flat 6A on 9 and 10 March, 3 and 27 April 2012 and at the ceiling in the master bathroom of Flat 6A on 3 and 27 April 2012. MSL concluded that the source of leakage was from the floor underneath the bathtub and its enclosing walls in the guest bathroom of Flat 7A and that it was not likely that the leakage was due to water supply pipe leakage or rain water leakage. Photos Nos 13 to 24 attached to MSL's Inspection Report 3 are particularly helpful as they clearly show the florescent effect of FS dye under UV light at the wall of the living room and the ceiling in the master bathroom of Flat 6A on the dates specified above. MSL recommended the Joint Office to issue an advisory letter to the owners of Flat 7A to abate the seepage nuisance.
+33. On or about 4 March 2012, the plaintiff and her parents moved out of Flat 6A. Since 21 April 2012, water supply to Flat 6A had been suspended.
+34. On 19 July 2012, based on the recommendation of the BD, the FEHD served a 2nd Nuisance Notice on the defendants, stating that the nuisance was "water seepage through the floor slab underneath bathtub and its enclosing walls in the guest bathroom of [Flat 7A] to the ceilings and walls of [Flat 6A]". The defendants were demanded to repair satisfactorily the floor slab underneath the bathtub and its enclosing walls in the guest bathroom of Flat 7A "by suitably maintaining and providing well-protected water proofing material to the said floor slab and walls to prevent water seepage to [Flat 6A]" within 21 days. 4 It should be noted that the 2nd Nuisance Notice alluded to the absence of water proofing material at the floor slab and walls of the guest bathroom of Flat 7A as being the reason for the water seepage. Although the 2nd Nuisance did not specify what "ceilings and walls" in Flat 6A were being referred to, judging from MSL"s Report which the Joint Office must have relied on, it is reasonable to infer that the "walls" referred to was the wall of the living room of Flat 6A and that the "ceilings" referred to was the "ceiling" of the master bathroom of Flat 6A.
+35. It is the defendants' case that upon receiving the 2nd Nuisance Notice, they engaged a contractor to cover the floor slab of the guest bathroom of Flat 7A and apply water-proof material at around the bath tub rims. Similar work was done to the master bathroom of Flat 7A.
+36. On 25 September 2012, the FEHD visited Flat 6A again and found that the moisture content of the seepage areas were below 35%. However, the plaintiff reported that a new seepage area at Flat 6A, which was located at the lower portion of the wall in the passageway near the guest bathroom, the moisture content of which was above 35%. On the same day, the FEHD also visited Flat 7A and found signs of repair on the floor slab underneath the bathtub of the guest bathroom.
+37. On 2 November 2012, the FEHD visited Flat 6A and confirmed that the moisture content of the affected areas was below 35%. Thus, the Revised 2nd Nuisance Notice was found to have been complied with.
+38. On 6 November 2012, the Joint Office sent a final reply letter to the plaintiff and the defendants which were in substantially identical terms. In the letter, the Joint Office (1) referred to the Revised 2nd Nuisance Notice whereby the defendants were demanded to repair satisfactorily the floor slab underneath the bathtub and its enclosing walls in the guest bathroom of Flat 7A; (2) stated that it had visited Flat 6A and found that the moisture content of the seepage areas were below 35%; however since there was a new seepage area located at the lower portion of the wall in the passageway near the guest bedroom, the moisture content of which was above 35%, the Joint Office would need to engage a consultant company for further investigation; and (3) stated that on 2 November 2012 it visited Flat 6A again and found that the moisture content of the affected areas were below 35% and thus the Revised 2nd Nuisance Notice had been complied with.
+
+D. THE FACTUAL EVIDENCE
+
+39. In the present case, the plaintiff and the defendants' son-in-law gave evidence. As with most water seepage cases, the factual evidence of the witnesses is largely irrelevant to the cause(s) of water seepage, which is largely a matter of expert evidence. It is for the court to decide as a matter of fact the causes(s) of water seepage after hearing and considering the expert evidence. However, I have borne in mind their factual evidence if and in so far as it is relevant to the issue of liability. I have also taken into account their evidence in assessing the quantum of the plaintiff's claim (see Section G below).
+
+E. THE EXPERT EVIDENCE
+
+40. On 27 February 2015, Master D. To ordered by consent, inter alia, that:- 
+
+(1) The expert evidence in relation to liability and quantum of damages is to be limited to one expert for each party on the question of the cause(s) of any alleged water leakage and the costs of rectifying/repairing (within a reasonable time according to the opinion of the parties' experts) any damage allegedly caused as a result thereof. The expert nominated by the plaintiff is Mr. Andi Hau Tung Chow ("Mr Hau") and the expert nominated by the defendants is Mr Wong;
+
+(2) The experts are to give their opinion on the following specific issues:- 
+
+(a) Whether any of the alleged particulars of damage to Flat 6A was caused by water leakage which originated from Flat 7A?
+
+(b) Whether the water leakage was originated from the fresh water pipes concealed in the walls in the master bathroom of Flat 6A at a position between the water heater and the faucet of the bathtub?
+
+(c) In relation to (a) above, if any of the alleged particulars of damage to Flat 6A was caused by alleged water leakage which originated from Flat 7A, what is the extent of damage caused by any such alleged water leakage and the extent of the respective appropriate remedial work(s) to rectify/repair any such alleged damaged and costs of such work(s) in accordance with sub-paragraph 1 hereinabove?
+
+(d) In relation to (c) above, what is the estimated reasonable time for completion of each of such appropriate remedial work(s), if any?
+
+(3) The joint inspection(s), testing and examination(s) of Flat 7A and Flat 6A by the parties shall be conducted at mutually agreed times on or before 18 April 2015;
+
+(4) On or before 13 June 2015, the parties' respective experts are to prepare a written and signed join expert report.
+
+
+41. Pursuant to Master D To's order aforesaid, on 18 April 2015, the parties' respective experts carried out a joint inspection and conducted various tests on Flat 7A and Flat 6A. On 16 May 2015, the parties' respective experts returned to Flat 7A and Flat 6A for further inspection. They prepared the Joint Report on 11 August 2015 ("the Joint Report"). The parties' respective experts gave evidence at trial and their evidence was tested by cross-examination.
+
+E.1. Duties of an expert witness
+
+42. Before examining the expert evidence, it is useful to be reminded of the duties of an expert witness.
+
+43. The Code of Conduct for Expert Witness (Appendix E to the Rules of District Court, Cap 336H) provides inter alia that:- 
+"General duty to Court 
+
+2. An expert witness has an overriding duty to help the Court impartially and independently on matters relevant to the expert's area of expertise.
+
+3. An expert witness's paramount duty is to the Court and not to the person from whom the expert has received instructions or by whom he is paid.
+
+4. An expert witness is not an advocate for a party.
+
+
+
+
+
+Form of expert reports 
+
+8. A report by an expert witness must (in the body of the report or in an annexure) specify- 
+
+(a) the person's qualifications as an expert;
+
+(b) the facts, matters and assumptions on which the opinions in the report are based (a letter of instructions may be annexed);
+
+(c) the reasons for each opinion expressed;
+
+(d) if applicable, that a particular question or issue falls outside his field of expertise;
+
+(e) any literature or other materials utilized in support of the opinions; and
+
+(f) any examinations, tests or other investigations on which he has relied, and the identity and details of the qualifications of the person who carried them out.
+
+9. If an expert witness who prepares a report believes that it may be incomplete or inaccurate without some qualification, that qualification must be stated in the report.
+
+"
+
+
+
+
+44. The common law duties of an expert witness were elaborated in the case law including The Ikarian Reefer [1993] 2 Ll Rep 68 
+; Tang Ping Choi v Secretary for Transport [2004] 2 HKLRD 284 
+; Hong Kong Air Cargo Terminals Ltd v Commissioner of Rating and Valuation [2004] 2 HKLRD 702 
+; Chinachem Charitable Foundation Ltd v Chan Chun Chung HCAP 8/2010 
+(unreported, 2 February 2010), §§483 to 493, 498 and 500.
+45. In analysing the expert evidence in this case, I found the following principles as being most important (Chinachem Charitable Foundation Ltd v Chan Chun Chung, supra, at §§483 to 493, 498 and 500 per Lam J (as he then was)):- 
+
+483. " one of the important criteria that the court adopt in testing the reliability of the evidence of an expert is his impartiality and due observance of his overriding duty to the court. Though judges may not be as well qualified as experts in the areas of the latter's experience, we are experienced and well trained in detecting partisan and biased witnesses (both in respect of ordinary factual witnesses and expert witnesses)
+
+484. An expert should not advance an argument or use a piece of information or data to support his opinion unless he is professionally convinced of the validity of the argument or the appropriateness of the use of that supporting material
+
+485.  what the court wishes to hear is the expert's own independent professional opinion on the topic instead of a biased view constructed and put forward for the purpose of advancing a party's case
+
+486.  the court is vigilant in ensuring that the integrity of the legal process would not be tainted by evidence of an expert who put a party's interest above his professional duty to the court. If it can be shown that a party persistently adopted a stance which he himself had difficulty in sustaining, most of the time this is the hallmark of the expert's failure to adhere to the duty of independence.
+
+487.  Very often, the most telling indicia of the professionalism and impartiality of an expert witness is how he deals with his weakest point under cross-examination. In Best Origin, I have set out what this court expects from an expert witness when he is faced with his own mistake after he produced his report. Instead of keeping silent and hoping that the point would not be discovered, he should correct it on his own volition as soon as possible.
+
+491.  Unfortunately, there are occasions  where some experts jumped straight to a defensive mode instead of adopting a 'step-back and look' approach in considering the other side's arguments. In so doing, I am afraid that such expert is abandoning his impartiality and neglecting his overriding duty to the court.
+
+498. Paragraph 8(c) of the Code of Conduct requires an expert witness to set out the reasons for his opinion in his report. The purpose is to inform the court and the other parties the reasoning process of the expert witness Unless an expert set out in his report his reasons for arriving at his opinion in a matter that is comprehensible to a layman, the report would not of be much use to the court "
+
+
+
+
+46. With these principles in mind, I now proceed to consider the expert's evidence in this case.
+
+E.2. Evidence of the plaintiff’s expert
+
+47. Mr Hau is a Registered Professional Surveyor (Building Surveying) under the Surveyors Registration Ordinance (Cap 417), a Registered Inspector (Surveyor) under the Buildings Ordinance (Cap 123) and a Registered Professional Engineer under the Engineers Registration Ordinance (Cap 409). He is a member of the Hong Kong Institute of Surveyors and the Hong Kong Institute of Engineers. He is also a Chartered Surveyor (UK) and a member of the Royal Institution of Chartered Surveyors (UK), Chartered Institute of Building (UK) and Institution of Civil Engineers (UK). He obtained a master degree in project management and a master degree in business administration. He has given evidence as an expert in court in many cases and his expertise was not challenged by the defendants.
+48. Mr Hau conducted a dye water ponding test to the floor of the bathrooms and the sanitary fitments of Flat 7A. Purple colour was used for the ponding test on the floor of the guest bathroom whilst red colour was used for the ponding test on the floor in the master bathroom of Flat 7A. Visual inspection was done, and moisture content and infrared scan were taken at the ceiling in the guest bathroom, the master bathroom and the lower part of the walls of the living room adjacent to the guest bathroom of Flat 6A both before and after the dye water ponding test.
+49. Based on his test results, Mr Hau came to the following inter alia conclusions:- 
+
+(1) After the ponding test was conducted, no dramatic change of the moisture content at the ceiling in the guest bathroom of Flat 6A was observed;
+
+(2) During the ponding test at the bathrooms of Flat 7A (purple and red colours), huge amount of dye water was found leaking through the pipe sleeve and external wall of Flat 7A;
+
+(3) Red dye stains were found in the tissue paper left by Mr Wong as checkpoint at the skirting (lower portion) of the wall between the living room and the guest bathroom of Flat 6A by both experts. Due to the suspected failure of the water proofing layer in Flat 7A, water might have migrated into the interior of Flat 6A somewhere via the floor slab and the walls between the 2 toilets;
+
+(4) Upon the ponding test at Flat 7A, the moisture content at the ceiling in the master bathroom of Flat 6A increased drastically. 5 Whilst before the ponding test all the checkpoints at the ceiling in the master bathroom of Flat 6A had moisture content below 35%, after the ponding test 5 of the checkpoints had moisture content of over 35%, namely, 40.2%, 38.2%, 44.4%, 50.9% and 40.5% respectively;
+
+(5) Judging from the location and condition of the water seepage, damage caused to the wall skirting of the living room, corridor and bedroom of Flat 6A was unlikely caused by external weathering; and
+
+(6) Water seepage in Flat 6A is very likely caused by the failure of the waterproofing system at Flat 7A, as a result of which water penetrated through the concrete floor slab of Flat 7A. As a result, water seeped through the porous substrate and penetrated into Flat 6A.
+
+
+
+E.3. Evidence of the defendants’ expert
+
+50. On the other hand, although his firm is called "Proficient Surveyors Ltd" and he also styled himself as a water leakage surveyor, Mr Wong did not possess any of the professional qualifications which Mr Hau possesses. He is not a registered professional surveyor under the laws of Hong Kong nor is he a member of the Hong Kong Institute of Surveyors. His qualification given in the Survey Report (2011) is not exactly the same as that given in the Joint Report (2015). 
+
+(1) In the Joint Report, 6 it is stated that he is a member of the "Chartered Australian Institute of Building". This is different from the description in the defendants' closing, where it is stated that he is a member of the "Australian Institution of Building Engineer". 7 It appears that the correct name of the institution is "Australian Institute of Building" and that the word "chartered" does not appear in the name of the institution. This qualification does not appear in Mr Wong's Survey Report.
+
+(2) In the Joint Report, it is also stated that he is a member of the "Chartered Association of Building Engineer". This qualification does not appear in Mr Wong's Survey Report.
+
+(3) In the defendant's closing, it is stated that he is a member of the "Society of Operation Engineer", whilst the correct name appears to be "Society of Operations Engineers". This qualification does not appear in the Joint Report or Mr Wong's Survey Report.
+
+
+51. It is unclear how the above qualifications are relevant to water seepage investigation.
+52. In the defendants' closing, 8 it is asserted that the qualifications set out §§50(1) and (3) above have reciprocal recognition agreement with the Hong Kong Institute of Engineers and that the qualification under §50(2) above has reciprocal recognition agreement with the Royal Institute of Chartered Surveyors. However, the fact remains that Mr Wong is not a member of the Hong Kong Institute of Engineers or the Royal Institution of Chartered Surveyors. He said in evidence that due to his work nature, he did not see the need to apply to become a member of the local professional bodies. I find this surprising given the adverse judicial comments by the learned judges of the Court of First Instance and the District Court on his qualification, competence and performance as an expert witness (see below).
+53. Mr Wong conducted a "flow meter" test to the fresh water pipes of Flat 6A, a dye water ponding test to the floor of the bathrooms of Flat 6A and a dye water test to the sanitary fitments of the bathrooms of Flat 6A. Green colour was used for the ponding test on the floor of the guest bathroom whilst red colour was used for the ponding test on the floor in the master bathroom of Flat 6A. Visual inspection was done, and moisture content and infrared scan were taken at the ceiling and walls of Flat 6A.
+54. Based on his test findings, Mr Wong came to the following inter alai conclusions:- 
+
+(1) Generally, no significant change in the moisture content at the ceiling in the master bathroom of Flat 6A was observed after the dye water ponding test;
+
+(2) During the due water test to the floor of the guest bathroom of Flat 6A, green dye colour was found seeping through the threshold and base of walls to dampen the timber flooring on the corridor and living room outside the guest bathroom of Flat 6A. This indicates failed waterproofing work in the guest bathroom of Flat 6A and that the source of water seepage was within Flat 6A itself;
+
+(3) The red dye stains found in the tissue paper left at the timber flooring in the living room as check points was due to red dye from the dye water ponding test conducted on the floor of the master bathroom of Flat 6A;
+
+(4) There was no sufficient evidence to prove that the origin of the water seepage in Flat 6A was Flat 7A; self-water seepage in Flat 6A was to be blamed.
+
+
+55. Mr Cheung, counsel for the plaintiff, drew my attention to the following cases in which adverse judicial comments have been made on the qualification, competence and performance of Mr Wong as an expert witness.
+56. Firstly, in Hui Ling Chun v Shiu Mak Ying and Choi Chun Hoi DCCJ 10294/2001 
+(unreported, 3/3/2004), HH Judge Marlene Ng made the following observations in respect of Mr Wong:- 
+
+28. "Wong styled himself as damage surveyor, engineer, loss adjuster, claim assessor, investigator and appraiser and gave his qualifications and experience as follows:- 
+
+(a) associate member (Wong's 1st Report) or member (Wong's 2nd and 3rd Reports) or founding member since 1999 (Wong's viva voce evidence) of Chief Engineers Association (Construction and Maintenance);
+
+(b) C member (Wong's 1st Report) or association member (Wong's 2nd Report) or member (Wong's 3rd Report) of American Society of Appraisers, a United States association dealing with assessment of damages and appraising value of properties, which he joined 5 years ago;
+
+(c) member of the Institute of Professional Investigators (UK), which membership was recognised as indication of investigatory professionalism (mostly in relation to settlement of claims) within the United Kingdom, European Economic Community and other overseas countries (including Hong Kong);
+
+(d) member of Hong Kong Concrete Repair Association;
+
+(e) registered professional investigator (UK);
+
+(f) competent person certified under section 14(2) of the Factories and Industrial Undertakings (Confined Spaces) Regulations, Cap 59 (about 2 years ago);
+
+(g) certificate in professional management training for plumbing engineering (about 7-8 years ago) by The Institute of Plumbing Hong Kong Council, which became independent from its United Kingdom counterpart after 1997;
+
+(h) certificate in concrete repairs by the Construction Industry Training Association ("CITA") (about 3 years ago); and
+
+(i) certificate in concrete waterproofing and leakage repairs by CITA (about 3-4 years ago).
+
+29. Wong said he had carried out investigating, surveying, and assessing loss in respect of water leakage and damage to premises for more than 1,500 to 2,000 water leakage claims over 18-20 years. He has also acted and been accepted as expert witness in court hearings in the Small Claims Tribunal, Lands Tribunal, District Court and High Court. Before Wong formed Proficient in 1994, he worked at an insurance company and as part-time surveyor with Kingsley Sit & Associates (from 1979) dealing mainly in claims settlement. He said about 60% of his portfolio of work related to water leakage claims. Proficient's business also related mainly to water leakage claims and resultant damage to property.
+
+30. Although Wong styled himself as a surveyor, he is not registered with the Surveyors Registration Board under the Surveyors Registration Ordinance Cap 141 and is not a member of the Hong Kong Institute of Surveyors ("HKIS") established by The Hong Kong Institute of Surveyors Ordinance Cap 1148. He admitted that he did not know much about the Surveyors Registration Ordinance. Wong also agreed that members of Chief Engineers Association are not registered engineers but have overseas recognition (but he did not say what that was).
+
+31. Lee had never heard of the Institute of Professional Investigators (UK). He understood Hong Kong Concrete Repair Association to be merely a trade union. Further, CITA's courses were short-term 20-30 hour courses with no entry requirements or examinations, and were targeted at construction industry workers. CITA only gave out attendance certificates.
+
+
+
+34. Although Ms Wong, counsel for D, did not challenge the expert capacity of Wong, I agree with her that Wong's qualifications and experience are relevant in assessing the weight of his evidence.   The various institutions of which he is a member have no statutory recognition in Hong Kong and their membership requirements are unknown. It is unknown whether American Society of Appraisers is concerned with expertise in investigating causes of water leakage in contra-distinction to damage appraisal and other forms of damage to property. More significantly, Wong is not a registered engineer although he is said to be a member of Chief Engineers Association. The identity of the registration body in respect of his qualification as registered professional investigator in the United Kingdom is unknown. It appears from the evidence that Wong's experience was gained mainly in relation to claims settlement, property damage appraisal and loss adjustment. I have reservations as to his ability to speak reliably on expert investigation into the causes of water leakage. Such concern is reflected in some contradictory and speculative aspects of his evidence seen below."
+
+
+
+
+57. Secondly, in Hui Ling Ling v Sky Field Development Limited HCA 35/2007 
+(unreported, 8/5/2012), Recorder Yuen SC agreed with HH Judge Marlene Ng's comments in Hui Ling Chun and found such observations remained valid as at the date of the trial in Hui Ling Ling notwithstanding the lapse of time between 2004 and the date of the trial in Hui Ling Ling. The learned Recorder further made the following observations in respect of Mr Wong:- 
+
+40. "Although the above comments were made by Her Honour District Judge Marlene Ng in 2004, I respectfully agree and find such observations remain valid as at the date of this trial notwithstanding the lapse of time between 2004 and the date of the trial. As reviewed by the answers he gave when cross-examined on his qualifications by counsel for the defendant, it is apparent that Wong's qualifications had not been materially improved since 2004. Most importantly, it remained the fact that Wong was at all material times not a registered or chartered engineer, nor was he a registered or chartered surveyor (especially in the context of building survey).
+
+41. The ways in which Wong conducted various tests for the purpose of this action also caused this court to have considerable reservations on the expertise of Wong (for example, the conduct of the pressurized water tests and the taking of samples from the P's Flat, which will be discussed below). Besides, exaggerations aside, many of the observations made by Wong were no more than bare assertions without detailed or solid reasons or analysis. Amongst others, as noted above, two of the reasons given by Wong concerned fresh water. However, as will be discussed below, fresh water could not possibly be the source of water causing the water leakage problem. Nevertheless, Wong failed to analyze the situation and did not give any explanations.
+
+42. On the whole, I would not rule that Wong's evidence is inadmissible on the ground that Wong was not qualified to be an expert for the purpose of this case. It cannot be gainsaid that Wong handled numerous water leakage cases and was very diligent in attending various courses relating to construction or engineering (although their relevance to water leakage is not readily apparent).
+
+43. However, without disrespect to Wong, I have serious reservations about the reliability of his evidence (whether as contained in his two reports or his oral testimony in court). On the other hand, I have no doubt about the expertise and qualification of Chan (and indeed no challenge was made by the plaintiff). Besides, having heard Chan gave evidence at this trial and having considered his evidence against the other available materials, I found him a credible and reliable expert witness. Unlike Wong who on occasions tried hard to put forward answers to support his case when plainly the answers cannot withstand scrutiny, Chan frankly admitted his inability to answer questions posed to him when matters are beyond his knowledge. In the circumstances, to the extent there are conflicts between Wong's evidence and Chan's evidence, I would prefer that of Chan and reject that of Wong."
+
+
+
+
+58. Thirdly, and more recently, in Wong Ping Chun v Giant King Corporation Limited DCCJ 4020/2012 
+(unreported, 16/3/2016), DDJ Phillis Loh had the following to say about Mr Wong as an expert witness (at §§52-56 and 84):- 
+
+52. "D's expert Wong gave evidence that he has experience in investigating, advising and commenting on more than 3000 water leakage cases. He has given evidence as an expert in court in more than 100 cases, in most of which cases his evidence as a water leakage expert was accepted. His capacity as a water leakage expert is not challenged by P.
+
+53. It is not clear what academic qualification Wong has; it is set out in his lengthy CV that he has completed some certificate and diploma courses in building, fraud examination, investigation and forensic science, waterproofing and repairs, concrete repairs, legal studies, etc.
+
+54. He is member of a long list of professional affiliates, including the Royal Chartered The Australian Institute of Building and the Chartered Association of Building Engineer, UK. When asked whether he is a registered or chartered surveyor or engineer, he answered that his professional qualifications are equivalent to these qualifications.
+
+55. It was put to Wong under cross-examination that his status as an expert was doubted by the court in previous cases, eg HHJ Marlene Ng (as she then was) in Hui Ling Chun v Shiu Mak Ying and Choi Chun Hoi DCCJ 10294/2001 (unreported, 3 March 2004), and Recorder Yuen SC in Hui Ling Ling (supra). He answered that he has gained further experience and qualifications since the dates of these judgments given in 2004 and 2012.
+
+56. Leaving aside the question of academic and professional qualifications, and even accepting his evidence of profound experience as a water leakage expert, and that he now possesses qualifications equivalent to those of a registered or chartered surveyor or engineer, I find the evidence of Wong unreliable given his approach in investigating the water leakage in the present case, and in view of the contradictory and speculative comments and conclusions he made.
+
+
+
+84. Wong does not come across as an objective and neutral witness. His evidence is biased, and tainted with contradiction and speculation. I find that I cannot safely reply on his opinions and his conclusions on the infer0red scanning readings which were, as argued by P's counsel Mr Fong, apparently taken in the absence of P's expert, contrary to the court's directions. I am afraid the negative comments and criticisms made by the court in Hui Ling Chun (supra) and Hui Ling Ling (supra) of Wong's evidence as an expert remain valid."
+
+
+
+
+59. On the other hand, Ms Tsang, counsel for the defendants, drew my attention to Yan Wing Fai Rick & Another v Century One Limited DCCJ 2773/2009 
+(unreported, 2/2/2011) where DDJ Harold Leong (as he then was) accepted Mr Wong's expert evidence on the cause of water seepage and observed (at §45) that "adducing expert evidence in court is not a battle of CVs".
+60. Whilst each case must be decided on its own facts, and I am not in any way bound by the observations of the learned Judges of the Court of First Instance and the District Court on the qualification, competence and performance of Mr Wong as an expert witness, I have borne in mind the judicial comments in the above cases. However, the principles which guided me in assessing expert evidence in this case are those set out in Section E.1 above.
+
+E.4. Analysis of the expert evidence in this case
+
+61. I will analyse the experts' evidence in this case under the following areas: (1) moisture content at the ceilings in the master bathroom of Flat 6A; (2) Mr Wong's evidence regarding the MSL's Report; (3) Red dye stains found in the tissue paper left by Mr Wong at the skirting (lower portion) of the wall between the living room and guest bathroom of Flat 6A as checkpoints for the dye water ponding test; (4) Dye water ponding test conducted by Mr Wong to the floor of the guest bathroom of Flat 6A; (5) the "flow meter" test conducted by Mr Wong to the fresh water pipes of Flat 6A.
+
+E.4.1. Moisture content at the ceilings in the master bathroom of Flat 6A
+
+62. In my view, Mr Wong's evidence in this respect is unconvincing and contradictory in many ways. On the one hand, in cross-examination, he accepted that the standard level of moisture content is 35%. He also accepted that that is the standard which the FEHD/BD has adopted. As noted above, the Joint Office has always adopted 35% as the standard level. However, Mr Wong's protimeter (moisture meter) does not adopt 35% as the standard level. In the Joint Report, Mr Wong is silent as to the standard level which his protimeter adopts. The moisture contents at the ceiling in the master bathroom of Flat 6A measured by Mr Wong's protimeter were between 44.6% and 77.3% before the dye water ponding test and were between 51.5% and 82.2% after the dye water ponding test. However, since Mr Wong did not give any standard level for his protimeter, the readings measured by his protimeter are of little if any help. It was only in cross-examination that Mr Wong alleged that his protimeter adopted a standard level of 70%. But this is a bare allegation not substantiated by any documentary evidence. It is unclear why Mr Wong would use a protimeter which adopts a standard level different from the one adopted by the FEHD/BD. It is unhelpful, to say the least.
+63. Mr Wong's allegation that his protimeter adopts a standard level of 70% also appears to be contradicted by the operating manual of his protimeter. 9 According to the operating manual, Mr Wong's protimeter is designed to check the moisture level of wood, concrete, and other non-wood material. It gives a moisture range of 6% to 40% in wood and a relative moisture value of 0% to 100% for concrete and other non-wood material. Contrary to Mr Wong's allegation, nowhere in the operating manual is it stated that the standard level of the moisture content is 70%. Mr Wong also alleged that the protimeter used by the FEHD/BD is designed to measure the moisture content in wood and his protimeter was used to measure the moisture content for concrete and therefore his readings would have to be converted to those for taking moisture content in wood. But Mr Wong was wholly unable to tell the Court how the conversion was to be done.
+64. Furthermore, and more importantly, in cross-examination, it was suggested to Mr Wong that the readings of the moisture content at the ceilings in the master bathroom of Flat 6A 10 were all wrong because they were not readings of the ceilings in the master bathroom of Flat 6A at all, but were in fact readings of an entirely different location, ie, the foot of the walls. It is clear that Mr Wong's readings before the dye water ponding test were taken from Photos Nos 00105-0014 11 and that his readings after the dye water ponding test were taken from Photos Nos 00305-00314 12 . But it is also clear that these photos are not taken of the ceilings in the master bathroom of Flat 6A at all but were taken of the foot of the walls of Flat 6A. Therefore, Mr Wong's readings as set out at §5.2.1 of the Joint Report 13 were all demonstrably wrong.
+65. With due respect to Mr Wong, I regret to say that his evidence in regard to this aspect is contradictory and unreliable. Under cross-examination Mr Wong not only did not correct the mistake on his own volition, initially he even denied that his readings were wrong. Then, after Photos Nos 00105-0014, 14 which were taken of the foot of the walls of Flat 6A, were shown to him, Mr Wong even alleged that the heading at §5.2.1 of the Joint Report did not state that his readings were taken of the ceilings in the master bathroom of Flat 6A. This allegation is flatly contradicted by the heading of §5.2.1 of the Joint Report itself, which is in these terms: "Moisture - Ceiling - Master Bathroom - '6/F. A'".
+66. It was only towards the end of this part of his cross-examination that Mr Wong finally admitted that his readings set out in §5.2.1 of the Joint Report 15 were all wrong. 16 He then produced a set of revised readings which was admitted at trial as Exhibit D5. 17 According to the revised readings, some of the checkpoints had moisture content of over 70% after the dye water ponding test was conducted, such as checkpoint Nos 8 and 10 which had moisture content of 85.5% and 84.2% respectively. When asked about whether these results were indicative of water seepage, Mr Wong contradicted his earlier evidence and alleged that even 70% is not the standard. Mr Wong's allegation is also contradicted by the defendants' submission in their closing 18 that according to Mr Wong's protimeter, "a reading from 70 to 100 is within the range of high moisture content".
+67. The way that Mr Wong responded to the questions asked of him in cross-examination shows that he all along held a biased view which was constructed and put forward for advancing the defendants' position. He jumped straight to the defensive mode instead of adopting a "step-back and look" approach. He persistently adopted a stance which he himself had difficulty in sustaining. Mr Wong's evidence in regard to this aspect does not inspire confidence as to the accuracy and reliability of his opinion. I have no hesitation in rejecting his evidence that there was no significant change in the moisture content at the ceilings in the master bathroom of Flat 6A after the dye water ponding test was conducted on Flat 7A.
+68. On the other hand, Mr Hau opined that upon the dye water ponding test conducted on Flat 7A, the moisture content at the ceiling in the master bathroom of Flat 6A increased dramatically. Mr Hau's opinion is supported by the moisture content readings taken by him at the ceiling in the master bathroom of Flat 6A. 19 His test results are consistent with the inspection conducted on Flat 6A by the FEHD on 12 August 2011, who found inter alia that the moisture content at the ceiling in the master bathroom of Flat 6A exceeded 35%. I have no hesitation in accepting Mr Hau's evidence in this regard and found that upon the dye water ponding test conducted on Flat 7A, the moisture content at the ceiling in the master bathroom of Flat 6A increased dramatically.
+
+E.4.2. Mr Wong’s evidence regarding the MSL’s Report
+
+69. I find Mr Wong's evidence regarding the MSL's Report most unsatisfactory. For example:- 
+
+(1) When Mr Wong was asked whether he agreed with the conclusion reached in MSL's Report, that there was "leakage from floor at underneath of bathtub and its enclosing walls in guest bathroom" of Flat 7A, he gave non-committal or evasive answer, that he needed additional information before he could arrive at such a conclusion. But he was unable to say what additional information he needed; and
+
+(2) When he was shown Photos Nos 13 to 24 in MSL's Inspection Report, 20 which show the florescent effect of FS dye under UV light at the wall of the living room and the ceiling in the master bathroom of Flat 6A, Mr Wong said that the florescent effect was not caused by the dye reacting to the UV light but was caused by the structure of the material reacting to the UV light. This allegation never appears in Mr Wong's Survey Report or the Joint Report. It appears to have been made up by Mr Wong in an attempt to cast doubt on the validity of the conclusion reached in MSL's Report because such conclusion is contrary to the defendants' case. Mr Wong's allegation also does not make sense because if it were true, the tests conducted by MSL would be rendered meaningless.
+
+
+
+E.4.3. Red dye stains found in the tissue paper left by Mr Wong at the skirting (lower portion) of the wall between the living room and guest bathroom of Flat 6A as checkpoints for the dye ponding test
+
+70. During the joint inspection on 18 April 2015, Mr Wong left some tissue paper at the skirting (lower portion) of the wall between the living room and guest bathroom of Flat 6A as checkpoints for the dye water ponding test. In the second joint inspection on 16 May 2015, both experts found red dye stains in the tissue paper.
+71. According to Mr Wong, red dye could have emanated from the floor in the master bathroom of Flat 6A to reach the timber flooring in the living room of Flat 6A as a result of the dye water ponding test to the floor in the master bathroom of Flat 6A. He also produced a diagram 21 purporting to show the path the water takes from the master bathroom to the timber flooring in the living room of Flat 6A. According to the diagram, water would have to pass through the guest bathroom before it could reach the timber flooring in the living room.
+72. With respect, I do not find Mr Wong's reasoning convincing:- 
+
+(1) Firstly, it is not clear to me why Mr Wong would conduct a dye water ponding test to the floor in the master bathroom of Flat 6A. It is not the defendants' pleaded case that the source of the water seepage in Flat 6A is the floor in the master bathroom of Flat 6A. As noted in paragraph 8 above, the defendants' case is that the source of water seepage in Flat 6A is the fresh water pipes therein. Master D To's order also directed the parties' expert to give opinion on, inter alia, whether water leakage originated from the fresh water pipes concealed in the walls in the master bathroom of Flat 6A at a position between the water heater and the faucet of the bathtub. The dye water ponding test conducted by Mr Wong to the floor in the master bathroom of Flat 6A is therefore outside the scope of the defendants' pleaded case and Master D To's order.
+
+(2) Secondly, Mr Wong's explanation is apparently inconsistent with the Nuisance Notices and MSL's Report, all of which identified Flat 7A, and none of which identified Flat 6A, as the source of water seepage in Flat 6A.
+
+(3) Thirdly, Mr Wong's hypothesis could not explain the high moisture content at the ceiling in the master bathroom of Flat 6A. As noted in §68 above, both the FEHD and Mr Hau observed high moisture content at the ceiling in the master bathroom of Flat 6A. And as also noted in §68 above, I have rejected Mr Wong's allegation that there was no significant change in the moisture content at the ceiling in the master bathroom of Flat 6A after the dye water ponding test conducted on 18 April 2015.
+
+(4) Fourthly, in §5.5 of the Joint Report, 22 Mr Wong stated that water flowed along the floor finish of the guest bathroom underneath to reach at the checkpoint tissue paper placed on the floor of the dining room of Flat 6A resulting in red dye stains found in the tissue paper. In my view, Mr Wong's contention is no more than speculation which I have no hesitation to reject.
+
+
+73. On the other hand, I accept Mr Hau's evidence that the red colour stains found in the tissue paper originated from Flat 7A as the same red colour had been used for the dye water ponding test on the floor in the master bathroom of Flat 7A and that water might have migrated from Flat 7A into the interior of Flat 6A somewhere via the floor slab and internal walls between the toilets. I also accept Mr Hau's evidence that it is unlikely that the red dye stains found in the checkpoint tissue paper originated from the dye water in the master bathroom of Flat 6A because water always flows from a higher to a lower level, which sounds reasonable and accords with common sense.
+
+E.4.4. Dye water ponding test conducted by Mr Wong to the floor of the guest bathroom of Flat 6A
+
+74. Apart from conducting dye water ponding test to the floor in the master bathroom of Flat 6A, Mr Wong also conducted dye water ponding test to the floor of the guest bathroom of Flat 6A. He stated that according to the dye water ponding test, green dye water was found emanating along the floor of the guest bathroom through the walls and threshold to dampen the timer floor outside the guest bathroom of Flat 6A, that this indicates failed waterproofing work in the guest bathroom of Flat 6A and that the source of the water seepage was within Flat 6A.
+75. With respect, I find Mr Wong's hypothesis unconvincing:- 
+
+(1) Firstly, my observations in §72(1) above apply, mutatis mutandis, to the dye water ponding test to the floor of the guest bathroom of Flat 6A as they apply to the dye water ponding test to the floor in the master bathroom of Flat 6A. This test is also outside the scope of the defendants' pleaded case and Master D To's order.
+
+(2) Secondly, Mr Wong made a serious allegation against the plaintiff that the check point tissue paper left by him at the timber flooring of the dining room of Flat 6A, which according to him had been stained with green dye water, had been removed and destroyed and were no longer found at the timber flooring in the dining room of Flat 6A on 16 May 2015. There is no doubt that Mr Wong's serious allegation was directed against the plaintiff because Mr Wong stated that before making that allegation, he had asked the plaintiff whether she or anyone from Flat 6A had ever tempered or removed the check point tissue paper. Despite a negative answer from the plaintiff, Mr Wong still maintained such serious allegation against her. In cross-examination, it was not suggested to the plaintiff that she or anyone from Flat 6A had removed or destroyed the check point tissue paper. In any event, in her closing, counsel for the defendants rightly did not pursue this serious allegation against the plaintiff.
+
+(3) Thirdly, and in these circumstances, I consider that there is no basis for Mr Wong to make this serious allegation against the plaintiff. I regret to say that in doing this, Mr Wong has assumed the role of an advocate and abandoned his impartiality.
+
+(4) Fourthly, Mr Wong's allegation is apparently inconsistent with the fact that in the second joint inspection on 16 May 2015, both experts found red dye stains in the tissue paper left by Mr Wong at the skirting (lower portion) of the wall between the living room and guest bathroom of Flat 6A as checkpoints for dye water ponding test (see §70 above).
+
+
+76. On the other hand, I accept Mr Hau's evidence that the green dye water seeped through the loosen threshold 23 at the entrance in the guest bathroom of Flat 6A but not underneath the flooring and that such single leakage incident was caused by Mr Wong's staff flooding the floor in the guest bathroom of Flat 6A rather than the usual utilization of the guest bathroom.
+
+E.4.5. The flow meter test to the fresh water pipes in Flat 6A conducted by Mr Wong
+
+77. Mr Wong also conducted a "flow meter" test to the fresh water pipes of Flat 6A. According to Mr Wong, this test involved shutting off all fresh water supplies in Flat 6A and reading the water meter of Flat 6A. The photos pertaining to the "flow meter" test are at Annex 3 of the Joint Report. 24
+78. Surprisingly, in the Joint Report, Mr Wong was silent as to the result of the "flow meter" test. In cross-examination, when he was shown the 3 photos pertaining to the "flow meter" test taken of the water meter of Flat 6A (all of which showed a zero reading) and asked whether the result of the "flow meter" showed that there was no leakage in the fresh water pipes in Flat 6A, he said that it was "not obvious". When he was further asked whether any other photo 25 showed that there was any change in the reading of the water meter of Flat 6A, he finally admitted that there was no change. I also note that in her closing, counsel for the defendants also made no submission on the result of the "flow meter" test or that the source of water leakage in Flat 6A was the fresh water pipes in Flat 6A. Any such submission would be contrary to the result of the "flow meter" test and Mr Wong's admission in cross-examination.
+79. The result of the "flow meter" test as shown in the 3 photos and Mr Wong's admission under cross-examination also show that there is no basis for Mr Wong to conclude in his Survey Report that "water presently leaks from the fresh water pipes concealed in walls of master bathroom" of Flat 6A, which I have no hesitation to reject.
+80. The core of the defendants' case as pleaded in §6 of the Amended Defence is first and foremost based on their allegation (and Mr Wong's opinion) that water emanated and/or otherwise originated from the fresh water pipes of Flat 6A, including those concealed in the walls in the master bathroom of Flat 6A, and that as a result of such water seepage/leakage, water accumulated in the floor recess underneath the bathtub of the master bathroom. The result of the "flow meter" test shows that no water emanated from the fresh water pipes of Flat 6A, which in turn shows that the defence pleaded in §6 of the Amended Defence is unsustainable.
+
+E.5. Conclusion on the expert evidence
+
+81. In conclusion, I regret to say that Mr Wong has been shown to be persistently adopting a stance which he himself had difficulty in adopting, keeping silent on a mistake and hoping the same will not be discovered instead of correcting it on his own volition, jumping straight to a defensive mode instead of adopting a "step-back and look" approach and putting forward biased view constructed for the purpose of advancing the defendants' case. Having seen and heard Mr Wong giving evidence in court, and applying the principles set out in D.1 above, I am afraid that the adverse judicial comments on his qualification, competence and performance as an expert witness set out in Section E.3 above remain valid. I have no hesitation in rejecting his evidence.
+82. On the contrary, Mr Hau gave evidence in an objective and balanced manner. He readily conceded points which were against the plaintiff's case. For example, he readily accepted that after the dye water ponding test to the floor of the bathrooms of Flat 7A, there was no significant change in the moisture content at the ceiling in the guest bathroom of Flat 6A. His evidence is also by and large consistent with the evidence contained in the report. I have no hesitation in accepting his evidence. Furthermore, whenever there is any conflict between the evidence of Mr Hau and Mr Wong, I prefer the former to the latter.
+
+F. FINDINGS OF FACTS
+
+83. On the basis of the above and as a result of the acceptance of the evidence of Mr Hau, I make the following findings of fact:- 
+
+(1) In or around December 2010, water was found emerging along the foot of the walls in the dining room, corridor, and the wall in the master bedroom near the master bathroom of Flat 6A;
+
+(2) In or around early January 2011, water was found emerging from the bottom of the bathtub in the master bathroom of Flat 6A;
+
+(3) In or around mid-January 2011, water was found emerging from the ceiling in the master bathroom of Flat 6A;
+
+(4) In or around mid-March 2011, water was found emerging from the walls of the dining room and water with urine smell was found emerging from beneath the bathtub in the master bathroom of Flat 6A;
+
+(5) On or around 19 October 2011, water was found to seep through the branch waste pipe connecting to the outlet of vertical floor drain in the master bathroom of Flat 7A to the skirting of living room of Flat 6A;
+
+(6) On or around 19 July 2012, water was found to seep through the floor slab underneath the bathtub and its enclosing walls in the guest bathroom of Flat 7A to the ceilings and walls of Flat 6A; and
+
+(7) On or around 16 August 2012, water was found to seep through the floor slab underneath the bathtub and its enclosing walls in the guest bathroom of Flat 7A to the ceilings and walls of Flat 6A.
+
+
+84. I find that the source of the water seepage was not within Flat 6A. I accept Mr Hau's evidence and find that the source of the water seepage was Flat 7A.
+
+G. WHETHER THE DEFENDANTS ARE LIABLE FOR BREACH OF THE DMC, NUISANCE AND/OR NEGLIGENCE
+
+85. In failing to maintain in good repair and condition Flat 7A and in failing to maintain the same in such manner as to avoid any loss, damage, nuisance or annoyance to the plaintiff, the defendants are liable for breach of Clause 13 of Section IV of the DMC.
+
+86. In relation to the tort of nuisance, in Yan Wing Fai Rick (supra), DDJ H Leong (as he then was) said that:- "Once that the defendant was made aware that there was a water leakage the source of which could reasonably be identified to be from its property, it has the duty to investigate, locate and repair such water leakage in a prompt and reasonable manner".
+
+
+87. In the present case, on their own case, the defendants were made aware that there was a water leakage the source of which could reasonably be identified from Flat 7A on or about early March 2011, but they did not take any step to investigate, locate and repair such water leakage in a prompt and reasonable manner. It appears from the evidence that the defendants only investigated, located and repaired the leakage in Flat 7A after receiving the 1st Nuisance Notice dated 19 October 2011 and the 2nd Nuisance Notice dated 19 July 2012. In the premises, I am of the view that the defendants are liable to the plaintiff for nuisance.
+88. As to negligence, there can be no dispute that the defendants as a neighbour of the plaintiff owe the plaintiff a duty of care to keep and maintain Flat 7A is proper repair and condition and prevent harm to people and damage to property on adjoining premises. The defendants were also in breach of that duty and such breach caused damage to Flat 6A. Thus the defendants are also liable in negligence.
+
+H. QUANTUM
+
+89. I now proceed to consider the quantum of the plaintiff's pleaded claims, which consist of the following: 26 (1) costs for rectifying the damage caused to Flat 6A; (2) damages for distress, inconvenience and loss of enjoyment of Flat 6A from the commencement of water leakage until moving out; (3) loss of enjoyment of Flat 6A, or in the alternative, loss of rental profit from Flat 6A, to be calculated from 5 March 2012 until reinstatement of Flat 6A; (4) in the alternative to (3), rental costs for alternative accommodation until reinstatement of Flat 6A; and (5) costs for seeking alternative accommodation, including costs of relocation and commission paid to estate agent.
+90. In his closing, counsel for the plaintiff also claims for loss of amenity to land. I will deal with this head of claim after dealing with the 5 heads of claims set out above.
+
+H.1. Costs of rectifying Flat 6A
+
+91. The parties have agreed that the sum of $75,000 should be awarded under this head if liability is established against the defendants. As I have found against the defendants on liability, I would award the sum of $75,000 under this head.
+
+H.2. Damages for distress, discomfort and inconvenience
+
+92. The plaintiff asked for a sum of $80,000 to be awarded under this head "from the commencement of water leakage until moving out" 27 whilst the defendants contended that an award of $45,000 or $30,000 should be sufficient.
+93. I have considered the following cases cited by the parties:- 
+
+(1) In Yan Wing Fai Rick (supra), the court found (at §112) that the plaintiffs have been troubled by water leakages on and off over a period of more than 2 years and have suffered severe problems continuously for some 50 days. The court awarded $40,000 for the plaintiffs' loss of enjoyment of the property;
+
+(2) In Cosmos Legal Consultants Limited v Skycherry Development Ltd & Another DCCJ 2548/2009 (unreported, 14/5/2013), the court found (at §116) that although the seepage problem had lasted for over two years, there was an extended period during which the property was left vacant. The Court awarded a sum of $60,000 under this head;
+
+(3) In Lau Ting Hang & Another v Leung Chi Wing DCCJ 6539/2005 (unreported, 18/2/2008), the Court found (at §34) that the discomfort, inconvenience and disturbance suffered by the plaintiff included the need to attend to the dripping water for a period of time, moving out of the unit for over a month out of their concern about the health of the new born baby, the baby's suffering after their return to the property and the bad condition of the bedroom they had to sleep in. Noting that for such intangible loss, there is no real formula of mathematical assessment, the Judge awarded $30,000 under this head.
+
+(4) In Cheng Chi Wing & Others v Ho Shu Wah & Another DCCJ 2370/2005 (unreported, 27/7/2007), the nuisance suffered by the plaintiffs included: the air-conditioner was kept running to keep the plaintiffs' premises dry; plastic bags had to be used to collect water dripping from the ceiling of the guest bedroom, and this lasted for about one and a half years; the small insects spread to the whole house and the plaintiffs were removed daily by plastic tapes; when moisture appeared, dry cloth was used to wipe the moisture and when mould appeared, bleach was used to remove the mould; the plaintiffs did not go on vacation for fear of water leakage; and the 3rd plaintiff suffered from skin diseases due to the presence of the small insects. The Judge awarded damages of $45,000 under this head.
+
+
+94. In Wong Hon Hung & Another v Jolly Birds Ltd DCCJ 5341/2006 
+(24/6/2008), a case not cited by the parties, the court found that water seepage began in mid-July 2005 and was not abated until the end of October 2006, ie, about 1 year and 3 months, that the plaintiffs have suffered much distress and inconvenience, that the extent of the damage, especially the damage done to the master bedroom, is simply horrendous, that although the defendant had entertained requests to investigate the problem at an initial stage, it refused to entertain further reasonable request from the plaintiffs and that this has prolonged the agony of the plaintiffs. The court awarded the sum of $50,000.
+95. In the present case, the water seepage lasted for about 1 year and 3 months (from about December 2010 to about 4 March 2012 when the plaintiff and her parents moved out of Flat 6A). The plaintiff was living at Flat 6A with her elderly parents. At one time there was sewage water with urine smell. Doing the best I can, and bearing in mind that there is no real formula of mathematical assessment, I assess damages under this head at $50,000.
+
+H.3. Loss of enjoyment of Flat 6A, or in the alternative, loss of rental profit from Flat 6A, to be calculated from 5 March 2012 until reinstatement of Flat 6A; in the alternative, rental costs for alternative accommodation until reinstatement of Flat 6A
+
+96. As fairly accepted by Mr Cheung, the claims under §§8(3) and 8(4) of the Amended Statement of Claim are pleaded in the alternative. Mr Cheung also accepted that the plaintiff's primary claim is under §8(4) and that the claim under §8(3) is the alternative one. In fact, in their closing, both counsel focused their attention on the claim under §8(4). In the premises, I will first deal with the plaintiff's claim under §8(4) of the Amended Statement of Claim.
+97. In relation to this part of the plaintiff's claim, it is not in dispute that:- 
+
+(1) The plaintiff and her parents moved out from Flat 6A on 4 March 2012 to Flat F, 19/F, Tower 2, The Astrid, No 180 Argyle Street ("the 1st Astrid Property") and incurred a monthly rental of $23,000 and estate agent commission of $11,500. The saleable area of this property is about 704 square feet.
+
+(2) On 5 March 2014, the plaintiff and her parents moved to Duplex C on 17/F and 18/F of Tower 2, The Astrid ("the 2nd Astrid Property") and incurred a monthly rental of $29,000, moving costs of $2,000, costs of new furniture of $16,959.90 and estate agent commission of $14,500. This property is a duplex and its saleable area is about 1,114 square feet.
+
+(3) In October 2015, the plaintiff and her parents moved into a self-owned flat and had since not incurred further rental expenses. As at the date of the trial, the plaintiff and her parents are still living in this flat.
+
+
+98. The plaintiff claims for the costs of alternative accommodation to be assessed. There are two questions here: whether it was reasonable for the plaintiff to move out of Flat 6A on 4 March 2012, and whether it was reasonable for the plaintiff to continuously live outside Flat 6A. They primarily relate to mitigation of damages.
+99. The legal principles regarding mitigation of damages can be summarized as follows:- 
+
+(1) The law requires a victim to take all reasonable steps to mitigate the loss consequent on the defendant's wrong: McGregor on Damages (2014) 19th Ed, §9-014;
+
+(2) Whether a loss is avoidable by reasonable action on the part of the claimant is a question of fact not law: McGregor, §9-016;
+
+(3) Although often called "a duty to mitigate", the expression is somewhat loose because there is no actionable "duty" which is actionable or which is owed to anyone by the claimant: McGregor, §9-017;
+
+(4) The onus of proof on the issue of mitigation is on the defendant. If he has failed to show that the claimant ought reasonably to have taken mitigating steps, then the normal measure will apply: McGregor, §9-019;
+
+(5) In assessing reasonableness, the victim must act with the wrongdoer's as well as his own interest in mind: McGregor, §9-076.
+
+
+100. As to the first question, the reasons given by the plaintiff for moving out of Flat 6A were that at around the end of January 2012, the following events happened: 28 (1) the timber floor at the passageway of Flat 6A swelled. Her father fell and twisted his left leg; (2) the condition of Flat 6A began to deteriorate. There were mould on the ceilings and walls, foul smell, and ants and cockroaches were found everywhere; (3) as the plaintiff suffers from eczema, she was worried that the mould in Flat 6A would cause her eczema to deteriorate; and (4) the plaintiff was also worrying about electricity leakage in Flat 6A.
+101. In the present case, there was no cross-examination of the plaintiff on the matters stated in §§100(1) and (3) above. In fact, the injury to the plaintiff's father's left ankle is supported by an attendance certificate of the Evangel Hospital dated 28 January 2012. As to the plaintiff's compliant of foul smell, in her email to the defendants dated 22 July 2011, she stated that as water from Flat 7A was sewage water with urine smell, there was a high chance that the water was from sewage pipe. The defendants did not reply to this email. Nor was there any cross-examination of the plaintiff on this email. Furthermore, the plaintiff's complaint of mould is supported by the 3 photos showing mould on the wall or ceiling of Flat 6A. 29 As to §100(4), there is no suggestion that the plaintiff's worry of electricity leakage was not genuine.
+102. In my judgment, by reason of the matters stated in §101 above, it cannot be said that it was unreasonable for the plaintiff to seek alternative accommodation on or about 4 March 2012.
+103. As to the second question, whilst it was reasonable for the plaintiff to seek alternative accommodation on or about 4 March 2012, that does not necessarily mean that the plaintiff could continuously live outside Flat 6A irrespective of whether there had been a change of circumstances. As noted in §38 above, on 6 November 2012, the Joint Office informed the plaintiff that it had visited Flat 6A again on 2 November 2012 and found that the moisture content of the affected areas were below 35% and that the defendants had complied with the Revised 2nd Nuisance Notice. In my view, this fact is relevant to the reasonableness of the plaintiff's conduct in living outside Flat 6A after 2 November 2012. I am further of the view that the plaintiff's claim for the costs of alternative accommodation after 2 November 2012 is fraught with difficulty.
+104. Firstly, although the Statement of Claim was amended on 29 June 2015, the latest incident of water seepage pleaded was the one dated 16 August 2012, 30 but this incident was the subject matter of the Revised 2nd Nuisance Notice which the Joint Office found the defendants had complied with on 2 November 2012. When this point was pleaded in the Amended Defence, the plaintiff did not plead any positive case in her Reply. In other words, whether in the Amended Statement of Claim or the Reply, the plaintiff has failed to plead any material fact subsequent to the finding of the Joint Office that the defendants had complied with the Revised 2nd Nuisance Notice on 2 November 2012.
+105. Secondly, save for a reference to her family's moving into the 2nd Astrid Address on or about 5 March 2014, in her witness statement the plaintiff did not deal with the events after 6 November 2012, despite the fact that her witness statement was filed on 5 May 2015. This situation was not improved after the plaintiff gave evidence in court. In other words, there is no or little evidence before the court as to the events after 6 November 2012, including the reasons why the plaintiff said she and her family needed to continuously live outside Flat 6A after the Joint Office found that the defendants had complied with the Revised 2nd Nuisance on 2 November 2012. Although the onus of proof on the issue of mitigation is on the defendant, in the absence of evidence adduced by the plaintiff, the court cannot assume that the plaintiff and her family would need to continuously live outside Flat 6A after the Joint Office found that the defendants had complied with the Revised 2nd Nuisance Notice.
+106. Thirdly, and in these circumstances, I find that it would not have been reasonable for the plaintiff to continuously live outside Flat 6A after the Joint Office had found that the defendants had complied with the Revised 2nd Nuisance Notice on 2 November 2012.
+107. As fairly accepted by Mr Cheung, the fact that the Joint Office found that the defendants had complied with the 2nd Nuisance Notice on 2 November 2012 is relevant to the reasonableness of the conduct of the plaintiff in mitigating her loss and that it was open to the Court to find that the defendants might not be liable for the costs of alternative accommodation after the 2nd Nuisance Notice was found to have been complied with.
+108. Therefore, I am only prepared to award the plaintiff about 8 months of the costs of alternative accommodation, i.e., from 4 March to 2 November 2012, calculated as follows:- 
+
+$23,000 x 8 = $184,000
+
+
+109. In coming to the above conclusion, I have not overlooked the matters subsequent to 6 November 2012 as stated in the letter from the Joint Office to the plaintiff's solicitors dated 18 September 2015, 31 including the following:- 
+
+(1) On 15 November 2012, the plaintiff reported seepage recurrence by phone;
+
+(2) On 16 November 2012, the FEHD visited Flat 6A again and found that the new seepage area was located at the lower portion of the wall in the passageway near the guest bedroom, the moisture content of which was found to be below 35%;
+
+(3) On 28 February 2013, the plaintiff left a voice message to FEHD and reported seepage recurrence;
+
+(4) On 1 March 2013, the FEHD visited Flat 6A and found that the affected area was located at the lower level of internal partition wall near the passageway. The staff of the FEHD reported that it was an apparent own source and the plaintiff refused to remove the decoration above the affected area in order to confirm the apparent own source case;
+
+(5) On 8 May 2013, the FEHD visited Flat 6A for further investigation, and found that the moisture content of the new seepage areas located at (a) lower portion of internal wall of passageway to living room; (b) ceiling in the master bathroom; and (c) lower portion of internal wall of dining room were above 35%;
+
+(6) On 20 May 2013, the FEHD visited Flat 7A and conducted colour water test in all the drainage outlets in the master bathroom and guest bathroom of Flat 7A; and
+
+(7) On 31 May 2013, the FEHD visited Flat 6A for a review of the colour water test, but no colour was detected on the affected area; however, as the seepage still persisted, the case was then referred to the BD for Stage III professional investigation.
+
+
+110. However, as these matters have not been pleaded by the parties or touched upon by the parties' witness in their evidence or referred to by the parties' counsel in their closing, strictly speaking they are not matters which the court is required to deal with or make finding on. 32
+111. As I have dealt with the plaintiff's primary claim under §8(4) of the Amended Statement Claim, it is not necessary for me to deal with the plaintiff's claim under §8(3) of the Amended Statement of Claim. In any event, as rightly submitted by Ms Tsang, 33 there was no evidence that the plaintiff had ever attempted to rent Flat 6A out and that according to her evidence, she purchased Flat 6A for self-residence.
+
+H.4. Costs for seeking alternative accommodation, including costs of relocation and commission paid to estate agent
+
+112. In finding alternative accommodation at the 1st Astrid Property the plaintiff paid estate agent commission of $11,500. I find such costs reasonable and award this sum to the plaintiff.
+
+H.5. Loss of amenity to land
+
+113. On the authority of Moorjani v Durban Estates Ltd [2016] 1 WLR 2265 
+and Larbons Ltd v Kuo You Weaving Factory Ltd DCCJ 934/2006 
+(unreported, 12/7/2007), the plaintiff claims for "loss of amenity to land". It was submitted that loss to a claimant by reason of the impairment to the rights of amenity of a property is recoverable, of which discomfort, inconvenience and distress were only symptoms.
+114. In Moorjani, the defendant was the freehold owner of a block of flats in London. The plaintiff was a long leaseholder. In early 2005 the plaintiff moved out of the flat and went to stay with his sister in another location. Whilst empty, the flat suffered from a series of leaks from the property above (there was no suggestion this was caused by the defendant's default). Proceedings were brought on the basis that the defendant had breached its insuring covenant and by reason of delay in arranging reinstatement. The plaintiff returned to live in the flat in 2008. The judge found that the plaintiff's continued absence was his own choice and had nothing to do with the state of the flat and therefore refused to award damages for loss of amenity for the period the plaintiff was absent from the flat. On appeal, one of the issues before the English Court of Appeal was whether the lessee under a long lease of a flat can claim to have suffered loss arising from a period of disrepair if he chose to live elsewhere for reasons unconnected with the landlord's breach. At §31 (relied upon by the plaintiff in this case), Briggs LJ said that he agreed with Carnwath LJ's conclusion in Earle v Charalambous [2007] HLR 8 
+
+that "distress and inconvenience caused by disrepair are not free standing heads of claim, but are symptomatic of interference with the lessee's enjoyment of that asset". He concluded at §25 that:- "Taking those authorities together, I have reached the following tentative conclusions. First, although the language of Calabar Properties and Wallace speak of discomfort, inconvenience and distress as if they were the very losses caused to the lessee by the lessor's breach, the better view is that the loss consists in the impairment to the rights of amenity afforded to the lessee by the lease of which discomfort, inconvenience and distress (and even the deterioration of the health of a loved one) are only symptoms. The lessee pays a premium for the assignable right to the enjoyment of occupation of a specific property for a period usually longer than his own lifetime, the quality of which is underpinned the lessor's repairing and reinstatement obligations. It is nothing to the point that the lessor incurs no cost in their performance (since that is met either from insurance or service charge). The quality of enjoyment is underpinned by the lessor's promise to carry out those obligations diligently and in due time, rather than to neglect or delay in their performance".
+
+
+ Applying these principles, the English Court of Appeal found that the judge had been wrong not to allow any general damages for the period when the plaintiff lived elsewhere. The court went on to quantify damages based on a notional reduction in rent approach over various periods.
+115.Moorjani is a case where a long term lessee claims against the landlord for diminution in amenity value of leasehold property and is not directly on point and does wholly different from the present case.
+116. The claim for injury to amenity of land by reason of water leakage was considered by HH Judge Mimmie Chan (as she then was) in Larbons Ltd v Kuo You Weaving Factory Ltd DCCJ 934/2006 
+(unreported, 12/7/2007) at §§87 to 94. Relying on the Court of Appeal's decision in Let's Go Investments Ltd v Yeung Sau Hing CACV 16/2006 
+(unreported, 12/3/2007), in which the defendant by counterclaim was successful in establishing that the plaintiff was in breach of the Deed of Mutual Covenant and also liable in nuisance and negligence and in which the Court of Appeal held that it was a classic situation for awarding nominal damages to simply recognize that the defendant's legal rights have been infringed, the learned judge observed that she was bound by the Court of Appeal decision to award only nominal damages of $100, if at all.
+117. In the present case, no claim for diminution in amenity has been pleaded. As no claim has been pleaded, the plaintiff is not entitled to any award under this head. I note that in Larbons, the learned judge also did not make any award for diminution in amenity value because such claim for the period during which the nuisance persisted has not been pleaded.
+
+H.6. Conclusion on quantum
+
+118. To conclude, I award the following sums to the plaintiff:- 
+
+(1) Costs for rectifying the damage to Flat 6A: $75,000.
+
+(2) Damages for distress, discomfort and inconvenience: $50,000.
+
+(3) Costs for alternative accommodation from 4 March 2012 to 2 November 2012: $184,000.
+
+(4) Estate agent's commission in finding alternative accommodation: $11,500.
+
+
+119. The total damages I award to the plaintiff are therefore: $75,000 + $50,000 + 184,000 + 11,500 = $320,500.
+
+I. ORDER
+
+120. I enter judgment in favour of the plaintiff against the defendants for the sum of $320,500. Interest is awarded on the said sum of $320,500 at half judgment rate from the date of the writ until judgment and thereafter at judgment rate until full payment.
+121. I grant a mandatory injunction requiring the defendants to rectify the defects in Flat 7A and an injunction restraining the defendants and each of them whether by themselves, their servants or agents or otherwise from repeating and continuing the said nuisance or any nuisance of a like kind on the plaintiff or in respect of Flat 6A.
+122. Costs should follow the event. Accordingly, the plaintiff should have the costs of this action against the defendants to be taxed if not agreed with certificate of counsel. The costs order is nisi and shall become absolute in the absence of any application within 14 days to vary the same.
+123. Lastly, I thank counsel for their assistance.
+
+SCHEDULE 1
+
+Mr Wong's Reading of the Moisture Content at the Ceiling in the Master Bathroom of Flat 6A
+
+
+Point 1Point 2Point 3Point 4Point 5
+
+Before
+48.4054.5050.6053.2050.80
+
+After
+51.7061.6051.6055.9052.70
+
+
+Point 6Point 7Point 8Point 9Point 10
+
+Before
+44.6051.3071.4049.3077.30
+
+After
+44.9068.0070.4051.5082.20
+
+SCHEDULE 2
+
+Mr Wong's Revised Reading of the Moisture Content at the Ceiling in the Master Bathroom of Flat 6A
+
+
+1234567
+
+Before
+74.5070.7079.0068.7063.3071.1070.40
+
+After
+72.4064.4087.6068.8065.5033.80 Error66.80
+
+
+8910111213
+
+Before
+84.4073.0084.5074.4086.7078.00
+
+After
+85.5076.5084.2079.9087.9072.10
+
+ 1See: Amended Statement of Claim, §7
+ 2See: Amended Defence, §6
+ 3Trial Bundle D1/200-205
+ 4On 16 August 2012, the FEHD served a revised 2nd Nuisance Notice ("the Revised 2nd Nuisance Notice") on the defendants, the contents of which were exactly the same as the 2nd Nuisance Notice, except that 3 Chinese words, which had been omitted from the 2nd Nuisance Notice, were added thereto. Thus, effectively, the FEHD had served two Nuisance Notices on the defendants, ie, the 1st and the Revised 2nd Nuisance Notices ("the Nuisance Notices").
+ 5The readings are set out at internal p 14 of the Joint Report (Tribal Bundle C/64)
+ 6Internal p 49 of the Joint Report (Trial Bundle C/99)
+ 7The defendants' closing, §90
+ 8The defendants' closing, §90
+ 9Exhibit D3
+ 10These were set out at §5.2.1 at internal p 14 of the Joint Report (Trial Bundle C/64). Schedule 1 hereto sets out Mr Wong's readings at item 5.2.1 at p 14 of the Joint Report.
+ 11Trial Bundle C/113-114
+ 12Trial Bundle C/139-140
+ 13Internal p 14 of the Joint Report (Trial Bundle C/64)
+ 14Trial Bundle C/113-114
+ 15Internal p 14 of the Joint Report (Trial Bundle C/64)
+ 16At §120(d) of her closing, counsel for the defendants rightly accepted that Mr Wong's original readings set out at internal p.14 of the Joint Report (Trial Bundle C/64) were taken of an entirely different location, ie, at the wall skirting in the living room of Flat 6A.
+ 17Schedule 2 hereto sets out Mr Wong's revised readings at Exhibit D5
+ 18The defendants' closing, §94
+ 19Mr Hui's moisture content readings at the ceiling in the master bathroom of Flat 6A are set out in at internal p 14 of the Joint Report (Trial Bundle C/64)
+ 20Trial Bundle D1/200-205
+ 21Trial Bundle C/178. The route is represented by a yellow arrow drawn on the diagram.
+ 22At internal p 25 of the Joint Report (Trial Bundle C/75)
+ 23The loosen threshold is approximately 35 mm thick and was not supposed to be water tight or leak-proof.
+ 24Trial Bundle C/175-176
+ 25Trial Bundle C/259-271
+ 26Amended Statement of Claim, §8
+ 27Amended Statement of Claim, §8(2)
+ 28See: plaintiff's witness statement, §35
+ 29Trial Bundles D/376, 381 and 382
+ 30Amended Statement of Claim, §7(7)
+ 31Trial Bundle D/224-277
+ 32In §55 of his closing, Mr Cheung referred to "new seepage" found in Flat 6A in May 2013. However, as noted in §§109(5) and (6) above, on 20 May 2013, the FEHD visited Flat 7A and conducted colour water test in all the drainage outlets in the master bathroom and guest bathroom of Flat 7A; and on 31 May 2013, the FEHD visited Flat 6A for a review of the colour water test, but no colour was detected on the affected area. If this is a matter I need to deal with or make finding on, I would have found that the "new seepage" found in Flat 6A in May 2013 does not assist the plaintiff.
+ 33The defendants' closing, §122
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

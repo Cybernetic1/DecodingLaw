@@ -1,0 +1,283 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 24 February, 2018 at 22:13 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : HKSAR v Clark
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+HKSAR v Clark
+
+
+
+10 June 2014
+Court of First Instance
+CFI
+Magistracy Appeal No 26 of 2014
+HCMA 26/2014
+
+Citations:[2014] 4 HKLRD 242 English Judgment
+[2014] HKEC 983 English Judgment
+
+Presiding Judges: Zervos J
+
+Phrases: <Y<Criminal law and procedure - road traffic offences - dangerous driving - failing to stop after accident whereby damage caused - failing to report accident to police - whether charges made out on evidence >Y>
+
+Facts: <Y<*242
+ D pleaded guilty to careless driving (Charge 1) and was convicted of dangerous driving (Charge 2), failing to stop after an accident whereby damage was caused (Charge 3) and failing to report the accident to the police (Charge 4). D's car was behind PW1's car, which had stopped under the boom barrier of a car park exit before a give way sign and traffic lights. D's car allegedly bumped into the rear of PW1's car. PW1 swore loudly at D, who did not say much. PW1's passenger, PW2, also alighted from the car and filmed the incident on her mobile telephone. PW1 then called the police. D examined both vehicles and then removed two traffic cones placed behind his car by a car park employee to prevent vehicles from queueing up behind them. PW2 replaced one of the traffic cones and stepped onto the pavement when D, looking backwards, reversed his car a little so he could turn and leave from another exit. The Magistrate found that CCTV footage contradicted D's evidence that he believed no collision or damage had occurred; and that D stopped, waited about four minutes and then drove away without exchanging particulars with PW1 and reporting the accident to the police.
+>Y><Y< >Y><Y<*243
+ Held>Y><Y<, allowing the appeal by quashing the convictions on Charges 2-4, that:
+>Y>
+<Y<(1) The film footages did not support a conviction on Charge 2, even on PW2's evidence. D, looking behind him, slowly reversed a short distance in order to make a right-hand turn, while PW2 was moving away from the carriageway to the pedestrian pavement. In these circumstances, D's driving was not dangerous. (See paras.8, 12, 20.)
+>Y>
+<Y<(2) Section 56 of the Road Traffic Ordinance (Cap.374) requires the drivers of vehicles involved in a collision where damage or personal injuries had resulted to exchange particulars and if a party failed to provide any or sufficient particulars, then there was a failure "to stop" even though the vehicle had stopped (>Y><Y<HKSAR v McKeever>Y><Y< (unrep., HCMA 381/2011, [2011] HKEC 1107) applied). (See para.14.)
+>Y>
+<Y<(3) Charges 3 and 4 had not been proven beyond a reasonable doubt. The evidence as to the damage to PW1's car was uncertain and based on his own evidence. At its very highest, it was a very slight bump of vehicles possibly resulting in a single minor scratch. PW1 was abusive and aggressive from the outset. He made no effort to comply with s.56 of the Ordinance by seeking or providing the necessary personal particulars, but called the police instead. D remained passive throughout, believing his car had not touched PW1's car, waited a few minutes then left. While he was wrong to have done so, he did not know the police had been called. (See paras.8, 15-20.)
+>Y>
+
+
+Appeal
+
+This was an appeal against conviction for dangerous driving, failing to stop after an accident whereby damage was caused and failing to report an accident to the police before Special Magistrate Mr Robin Yue. The facts are set out in the judgment.
+[Editor's note: the appellant was subsequently awarded costs of the trial and on appeal, including the costs of the hearing application for costs.] 
+
+Counsel in the Case: Mr Giles Surman, instructed by Haldanes, for the appellant (William Robert Hywel Clark).Mr Prakash Daryanani, Senior Public Prosecutor of the Department of Justice, for the respondent.
+
+Legislation mentioned in the judgment:<G<Road Traffic Ordinance (Cap.374) ss.36(4), 36(7), 56>G>
+
+Cases cited in the judgment: HKSAR v Ip Chin Kei [2012] 4 HKLRD 383, [2012] 4 HKC 135 
+
+HKSAR v McKeever (unrep., HCMA 381/2011, [2011] HKEC 1107) 
+
+HKSAR v Shekhawat Tushar (unrep., HCMA 9/2014, [2014] HKEC 840) 
+
+
+Judgment:
+
+
+*244
+ Zervos J: 
+
+Introduction: 
+
+1. The appellant was involved in an incident on 1 March 2013 when his motor vehicle bumped into the motor vehicle in front of him when he was leaving the City Hall car park. It resulted in him appearing in the Magistrate's Court for trial before Deputy Special Magistrate, Mr Robin KT Yue (the Magistrate), charged with careless driving (Charge 1), dangerous driving (Charge 2), failing to stop after an accident whereby damage is caused (Charge 3) and failing to report an accident to a police officer after its occurrence (Charge 4). He pleaded guilty to the careless driving charge and proceeded to trial on the remaining charges. He was convicted of these charges by the Magistrate and now appeals his conviction and sentence.
+
+The analysis on rehearing: 
+
+2. The applicable principles in relation to a magistracy appeal have been summarised in HKSAR v Ip Chin Kei [2012] 4 HKLRD 383 
+and in HKSAR v Shekhawat Tushar (unrep., HCMA 9/2014, [2014] HKEC 840) 
+(21 May 2014), which provide that the function of an appellate court hearing a magistracy appeal is to conduct a rehearing in order to determine whether it is satisfied beyond reasonable doubt of the guilt of the appellant.
+
+The brief facts: 
+
+3. On 1 March 2013, at around 19:19 hours, the appellant was driving his motor vehicle, registration number KR7778, to leave the City Hall car park. He was behind a motor vehicle, registration number MR YIM, driven by Mr Yim Hiu Tung (PW1) who was accompanied by a passenger, Ms Yip Hau Ling (PW2). PW1 was then going through the exit barrier of the car park on the ground level. He was passing through the boom barrier but stopped. He was stationary for a while as he was facing a give way sign and traffic lights. The appellant waited for a while and then sounded the car horn indicating for him to move forward. There were several occasions that the vehicles moved in a stop/start manner. It was*245
+ then that PW1 felt a bump from behind and got out of his vehicle. He remonstrated with the appellant, swearing at him. The appellant sat in his vehicle and did not say very much. PW2 got out of the car and started to record the incident on her mobile phone. The appellant remained passive and waited throughout this time. PW1 was then seen using his mobile phone. The appellant examined the vehicles and seemed to indicate that no collision had occurred. In the meantime, an employee of the car park put two traffic cones behind the vehicles as a means to prevent vehicles from queueing up at this exit and redirecting them to the first floor exit. After several minutes, the appellant moved the two traffic cones and then got back into his vehicle. PW2 grabbed one of the traffic cones and put it at the rear of the appellant's vehicle at which stage he started to reverse his vehicle slowly and for a short distance to make a right hand turn in order to take the first floor exit.
+
+The testimony of PW1 and PW2: 
+
+4. The evidence of both PW1 and PW2 requires critical analysis. I shall deal with them in turn. PW1 testified that he paid the parking fee and was about to leave the car park. CCTV footage shows PW1 insert a parking ticket into the machine and swipe his card which resulted in the boom barrier being raised. He said there was a give way sign ahead and the traffic lights were red. He said he moved forward a little and then stopped. He then heard the sound of the horn of the car behind him and he noticed the occupant of the car indicate to him to drive forward. He moved forward a little bit and continued to wait for the traffic signal to change. He then felt a bump to his car from the car behind. He explained he felt a jerk of his car and heard a sound which he described as a "eee-eee" sound. He said he got out of his car and saw it had been hit by KR 7778. He said he then reasoned with the driver, who was the appellant, "but he didn't have much to say". After a while, the appellant finally got out of his car to have a look. He said he walked around for a while and then to the rear of his car where he moved two traffic cones away. The appellant got into his car, engaged the rear gear to leave the car park. PW2 was standing behind the rear of the other car. He saw the driver looking backwards while he reversed his car. The appellant was driving a convertible car which had an open top at the time. He said that PW2 was behind the car and when it moved backwards, she had to move backwards too. He noticed that the appellant exited from the 1st floor exit. He was asked if there was any interaction between he and the appellant and he said: "Well, no. I was the only one who spoke." This was up until the time the appellant left which he said was about 1 to 2, or 2 to 3, minutes. He said he was trying to*246
+ reason with him. He said the vehicles touched but he could not see the actual damage and after the appellant's vehicle moved away he saw on his bumper "a minor scratch". He said he washed his car himself and there was no scratch there before the incident. He was shown some photographs of the rear of his vehicle but could not see a scratch because the photographs were too dark. He drew a small circle on a photograph of the rear of his vehicle where he testified he saw the scratch. This was photograph 12 in exhibit P5. This was essentially his evidence in examination-in-chief.
+5. When PW1 was cross-examined his evidence changed significantly in certain respects. The most important change occurred when it was put to him that he got out of his car remonstrating with the appellant, abusing and swearing at him. He confirmed that he did not ask the appellant for his name or personal details, nor did he provide to the appellant his name or personal details: 
+
+Q. Now, you've said to the court that the foreign driver, the defendant, didn't have much to say when you say 'you were reasoning with him.' Do you remember saying that?
+
+A. Yes.
+
+Q. But you're not saying he remained silent the whole time?
+
+A. I don't remember whether he has said anything.
+
+... 
+
+Q. Now, you have said the word, you 'reasoned' with the foreign driver, but wouldn't it be more accurate to describe your language and your tone as abusive?
+
+A. No, I didn't say any abusive words.
+
+Q. Are you very sure, Mr Yim, that you used no swear words at all during this time?
+
+A. I did said one sentence.
+
+Q. Well, you just told me that you didn't.
+
+A. I remembered it wrong.
+
+Q. Well, would you agree that rather than one occasion, you perhaps used it on five, six, seven occasions?
+
+A. Disagree.
+
+Q. Specifically, the first words you said to the defendant after exiting the car were 'I can't move my fucking car.' Do you remember using those words?
+
+... 
+
+A. Disagree.
+
+Q. In fact, you repeated this to the defendant, agree or disagree?
+
+A. Disagree.
+
+Q. And that your voice at the time was loud and aggressive, do you agree or disagree to that, Mr Yim?
+
+A. I agree it was loud, but disagree on aggressive.
+
+ 247 Q. So you tell the court what triggered you for you to use just the one word, the swear word?
+
+A. Because defendant says swear word first, that's why I used it.
+
+Q. But you told the court that the defendant didn't say much at all?
+
+A. He said once, 'What a fucking Toyota.'
+
+... 
+
+Q. Now is there anything else he said that appeared to you to be rude, Mr Yim?
+
+A. No.
+
+... 
+
+Q. Now you tell me specifically what words you say you used to him in response to that claim of utterance by the defendant?
+
+A. 'Yes, it is a fucking Toyota.'
+
+
+
+
+6. There are a number of points to make about PW1's evidence. First, it would appear that he was speaking loudly and in an abusive manner to the appellant. Secondly, the collision was extremely minor being the result of a bump. Thirdly, there was an issue as to whether any damage had been caused. He claimed he saw after the appellant had left a minor scratch on the bumper of the car. Fourthly, he made no effort to exchange particulars with the appellant but it would appear instead he contacted the police.
+7. PW2 testified that she felt that the car had been bumped into from behind. She said, "I heard a bang sound behind and I felt a jerk of the vehicle." She demonstrated this by moving forward her body slightly and then back again. She claimed that PW1 did not swear at the appellant and that he walked to the area between the appellant's car and his car and told the appellant "you hit my car" [transcript of the trial in the appeal bundle at p.149I-T]: 
+
+Q. You were able very clearly then to hear the agitated tone of Mr Yim's voice?
+
+A. I don't think he was agitated. I could only say he said in a loud voice.
+
+Q. Now, were you able to hear him using foul language, in English, directed towards the defendant?
+
+A. I did not hear that. I only heard the rear car driver kept using foul language.
+
+Q. So you have no recollection of Mr Yim using any foul language, notwithstanding that he was communicating in a loud voice, is that your evidence?
+
+A. Correct.
+
+ 248 Q. Would you accept that Mr Yim was indeed using foul language in English directed at defendant?
+
+A. I don't accept that because I didn't hear, so I won't accept it.
+
+Q. Would you accept that an example of Mr Yim's use of foul language is, in fact, recorded by you on your mobile telephone?
+
+A. I am not clear.
+
+Q. And the video - the evidence will show that not only is the tone loud and agitated, but clearly there is the English word, and forgive me, 'fucking' used by Mr Yim.
+
+A. I only remember that the rear car driver kept using the - a word 'fucking Toyota' for more than three - for at least three times
+
+Q. That wasn't my question. So 
+
+A. I have no recollection and I did not watch the video on that day again.
+
+
+
+ She also said PW1 told the appellant he was going to report the case to the police. I note this was not PW1's evidence and it would appear that the appellant did not know that the matter had been reported to the police. She said she was taking a video recording with her mobile phone, and then after a while, the appellant took away two traffic cones from behind his vehicle. She took one of the cones and put it back at the rear of the appellant's vehicle and she saw the appellant starting to reverse his car. She was at the left rear of his car about one metre away when he steered in her direction. She said, "I was video recording but then I could not carry on. I had to avoid at once." She said that she moved from the carriageway one step higher onto the pedestrian pavement. A point that has been made by Mr Giles Surman, counsel for the appellant, is that the video recording taken by PW2 continued during the time the appellant reversed his car and left.
+
+The Magistrate's analysis: 
+
+8. The Magistrate in his analysis of the evidence refused to accept the appellant's evidence, having found it was incredible and unreliable. He said that on his examination of the CCTV footage "the appellant's vehicle moved forward causing a jerk of PW1's car". He noted that the appellant had testified that he did not have contact with PW1's car and this was contradicted by the CCTV footage and his unobstructed view due to the fact that he was driving an open convertible car. He also noted that the appellant had testified that PW2 did not stand behind his vehicle when he started to reverse and that she walked backwards away from his car very*249
+ slowly with the camera to her head but the CCTV footage contradicted his evidence. From my viewing of all the film footages, in particular, exhibit P7, the video recording made by PW1 on his mobile phone, it is clear that the appellant reversed slowly and for a short distance without creating a danger. PW2 even though on the carriage way, was a sufficient distance away and moving to the pedestrian pavement. The Magistrate also rejected the appellant's evidence that one of the reasons for leaving was because of PW1's emotional behaviour as in cross-examination he testified that PW1 requested payment by use of the word "pay" but also said "please" which contradicted his evidence that PW1 was emotional if he used the word "please". The Magistrate made this finding even though he acknowledged from the video recording PW1 was heard swearing and appeared annoyed. He said that in the latter moments of the incident PW1 was standing beside the ticket barrier, looking at the appellant without stopping him when he went to remove the traffic cones from behind his car. He found that this contradicted the appellant's evidence that PW1 was in an emotional state. I must say that the evidence would indicate that PW1 was abusive to the appellant to start with and this inflamed the situation thereafter. The Magistrate found as incredible the appellant's evidence that he did not know that the two traffic cones behind his car were to prevent him from moving out of the carriageway. The Magistrate said he viewed the CCTV footage which showed an employee of the car park put two cones behind the appellant's vehicle after both cars had stopped at the exit area. I have viewed the CCTV footage and it would appear that the employee put the cones there so as to prevent other vehicles from queueing behind them which were directed or channelled to go to the other exit.
+9. The Magistrate in his analysis of PW1's evidence found that his failure to mention in his witness statement anything about damage to his car, the sound he heard on impact or that there had been an abusive exchange between him and the appellant as minor details that had been left out and that they were not material or significant inconsistencies between his evidence and his witness statement. The Magistrate found PW1 to be credible and reliable. Similarly, the Magistrate in his analysis of PW2's evidence found that her failure to mention anything about damage to PW1's car, the sound she heard on impact or that the appellant used the term "fucking Toyota" for at least three times as minor details that had been left out and that they were not material or significant inconsistencies between her evidence and her witness statement. He dismissed the discrepancies between the evidence of PW1 and PW2 which included the sound that they claimed they each heard on impact and that PW2 did not hear PW1 swear at the scene. In my assessment, I have difficulties with the evidence of PW1 and*250
+ PW2 on the various points I have highlighted and as a consequence I view the case somewhat differently from the Magistrate.
+
+The charge of dangerous driving: 
+
+10. The offence of dangerous driving under s.36(4) of the Road Traffic Ordinance (Cap.374) is committed when (a) the way a person drives falls far below what would be expected of a competent and careful driver; and (b) it would be obvious to a competent and careful driver that driving in that way would be dangerous. Section 36(7) sets out the circumstances that should be taken into account in determining what would be expected of, or obvious to, a competent and careful driver in a particular case, regard shall be had to all the circumstances of the case including: 
+
+(a) the nature, condition and use of the road concerned at the material time;
+
+(b) the amount of traffic which is actually on the road concerned at the material time or which might reasonably be expected to be on the road concerned at the material time; and
+
+(c) the circumstances (including the physical condition of the accused) of which the accused could be expected to be aware and any circumstances (including the physical condition of the accused) shown to have been within the knowledge of the accused.
+
+
+
+
+11. The nature and manner of a person's driving of a motor vehicle is determined by an objective assessment of the facts and circumstances.
+12. The Magistrate relied principally on the film footages which I have viewed. They depict the appellant reversing slowly and for a short distance in order to make a right-hand turn. PW2 was moving away from the carriageway of the car park to the pedestrian pavement. The driving of the appellant in these circumstances was not dangerous. The Magistrate accepted the appellant was driving slowly and had his head turned around so that he was looking at what was behind him of which he had a clear view as he was driving an open convertible vehicle. In my view, the film footages do not support a conviction on this charge.
+
+The charge of failing to stop or report: 
+
+13. So far as material s.56 of the Road Traffic Ordinance provides: 
+
+251 (1) Where, owing to the presence of a vehicle on a road, an accident occurs whereby: 
+
+(a) personal injury is caused to a person other than the driver of that vehicle; or
+
+(b) damage is caused to: 
+
+(i) a vehicle other than that vehicle or a trailer drawn thereby;
+
+(ii) an animal other than an animal in or on that vehicle or a trailer drawn thereby; or
+
+(iii) any other thing not being in or on that vehicle or a trailer drawn thereby,
+
+the driver of that vehicle shall stop.
+
+(2) In the case of any such accident, the driver of the vehicle shall, if required, give to any police officer or to any person having reasonable grounds for so requiring the following particulars: 
+
+(a) his name and address;
+
+(b) the name and address of the owner of the vehicle; and
+
+(c) the registration or identification mark or number of the vehicle.
+
+(2A) If, in the case of an accident referred to in subsection (1)(b), the driver of the vehicle for any reason does not give the particulars mentioned in subsection (2), he shall report the accident in person at the nearest police station or to any police officer as soon as reasonably practicable, and in any case not later than 24 hours after the accident.
+
+
+
+
+14. It has been held that where there is no evidence on which to base a finding that there had been a collision between vehicles where damage resulted, there was no duty to stop or to report to the police. In the context of s.56, "to stop" requires the drivers of vehicles involved in a collision where damage or personal injuries has resulted, to exchange particulars and if a party fails to do so by providing any or sufficient particulars, then there is a failure to stop even though the vehicle had stopped. See HKSAR v McKeever (unrep., HCMA 381/2011, [2011] HKEC 1107) 
+(22 July 2011).
+ *252
+ 15. The Magistrate upon viewing the CCTV footage found that the defendant's car moved forward causing a jerk of PW1's car whilst it was stationary. I have also viewed the relevant footage and it is extremely difficult to discern whether there was any movement to PW1's car. It is reflected at best by a very slight movement. On this basis, a collision would have been ever so slight and possibly not noticeable.
+16. The Magistrate noted that even though the photographic evidence did not reveal a scratch mark, there was the evidence of PW1 who made a small circle at the centre of the bumper of his car to depict where the scratch mark was located. The Magistrate relies on the evidence of a police constable who stated he noticed a scratch mark of 2 feet in length at the rear of PW1's vehicle. This was contrary to the evidence of PW1 and PW2 as well as the film footages and other photographic evidence. The Magistrate accepted the evidence of PW1 that he saw a minor scratch on the bumper of the car which he found to be a result of a collision between the appellant's vehicle and PW1's vehicle. From my assessment of the evidence, it is quite uncertain whether a scratch mark was correctly identified, and if it was, whether it is attributable to this incident. PW2 gave evidence that she saw scratch marks which differed from PW1's evidence but she did acknowledge that she was not able to say whether the scratch marks she saw were not previously there.
+17. The Magistrate acknowledged that PW1 said that it was possible that the appellant's body language suggested there was no collision. What PW1 actually said came from this exchange in cross-examination. 
+
+Q. And that far from accepting that a collision had taken place, that the defendant said to you that his car had never touched your car, do you recall that?
+
+A. Don't remember.
+
+Q. Well, is it possible that he said it?
+
+A. Possible because his body language had told that there was no collision.
+
+
+
+
+18. This gave support to the appellant's evidence that he believed that there had been no collision between the vehicles. A matter that had been rejected by the Magistrate and which he said had been contradicted by the film footage but as I have pointed out, the contact between the vehicles was very slight and may not have been noticeable.
+19. The Magistrate said that he found that the appellant's body language telling PW1 that there was no collision was merely a denial or taking it to its highest his personal belief of no collision having occurred. This was the appellant's case that he believed that there*253
+ had been no collision between the two vehicles. The Magistrate however in his analysis, said that the only reasonable inference was that the appellant knew his vehicle collided into the rear of PW1's vehicle and even though he waited for about four minutes, he drove away having failed to stop by exchanging particulars and to report the accident to the police. As I have explained, I view the matter differently and find that the appellant believed that contact between the vehicles had not been made and no damage had been caused.
+
+Conclusion: 
+
+20. Let me say in conclusion that this case should never have graduated to the level that it did. At its very highest, it was a bare bump of vehicles possibly resulting in a single minor scratch. It required the parties involved to behave in a civil and mature manner which in this instance simply required them to acknowledge that it was either so minor that nothing needed to be done about it or that the parties exchange particulars in order to resolve the matter later. I find that PW1 behaved in an abusive and aggressive manner from the outset. He did not seek from or provide to the appellant the necessary personal particulars that should be exchanged after an incident of this type. He made a call to the police in circumstances where no effort had been made on his part to adhere to the requirements under s.56. I find that the appellant remained passive throughout the incident in the belief that his vehicle did not come into contact with PW1's vehicle and that he waited for a while but then left. He was wrong to have done so but it appears he did not know that PW1 had called the police. The evidence as to the damage to the car is uncertain and based on PW1's evidence that he saw a single minor scratch mark on the bumper of his car. I am not satisfied that the offences of failing to stop and to report had been proven beyond a reasonable doubt. I find that the dangerous driving charge not to have been made out even on PW2's evidence. The appellant reversed slowly for a short distance in order to move forward to make a right-hand turn. PW2 was standing in the car park carriageway when she was video recording the appellant having put back a traffic cone at the rear of his car and then moved away as the appellant moved slowly back in order to move forward.
+21. Accordingly, for the reasons I have given, I uphold the appeal and discharge the convictions on charges 2, 3 and 4 and set aside the sentences on each of these charges. On the issue of costs, the parties are to file written submissions within seven days of the date of this judgment.
+Reported by Shin Su Wen
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

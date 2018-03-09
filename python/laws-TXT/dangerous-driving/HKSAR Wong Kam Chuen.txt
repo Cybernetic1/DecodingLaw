@@ -1,0 +1,125 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 24 February, 2018 at 22:33 HKT
+
+  
+
+Client ID : HKU_WLA-1
+
+Title : HKSAR v Wong Kam Chuen
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Wong Kam Chuen
+21 September 2017
+District Court
+DC
+Criminal Case No 351 of 2017
+DCCC 351/2017
+
+Citations:[2017] HKEC 2374 English Judgment
+
+Presiding Judges: Deputy Judge E Lin
+
+Phrases: <Y<Criminal sentencing - road traffic offences - dangerous >Y><Y< >Y><Y< driving causing grievous bodily harm - using vehicle with fitting other than in good and serviceable condition - light goods vehicle with irregularities driven by the defendant jumped red traffic light knocked down 19-year-old pedestrian crossing road legitimately at pedestrian crossing, causing acute brain injury - victim still suffering from hearing impairment in right ear and double vision - defendant’s culpability considered>Y>
+
+Counsel in the Case: Present: Ms Angel Yuen, PP of the Department of Justice, for HKSARMr Tang Yiu Wing, of Ivan Tang & Co, for the defendant
+
+Cases cited in the judgment: HKSAR v Lee Yau Wing (unrep., CACC 282/2012, [2012] HKEC 1713, [2013] 1 HKC 572) 
+
+HKSAR v Lui Chung Tak (unrep., CACC 221/2012, [2013] 2 HKLRD D2, [2013] HKEC 204) 
+
+Secretary for Justice v Lam Siu Tong [2009] 5 HKLRD 601 
+
+Secretary for Justice v Poon Wing Kay [2007] 1 HKLRD 660 
+
+
+Judgment: 
+
+
+Deputy Judge E Lin
+1. In these proceedings, the defendant Wong Kam Chuen is charged with, pleaded guilty to the following charges:- 
+
+<G<(1) Causing grievous bodily harm by >G><G<dangerous>G><G< >G><G<driving>G><G<, contrary to section 36A of the Road Traffic Ordinance, Cap 374;
+>G>
+<G<(2) and (3) Using a vehicle with fitting other than in good and serviceable condition, contrary to regulations 5(1)(b) and 121(1) of the Road Traffic (Construction and Maintenance of Vehicles) Regulations, Cap 374A.
+>G>
+
+2. He was convicted on his own pleas and admission of facts.
+
+Facts
+
+<Y<3. The charges arose from a traffic accident which took place on a traffic light-controlled pedestrian crossing at Waterloo Road, Hong Kong, Kowloon.
+4. At about 1 am on 22 September 2016, Miss Lau Ka Yee (aged 19, "the victim") started to cross the road slowly when the pedestrian light switched to her favour. After she had taken about 10 steps, she was knocked down on the second lane by a light goods vehicle owned and driven by the defendant.
+5. The crossing in question was a two-direction, six-lane road separated by a safety island. The speed limit was 50 kilometres per hour. The weather was fine and visibility good. The road surface was dry and the traffic volume moderate. The traffic lights at the crossing were functioning normally.
+6. When the accident occurred, the pedestrian light was green. There were no other cars stopping at the crossing and the victim had almost reached the safety island. The CCTV footage of a nearby building revealed that the defendant drove through the crossing at a consistent but moderate speed before the impact. Its brake light was on at or right after the collision.
+7. After the accident, it was observed that the front bumper of the defendant's vehicle was slightly deformed.
+8. Subsequent investigation revealed the following irregularities on the light goods vehicle, which resulted in the two additional charges:- 
+>Y>
+<Y<(1) the front windscreen was cracked and not properly repaired;
+>Y>
+<Y<(2) the automatic retraction function of the driver's safety belt was obstructed by a clip clamped onto the seatbelt webbing.
+>Y>
+<Y<
+>Y>
+<Y<Injuries to the victim
+>Y>
+<Y<9. The accident left the victim unconscious. She had a large laceration on the back of her head and was bleeding from the right ear. Detailed examination in Queen Elizabeth Hospital revealed acute brain injuries, fracture of the occipital skull bone, subsegmental collapses of the lung.
+10. She had to undergo two brain surgeries and had remained unconscious until 4 October 2016. She remained hospitalised until 18 November 2016.
+11. Owing to the traumatic cranial nerve contusion she sustained, the victim still suffers from hearing impairment in the right ear and double vision. The fracture in the longitudinal right temporal bone affects her right ear cavity.
+>Y>
+<Y<Discussions
+>Y>
+<Y<12. The maximum penalty for causing grievous bodily harm by >Y><Y<dangerous>Y><Y< >Y><Y<driving>Y><Y< is a fine at level 5 and imprisonment for 7 years.
+13. The predominant sentencing principle for this offence is general deterrence. It also has the secondary purpose of educating the public as to the potential dangers to others involving driving a motor vehicle and that social responsibility rests on the shoulders of drivers to drive safely and with due regard to others.
+14. The predominant consideration is the culpability of the driving: see the judgment of HKSAR v Lee Yau Wing, CACC 282/2012 
+. The effect of the driving on the victim is also a relevant consideration: Secretary for Justice v Poon Wing Kay [2007] 1 HKLRD 660 
+at 66A,D.>Y>
+
+Assessment of the defendant’s culpability
+
+15. There is no evidence that the defendant's speed was excessive at the time.
+16. From the facts, the pictures taken at the scene and the sketch map of the crossing in question, it was obvious that the defendant must have a clear and unobstructed view of that particular stretch of the road. The traffic was light. There was no other vehicle on the road to impede the driver's view.
+17. The victim had waited for the traffic light to turn in her favour before crossing. Her pace was slow. As a pedestrian, her behaviour had been exemplary.
+18. Since the lights for the pedestrians were green, those controlling the traffic must have been red. The facts revealed that the defendant must have consciously chosen to run through a red light and had, for reasons unknown to us, failed to notice the victim on the road and proceeded on without slowing. That is an aggravating factor which raises the level of culpability: see Secretary for Justice v Lam Siu Tong [2009] 5 HKLRD 601 
+.
+
+19. In the Lee Yau Wing case (supra), the appellant knowingly drove through a red light although he was aware that his vision of the pedestrian crossing was incomplete. The Court of Appeal found that such conduct revealed a wilful refusal to stop at the crossing and a deliberate risk-taking in allowing his vehicle to drive through the crossing. Nonetheless, such facts are considered very unusual circumstances and the Court of Appeal approved the 15 months' starting point adopted by the trial judge, but added that:- "In other circumstances the conduct of deliberately driving through a red traffic light would attract a much higher starting point."
+
+
+20. In the case of HKSAR v Lui Chung Tak, CACC 221/2012 
+, the appellant, the driver of a light goods vehicle, drove through a pedestrian crossing when it was turning from amber to red. It struck an 83-year-old female pedestrian who had already reached the third lane of the carriageway. She started crossing when the pedestrians' lights were green.
+21. The Court of Appeal considered other decisions on similar facts and concluded that the gravity of the case called for a starting point far short of the original 2 years' imprisonment and substituted it by 20 months' imprisonment. That was a case after trial.
+22. In the present case, it was obvious that the defendant was taking a deliberate risk and, for reasons unknown to us, he failed to see when it was obvious to any reasonable and competent driver with due care that there was someone on the road. Although it was the middle of the night, the road was a public road and was well lit.
+23. In the circumstances, I consider a starting point of 21 months appropriate starting point.
+24. I turn to consider the other two charges relating to the condition of the vehicle.
+25. As was pointed out by the defence lawyer, that offences of this kind usually warrants a fine. In this case, it seems the finding of irregularities on the vehicle was collateral to the accident. There is no evidence to suggest that the broken front windscreen affected the defendant's judgment or his vision. Likewise, there could be no suggestion that the defective safety belt affected his manner of driving.
+26. What I can say is these regulations are there for a reason: to prevent situations in which the condition of a car could aggravate or affect the quality of the driving. In the case of the third charge, the use of a safety belt is for the safety of the driver. It might be that he had been on the wheel for a very long time and the constraint of the safety belt brought about discomfort, yet this is not a reason to deactivate the protective mechanism.
+27. So, for these two charges, I will just fine the defendant $3,000 for each charge.
+
+Mitigations
+
+28. I turn to consider the mitigating circumstances put forward.
+29. The defendant is aged 45. He had a good driving record and, despite a transgression when he was relatively young, he had been leading a law-abiding life. The defendant had been a good provider for his family.
+30. These are the matters not relevant for sentencing. As has been explained before, the principal consideration is to deter others from driving irresponsibly. The court has to repeat time and again that driving a machine as powerful as a motor vehicle on the road is a great power to have, and along with this privilege should come an equally hefty responsibility. In passing sentence, it is my duty to send out a clear message to the public that driving irresponsibly would have its consequences. So his previously good record, the support from his family are not exactly valid mitigating factors in the circumstances of this charge.
+31. The only mitigating factor is the fact that he pleaded guilty and, for this reason, I will accord him with the usual one-third discount.
+32. For the first charge, he is sentenced to 14 months' imprisonment.
+33. According to the law, there is also a mandatory disqualification period. I do not see any good reason not to disqualify him. So the defendant is disqualified for 2 years.
+34. The fine is $6,000 in all. $5,000 is to be deducted from his bail. Balance by 28 September 11 am or 7 days imprisonment consecutive to the other order.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

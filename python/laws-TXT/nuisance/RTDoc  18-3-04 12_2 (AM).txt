@@ -1,0 +1,355 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:02 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Shek Sze Ming v Yiu Yuet Sim
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Shek Sze Ming v Yiu Yuet Sim
+
+
+
+2 September 2015
+District Court
+DC
+Civil Action No 244 of 2013
+DCCJ 244/2013
+
+Citations:[2015] HKEC 1826 English Judgment
+
+Presiding Judges: Deputy Judge M Lam
+
+Phrases: <Y<Tort - intentional tort - public nuisance - whether established>Y>
+
+Counsel in the Case: Ms Ifan Chan, instructed by Chin & Associates, for 1st, 2nd and 3rd plaintiffsMr Ng Man Sang Alan, instructed by Hastings & Co for the defendant
+
+Cases cited in the judgment: All China Express Ltd (unrep., HCA 2223/2014, [2014] HKEC 2038) 
+
+Kwoon Chung Motors Co Ltd (unrep., HCA 2222/2014, [2014] HKEC 1995) 
+
+Leung Tsang Hung v Incorporated Owners of Kwok Wing House [2007] 10 HKCFAR 480 
+
+
+Judgment: 
+
+
+Deputy Judge M Lam
+
+Introduction
+
+1. This dispute concerns a small Chinese temple ("Upper Temple") situated at 22C Mang Kung Wo Village, Sai Kung, New Territories. The size of it is approximately 132 square feet.
+2. In the statement of claim, the 1st plaintiff ("Mr Shek"), the 2nd plaintiff ("Mr Po") and the 3rd plaintiff ("Madam Leung") claim against the defendant ("Madam Yiu"), in essence, for the following reliefs:- 
+
+(a) a permanent injunction to restrain Madam Yiu from causing or continuing nuisance by "turning off the water tape [tap] and electricity supply of the [Upper] Temple and/or by chaining the water meter and electricity meter box and/or damaging the electric wires" of the Upper Temple ("Proposed Injunction");
+
+(b) a mandatory order that Madam Yiu do:- 
+
+(i) deliver up the key for the letter box for the Upper Temple ("Letter Box") to Mr Shek ("Proposed Order A");
+
+(ii) unlock the chain attaching to the water meter ("Water Meter") and the lock of the electricity meter ("Electricity Meter") box of the Upper Temple ("Proposed Order B"); and
+
+(iii) change the registration of the Water Meter with the Water Supplies Department ("WSD") and the Electricity Meter with the China Light & Power Hong Kong Limited ("CLP") under Madam Yiu's name to Mr Shek's name ("Proposed Order C"); and
+
+(c) damages.
+
+
+3. Whilst defending the plaintiffs' claim, Madam Yiu counterclaims against the plaintiffs in trespass for:- 
+
+(a) a declaration that the plaintiffs are not entitled to lock her out of the Upper Temple by locking the door ("Door") of the Upper Temple and the outer gate (Gate") of the boundary enclosing the Upper Temple or in any way howsoever; and
+
+(b) an injunction restraining the plaintiffs from locking Madam Yiu out of the Upper Temple.
+
+
+4. At trial, Ms Chan, Counsel for the plaintiffs, confirms that the plaintiffs' claim is solely premised on public nuisance and that the claim for damages is abandoned.
+
+Background
+
+5. In or around early 1960s', a Chinese temple known as " 九天玄女義女堂 " was established and managed by the late Madam Leung Kam ("Madam Kam") at 22B Mang Kung Wo Village ("Lower Temple"). She prayed for blessings and sought for divine advice for the believers of the Buddha at it. She also provided free medical treatment and care to them. The believers were at liberty to make donations to her if they wished.
+6. Subsequently, Mr Tsang Chun, the former village representative of the nearby Pak Sha Wan Village, obtained Crown Land Permit to occupy a piece of land with an area of 100 square feet ("Licenced Land") for the purpose of establishing a temple. The Licensed Land was near the Lower Temple. The arrangement was in return for Madam Kam's kindness to have cured him of disease.
+7. In or about 1968, the Upper Temple was built by Madam Kam with her own money and donations from the believers. It was however not built on the Licensed Land but on a piece of government land near it. The Upper Temple was a squatter hut. It was registered as an unauthorized structure with temporary permission to exist. No one has been registered as possessor or occupier of it. It was restricted to 132 square feet in size with a small awning.
+8. The Upper Temple was on a small hill which swelled gently from the Lower Temple toward the Kei Pik Shan cemetery. The Upper Temple and the Lower Temple (collectively as "Two Temples") were near each other and adjacent to the road leading to the cemetery, with the Lower Temple at a lower gradient down the slope.
+9. A "Medicine Buddha" ("藥師佛") statute was placed for worship in the Upper Temple. The Upper Temple was known as "藥師佛明堂佛廟". It was locked. Any believer who wanted to worship at it had to obtain the key of it from Madam Kam who normally stayed in the Lower Temple.
+10. In or about 1962, Madam Yiu (now aged 90) started to reside at 12 Mang Kung Wo Village, opposite the Lower Temple. In or about 1964, she developed a close relationship with Madam Kam as spiritual sisters worshipping the Buddha as in the Two Temples. She took care of Madam Kam until the latter's death in 1986. She then buried Madam Kam in the Kei Pik Shan cemetery according to the latter's wish.
+11. There is no dispute that Madam Yiu was nominated to be Madam Kam's successor to act as the president and person-in-charge of the Lower Temple by the believers in 1986 and that she has been in possession and in charge of it until now. She had the practice of assigning some sundry tasks to the believers in assisting her management.
+12. On the other hand, the question of whether Madam Yiu was also elected as the president and person-in-charge of the Upper Temple in 1986 and had been in charge of it is in dispute. The issue will be elaborated further below.
+13. Madam Yiu applied for the supply of electricity and water (collectively as "Utilities") to the Two Temples in 1987 and 1994 respectively. She also arranged to have the Letter Box installed for the Upper Temple and another one for the Lower Temple in 1989.
+14. In about 2004, Madam Yiu initiated refurbishment for the Two Temples which lasted a few months. After that, the size of the Upper Temple remained unchanged as around 132 square feet with no kitchen, toilet or room inside or attached to it.
+15. From 2006 to 2008, Mr Po caused to have a number of unauthorized structures ("Unauthorized Structures") constructed close to the Upper Temple and the Licensed Land. They were attached to (as toilet, kitchen, rooms) or surrounding (as pavilion, storage, porch, shrine, incinerators, incense burners and entrance gates) the Upper Temple. Three gates were constructed at the long-standing boundary which was not far away from the Upper Temple.
+16. On 31 July 2011, Madam Yiu, accompanied by some believers, went to the Upper Temple and demanded Mr Po to leave the Upper Temple ("July Incident"). She then locked it. Thereafter the door and the lock of it were repeatedly damaged and removed at different times. She called the police for assistance.
+17. Shortly after the July Incident, Madam Leung ceased assisting Madam Yiu to pay for the Utilities charges or cook vegetarian food for the Two Temples as she had done for years.
+18. In the last quarter of 2011, Madam Yiu stopped the supply of the Utilities to the Upper Temple.
+19. In or around 2012, almost all of the Unauthorized Structures were removed or fenced off by the order of the Lands Department including the three gates. Thereafter, the Gate (with a lock) was constructed at the boundary without authorization from the government. It provided the sole entrance to the path to the Upper Temple. The lock of the door installed by Madam Yiu was changed.
+20. In or around February 2012, the Door was locked. In or around May 2012, the Gate was locked. A paper was posted upon the Gate giving a phone number for making request for opening the Gate. Madam Yiu has not attended the Upper Temple since then.
+
+The plaintiffs’ case
+
+21. It is the plaintiffs' pleaded case that the plaintiffs had neither exclusive possession of the Upper Temple nor any interest in it. They nevertheless had exclusive control of it because:- 
+
+(a) Mr Shek became the licensee of the Licensed Land by his appointment of the village representative of the Pak Sha Wan Village in 2003;
+
+(b) Mr Po has taken over the management of the Upper Temple since Madam Kam's death in 1986 according to her instruction in around 1977;
+
+(c) Madam Leung has assisted Mr Po in the management of it.
+
+
+22. They accused Madam Yiu of wrongfully evicting them from the Upper Temple in or around August 2011 by locking and subsequently welding the door of it. They therefore replaced the door constructed by Madam Yiu to gain access to it.
+23. In or about late 2011, Madam Yiu stopped the supply of the Utilities to the Upper Temple. They complained that her unreasonable acts have caused nuisance to the believers, visitors and them. They therefore commenced the present action on the ground of public nuisance.
+24. They denied ever locking Madam Yiu out of the Upper Temple. They alleged that the Door and the Gate were locked by volunteer believers to prevent strangers from seeking overnight shelter at the Upper Temple. They have been willing to inform Madam Yiu the pass code for the Gate if she has asked for it.
+
+The defence case
+
+25. The defence case is that Madam Yiu was nominated by the believers to be the president and person in charge of not only the Lower Temple but also the Upper Temple in 1986.
+26. After the refurbishment of the Upper Temple in 2004, her possession, control and management of it remained unchanged. She however attended the Upper Temple less frequently because of her old age. She had therefore assigned Mr Po to clean up the Upper Temple and to remove the weeds around it for her since 2004.
+27. However, without her consent, Mr Po has done a number of unreasonable acts at the Upper Temple which caused danger and disturbances to the villagers who complained Madam Yiu to have authorized those acts: construction of the Unauthorized Structures, supply of worshipping items and services for profits which caused excessive use of electricity for lightings and amplifiers.
+28. She therefore ordered Mr Po to leave the Upper Temple in the July Incident and locked it up. Shortly after, Madam Leung stopped paying the Utilities bills and cooking vegetarian food for the Two Temples which she had done for Madam Yiu for years.
+29. Subsequently, Mr Po re-entered the Upper Temple without Madam Yiu's authorization. Later on, Madam Yiu stopped the supply of the Utilities to the Upper Temple. Thereafter, unauthorized abstracting of the Utilities for the Upper Temple and the Unauthorized Structures took place. In December 2011, she locked the Electricity Meter and Water Meter ("Two Meters") up.
+30. In or about February 2012, the plaintiffs locked up the Door and later the Gate to prevent Madam Yiu and her followers to gain access to the Upper Temple. Madam Yiu therefore counterclaims on the ground of trespass, alleging that the plaintiffs have prevented her from possessing and managing the Upper Temple, and thereby unlawfully removing her from her presidency over the Upper Temple.
+
+Public nuisance
+
+31. The legal principles governing public nuisance are summarized in the case of Leung Tsang Hung v Incorporated Owners of Kwok Wing House [2007] 10 HKCFAR 480 
+. The parties have no disagreement on it.
+32. Applying the legal principles, the plaintiffs' claim will succeed providing that the following issues are found in favour of the plaintiffs:- 
+
+(1) whether the Upper Temple was a private temple that its possession and control lied solely with Madam Yiu;
+
+(2) whether the plaintiffs, visitors and believers visiting the Upper Temple constituted a class of the public;
+
+(3) whether the right to have the supply of the Utilities for the purposes as pleaded in paragraph 14 of the statement of claim was right that was common to members of the public;
+
+(4) whether the disconnection of supply of the Utilities to the Upper Temple was a state of affairs which endangered the lives, safety, health, property or comfort of the public; or obstructed the public in the exercise or enjoyment of any right that is common to members of the public;
+
+(5) whether the plaintiffs have suffered some particular, foreseeable and substantial damage over and above that suffered by the public at large;
+
+(6) whether Madam Yiu knew or ought reasonably to have known that her acts would result in a nuisance hazard presenting a real risk of harm to the public;
+
+(7) whether as a matter of discretion, the court should grant the plaintiffs an order in terms of the prayer pleaded in the statement of claim.
+
+
+
+Issue (1) possession and control of the Upper Temple
+
+33. The first issue of whether Madam Yiu had the exclusive possession and control of the Upper Temple has a direct impact on the claim of public nuisance and the counterclaim of trespass which calls for prior consideration.
+34. The undisputed facts are:- 
+
+(a) at the beginning, the Upper Temple was built as an adjunct of the Lower Temple. Madam Kam was the president and person-in-charge of the Two Temples.
+
+(b) Madam Yiu stood in a close relationship with Madam Kam for decades.
+
+(c) after that, Madam Yiu was elected and became the president and person-in-charge of the Lower Temple. She adopted the practice of Madam Kam by providing divine advice and free medical treatment and care to the believers.
+
+(d) the keys to the Two Temples were given to and kept by Madam Yiu. The Upper Temple had all along been locked. Anyone who wanted to worship in the Upper Temple had to get the key from the Lower Temple with her express or implied consent.
+
+(e) the donations kept by Madam Kam were passed to Madam Yiu.
+
+(f) from 1986 to sometime after 2004, Madam Yiu collected the donations from the Two Temples for the running and upkeep of them. Thereafter, Madam Leung used the donations collected from the Upper Temple to pay for the Utilities charges at Madam Yiu's request.
+
+(g) Madam Yiu applied for the supply of the Utilities to the Two Temples. She paid for the deposits. The Two Meters were registered in her name;
+
+(h) she caused to have the Letter Box installed and has kept the key to it since then;
+
+(i) the Utilities bills have been sent to the Letter Box and paid by Madam Yiu out of the donations with the assistance of the believers, including Madam Leung.
+
+(j) from time to time, she had attended the Upper Temple to clean up and worship together with the believers.
+
+(k) in 1998, in the name of the president of the Two Temples, she wrote to a temple in China, known as " 梅庵 ", for some collaboration between the temples.
+
+(l) she initiated the refurbishment for the Two Temples in 2004. She contributed to the costs and appealed to the believers to make contributions. She kept the receipt of the refurbishment costs.
+
+(m) Mr Po, being one of the sworn sons of Madam Kam, only started to frequent the Upper Temple for cleaning up and removing weeds after his retirement as a fisherman in 2004;
+
+(n) according to the agreed transcript of the verbal exchange between Madam Yiu and Mr Po in the July Incident, Mr Po had neither denied nor disputed Madam Yiu's assertion of presidency over the Upper Temple when he was ordered to leave. Instead, he expressly and impliedly admitted that she was the president of the Upper Temple and that his access to and management of it was pursuant to her instruction.
+
+(o) Madam Leung started to worship at the Two Temples a few months after the death of Madam Kam. Her voluntary work of cooking vegetarian foods (at the Lower Temple) for the Two Temples as well as effecting payments for the Utilities for years was performed at the request of Madam Yiu. She only stopped such services after the July Incident.
+
+
+35. In my view, Madam Yiu's case sits comfortably with the background facts. In view of the history of the Two Temples, the close relationship between Madam Kam and Madam Yiu, the close distance between the residence of Madam Yiu and the Upper Temple, Madam Yiu being a loyal believer for decades, it is normal and natural that Madam Yiu would have been elected as the successor of Madam Kam and person in charge of the Two Temples. Otherwise, she would not have been given the key and donations of the Upper Temple. Coupled with her arrangements for the Utilities and the Letter Box as well as the management of the Upper Temple, there is ample evidence of her exclusive possession and control of the Upper Temple. She had exclusive control of entry, finance and management of the Upper Temple. There is simply no reason that the management and control of the Two Temples would have to be split and separated.
+36. In fact, both Mr Po and Madam Leung have expressly and impliedly admitted Madam Yiu's presidency over the Upper Temple in their witness statements and in court. It was said that Mr Po had taken over the management of the Upper Temple because Madam Yiu had forgone her right to manage it in 2004.
+37. Against this background, I believe that Madam Yiu was elected as the president and person-in-charge of the Two Temples but not only the Lower Temple upon the death of Madam Kam in 1986. She did not just carry the honorary title of president. She actually had the exclusive possession, control and management of the Two Temples until sometime after the July Incident.
+38. I do not believe the plaintiffs' allegation that Mr Po had been appointed as the person-in-charge of the Upper Temple as pleaded in the statement of claim. The plaintiffs indeed raised a wholly different case from the one advanced in their pleadings.
+39. It is Mr Po's pleaded case that in or about 1977 Madam Kam asked him to take over the management of the Upper Temple after her death ("1977 Agreement"), he therefore took over the management of it after her demise in 1986. He supplemented in court that he accepted her offer in 1978.
+40. However, his version of events changed substantially when his evidence went along. First, his pleaded case was disapproved by his own evidence that he was not aware of Madam Kam's death until several months later. He had been fully occupied by his full time job as a fisherman and had no time to manage the Upper Temple until his retirement in around 2004.
+41. Second, he gave conflicting versions of event on how he had taken over the management of the Upper Temple. Contrary to the pleaded case, his witness statement stated that his management of the Upper Temple only started in 2003. It was to honour his promise to manage the Upper Temple for Madam Yiu who had forgone her management in 2003 ("2003 Agreement") as well as to accede to the request of Mr Tsang Chun who wanted him to manage it.
+42. Third, such confusing position further runs counter to his statement given to the police on 21 October 2011 in that he kept silence on the 1977 Agreement and the 2003 Agreement when he explained the source of his power for managing the Upper Temple. Instead, he gave a new version that his management of the Upper Temple was by the order of the Buddha given to him in his dream. He could not give any convincing explanation on the inconsistency of the four different versions of the event.
+43. Fourth, he failed to explain why he would have let Madam Yiu apply for and keep the Letter Box and the Two Meters for years even though he alleged that he was the person in charge of the Upper Temple but not Madam Yiu.
+44. Fifth, in the July Incident, he expressly and impliedly admitted Madam Yiu's presidency and control over the Upper Temple and her right to evict him. He even agreed to comply with her direction to leave the Upper Temple but just asked for more time to leave.
+45. Sixth, as his evidence went along, he dramatically changed his case by alleging that he had never had exclusive control and management of the Upper Temple, which lied with some other persons. He only played a minor role in cleaning, removing the weeds for the Upper Temple and arranging offerings to the Buddha. This allegation undermined his pleaded case as well as the evidence of Mr Shek.
+46. Seventh, his explanation on giving up his control and management of the Upper Temple to someone else is his lack of management ability and his status of not being a villager of Pak Sha Village. This explanation is illogical which goes against the 1997 Agreement and the 2003 Agreement, the alleged request of Mr Tsang Chun and the order of the Buddha.
+47. Eighth, Mr Po and Mr Shek gave inconsistent evidence in this regard. Mr Po said that the nomination of the person in charge of the Upper Temple was made by Mr Shek who was the owner of it. On the contrary, Mr Shek confessed that he in fact had no say in nominating the persons in charge of it which was in fact decided by Mr Po. On cross-examination on this contradictory allegation, Mr Po failed to give any convincing explanation.
+48. I also find Madam Leung's denial of the appointment of Madam Yiu as the person-in-charge of the Upper Temple is unsupported with evidence. She only started to visit the Two Temples many months after the death of Madam Kam. Further, she gave no sensible explanation as to why she would have complied with the direction of Madam Yiu to act as a volunteer cook and arrange payment settlement for the Utilities charges for the Upper Temple for years.
+49. By a slip of tongue, she gave evidence that in the early days, the believers got water for the person in charge of the Upper Temple whom she admitted was Madam Yiu.
+50. As to Mr Shek, his evidence went completely against the pleaded case. Under cross-examination, he declared that he was neither a believer of the Medicine Buddha nor a follower of Madam Kam. His first visit to the Upper Temple was in October 2011. His involvement in the Upper Temple was minimal and limited to the issue of a written notice allegedly to have nominated a number of persons to manage the Upper Temple as well as adding the words "Pak Sha Village" to the name plate of the Upper Temple after the July Incident. He further clarified that those acts were indeed arranged by Mr Po but declared to be done under his authority.
+51. He confessed that such acts were done under a mistaken belief that the Upper Temple was erected on the Licensed Land and therefore owned by him. Had he found out the truth that the Upper Temple was not on the Licensed Land, he would not have done those acts.
+52. He said that he had stopped involving himself in any matters relating to the Upper Temple after finding out the truth in late 2011 and early 2012. He admitted that he was not related in any way to the Two Temples.
+53. Having considered all the evidence and submissions of both parties, I accept the case of Madam Yiu and find her and her two witnesses to be credible witnesses. They are firm and forthcoming. Their evidence is logical, consistent with the background facts and remains unshaken during cross-examination. On the other hand, Mr Po and Madam Leung are not honest witnesses. They are evasive and keep changing their evidence. I have no hesitation in rejecting their allegations and evidence which are contrary to those of Madam Yiu and her witnesses.
+54. In all, I find that Madam Yiu, being the president and person in charge of the Two Temples, had exclusive possession and control of the Upper Temple from 1986 to sometime after the July Incident. She adopted the practice of Madam Kam. She presided over and led the believers in their worship at the Two Temples.
+55. In about 2004, she refurbished the Two Temples with the assistance of some believers. From 2004 to the July Incident, she entrusted Mr Po the task of cleaning the Upper Temple and clearing the weeds around it for her.
+56. He however caused the construction of the Unauthorized Structures as well as the supply of worshipping services and items at listed prices, but even so, the plaintiffs have never denied or challenged Madam Yiu about her possession, control and management over the Upper Temple even until the July Incident. There is no evidence that they have ever taken any steps to dispossess her even until the July Incident.
+57. The fact is Mr Po expressly and impliedly admitted Madam Yiu's presidency and management over the Upper Temple in the July Incident. Further, Madam Leung continued to provide services to the Two Temples pursuant to Madam Yiu's direction from 1990s' until shortly after the July Incident.
+58. Likewise, Madam Yiu has never renounced her possession, control and management of the Upper Temple. She only delegated some management tasks to Mr Po and Madam Leung to assist her.
+59. My finding is Mr Po's control and management of the Upper Temple was derived from the authority and power given by Madam Yiu. It was until the July Incident that she terminated the authority given to him and resumed her direct exclusive possession, control and management of the Upper Temple.
+60. I am not impressed by Ms Chan's argument that in the absence of a screening process for the persons entering into the Upper Temple, the Upper Temple was not a private temple. She could however not put forward what screening process is required for the purpose of a private temple. Her argument simply ignores the fact that the Upper Temple has throughout been installed with a door and a lock and was under daily management. There is indeed no evidence to suggest that it has ever been abandoned or open to all the members of the public for use or purpose other than for worshipping the Medicine Buddha.
+61. In my judgment, the Upper Temple has been a private temple since its construction. It was constructed by Madam Kam and exclusively possessed, controlled and managed by her and subsequently by Madam Yiu. The entry and use of it has throughout been regulated. Madam Yiu had clear and exclusive possession of it with the intention to possess.
+62. It was only after the July Incident, Madam Yiu was excluded from the Upper Temple by the locking up of the Door and the Gate without her consent and under her protest. Her intention to possess the Upper Temple was further evidenced by her acts in and after the July Incident. She locked up the Upper Temple. She posted notices and sent letter to Mr Shek to assert her rights. She negotiated with the Two Authorities to insist on her sole control of the Two Meters. She sent her followers as well as seeking assistance from the police, the district councilors, committee of Mang Kung Wo Village and various government authorities to assert her presidency over the Upper Temple and to dispossess Mr Po.
+63. I take the view that the Upper Temple was and is a private temple that carries no public elements as required in public nuisance. As rightly conceded by Ms Chan, there is no room for the application of public nuisance in a private temple. The plaintiffs' claim is bound to fail.
+64. In any event, even if, which I do not so find, Madam Yiu has never had exclusive possession or control of the Upper Temple or that the findings of a private temple does not dispose of the application of the public nuisance. I still find the plaintiffs' claim must fail for the reasons I now turn to.
+65. The plaintiffs' complaint is that due to the disconnection of the Utilities supply, the nuisance that have been caused to the visitors, believers and plaintiffs who are responsible for the daily management of the Upper Temple as pleaded in paragraph 14 of the statement of claim are:- 
+
+(a) no water for cleaning the Upper Temple and the toilets;
+
+(b) no water for the kitchen for cooking and drinking;
+
+(c) no water for watering the plants grown around and inside the Upper Temple;
+
+(d) no electricity supply for the Upper Temple and candles are used for illumination.
+
+ (collectively as "Alleged Nuisance")
+66. I do not lose sight of the fact that the Alleged Nuisance happened not on an open public place, but on an enclosed small temple of approximately 132 square feet. In the early days, there was no supply of the Utilities.
+67. From its construction until now, the entry and the use of the Upper Temple has all along been regulated. It was restricted to worshipping the Medicine Buddha only. It was locked and the key was kept by Madam Kam and subsequently Madam Yiu at the Lower Temple.
+
+Issue (2) a class of public
+
+68. According to Mr Po's evidence, there have been on average about 5 to 6 believers and visitors visiting the Upper Temple on normal days and about 30 on the days of festivity. Madam Yiu's witness, Madam Yip Wai Lin, gave similar evidence that on average, 10 odd believers and visitors on normal days and 10 to 20 on the days of festivity. I also accept the evidence given by Madam Leung and Madam Yip that the total number of the believers was 100 odd.
+69. On the assumption that, which I do not so find, the Upper Temple was not a private temple or that Madam Yiu has never had exclusive possession or control of it. I accept that the number of believers and visitors visiting the Upper Temple is sufficient to constitute a class of the public.
+
+Issues (3) rights common to the public
+
+70. The plaintiffs fail to convince me as to how and why the rights to have the Utilities supply, not from natural sources as stream or sunlight but from WSD and CLP (collectively as "Two Authorities"), are rights that are common to the members of the public, not to mention that the supply of the Utilities to the Upper Temple was applied and secured by Madam Yiu with her own efforts and costs.
+71. First, it has never been an absolute right of a member of the public to be supplied with the Utilities from the Two Authorities. The supply will not be automatically provided for. Application will have to be made to and determined by the Two Authorities.
+72. Second, the Upper Temple was and is just a standalone small hut with statue inside. Upon its construction, there were no other adjunct structures as toilet, kitchen or room. The government has never authorized it to be expanded. The activities took place in it were cleaning and worshipping. At the beginning, there was no supply of the Utilities to it. The believers were used to use lanterns and candles for illumination and get water from the nearby streams and streets for decades. The vegetarian food was cooked at the Lower Temple. Undoubtedly, the supply of the Utilities from the Two Authorities is not a must for the believers or visitors visiting or managing it.
+73. Third, the supply of the Utilities to the Upper Temple was a voluntary act of Madam Yiu. She has been personally liable to all payments and maintenance responsibilities since the application for the Utilities. The plaintiffs fail to put forward any sensible argument to justify their rights to be supplied with the Utilities for their benefits and interests but at Madam Yiu's expenses and responsibility. To deprive Madam Yiu of her strict legal rights to use the Utilities but to compel her to pay and be responsible for the use and enjoyment of them by someone else could not be a right common to the public.
+74. Fourth, the plaintiffs demand the Utilities for cleaning the toilets, cooking and drinking at the kitchen. However, the said toilets and kitchen were unauthorized structures which were removed by the order of the Lands Department in around 2012.
+75. As for the purpose of cleaning, plant-watering and illumination of the Upper Temple, the history of the Upper Temple demonstrated that that could be done without the supply of the Utilities.
+76. Ms Chan tried to argue that as the believers and visitors have been enjoying the Utilities since 1990s', the Utilities have become part of the reasonable enjoyment of the Upper Temple that they are entitled to continue to receive. She however could not justify on what basis an act done by Madam Yiu voluntarily will impose on the latter a duty to continue those acts against her wish. Nor could she substantiate her another argument that as the Licensed Land and the Unauthorized Structures were near the Upper Temple, Madam Yiu had a duty to supply the Utilities to those areas. Such arguments carry no logic at all.
+77. By reason of matters set out above, I do not take the view that the right to be supplied with the Utilities from the Two Authorities was right that was common to the members of the public. The plaintiffs' claim is bound to fail.
+
+Issues (4) state of affairs
+
+78. I also do not find that the disconnection of the Utilities to the Upper Temple constituted nuisance hazard, a state of affairs of public nuisance.
+79. The disconnection might have caused a little inconvenience to the persons using the Upper Temple as illumination, cleaning and plant-watering jobs. The Alleged Nuisance is however a trivial one and is far from materially affecting the reasonable comfort and convenience of the believer, visitors using or managing the Upper Temple. The state of affairs is no way near endangering the lives, safety, health, property or comfort of the public; or obstructing the public in the exercise or enjoyment of any right that is common to members of the public. The interference with comfort and convenience is not so serious to constitute a nuisance. The complaint does not amount to an actionable nuisance. Their claim must fail.
+80. In the closing submission, Ms Chan shifted to argue that the disconnection of the supply of the Utilities poses a risk and hazard to the persons using the neighbour land. Not only that the complaint has not been pleaded or particularized in the pleadings, there is no evidence to justify the allegation.
+
+Issue (5) damage sustained by the plaintiffs over and above that suffered by the public at large
+
+81. I also hold the view that the plaintiffs are not entitled to bring a claim in public nuisance as they fail to show that they have suffered some particular, substantial and direct damage or injury over and above that suffered by the public at large. A detailed analysis of the criteria in assessing this issue can be found in the case of 
+Kwoon Chung Motors Company Limited HCA 2222 of 2014 
+and All China Express Limited HCA 2223
+ of 2014 
+(Unreported), 1 December 2014, at paras 23-27.
+82. As elaborated in paragraphs 50 to 52 above, Mr Shek admitted that he was not in any way related to the Upper Temple. Apparently he has no justification to bring a claim in public nuisance. His claim must fail.
+83. As to Madam Leung, it is her case that she was a believer and a volunteer cook. She therefore should have the rights to use the Utilities to cook. The fact is that the kitchen and the toilets have already been demolished. There was simply nowhere for her to cook at the Upper Temple. At any rates, it is her evidence that she ceased to cook long before the disconnection of the supply of the Utilities.
+84. As to Mr Po, his evidence in support of his claim is restricted to his allegation that he was only a volunteer worker and his work was limited to cleaning, weeds-removal and arrangement of fruits and flowers as offerings for the Buddha only.
+85. All three plaintiffs stressed that they had no financial gain or loss from the Upper Temple. In the premises, mere personal inconvenience caused by the disconnection of the supply of the Utilities for a small temple of 132 square feet without pecuniary damage, and the use of lanterns, torches or candles for illumination and getting water elsewhere for cleaning and plant-watering, could not be regarded as substantial and appreciably greater in degree than any suffered by the public. The plaintiffs failed to convince me they have suffered particular damage over and above the general inconvenience and injury suffered by the public.
+
+Issue (6) Madam’s Yiu’s knowledge that her acts would result in a nuisance hazard presenting a real risk of harm to the public
+
+86. Madam Yiu will only be liable for public nuisance if she knew or ought reasonably to have known that the disconnection of the supply of the Utilities would result in a nuisance hazard presenting a real risk of harm to the alleged class of public visiting the Upper Temple.
+87. Not only that I do not find the disconnection of the supply of the Utilities would result in a nuisance hazard, I indeed find the disconnection was justified with valid reasons. I accept all Madam Yiu's explanations in this regard.
+88. The first explanation I accept is that the plaintiffs failed to settle the Utilities bills with the donations after the July Incident and Madam Yiu had to pay for it. Madam Yiu's allegation is well supported by the disconnection notice issued by CLP (a warning that the power supply would be discontinued due to long outstanding payments) and the documentary proof of her subsequent payments for the utilities charges.
+89. I do not believe the plaintiffs' allegation that the failure to pay was due to Madam Yiu's refusal to pass the relevant bills to Madam Leung for payment settlement. It is an affront to commonsense that Madam Yiu would have kept the bills from Madam Leung which ended up with a disconnection warning from CLP and her immediate settlement of it with her own money.
+90. Ironically, the plaintiffs were able to produce the relevant electricity bill in these proceedings which they accused Madam Yiu of having kept it from them. They could not put forward any explanation for this.
+91. I also find the cutting-off of the wires connected to the Electricity Meter justified. They were installed without authorization and were used for abstracting of electricity for the Upper Temple and the Unauthorized Structures. In the end, they were cut off by the CLP as witnessed by the police.
+92. Madam Yiu's explanation on the cessation of the supply of water is justified by her correspondence with the WSD, the notices she posted up at the Upper Temple and the receipt of the repair charges. Those documents show that she was notified by the WSD that there was a water leakage on the Upper Temple in October 2011. No repair work has been done by the plaintiffs. Madam Yiu was entitled to discontinue the supply of the water for repair work. In the end, she fixed the problem with her own efforts and money.
+93. I also believe her explanation that the villagers complained to her about the noise and danger caused by excessive use of the electricity at the Upper Temple. She was accused of having sold the Upper Temple for profits. Her allegation is consistent with Mr Po's admission that plenty of electrical appliances as amplifiers and lightings were installed and used at the Upper Temple.
+94. Madam Yiu also justified her disconnection act by her intention to exclusively possess and control the Upper Temple which I find her to be entitled to.
+95. In conclusion, I do not find Madam Yiu has done an act not warranted by law, or omitted to discharge a legal duty, her act or omission has not endangered the life, health, property, morals, or comfort of the public, or to obstruct the public in the exercise or enjoyment of rights common to the members of the public. Instead, she had valid reasons to disconnect the supply of the Utilities.
+
+Issue (7) whether an injunction should be granted
+
+96. For reasons aforesaid, the plaintiffs fail to prove their claim of public nuisance. I find no actionable nuisance in this case. The plaintiffs' claim is doomed to fail.
+97. Even if, which I do not so find, the public nuisance has been established, I do not find this court should grant a permanent injunction as sought. The Proposed Injunction is in effect to compel Madam Yiu to supply the Utilities to the Upper Temple, the plaintiffs, the visitors and the believers. It also has an effect of compelling her to pay for the Utilities charges not used by her and to bear all the responsibilities following from such supply against her wish. This is unreasonable and unfair to Madam Yiu. By the same token, Proposed Order B will not be ordered.
+98. Likewise, there is no basis upon which the Proposed Order A and C should be ordered. The plaintiffs could not put forward any valid reason why Madam Yiu should deliver up the key to the Letter Box to Mr Shek and change the registration of the Two Meters to him. The Utilities and the Letter Box were applied for and maintained by Madam Yiu at her expenses and responsibility for more than a decade. There is no justification to deprive her of her personal rights solely for the convenience of others.
+99. At any rates, Mr Shek has declared that he has no interest in the Upper Temple and in no way related to it. He actually has no possession, control or management of it. I find no justification for the Proposed Order A and C.
+100. By reason of matters set out above, the plaintiffs' claim must be dismissed.
+
+Trespass to Land
+
+101. I will now deal with the counterclaim of Madam Yiu.
+102. The law governing trespass is agreed. Both parties agree that for the present purpose, the law applicable in this case is that:- 
+
+(a) trespass is actionable at the suit of the person in possession of land;
+
+(b) possession is a question of fact usually proved by occupation or physical control of land. Actual occupation or possession of keys will suffice. The possession must be one that is clear and exclusive and exercised with the intention to possess. Possession needs not be lawful. A person in possession can sue although he is neither the owner nor derives title from the owner, and indeed may be in possession adverse to the owner; and
+
+(c) trespass may take the form of preventing the person in possession of land from entering and using his land, for example by locking him out or physically removing him from his land.
+
+
+103. The issues on the counterclaim are:- 
+
+(8) Whether Madam Yiu had exclusive possession of the Upper Temple at the material time.
+
+(9) Whether the plaintiffs have locked her out of the Upper Temple at any time since February 2012 as pleaded in paragraphs 25 to 27 of the counterclaim.
+
+(10) Whether, as a matter of discretion, an injunction should be granted restraining the plaintiffs from locking her out of the Upper Temple.
+
+
+
+Issue (8) whether Madam Yiu had exclusive possession of the Upper Temple
+
+104. My findings on the issue of possession have been dealt with in paragraphs 54 to 63 above. Suffice it for the present purpose, I have found that Madam Yiu had been in exclusive possession, control and management of the Upper Temple until some time after the July Incident when Mr Po re-entered it without her authorization. Thereafter, she has taken various steps to protest and challenge his unauthorized entry and control of the Upper Temple for the purpose of dispossessing him and restoring her presidency and possession of the Upper Temple. She had all along verbally and by conduct declared that the Upper Temple belonged to her and that she was the sole one who was entitled to the possession and control of it.
+
+Issue (9) whether Madam Yiu had been locked out of the Upper Temple
+
+105. I accept Madam Yiu's evidence that in or after February 2012, the lock to the Door was damaged and fastened by an iron chain. In or about March 2012, the lock on the Door was changed and locked. In or about May 2012, the Gate was locked. Madam Yiu and her followers could no longer gain free access to the Upper Temple since then.
+106. Although there is no direct evidence on who physically did the above acts, I believe that Mr Po must have arranged and/or authorized those acts. The evidence shows that he had the power to control the Door and the Gate for he was the one who has overseen the daily operation of the Upper Temples since around the last quarter of 2011. I find support from the following matters:- 
+
+(a) It is the plaintiffs' own pleaded case that they have removed and replaced the lock of the door of the Upper Temple which were constructed by Madam Yiu .
+
+(b) In the July Incident, Mr Po was evicted from the Upper Temple. He however re-entered it without authorization and further assumed the position of managing it in around the last quarter of 2011. This was confirmed by the evidence of Mr Po and Mr Shek.
+
+(c) According to Mr Shek, it was Mr Po who was responsible for the daily operation of the Upper Temple and had the power to assign the tasks of running it to different persons.
+
+(d) Mr Po gave evidence that he worked at the Upper Temple on a daily basis.
+
+(e) According to Madam Yip, Mr Po was the only one who from time to time wrote on a notice board giving various notices regarding the operation of the Upper Temple in all aspects. The plaintiffs failed to disprove such evidence.
+
+(f) He was able to account for a number of post-July Incident events relating to the Upper Temple in details, including the demolishment of each of Unauthorized Structures, the reasons for locking the Door and the Gate.
+
+
+107. In the premises, even though Madam Yiu and her witnesses could not say for sure who had physically locked the Door and the Gate and Mr Po has denied his involvement in it, the locking up of the Door and the Gate were no trivial matters that must have been done with the knowledge and authorization of Mr Po. There is sufficient evidence for me to conclude that Mr Po had the power to control the lock to the Door and the Gate, and that he had actually instructed or authorized the locking up of the Door and the Gate at the material times.
+108. In the closing submissions, Ms Chan tried to convince me that Mr Po was not capable of carrying out the scheme of taking over the Upper Temple because of his low education and lack of confidence as demonstrated during cross-examination. It was said that he had shown a very limited vocabulary and poor understanding of words and phrases. I do not agree. My observation is that he was able to read the witness statements in court without difficulty. His frequent requests for repeating the questions during cross-examination were apparently a delay and evasive tactics, trying to avoid the questions and buy time for searching for solutions to cover up the lies. For those questions that were in favour of him, he could respond to them promptly and even come round to challenge the examiner.
+109. Finally, Ms Chan resorted to the allegation that the plaintiffs have all along been willing to open the Door and the Gate for Madam Yiu for a contact telephone number was posted at the Gate for making request for opening the Gate. I am not convinced. Such allegations simply ignored the plaintiffs' pleaded case that the door and the lock of the Upper Temple installed by Madam Yiu were replaced by the plaintiffs. Coupled with the hostile attitude against the followers of Madam Yiu and her followers at the Upper Temple in occasions where police intervention was required. I see no credible basis for believing the plaintiffs allegation that they are willing to open the Door and the Gate for her.
+110. The reason given by the plaintiffs for the locking of the Door and the Gate was to keep strangers and dogs away from the Upper Temple. This is obviously not a genuine reason for it offers no justification for replacing the lock and the door installed by Madam Yiu.
+111. Further, I also believe Madam Yip's evidence that all her telephone calls to the designated telephone number at different times and on different dates for the purpose of gaining access to the Upper Temple were unanswered. There is indeed no evidence to suggest that the telephone number given was a genuine offer for gaining access to the Upper Temple. In view of the history of the dispute between both parties, I am not convinced that the Door and the Gate will be opened for Madam Yiu without a court order.
+112. In any event, on my finding that Madam Yiu had exclusive possession and control of the Upper Temple since 1986 until the time she was locked out of it, Mr Po was not entitled to lock the Door and the Gate to prevent her access to the Upper Temple, not to mention that the Gate was indeed an unauthorized structure.
+113. On all accounts, it was an intentional act by Mr Po to exclude her from the Upper Temple after the July Incident. He has wrongfully interfered with her possession, use and enjoyment of the Upper Temple. His acts amount to trespass.
+114. That said, I take the view that the counterclaim against Mr Shek and Madam Leung must fail. There is simply no evidence to suggest that they were involved in the installation of the locks of the Door and the Gate or the locking of them nor they have the power to control them.
+
+Issue (10) whether injunction should be granted
+
+115. The Door and the Gate are still locked.
+116. Ms Chan has rightly conceded that upon the finding of the issue (8) and (9) in favour of Madam Yiu, the injunction sought by Madam Yiu should be granted against the one who had caused or authorized the installation of the lock to the Door and the Gate and had the power to control them to enable Madam Yiu to resume her possession of and control over the Upper Temple and to protect her reasonable enjoyment of it.
+117. On the evidence before me, I am satisfied that an injunction should be granted to prevent Madam Yiu from being locked out of the Upper Temple. I however decline to grant the declaratory relief as sought. I am of the view that the interest of Madam Yiu will have been sufficiently protected by an injunction I intend to make.
+
+Conclusion
+
+118. Having considered all the submissions and evidence of both parties, I dismiss the plaintiffs' claim and Madam Yiu's counterclaim against Mr Shek and Madam Leung.
+119. I allow Madam Yiu's counterclaim against Mr Po and grant an injunction order restraining Mr Po whether by himself, his servants or agents from locking Madam Yiu out of the Upper Temple or in any way howsoever from preventing her from accessing to and entering the Upper Temple.
+
+Costs
+
+120. Costs follow event. I make an order nisi for the plaintiffs to pay Madam Yiu's costs of the claim and the counterclaim including all costs reserved, to be taxed if not agreed, with certificate for counsel.
+121. In the absence of application to vary by summons within 14 days, the costs order nisi shall become absolute.
+122. I thank both counsel for their assistance.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

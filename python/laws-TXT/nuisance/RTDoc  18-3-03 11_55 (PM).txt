@@ -1,0 +1,270 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 03 March, 2018 at 23:55 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Yeung Chiu Wing v Ho Chi Ming
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Yeung Chiu Wing v Ho Chi Ming
+
+
+
+17 November 2017
+District Court
+DC
+Civil Action No 3244 of 2015
+DCCJ 3244/2015
+
+Citations:[2017] HKEC 2464 English Judgment
+
+Presiding Judges: Deputy Judge SP Yip
+
+Phrases: <Y<Tort - negligence - nuisance - water seepage from premises to premises immediately below - whether owner of former premises liable - source of seepage - whether owner of former premises had taken reasonable steps to remedy problem
+Damages - assessment - water seepage from premises to premises immediately below>Y>
+
+Counsel in the Case: Mr Victor C F Cheung, instructed by Simon C W Yung & Co, for the plaintiffsMs Vivian Yeung, instructed by J Chan, Yip, So & Partners, for the defendant
+
+Cases cited in the judgment: Good Century Investment Ltd v Yim Kin Kuo (unrep., DCCJ 4980/2013, [2015] HKEC 2487) 
+
+Leung Yung Chun v Chan Wing Sang [2000] 1 HKLRD 456 
+
+Wong Hon Hung v Jolly Birds Ltd (unrep., DCCJ 5341/2006, [2008] HKEC 1072) 
+
+
+Judgment: 
+
+
+Deputy Judge S.P. Yip
+
+BACKGROUND
+
+<Y<1. This is a water seepage case happened in a domestic building known as Block C, Hong Lam Court in Shatin. At all material times, the plaintiffs ("Ps") are the registered owners of flat 10 on the 13th floor of the said building ("Ps' Flat") and the defendant ("D") is the registered owner of flat 10 on the 14th floor ("D's Flat"), directly above Ps' Flat.
+2. Ps purchased their flat on 3 April 2014 and the conveyancing completed on 15 May 2014. Decoration works commenced in August 2014. Since then the second named P, Madam Chan, found seepage of water with foul odour and paint peeling off at the ceilings of the balcony, toilet and kitchen of her flat ("the Affected Area"). Ps then complained to the management office of Hong Lam Court ("the Manager") and Buildings Department / Food and Environment Hygiene Department Joint Office ("the Joint Office") respectively.
+3. Having inspected the parties' respective flats on various dates in August 2014, the Manager found mild seepage problem at the joint of the common sewage drainage situated at the balcony of D's Flat, and thus arranged replacement of part of the sewage drainage at D's Flat on 12 August 2014.
+4. After Ps moved in their flat in November 2014, they alleged that the water seepage with foul odour and peeling off problem still persisted in their flat. Although they had the Affected Area repainted, such problem still recurred. They then turned to the Manager again who arranged replacement of segments of the common sewage drainage located in Ps' Flat twice on 27 November and 29 December 2014 respectively.
+5. The Joint Office instructed contractors to conduct investigation and tests at both flats thrice in three consecutive years 2014, 2015 and 2016. Only the 2015 investigation confirmed water seepage from part of the common sewage drainage situated at D's Flat into the Ps' Affected Area, whereas the other two investigations had negative results. On 2 October 2015, the Joint Office issued a nuisance notice to D for causing the water seepage at Ps' Flat.
+6. Ps' solicitors issued a demand letter to D on 30 June 2015 and commenced the present action on 15 July 2015 seeking damages and mandatory injunction to stop the water seepage based on the following causes of action: 
+>Y>
+<Y<(i) Negligence;
+>Y>
+<Y<(ii) Nuisance and/or trespass;
+>Y>
+<G<(iii) Breach of the Deed of Mutual Covenant of Hong Lam Court ("DMC") (clauses 2(b), 3(a), 13, 14 and 17) and/or breach of s.34H of the Building Management Ordinance Cap344 ("BMO").
+>G>
+
+<Y<7. D was of the view that the Manager should be responsible for the common sewage drainage and referred the matter to the Manager who then carried out improvement works again on 21 December 2015, including replacing a segment of the common sewage drainage, repairing part of the waterproofing membrane in the balcony floor slab around the common sewage drainage.
+8. On 3 October 2016, the Joint Office informed D of their decision to stay all follow-up actions.
+9. Like many similar cases, parties have sought leave to adduce expert evidence on both issues of liability and quantum. Ps engaged Ms Lau Shan La who inspected Ps' Flat on 20 April and 9 May 2015, but without the opportunity to enter D's Flat. She eventually compiled her expert report on 15 June 2015. D engaged Mr Lo Kwok Kay who inspected both flats on 17 June 2016 and compiled his expert report dated 28 June 2016. The experts also prepared a joint statement dated 22 September 2016 pursuant to O38 r38 of the Rules of the District Court.
+10. Ms Lau for Ps opined that the cause of the water seepage at the Affected Area being the damaged waterproofing layer of D's balcony floor (including the surrounding wall) and the related dirty water drainages (including the toilet bowl dirty water drainage, shower tray dirty water drainage and balcony floor drain sewage drainage) of D's Flat. The water seepage extended from the kitchen ceiling and the balcony ceiling to the toilet ceiling of Ps' Flat.
+11. On the contrary, Mr Lo for the D, opined that the waterproofing layers of balcony floor slab and shower tray floor slab, all related drainage pipes (including waste water pipes) and water supply pipes of D's Flat did not suffer from any water seepage or leakage, and the source of Ps' water seepage was not from D's Flat.>Y>
+
+ISSUES
+
+<Y<12. The issues in dispute as per the Agreed Statement of Issues in Dispute are as follows: 
+>Y>
+<Y<(i) whether there has been water seepage at Ps' Flat since or about August 2014;
+>Y>
+<Y<(ii) whether the water seepage is continuing since August 2014, if not, when did the water seepage / leakage stop;
+>Y>
+<Y<(iii) whether the source of the water seepage originates from D's Flat;
+>Y>
+<Y<(iv) whether D at all material times had taken all reasonable steps in rectifying the water seepage;
+>Y>
+<Y<(v) whether the water seepage was and/or is caused by the negligence of D;
+>Y>
+<Y<(vi) whether the water seepage caused and/or causes nuisance and/or trespass to Ps, and if so, whether D was and/or is responsible for the said nuisance and/or trespass;
+>Y>
+<Y<(vii) if the above issues were proved in favour of Ps, did Ps suffer any damages,
+>Y>
+<Y<(viii) and if so, whether D is liable for the damages and/or other reliefs; and
+>Y>
+<Y<(ix) the quantum of any damages.
+>Y>
+
+
+SOURCE OF WATER SEEPAGE
+Expert Evidence
+
+13. To start with, the experts are able to agree on the following issues: 
+
+(i) The water seepage at the bathroom ceiling is caused by the diffusion of the same source of the water seepage at the kitchen ceiling of Ps' Flat;
+
+(ii) such common source of the water seepage was not from the fresh water pipe.
+
+
+14. However, the experts could not agree the following issue: 
+
+(i) whether the external wall leakage is the source of the water seepage;
+
+(ii) whether the common drainage pipes leakage of D's Flat was the source of the water seepage in Ps' Flat;
+
+(iii) whether the floor slab and/or drainage pipes leakage of D's balcony was the source of the water seepage in Ps' Flat.
+
+
+15. Ms Lau's analysis of the source of water seepage was as follows: 
+
+(i) Exclusion of the external wall of the building as a source of water seepage as she did not notice any damage or signs of water seepage on the external wall;
+
+(ii) Exclusion of the common sewage drainage based on the lack of evidence and negative results of the fluorescent dye test carried out at the flat above the D's;
+
+(iii) Exclusion of fresh water as a source which is agreed by D's expert;
+
+(iv) Conclusion: the cause of the water seepage at the Affected Area being the damaged waterproofing layer of D's balcony floor (including the surrounding wall) and the related dirty water drainages (including the toilet bowl dirty water drainage, shower tray dirty water drainage and balcony floor drain sewage drainage) of D's Flat.
+
+
+16. The basis of Ms Lau's findings: 
+
+(i) She saw the peeling off of the ceiling paint was located near sewage pipe at the ceiling;
+
+(ii) Unusual low temperature at the part of Ps' kitchen ceiling underneath D's shower tray drainage and balcony floor drain was detected by infrared scanning;
+
+(iii) According to the microwave scanning at depths of 30mm, 70mm and 110mm at the kitchen ceiling of Ps' Flat, the source of the water seepage was near the drainage pipe at the ceiling, seeping vertically downwards from the balcony floor drain of D's Flat to and diffusing to Ps' bathroom ceiling;
+
+(iv) According to water sample analysis, Ps' kitchen ceiling paint contained high concentration of chloride and ammonia (urine);
+
+(v) According to the electrical conductivity sensing ("ECS") results done on 9 May 2015, the second inspection at Ps' Flat, mild water seepage was detected at the part of kitchen ceiling underneath D's shower tray drainage and apparent water seepage at the part underneath D's balcony floor drain, whereas the common sewage drainage was dry.
+
+
+17. The summary of the tests done by Mr Lo and his opinion is as follows: 
+
+(i) Inspected the respective flats of the parties on 17 June 2016 and carried out pond test and at D's balcony and toilet.
+
+(ii) ECS readings at the seepage area were taken at two checkpoints before and after the pond test. Though there were no time records, time intervals of the tests were said to be about 45 to 50 minutes.
+
+(iii) Infra-red scanning was carried at the seepage area at two checkpoints before and after the pond test for about 43 to 50 minutes. But the exact locations of the checkpoints were unknown.
+
+(iv) Fluorescent dye test was carried out at D's Flat without any fluorescent dye found at Ps' Flat after around 3 hours;
+
+(v) Conclusion: the waterproofing layers of balcony floor slab and shower tray floor slab, all related drainage pipes (including waste water pipes) and water supply pipes of D's Flat did not suffer any water seepage or leakage and the source of the alleged seepage area of Ps' Flat was not come from D's Flat.
+
+
+18. Besides, parties do not challenge the investigations done by the Joint Office and it is common ground that such investigations although are not expert evidence, they are admissible evidence.
+
+19. D's counsel in paragraph 5 of her opening submissions has emphasized the inconclusive results of the tests done by the Joint Office: " Various inspections and testing were done by the BD/FEHD Joint and Guardian Property Management Limited, but they could not confirm the source of seepage."
+
+
+20. However, counsel for D seems to have played down the positive results of the Joint Office 2015 investigation: 
+
+(i) On 6th March 2015, the Joint Office conducted colour water test to the drainage inlets of D's Flat and colour dye was noted at the drain pipe of Ps' Flat on 12th June 2015 and 17th June 2015. The Joint Office concluded that the leakage of D's drainage pipe was likely.
+
+(ii) On 17th July 2015, the Joint Office conducted the ponding test at the enclosing walls of the shower area of the bathroom, floor slab of bathroom and floor slab of the kitchen of D's Flat and water spray test at the enclosing walls of the shower area of the bathroom. Colour dye was noted at the affected seepage area of P's Flat on 20th July 2015 and 11th August 2015. The Joint Office concluded that there was infiltration from the floor slab of the kitchen of D's Flat.
+
+
+21. Although only the dye tests carried out in the 2015 investigation produced positive results, while the other two investigations done by the Joint Office in 2014 and 2016, and the respective tests done by both experts all produced inconclusive results, there are certain factors which should not be overlooked when considering these tests results.
+22. Firstly, it is not in dispute that the negative result of a water seepage test is not conclusive ( Good Century Investment Ltd v Yim Kin Kuo & Another DCCJ 4980/2013 
+
+, unreported). The Hong Kong Institute of Surveyors' ("HKIS") guideline 1 also provides that "In certain cases, the dye may not be seen within a short period of time. Sufficient time should be allowed for it to seep through the alleged leak path. It may last for over a day or even a week. However, the dye test is not always successful. A failure to record its presence in the damp zone cannot be taken as definite evidence against the suspected source. However, a positive test confirmed by the laboratory is firm proof of the source."
+
+
+23. Secondly, when Ps' expert conducted the tests on 20 April and 9 May 2015, she was unable to enter D's Flat to carry out any dye tests. She then did the fluorescent dye test at flat 1510, the one directly above D's Flat.
+24. Thirdly, when D's expert conducted the tests at D's Flat on 17 June 2016, it was more one year after the Manager's improvement works of twice replacement of segments of the common sewage drainage at D's Flat and the repair of the waterproofing layer surrounding the common sewage drainage. Such works could have affected the results of the tests.
+25. Fourthly, D's expert has been criticised by Ps' counsel for not allowing sufficient time for the dye to seep through the alleged leak path. D's expert stated in his report that he only visited Ps' Flat once and the fluorescent dye test (ponding test) and the water spray test only lasted for about 45 minutes, less than the suggested period of time of about 1 hour to 2 weeks for colour water to seep through the concrete floor slab, according to a pamphlet of the Joint Office, and also less than the period of a day to a week suggested by the HKIS.
+26. Fifthly, D's expert has failed to indicate the exact location of the two checkpoints for taking the ECS readings for various tests. Compared with 20 checkpoints taken by Ps' expert, D's expert only took readings at two checkpoints. Besides, D's expert has not done the microwave scanning which P's expert has relied upon such test results.
+27. In view of the above, I think it is fair to say the methodology of Ps' expert is more comprehensive than those of D's expert. The investigation by Ps' expert is in general more serious, solid and professional, whereas the D's expert appeared to be rather sloppy. Hence, the expert opinion of P shall be preferred.
+28. Furthermore, the two spots where SRB dye was noted in the Joint Office 2015 investigation, ie, (i) on the drain pipe at the kitchen ceiling of Ps' Flat, originated from the balcony floor drainage of D's Flat; and (ii) on the kitchen ceiling near the peripheral of the common sewage drainage; generally coincided with the dampest spots at Ps' kitchen ceiling as identified by Ms Lau's infrared scanning test, ECS and microwave scanning test, even though Ms Lau excluded the common sewage drainage as a source of water seepage.
+29. D has pointed his finger at the Manager in his email dated 20 November 2015 alleging that the cause of water seepage into Ps' Flat was due to the poor workmanship of D's balcony floor waterproofing repair works at the peripheral of the common sewage drainage during the replacement works of certain segments of common sewage drainage done by the Manager in August 2014.
+30. Ps' counsel submitted that D is therefore estopped from denying that there was water leakage from the balcony floor slab of his flat into the ceilings of the kitchen and balcony of Ps' Flat. In fact, counsel for D in her closing submissions conceded that the cause of the water seepage was the defective workmanship of the Manager's contractor.
+31. If the waterproofing layer of D's balcony floor was all along intact and effective, it should have prevented any water seepage from D's balcony through the floor slab to the Ps' kitchen ceiling. In view of the Joint Office's 2015 investigation results, D's admission and the discussion above, I share the view of Ps that the waterproofing layer of D's balcony floor is one of the causes of water seepage at Ps' kitchen ceiling.
+32. As I prefer the expert opinion of Ms Lau for the above reasons, I find that the water seepage at the Affected Area was caused by the damaged waterproofing layer of D's balcony floor (including the surrounding wall) and the related dirty water drainages (including the toilet bowl dirty water drainage, shower tray dirty water drainage and balcony floor drain sewage drainage) of D's Flat.
+
+LIABILITY
+
+33. The second line of defence is that D had no actual or constructive notice that there was a water leakage originated from his property until he knew that the source of water seepage was the defective workmanship of the Manager's contractors in the repair works of the common sewage drainage at D's Flat in August 2014 and once he knew the source he then took reasonable steps to rectify the water seepage within a reasonable time. D therefore claims that he is not liable for the water seepage on any of the grounds as alleged.
+
+Knowledge
+
+34. It is not in dispute that D was served with a letter before action attached with Ps' expert report on 30 June 2015. Then on 2 October 2015 the nuisance notice was issued against D and it was stated that there was existence of nuisance at D's Flat being water seepage through the floor slab of the kitchen (including balcony) into the ceiling of Ps' Flat and such seepage has rendered Ps' Flat in such a state as to be a nuisance. D then on 20 November 2015 received the Joint Office's 2015 Inspection report.
+35. In light of the above, D could hardly deny any knowledge of the water seepage from his flat to Ps' Flat as early as 30 June 2015.
+
+Any reasonable steps taken to rectify the water seepage
+
+36. After D had received the Joint Office's 2015 investigation report on 20 November 2015, upon consulting his contractor he formed the view that the source of water seepage at Ps' Flat was the common sewage only, irrespective of the finding by the said Joint Office report of " infiltration from the floor slab of the kitchen2 " and the Ps' expert report which D had received earlier, identifying waterproofing layer of D's balcony floor and the related dirty water drainages as the sources. D succeeded in causing the Manager to carry out rectification work at the common sewage drainage and the peripheral balcony floor surrounding the common sewage and such work completed in December 2015.
+37. However, the focus of the rectification work by the Manager was on the common sewage drainage and a small area of D's balcony floor around the common sewage and the Manager's rectification which had never covered the whole floor slab at D's balcony nor the related dirty water drainage as pointed out by Ms Lau. It is undeniable that D has neither carried out any remedial work at his property but just counting on the Managers whose rectification works were obviously inadequate to tackle the water seepage problem. I thus reject the submissions that D has taken reasonable steps to remedy the water seepage problem.
+
+Conclusion on Liability
+
+38. In light of my above finding as to the source of water seepage, I find on balance of probability that D has neglected to take steps to remedy the sources of water seepage as identified by Ms Lau and permitted the water seepage, which no doubt is a nuisance, to continue. In the circumstances, D is liable to Ps for negligence and permitting the nuisance to continue.
+
+39. Besides, D is also liable for breach of clause 3(a), Second Schedule of the DMC for failing to maintain and repair the waterproofing layer of the balcony floor slab and the related dirty water drainage: " To keep the interior of each flat of which he is the owner and all the wiring plumbing and other services therein or serving exclusively such flat in good repair and condition and to maintain the same in a manner consistent with the preservation of the Estate as a residential estate ."
+
+
+REMEDIES
+Repair Costs Incurred
+
+40. Ps claimed for the repair costs of HK$17,400 for engaging a contractor known as Tin Hung Engineering Co to repair the kitchen ceiling 3 times in 2014 at HK5,800 each.
+41. Although D challenged this item for lack of official receipt to verify such payments to the contractor, I accept the oral evidence of Madam Chan that she has paid the contractor in cash without any receipts and in accordance with the invoices produced.
+42. I allow this item in full.
+
+Reinstatement Costs
+
+43. Experts have different estimates for this head of claim: Ms Lau estimated HK$24,580.20, whereas Mr Lo suggested HK$8,782.40.
+44. I am inclined to prefer Ms Lau's opinion on quantum issue, as her view in this regard is generally more solid and with more supporting evidence than Mr Lo's. However, I accept that alternative accommodation expenses of HK$4,800 are unnecessary in the circumstances. Besides, as the Affected Area according to the Ps' pleaded case does not include the living room, such estimated costs for repairing the living room ceiling of HK$5,703.40 should be excluded.
+45. Damages for reinstatement costs of the Affected Area shall be computed as follows: 
+
+HK$(24,580.20 - 4,800 - 5,703.40) = HK$14,076.80
+
+
+
+Expert Expenses
+
+46. I agree with D that this head of claim shall be claimed as part of the costs of the action to be taxed if not agreed.
+
+General Damages for Inconvenience & Discomfort
+
+47. Ps claim HK$80,000 under this head relying on Leung Yung Chun v Chan Wing Sang [2000] 1 HKLRD 456 
+. D has not submitted any authorities to dispute this item but submitted that the present case was less serious than Leung Yung Chun where the plaintiffs and their family were troubled by water dripping from the ceiling and wetting of the carpets and it required them to replace wet cloth and buckets of water to hold the dripping water.
+48. Ms Yeung for D submitted that the present case is even less serious than another case cited by Mr Cheung for Ps: Wong Hon Hung v Jolly Birds Ltd DCCJ 5341/2006 
+(24 June 2008, unreported) in which the water seepage affected the master bedroom but for a period of time of about 16 months, shorter than the present case.
+49. I accept that the water seepage problem in Leung Yung Chun is more serious than the present case but I do not think that the general damages in the present case shall be less than the award in Wong Hon Hung in light of the psychological distress suffered by Madam Chan and the nuisance has not been abated yet.
+50. In the circumstances, an award of HK$50,000 general damages is appropriate.
+
+Summary
+
+51. Summing up, I enter judgment against D for HK$81,476.80 including the following items: 
+
+(i) Repair costs incurredHK$17,400
+
+(ii) Reinstatement costsHK$14,076.80
+
+(iii) General damagesHK$50,000
+
+
+HK$81,476.80
+
+Interest
+
+52. Interest is awarded on the judgment sum at judgment rate from the date of writ, ie 15 July 2015, until full payment.
+
+Injunction
+
+53. According to Madam Chan, the water seepage problem has not been abated. It is therefore necessary to impose a mandatory injunction that D do carry out all necessary repairs and/or remedial works of the waterproofing layer of D's balcony floor (including the surrounding wall) and the related dirty water drainages (including the toilet bowl dirty water drainage, shower tray dirty water drainage and balcony floor drain sewage drainage) of D's Flat and such order is made.
+
+Costs
+
+54. Costs should follow the event. I therefore make an order nisi that costs of the whole action be to Ps, save and except there be no order as to costs of paragraph 4 and part of line 5 of paragraph 6 of the supplemental witness statement of Madam Chan dated 22 April 2016 which I expunged on the first day of the trial and no order as to costs of and occasioned by the D's expunged supplemental witness statement.
+55. Such costs shall be taxed if not agreed, with certificate for counsel and this order nisi shall become absolute after 14 days from the date hereof, unless parties make any applications by way of inter-partes summons to vary it within such time.
+56. Lastly, I thank both counsel for their kind assistance rendered to this court.
+ 1Professional Guide to Water Seepage Investigation, Diagnosis, Testing & Reporting in Residential Buildings, at page 23, by The Hong Kong Institute of Surveyors
+ 2Section D - Further Investigation at section B(iii) (conclusion of Possibility on floor slab, in-situ made shower tray / roof infiltration)
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+
