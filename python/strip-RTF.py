@@ -8,7 +8,7 @@ Code created by Markus Jarderot: http://mizardx.blogspot.com
 Modified by YKY
 """
 import re
-import glob, os
+import os
 
 def strip_RTF(text):
 	pattern = re.compile(r"\\([a-z]{1,32})(-?\d{1,10})?[ ]?|\\'([0-9a-f]{2})|\\([^a-z])|([{}])|[\r\n]+|(.)", re.I)
@@ -164,6 +164,6 @@ for filename in os.listdir("laws-RTF/nuisance"):
 	data = data.replace("\highlight4", "\highlightG")
 	data = strip_RTF(data)
 
-	f = open("laws/nuisance/" + filename, "w+")
+	f = open("laws-TXT/nuisance/" + filename, "w+")
 	f.write(data)
 	f.close()

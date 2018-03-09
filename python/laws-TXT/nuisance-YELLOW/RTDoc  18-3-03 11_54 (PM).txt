@@ -1,0 +1,37 @@
+Tort - negligence - nuisance - backflow and seepage of water from premises to premises immediately below - whether seepage caused by backflow - whether backflow caused by negligence of third party or defendant's agent
+Damages - assessment - seepage of water from premises to premises immediately below 1. This case concerns the backflow and seepage of waste water.
+2. At the material times, the plaintiff was the registered owner of Flat B, 1st Floor, Winning Heights, 7 Fu Wah Street & 8 Wun Tung Street, Tsuen Wan, New Territories (respectively "Flat 1B" and "Building"); the defendants were the registered owners of Flat B, 2nd Floor of the Building ("Flat 2B") and the third party was the Owners Incorporation of the Building. On 13 March 2013, waste water entered from the ceiling of Flat 1B and flooded it; caused loss and damage to the plaintiff ("Seepage Incident"). The plaintiff now sues the defendants for compensation ("Main Action"). The defendants issue a third party notice, alleging  inter alia  that, due to the third party's negligence, the external main drainage pipe located outside Flat 1B and Flat 2B ("Drainage Pipe") was blocked and chocked, which caused the waste water back-flowed into Flat 2B ("Backflow Incident") and caused the Seepage Incident ("Third Party Action").
+ The Undisputed or Indisputable Facts
+ 3. The following facts are indisputable or not disputed: 
+ a. Flat 2B locates directly on top of Flat 1B.
+ b. On 19 January 2011, the third party resolved to retain PWL Surveyors as the consultant in coordinating the renovation of the Building, the contract was entered on 17 March 2011. On 23 May 2012, the third party resolved to retain Duotien Contractors Ltd as the contractor in carrying out the renovation of the Building, and the contract was entered on 25 May 2012.
+ c. In the morning of 13 March 2013, Flat 2B was flooded with waste water due to the backflow at its water closet (the "Water Closet") inside the toilet (the "Toilet"); and the Seepage Incident occurred at Flat 1B.
+ d. The Water Closet was connected to the Drainage Pipe, which is connected to all unit Bs of the Building.
+ e. The plaintiff and the defendants then lodged complaints about the Backflow Incident and the Seepage Incident to the management office of the third party;
+ f. Later on same day, a plumber was engaged to clear the blockage in the Drainage Pipe, and a towel was found inside the Drainage Pipe in Flat 1B ("Towel"). No other remedial work has been carried out, and the water back-flow or seepage problem has been solved completely.
+ g. No other similar incident occurred thereafter.
+ h. Three experts were involved in this case; Mr John Wong acted for the plaintiff, Mr Simon Cheung for the defendants and Mr Dickie Lau for the third party.
+ 
+ The Backflow Incident
+ 4. According to Mr Simon Cheung and Mr Dickie Lau, they both confirmed that the Backflow Incident was caused by a blockage of the Drainage Pipe. Mr Dickie Lau and Mr John Wong, both agreed it was likely the Towel could have blocked the Drainage Pipe that caused the Backflow Incident, as opposed to any other inherent conditions or problems with the Drainage Pipe. Mr Simon Cheung gave evidence that a poorly maintained pipe allowed rubbish to accumulate; if the Drainage Pipe was not maintained in good condition, the Towel could be a factor that accelerated the blockage.
+5. It is undeniable that: 
+ a. Soon after the Backflow Incident, the Towel was found at the Drainage Pipe; once it was removed, the Backflow Incident was resolved completely;
+ b. Other than removing the Towel, no other remedial work had been done;
+ c. No similar incident happened thereafter;
+ d. The Drainage Pipe connected to the Water Closet where the waste water back-flowed.
+ 
+6. Accordingly, on the balance, I conclude that as the Drainage Pipe was blocked and chocked by the Towel, it caused the Backflow Incident; which had no casual linkage to the renovation that carried out by the third party or its failure to remove the illegal structure as alleged.
+7. According to Mr Simon Cheung, a poorly maintained pipe would allow rubbish to build up that the Towel could be a factor to accelerate the blockage of the Drainage Pipe. Mr Cheung's opinion does not rebut the fact that the blockage created by the Towel caused the Backflow Incident. After all, it is confirmed that no other remedial work had been carried out and such incident did not happen again; which rebuts any other inherent causes of the Backflow Incident.
+8. The defendants argue that the Backflow Incident was caused by the negligence, and/or breach of the Deed of the Mutual Covenant of the Building (the "DMC") and/or breach of the statutory duty of the third party and/or its agent.
+9. In  劉文光  v.  黃屏屏及另二人  LDBM 276/2012 (unreported 
+, 16 June 2014) §21, which adopts Lee Ming Yueh v Broadway-Nassau Investments Ltd and another CACV 265/2008 
+(unreported, 19 September 2012), that an owners incorporation is entitled to appoint independent contractors in discharging its duties; if there is no evidence suggesting that the appointment is improper, the owners incorporation should not be faulted for such appointment.
+10. There is simply no evidence to prove that the third party acted improperly when appointing its contractors or agents.
+11. In 
+Lo Yuk Chu v Hang Yick Properties Management Ltd [1996] 4 HKC 278 
+ at 282 B-C, the Court of Appeal rules that: "Those requirements (in the Deed of Mutual Covenant), if they are absolute duties, could only be satisfied by employing a virtual army of maintenance and security staff. This could never have been the intention of the parties. Indeed cl 12, upon which the appellant places some reliance, itself gives a clear indication of the extent of the duty. It requires the managers to 'keep all common facilities in good condition and working order'. This, we are satisfied, was plainly never intended to pose an absolute duty to ensure that no common facility ever breaks down. That would impose an impossible burden.
+The overall duty imposed on the (building manager) by the Deed of Mutual Covenant is one of 'proper' management. Such management entails doing all that is reasonably required of a manager in the circumstances. Things like keeping drains clear are specific aspects of a building manager's overall duty. But the mere fact that such a thing is listed without being qualified by expressions such as 'take reasonable steps to' does not turn a manager into an insurer against the consequences of a drain becoming obstructed through no failure on its part to act reasonably as a manager should."
+
+ 12. Further, the third party's duties at common law could not be wider than those under the DMC (see Ma Chung Lam & Another v Citybase Property Management Ltd [2007] 1 HKC 192 
+at §24)
+13. Accordingly, I accept the Backflow Incident is an accident and conclude that the third party should not be liable for it. 

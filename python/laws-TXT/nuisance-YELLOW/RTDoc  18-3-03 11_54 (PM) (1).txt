@@ -1,0 +1,43 @@
+Tort - negligence - nuisance - water seepage from premises to premises immediately below - determination of source of seepage
+Damages - assessment - water seepage from premises to premises immediately below - general damages 1. The plaintiff (P) claims against the defendant (D) for causing water seepage to P's property situated at Workshop 2 on 3rd Floor, Wing Lee Industrial Building, Numbers 54, 56 and 58 of Tong Mi Road, Kowloon, Hong Kong ("Workshop 302").
+2. D is the registered owner of the property right above the P's Property, at Workshop 2 on 4th Floor and Flat Roof, Wing Lee Industrial Building, Numbers 54, 56 and 58, Tong Mi Road, Kowloon, Hong Kong ("Workshop 402").
+3. Workshop 302 has been rented to Hong Kong Storage Limited for a period of 4 years, from 1 April 2014 to 31 March 2018.
+4. P experienced water seepage back in 2011. At that time the Workshop 302 was occupied by another company owned by Mr and Mrs Tsui (the shareholders and directors of P). After Workshop 302 was rented to Hong Kong Storage Limited, the tenant made a complaint of water seepage in about May 2014 and the water seepage found on the ceiling of Workshop 302 recurred on rainy days.
+ 6. P is seeking damages for loss and damages caused by water seepage. Previously, P also sought loss and damages suffered by its tenant, but counsel for P at the opening of the trial abandoned this item of claim as it transpires that the tenancy agreement contains a clause exonerating P from liability towards its tenant for water seepage damage not caused by the fault of P. Therefore, the relief now being sought by P are: 
+ (i) A mandatory injunction for D to repair and maintain his own property to stop the water seepage;
+ (ii) Damages to P for repair and such special damages which parties have agreed the quantum at $12,000;
+ (iii) The general damages for inconvenience and distress; and
+ (iv) Costs of this action.
+ 
+7. D denies water seepage from his property and asserts that his property is all along in good condition and maintenance. D avers that the cause of water seepage is from the external wall or from workshop 401 and its flat roof.
+8. It is trite law that in water seepage case P bears the burden of proof on balance of probabilities that the source of water is from the defendant who has no obligation to find out or identify the source of water seepage or to prove that its origin did not come from his property.
+9. P has called three factual witnesses: Mr Tsui senior, the director of P, Mr Tsui junior, the son of Mr Tsui senior, and Mr Ng, a manager of the P's tenant. D himself also came up to give evidence. Expert Evidence
+ 10. The main battle of this case is on expert evidence. On 10 September 2015, the court has granted leave to parties to adduce expert evidence on liability and quantum. P has appointed Miss Lau Shan-la and D appointed Mr Hau Tung-chow as the experts of the parties. There were six joint inspections by the expert and three joint expert reports produced, dated 26 November 2015, 5 July 2016 and 7 November 2016 respectively. The experts had carried out the following tests: 
+ (i) Visual inspection;
+ (ii) Infrared scanning;
+ (iii) Electrical conductivity sensing;
+ (iv) Microwave scanning;
+ (v) Florescent dye test (rhodamine B);
+ (vi) Florescent dye ponding test (using yellowish dye);
+ (vii) Water sample analysis.
+ 
+11. Although the experts could not agree in many issues and have reached different conclusions as to the source of water, they managed to agree the following: 
+ (i) The point of seepage is the ceiling of Workshop 302 above the corridor, between storage cabinet 019 and 026;
+ (ii) Dripping of water is found when there was rainfall within two to three days before;
+ (iii) Workshop 402 flat roof is a sheltered area and there are towels on the floor of 402 flat roof;
+ (iv) Workshop 302 is still affected by water seepage;
+ (v) The sources of water seepage are not fresh water supply pipe or toilet sewage drainage pipe of Workshop 402 flat roof, the source of water seepage involved rainwater.
+ 
+12. The experts' conclusions are very different. P's expert opined that the water seepage affecting Workshop 302 ceiling was rainwater from the flat roof of workshops 401 and 402 which ran on a gutter along the flat roof floor of these two workshops before going into a downpipe located at Workshop 402 flat roof. The waterproofing membrane in the floor slab and perimeter areas of Workshop 402 flat roof was damaged or defective, causing water seepage into Workshop 302. She reached her conclusion based on the finding that there was no corresponding water seepage into the adjoining workshop 301 which is also owned by P.
+13. The flat roof of workshops 401 and 402 was originally one single unit. According to the government approved building plans, originally there were no partition walls between these two workshops. It was believed that the present partition wall separating the two and metal frame shelters were built afterwards. Now the 401 and 402 flat roofs have been converted into storage space. Miss Lau believed that the structural alterations could have damaged the waterproofing layer.
+14. Given that the flat roof of Workshop 402 was a sheltered area and with the negative result after two months of the 48-hour florescent dye ponding test and florescent dye test conducted on the flat roof and the drainage pipe, Mr Hau for D concluded that the waterproofing membrane of Workshop 402 flat roof functioned properly and the water seepage was caused by the flat roof of the adjacent workshop 401.
+15. Both experts came to court to give evidence and were cross-examined. I find that the following points are significant findings by the experts. First of all, it is common ground that the possible source of water was from rainwater and it is not in dispute that the shelters of flat roof 402 and the adjoining flat roof 401 do not offer a complete waterproof shelter. Both parties accept that rainwater could still reach the flat roof of both units and, in particular, there is a gutter running horizontally along the floor of flat roof 401 to flat roof 402 with a downward drainage pipe situated at D's flat roof 402. Given such undisputed background, the source of water could be said to be the following three possibilities: 
+ (i) The water seeped to the ceiling of the P's property from D's property only;
+ (ii) The water seeped into the P's property from the adjoining unit of D, i.e. workshop 401 only, in the way as illustrated by Mr Hau's diagram of the water path;
+ (iii) The third possibility is that water came from both workshops 401 and 402.
+ 
+16. If, at the end of the day, I find on the balance of probabilities that the first or the third option as the source of water, then D shall be liable, but if I find that the water affecting the P's property came from workshop 401 only then D shall not be liable.
+17. Another important issue is whether workshop 301 has suffered from any water seepage. According to P who also owns workshop 301, it has not suffered from any water seepage. Experts inspected workshop 301 on 2 September 2016, and photos were taken and tests were done. Experts did not observe any sign of water seepage on the ceiling of workshop 301 and the microwave scanning test done at workshops 301 and 302 at different levels from the ceiling, namely 30 millimetres, 70 millimetres and 110 millimetres. The results at all levels show that Workshop 302, has higher dampness at respective depths. Miss Lau concluded that water seeped vertically from Workshop 402 to Workshop 302. On the other hand, the dampness of workshop 301 did not exhibit such water seepage phenomenon. Its dampness was average and no point of seepage was seen.
+18. If Mr Hau is correct, ie the waterproof membrane of workshop 401 was defective, the concrete layer between workshops 401 and 301 would not be less wet than the concrete layer above Workshop 302 or in between Workshops 402 and 302. There is no explanation as to why no signs of water seepage was observed at the ceiling of workshop 301. Therefore, the situation at workshop 301 in effect rebuts Mr Hau's proposed water path.
+19. Although there were negative results of water seepage tests done in relation to Workshop 402, bearing in mind that positive results of such test are, of course, concrete evidence of water seepage, negative results do not mean that there is no water seepage.
+20. Miss Lau has offered some explanation of the negative results, but she could not explain such as why the water ponding test involving much more water flooding at the Workshop 402 flat roof than rainfall, why the ponding did not produce raindrops on the ceiling of Workshop 302, but the rain did. 
