@@ -62,3 +62,4 @@ for filename in os.listdir("laws-TXT/" + category):
 	f = open("laws-TXT/" + category + "-GREEN/" + filename, "w+")
 	f.write(buffer)
 	f.close()
+
