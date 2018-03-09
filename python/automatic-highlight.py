@@ -1,14 +1,57 @@
 # -*- coding: utf-8 -*-
 """
-The main RNN algorithm.
+Automatic Highlighter
+=====================
 
-* RNN _input layer now changed to word-vector encoding
-* can answer single queries
+* recognize grammatical / logical patterns
+* use RNN to recognize, output = highlight color(s)
+* need human training examples
+* can use reinforcement learning?
+	(yes, if user provide good/bad rewards)
 
-Modeled after the code found in Ch.6 of "Learning Tensorflow" by Tom Hope et al.
+Algorithm / Architecture
+------------------------
 
-@author: YKY, Jesmer Wong, Raymond Luk
+* RNN mapping:
+  sections of text ---> RNN ---> coloring actions
+								 eg. color-start, color-end, etc
+
+* Reinforcement learner:
+  state = textual context ---> actions = coloring acts
+
+So with 1-hot encoding, it seems that reinforcement learning is unnecessary.
+Just train the RNN to recognize various color-actions.
+
+Minor Details
+-------------
+
+* Need to recognize RTF formatting keywords, but they don't have pre-trained
+	word vectors.  Perhaps ignore some and replace some with tags?
+* Seems we need to add "tags" to the vector space.
+* Question is can we use an external Word2vec tool such as FastText?
+* Supposedly the output labels will back-prop to change the vector embedding.
+	If we use external Word2vec we may lose that aspect.
+* Or we EXPAND the input vector to contain a sub-vector that embeds "tags".
+	The word-part of the vector will be zero vector if "tag" is true.
+* 换句话说，we just use Python to separate 2 classes of "words": real words & RTF tags.
+
+Work Flow
+---------
+
+* read RTF text, scan text from beginning to end.
+* each word sequence is an example, with possible highlight actions as
+	output / "labels"
+* need a way to specify where in the sequence the "action" occurs?
+* this is a big problem, as the sequences are long
+* solution is to average out the positions...?
+	Or, we pre-destinate the mid-point and each output indicates its "strength"
+	And then we can score the strengths.
+* also, seems that we should NOT remove stop-words for this scenario
+*
+
+@author: YKY
 """
+
 import numpy as np
 import os						# for suppressing Tensorflow warnings
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'	# suppress Tensorflow warnings
