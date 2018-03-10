@@ -1,0 +1,74 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:19 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : HKSAR v Wong Kwok Kwong
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Wong Kwok Kwong
+12 January 2018 at 9.33 am
+District Court
+DC
+Criminal Case No 734 of 2017
+DCCC 734/2017
+
+Citations:[2018] HKEC 166 English Judgment
+
+Presiding Judges: Judge Casewell
+
+Phrases: Criminal law and procedure - road traffic offences - dangerous   driving causing death - offence not established, but defendant convicted of careless driving
+
+Counsel in the Case: Present: Mr Jeffrey George Fenton, Counsel on fiat, for HKSARMr Graham Harris, SC, leading Mr David Yuen, instructed by So, Lung & Associates, for the defendant
+
+Reasons for Verdict: 
+
+
+Judge Casewell
+1. On 21 February 2017, an accident occurred near the junction of Hong Kin Road, Sai Kung with Hong Fu Road. The accident consisted of a collision whereby the car driven by the defendant collided with the deceased, causing injuries that resulted in her death. The road concerned is a two-way carriageway separated by a single dashed white line. At the time of the collision, it was about 7.45 pm. So it was night time. It was dark. It was wet with rain.
+2. The deceased had tried to cross the road down which the defendant was driving. She had reached the middle dashed white line in the middle of the road, then stepped back to avoid an oncoming vehicle. By doing this, she apparently stepped into the route of the defendant's vehicle.
+3. The prosecution say that the defendant drove dangerously in that the deceased's presence must have been obvious to the defendant as he drove towards the junction. That his failure to see the deceased was so egregious that it amounted to driving that fell far below the standard required of a competent and careful driver, and it would be obvious to such a driver that it would be dangerous to drive in such a way.
+4. The defence say that on the evidence the court heard, the court cannot be satisfied to a criminal standard that the defendant was ever in a position where he could have seen the deceased prior to the collision, that accordingly his driving never fell below the standard required.
+5. I will give a summary of the evidence. Much of the evidence was agreed or non-controversial. The location of the accident was at the junction of Hong Kin Road, Sai Kung where it meets Hong Fu Road. It is an undivided two-way road separated by a dashed white line. At the time of the accident, it was about 7.45 pm. It was night time. The weather was drizzly. The road surface was wet. The speed limit was 50 kilometres per hour. The location was not a designated pedestrian crossing although from the direction that the defendant approached from at about 36 metres from the junction, there were two warning signs, namely, firstly, "pedestrians on or crossing the road ahead" and, secondly, "slow, pedestrians". They were located on the pavement and visible to the driver as he approached the junction.
+6. The accident was seen by PW1. He had been travelling on a minibus and on arrival outside the Sai Kung Outdoor Activity Centre at the junction on Hong Kin Road, he had alighted from the minibus. He had alighted with three other female passengers, one of whom was the deceased. The other passengers apparently waited at the roadside. However, the deceased decided to walk across Hong Kin Road. She was wearing dark-coloured clothing and carried what appeared to be a dark-coloured umbrella.
+7. PW1 saw the deceased arrive at the white dashed marking in the middle of the road. At that time, another vehicle approached from the opposite direction, that is, in the direction of Sai Kung Town. This caused the deceased to take a few paces backwards into the carriageway along which the defendant was driving. The defendant was driving a private car. The offside of that car collided with the deceased who was thrown into the air and landed a distance from the impact point. The deceased died from the injuries suffered in the collision.
+8. PW2, a police officer who arrived at the scene at about 8.30-odd, described the environment as dim. It was agreed that the minimum and maximum impact speed of the defendant's car was 38 kilometres per hour and 42 kilometres per hour respectively. The defendant told both PW1 and the police officer that he believed he had collided with a tree branch.
+9. During following investigations, the police conducted a line-of-vision test. Points at 40 metres, 23 metres and 14 metres were chosen to assess the defendant's line of vision. A dummy was placed in the road, and photographs were taken from these distances from the defendant's car direction and approach. It was found that from 40 metres away from the junction, the dummy could be observed.
+10. The defendant did not give or call any evidence. No adverse inference can be drawn from this decision.
+11. The charge, the defendant faces a single charge of causing death by dangerous driving. This requires the prosecution to prove beyond reasonable doubt that the defendant's driving fell far below what would be expected of a competent and careful driver, and it would be obvious to such a competent and careful driver that driving in that way would be dangerous and, furthermore, that death ensued from that dangerous driving.
+12. Were the prosecution unable to establish this, then the court should consider whether the statutory alternative of careless driving under section 38 of the same ordinance is made out. This requires that the defendant's manner of driving fell below that of a competent and careful driver. In other words, the driving is without due care and attention or without reasonable consideration for other persons using the road.
+13. The prosecution say that the defendant passed two signs indicating that there was a risk of pedestrians crossing the road, and that from 40 metres away, anybody crossing the road would be clearly visible to the driver, that continuing to drive on without taking that into account falls far below the standard required.
+14. The defence say the conditions of visibility mean that the court cannot be sure to a criminal standard that the deceased could be seen from 40 metres or at all that evening. Even a competent driver cannot take into account what is not capable of being seen.
+15. The evidence did present one area of dispute, and that was the question of visibility and lighting. The junction was lit by a number of traffic lights. There were two on the side of the road in the direction of travel of the defendant. They can be seen in the sketch produced. One of these lights was overhead the junction. The photographs actually show another streetlight on the other side of and at the junction but that is not depicted in the sketch. The photograph albums show that all the streetlights, all three streetlights to be lit at the time when they were taken which is after 8.30 pm on the day of the collision, and these can be seen at Exhibit 8.
+16. PW1, who was present at the time, said he could see clearly. He added the lighting could be sufficient. There were streetlights on. He added the streetlights were lit. In cross-examination, he agreed that from time to time the streetlights at that location did not operate properly and that when the streetlights did not function, the lighting is dim.
+17. It was put to him that by the time the police arrived, some of the lights at the junction had come on. He replied, "From my memory, all the lights were on." It was then suggested he might be mistaken, and he replied, "It's also possible." He agreed in re-examination that his impression was that both lamplights were working and that he could probably deduce both lampposts were working. There was no evidence that anyone had reported that any of the lampposts were not working at the material time.
+18. PW2, who arrived at the scene later, saw that the two lampposts in the defendant's lane of travel were working. The defendant had not said to him that either of the lampposts were not working at the time. He described the lighting as reasonable in his evidence. However, he did say in his statement made close to the event that the lighting was dim. He also added it was raining and the road was slippery.
+19. It was the defendant's case that at the time of the collision, one or more of the lampposts were not working. There was no evidence to actually support that proposition. PW1, the only person there at the time who gave evidence, described the lighting as giving a clear view. His memory was that all the streetlights were illuminated. He allowed for the possibility that he might be mistaken but that was not his recollection. By the time photographs were taken by PW2, all the streetlights were lit.
+20. I find the evidence supports the fact that the street lighting was not defective. I am satisfied that the lampposts were illuminated and that anyone at the junction, such as PW1, could see the road clearly.
+21. The prosecution also rely upon the line-of-vision test to establish that the deceased would have been visible to a driver from 40 metres and then throughout up to the collision. If the defendant was travelling at the impact speed, then that would have allowed him three to four seconds to take evasive action such as braking or steering away.
+22. The defence say that this bold conclusion cannot necessarily be drawn as the conditions under which the test took place were dissimilar to those on the day of the accident. The weather was very different. There was rain and drizzle. The dummy was situated at the point of impact. However, the deceased's position when observed would have been further over to the middle of the road.
+23. The prosecution case appears to be that failure to see and react to the deceased's presence at that point is not simply falling below what would be expected of a competent and careful driver but far below that standard, having regard to the circumstances of which he could have been expected to be aware. The defence position is the deceased could not be seen due to her clothing and the umbrella and the poor lighting conditions and she walked back into the face of incoming traffic. A reasonable doubt must exist, they say, as to whether a competent and careful driver would fall far below or even below that standard in the circumstances that prevailed that evening.
+24. The resolution is as follows. The evidence overall shows the junction was adequately lit. However, the general driving circumstances presented challenges. The overall impression of PW2, a police officer, was the lighting was dim. The conditions were slippery with rain. The deceased was dressed in dark clothing and carrying an dark coloured umbrella. What is known of the defendant's driving is that he had no alcohol in his system, so there was no impairment; that he did not see the deceased at any time while he was driving; that his impact speed was below the speed limit and would have provided the ability to avoid by braking any obstruction up to 20 to 40 metres away, depending on how wet the road surface was. Save for his inability to register the deceased's presence there, there is no other obvious indicia of dangerous driving.
+25. I consider that in the circumstances already described, the charge of dangerous driving cannot be sustained. However, I do believe and find that the defendant's driving can be described as insufficiently attentive. The deceased presented a substantial target, and a sufficiently attentive driver should have seen her. The attentive driver would have been aware from the road signs of the possibility of pedestrians crossing and would have increased his concentration and observation. The defendant should have been aware of the deceased especially after he closed the distance from the 40-metre mark to the 20-metre mark. To fail to observe the deceased and take remedial action to avoid the collision is clear evidence that his standard of driving fell below the objective standard of what would be expected from a competent and careful driver.
+26. As I reach these conclusions of fact beyond a reasonable doubt, I am satisfied beyond that standard, that of a reasonable doubt, and accordingly convict the defendant of the statutory alternative of careless driving under section 38 of the same ordinance. That is my decision.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

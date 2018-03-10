@@ -1,0 +1,122 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 24 February, 2018 at 22:14 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : HKSAR v Mo Cheong Wing
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Mo   Cheong   Wing
+10 August 2017
+District Court
+DC
+Criminal Case No 154 of 2017
+DCCC 154/2017
+
+Citations:[2017] HKEC 1953 English Judgment
+
+Presiding Judges: Deputy Judge E Lin
+
+Phrases: Criminal sentencing - road traffic offences - dangerous driving causing death - moving or interfering with vehicle involved in serious accident causing death - vehicle driven by defendant (who had consumed some whisky) moved, nudging forward friend (deceased) who leaned against bonnet, and when deceased refused to give way and instead climbed onto bonnet, vehicle accelerated and then braked, throwing deceased onto road, causing fatal head injury; deceased then inspected body and drove away
+
+Counsel in the Case: Present: Miss Irene Poon, SPP of the Department of Justice, for HKSARMs Manyi Tsang, instructed by K M Tang & Co, for the defendant
+
+Cases cited in the judgment: HKSAR v Lee Yau Wing [2013] 1 HKC 572 
+R v Cooksley [2003] EWCA Crim 996 
+
+Secretary of Justice v Poon Wing Kay [2007] 1 HKLRD 660 
+
+
+Judgment: 
+
+
+Deputy Judge E Lin
+1. It was a drunken horseplay that went horribly wrong. At about 1 or 2 in the morning on the 12 day of October 2016, Mr Mo Cheong Wing, a 24-year-old man, and several friends, including one Mr Kong Kin Fung, ("the deceased"), gathered for drinks at a bar in Ashley Road, Tsim Sha Tsui. There they stayed until 4 to 5 am. By then, the defendant, as admitted by his counsel, had consumed two to three glasses of whisky. The bar was supposed to close at 4 am.
+2. At about 6 am, the defendant boarded his vehicle and was about to drive away. The deceased, who did not wish the reverie to end there and then, stood in front of the defendant's vehicle in a bid to stop the defendant from leaving. From the CCTV footages one can see the deceased lean his back against the defendant's bonnet while paying attention to his mobile phone. Nonetheless, the vehicle began to move, nudging the deceased forward. The deceased refused to give way, instead turned around and climbed onto the bonnet of the vehicle, the vehicle then accelerated and then braked, throwing the deceased onto the road.
+3. While the deceased was lying motionless on the road, the defendant approached and inspected the body before driving away. That was before the police arrived.
+4. The deceased as a result suffered from a head injury with profound neurological damage and cardiac arrest. He was certified dead on 14 October 2016.
+5. As a result of the incident, the defendant faced the following charges:- 
+
+(i) Causing Death by Dangerous Driving, contrary to section 36(1) of the Road Traffic Ordinance, Cap 374;
+
+(ii) Moving or Interfering with Vehicle involved in a serious accident causing death, contrary to section 57(1) of the Road Traffic Ordinance, Cap 374.
+
+
+6. The defendant admitted to the facts and pleaded guilty to the charges. I was satisfied beyond any doubt that the defendant's manner of driving failed far below that expected of a competent and careful driver; and it was obvious to a competent and careful driver that driving in this manner was dangerous. He was convicted as a result of both charges.
+
+Discussions
+
+7. Had it not ended so tragically, the scenario described above might have been amusing in a frivolous kind of way, yet ended badly it did. It is important to note that a motor vehicle is not something to toy with. It is a powerful and possibly lethal device that should be handled with care and respect. Along with the privilege of driving comes with a very hefty responsibility to use the same with due care for its passengers, the property and life of others. Otherwise, the consequences (as shown in this case) would be immense human sufferings and even death, and all of these are irreversible.
+8. The offence of Dangerous Driving causing Death carries a maximum sentence of 10 years and a mandatory disqualification order. In the English case of R v Cooksley [2003] EWCA Crim 996, [2003] 3 All ER 40 
+, the Court of Appeal in England set out general sentencing principles for dangerous driving and have since been adopted by the Hong Kong courts as relevant and applicable: see the Secretary of Justice v Poon Wing Kay [2007] 1 HKLRD 660 
+
+. Simply put:- "The dominant sentencing principle is that of general deterrence with the secondary purpose of educating the public as to the potential dangers to others involved in driving a motor vehicle and the social responsibility that rests on the shoulders of all drivers to drive safely and with due regard to others."
+
+
+9. The sentencing court must look at the overall circumstances and overall culpability of the offender and the harm resulted to arrive at "a balanced, proportioned and just sentence order". The harm flowing from the manner of driving, though an important consideration, is not a determining factor in assessing culpability: see HKSAR v Lee Yau Wing [2013] 1 HKC 572 
+.
+
+Culpability of the driving
+
+10. In this case, the defendant took a deliberate risk to drive and as a result causing the death of another person. In the aforementioned judgment of R v Cooksley (supra), there was a non-exhaustive list of relevant factors for assessing the culpability of the offence. I will not repeat them in full here.
+11. In the present case, I can identify the following matters relevant for consideration:- 
+
+(1) The consumption of alcohol.
+
+There is no evidence to prove the defendant's power to control himself and/or driving skill was severely impaired by the alcohol intake; nor was there evidence to show that the defendant was drunken in the ordinary sense of the word. There was no evidence to show how much the defendant had drunk.
+
+The defence contended that during the few hours in the bar, the defendant had consumed two to three glasses of whisky along with a large quantity of water and that he was sober when he boarded the vehicle. His behaviour behind the wheels and the decision he made to drive away after the accident, rendered it impossible for the police to carry out tests to determine his alcohol intake did not support or render this contention suspect. Nonetheless, since there is no evidence to the contrary, I will have to accept the defendant's version, ie that he drank only two to three glasses of whisky. However, I can take judicial notice of the fact that whisky as a drink has a high alcohol content, the consumption of which will lead to a certain degree of inebriation. So the defendant's judgment and faculties must somehow have been affected when he sat behind the driver's wheel.
+
+(2) Using the vehicle as a means to push the deceased out of the way;
+
+(3) Accelerated when the deceased was holding onto the front bonnet of the car;
+
+(4) Braking the vehicle and causing the deceased to be thrown off. Although there was no evidence that the braking was done with the intention of throwing off the deceased, it was clear to any driver that such manoeuvre would cause danger to the unwelcome hitchhiker.
+
+(5) The incident took place in a public thoroughfare, thus causing potential danger to other users of the road.
+
+(6) By driving away from the scene, the defendant had impeded the police investigation.
+
+
+12. It was a short period of bad driving during which the defendant had taken a reckless risk, resulting in the death of an acquaintance. It led me to conclude that 3 years' imprisonment a proper starting point. It is reduced to 2 years to reflect the guilty plea.
+13. As for the 2nd charge, Moving or interfering with a vehicle involved in a serious accident causing death, it carries the maximum sentence of 6 months' imprisonment and a fine of $10,000. By driving away from the scene, the defendant had in effect impeded the investigation of the accident. I take the view that as a matter of policy, such behaviour must be discouraged by a deterrent sentence. I consider a term of imprisonment of 3 months appropriate in the present set of circumstances. It is reduced to 2 months to reflect his guilty plea.
+14. Although the sentence is based on considerations different from that of dangerous driving causing death, the factors are inextricably intertwined. To avoid the appearance of double counting and bearing in mind the totality principle, I will only order 1 month of the 2nd charge to run consecutive to the 1st.
+
+Other considerations
+
+15. Under section 36(2) of the Road Traffic Ordinance, a person convicted of dangerous driving causing death shall, unless there are special reasons, be disqualified from driving for no less than 5 years. The purpose of disqualification has been explained in the judgment of Cooksley (supra): it is forward-looking and preventative for the protection of road users in the future from the likes of the defendant. So the length of disqualification should not be tailored to take into account of the anticipated date of release. On the other hand, the court must consider that a substantial period of disqualification would mean hardship for a defendant who for varied reasons would have to drive or like to drive. He might attemp to offend to drive while disqualified.
+16. Having considered the facts of this case, I will order the defendant be disqualified from driving for 5 years.
+
+Mitigating factors
+
+17. First and foremost, the defendant pleaded guilty. He will be accorded the customary discount as set out in above.
+18. To have a better understanding of his background, I have ordered a probation officer's report. The defendant is 24 years old, married with two young children. He works in a garage owned by his father. As evidenced by the letters he has submitted, he was well-cherished by his nearest and dearest. His background has been set out in detail.
+
+19. I note that in paragraph 11 (in the conclusion part of the probation officer's report) contain the following message:- "In a protective environment, the accused seems to have no compelling need to get mature as a husband as well as the father of two children. The accused committed the offence of Assaulting a police officer in March 2016 and he was sentenced for 200-hour of CSO in August 2016. He failed to treasure the opportunity of non-custodial sentence and initially held an insincere attitude towards the Order. He even involved in an extra marital affair and refused to end it even his marital life and parent-child relationship were affected. The present event happened in October 2016, which was just two months after his last conviction. Although the event was a tragedy, out of making fun between friends, which the accused denied any intention (to cause any harm), a young man actually died."
+
+
+20. The probation officer has set out succinctly the problem with the defendant. The report also set out the difficulties his family was in as a result of these proceedings. In the circumstances, I can only say that my sympathy would only go to his family. But as an individual, the defendant must be held responsible for his own follies after serving this sentence, he still had a lifetime to repay his family for the suffering and inconvenience he has caused them.
+21. As to his traffic record, he had been cited on nine occasions for fixed-penalty offences, none of which is as serious as the present case.
+22. In the circumstances, I do not find any mitigating factors which might persuade me to be extra lenient with him. As I have pointed out that the sentencing principle to be adopted is one of deterrence, the court has a duty to send out to the public the message that such behaviour would have consequences. A vehicle is not something to toy with, and a flippant and irresponsible manner of dealing with a vehicle would be punished.
+23. I therefore order the defendant be sentenced to a term of imprisonment for 25 months. In addition, he is also disqualified from driving for 5 years.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

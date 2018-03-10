@@ -1,0 +1,377 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 24 February, 2018 at 22:30 HKT
+
+  
+
+Client ID : HKU_WLA-1
+
+Title : HKSAR v Ebert Robert James
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Ebert Robert James
+
+
+
+20 December 2017
+Court of Appeal
+CA
+Criminal Appeal No 353 of 2016
+CACC 353/2016
+
+Citations:[2017] HKEC 2741 English Judgment
+
+Presiding Judges: Lunn V-P, Macrae and McWalters JJA
+
+Phrases: Criminal law and procedure - road traffic offences - dangerous   driving causing death - appeal against conviction - dismissed 
+
+Counsel in the Case: Mr David Chan ADPP and Ms Joey Lin PP, of the Department of Justice, for the respondentMr Simon Westbrook SC and Mr Derek Chan, instructed by Gall, for the appellant
+
+JUDGMENT: 
+
+
+McWalters JA :
+1. The appellant was charged with dangerous driving causing death, contrary to section 36(1) of the Road Traffic Ordinance, Cap 374. He pleaded not guilty to this charge and was tried before District Judge Woodcock ("the judge"). On 24 October 2016, he was convicted as charged and subsequently sentenced to 21 months' imprisonment and disqualified from driving for 5 years.
+2. On 21 November 2016, the appellant filed a Notice of Application for Leave to Appeal (Form XI) against his conviction.
+3. On 13 July 2017, Lunn VP granted leave to the appellant to pursue his appeal on all grounds except grounds 1(v), (vii) and (ix) and ground 3 as pleaded in the Perfected Grounds of Appeal filed on 13 January 2017.
+4. At the hearing of the application we reserved out judgment, which we said we would hand down at a later date. This is our judgment.
+
+The undisputed circumstances of the accident
+
+5. The charge arose out of an accident which took place at around 7:48 am on 9 June 2015 at the entrance/exit area of The Waterfront car park at No. 1 Austin Road West, Tsim Sha Tsui, Kowloon. This car park is reached by turning off Jordan Road into Nga Cheung Road and from there turning left into an unnamed two lane road which travels in an inverted U shape around Kowloon Station before joining up again with Nga Cheung Road. The appellant was driving in the left hand lane around the inverted U to reach the International Commerce Centre (ICC) car park on the far side. The Waterfront car park is at the top of the inverted U. A simplified diagrammatic depiction of the scene is as follows: 
+[Editor's note: To view the image, please refer to the PDF at the top]
+6. The length of the unnamed road from Nga Cheung Road to the corner before The Waterfront car park is 200 metres. The appellant drove down this stretch of road and lost control of his car at the right hand corner that is at the end of this stretch of road. After hitting the curb of the corner with the front nearside wheel his car continued into the entrance/exit area of The Waterfront car park where it struck a security guard who died from his injuries.
+7. The unnamed road, because it is underneath a building, is a straight tunnel-like one-way road, consisting of 2 lanes with a speed limit of 30 km/hour. It has no pavements and is not open to pedestrians. Vehicles may supplement the ambient lighting with their own headlights and this is what the appellant did. The corners of the inverted U are 90 degree corners. The unnamed road has a bitumen surface but the entry to the car park has a varnished concrete surface. The former surface provides good grip for a motor vehicle's tyres but the latter surface does not.
+8. It was not disputed that the appellant drove his Ferrari 454 Spider, registration number TA 4600, at an excessive speed, in terms of the speed limit, along the first 200 metre straight stretch of this unnamed road. Dr Wong Koon Hung, a prosecution witness with expertise in accident reconstruction, used CCTV footage from a camera located at Exit 2 of the Kowloon Station car park to calculate the appellant's speeds between certain points on this road. These points he marked A-D. The relevant distance between these points and the speed at which the appellant's Ferrari was travelling between them were as follows: 
+
+(a) between Point A and Point B: 13.56 metres at 97 km/hour ± 10 km/hour;
+
+(b) between Point C and Point D: 20.29 metres at 76 km/hour ± 8 km/hour. 1 
+
+This meant that between Points B and C there was a deceleration of the appellant's Ferrari of 20 km/hour. 2 
+9. At Point D, the Ferrari hit the curb and then crashed through The Waterfront car park's entrance/exit. A yaw mark was visible on the unnamed road. It was 2.3 metres long leading from the nearside of the left lane towards the curb just before the car park entrance/exit. It was created by the appellant's car drifting sideways across the road. There was also a 9.1 metres long skid mark, after the yaw mark, which was created by the front nearside wheel of the appellant's car locking after suffering damage from the collision with the curb. This skid mark could be seen on both the surface of the road and the varnished concrete surface at the entrance of the car park. There was a third skid mark of three metres in length, which appears on the varnished concrete surface of the car park 3 , that was created by the front offside wheel of the appellant's car. This mark bore all the characteristics of a mark created by the operation of the cars anti-brake lock system ("the ABS mark").
+10. The accident was depicted by various CCTV cameras installed around the unnamed road and in The Waterfront car park. The footage from these cameras was produced by way of admitted facts. The footage from a camera located at Exit 2 of Kowloon Station car park showed the appellant's car driving past it along the stretch of unnamed road prior to the corner at the end of that road where the accident happened. This footage enabled a defence expert to express the opinion, which the judge accepted, that for the very short period of time that the appellant's car was captured by this CCTV camera, the brake lights of the Ferrari were illuminated.
+11. There was, unfortunately, no CCTV footage looking down the stretch of unnamed road before the corner.
+12. The other CCTV footage was sourced from a number of cameras located in and around the entrance/exit area of The Waterfront car park. There were two different sets of CCTV footage with one set labelled "Channel 47" and the other set labelled "Channel 275". Each set contained the CCTV footage of four differently located cameras. Still images from the cameras of these two channels were printed out as photographs and exhibited.
+
+The issue at trial
+
+13. The only issue in the trial was what caused the appellant to lose control of his vehicle. The prosecution case was that it was as a consequence of negotiating the corner at an excessive speed whereas the defence case was that the car suffered a sudden brake failure as it approached the corner.
+14. This issue was the subject of expert testimony by both the prosecution and the defence. The prosecution called Dr Wong Koon Hung (PW19), an accident reconstruction expert, Mr Ng Nap Keung (PW21), a Motor Vehicle Examiner from the Transport Department, Mr Ratto (PW24) an expert from the company that provides the airbag system for Ferrari and Mr Martino Casolari (PW28), a Technical Engineer from Ferrari S.p.A. The defence called Mr Neil Millar (DW1), a Forensic CCTV Imagery and Facial Mapping Analyst, Mr Matthew Harry Burns (DW2), a Ferrari Diagnostic Specialist Expert and Dr Lim Chaw Hyon Eric (DW4), an accident reconstruction expert.
+
+The prosecution case
+
+15. There was only one eyewitness to the accident. He was Lee Hong Keung (PW1). He testified that he was driving a Maserati motor vehicle out of The Waterfront car park. His testimony in examination-in-chief as to what happened after he arrived at the exit boom gate of the car park was as follows: "A. After I had tapped the Octopus card, the beam lifted up. Before I started the car, I looked to my left-hand side, the post, the security post. I greeted him. After I had greeted him and I was going to start my car, as the windows on both sides of the car were open or lowered down, I could clearly hear a loud engine sound outside the car park of the Waterfront.
+Q. Are you able to tell us or describe to us how did it sound? The engine sound that you mentioned.
+A. Well, it was very loud, and I could tell that it was from the exhaust pipe, and it was very, very loud. I am not able to describe it in words.
+
+Q. Right. When you heard this engine sound, did you see any cars at all?
+A. I felt strange at the time because I could hear the sound. However, I could not see any car outside.
+Q. And what did you do as a result?
+A. Then I continued to be -- then I did not start the car. I was still in a stationary position because I felt that it was very unusual that I could hear the sound. However, I was not able to see any car.
+Q. So while you were waiting at the exit of the car park, did you continue to hear this engine sound?
+A. Yes.
+Q. Until when?
+A. Then very soon, I saw a car coming very fast on my right-hand side.
+Q. Yes. Then what happened?
+A. I saw a black sports car.
+Q. Yes. What was it -- how was it being driven? Straight line or what?
+A. What I would describe is that it looked like that it wanted to steer to the right and then steer to the left. Then it was moving left and right.
+Q. And then what happened?
+A. Then it came in front of my car, passing my car and crashed into the security post."
+
+16. In cross-examination, Mr Gary Plowman SC who, with Mr Derek Chan represented the applicant at trial, put to PW1, after playing back the relevant CCTV footage to him, that he had not yet tapped his Octopus card on the Octopus card reader and that the exit boom gate had not yet risen when he was at the exit of the car park. PW1 agreed and accepted that he was mistaken as to these two matters. It was then suggested to him that the appellant's car was moving left to right and he agreed with this suggestion. Mr Plowman then asked him to view the CCTV footage of camera 4 from channel 275 and then questioned him as follows: "Q. I suggest when you look carefully at that camera shot and what follows, there is no evidence of wavering from the left to the right or vice versa. You can't see any evidence of wavering left and right, can you?
+A. Well, in this camera, you can only see that it was coming right to my right-hand side. So I don't agree with you.
+Q. It's coming from your right but you said it was moving and wavering left to right. You cannot see that in the camera shot, can you?
+A. After the car had made a turn to the right, I could see that it looked like it was going to crash into the barrier in the middle of the road . However, it managed to swerve to the left. However, it looked like it didn't wanted(want?) to hit the curb. Then it just came right at me.
+
+Q. So you saw it move to the left once and to the right once. Is that what you're saying?
+A. Because at that point, it was just at the bend from where I could see that the car almost hit his right-hand side. However, he managed to avoid that. Then he swerved to the left." (Emphasis added.)
+
+
+17. In re-examination, PW1 explained that the barrier in the middle of the road that he was referring to was the curbstone surround of a pillar that was located at the inside of the corner on the right hand side of the unnamed road. Any car negotiating this corner would have to drive around it, and the more they car was in the right hand side lane of this road the closer it would be to it, as would happen with a car "cutting the corner". PW1 said the appellant first swerved to the right and almost hit the curbstone of this pillar but missed it, and then he swerved to the left.
+18. The only other person present at the scene of the accident was PW2, Mr Au Pak To Patrick, but he only saw the aftermath of the accident. Mr Plowman was able to obtain his confirmation that the appellant had told him twice that his car had no brakes.
+19. PW24, Mr Ratto was an expert witness from the company that provides the airbag system for Ferrari motor vehicles. Part of the system is the electronic control unit (ECU) which stores data from the airbag units. From the data stored in the ECU of the appellant's car he calculated that the car was travelling at 70 km/hour when the first airbag was deployed. This was the passenger side airbag and it would have been triggered when the near side front wheel of the appellant's car hit the curb of the corner. Mr Ratto's calculation was not challenged.
+20. PW19, Dr Wong Koon Hung, the expert in accident reconstruction, testified that the yaw mark indicated that the appellant's car was going sideways and beginning to lose control at the time the yaw mark was made. It indicates forward and sideways movement at the same time and means that the vehicle was not going along the driver's intended path and was beginning to lose control as it travelled towards the curb. Dr Wong said the driver would have been trying to negotiate a right bend, turning away from the curb. This yaw mark also indicated the vehicle was not significantly accelerating or decelerating. In cross-examination, he agreed that at the time the yaw mark was made the driver was either not applying his brakes or that the brakes were not functioning.
+21. In his report, Exhibit P21, Dr Wong concluded that the appellant's vehicle (V) "was travelling at about 97±10 km/hour along Lane 1 4 of the unnamed access road when it was captured by the KSP camera; V had slowed down at the right hand bend; however, V started to yaw towards the near side at the bend; before the NSF wheel of V clipped the near side curb of the bend, V was travelling at 76±8 km/h." 5 He also calculated that it took the appellant's car only half a second to travel the 13.56 metres between Points A and B and 0.96 of a second to travel the 20.29 metres between Points C and D.
+22. Dr Wong then referred to this offside skid mark which bore the characteristics of yaw marks and ABS scuff marks and he said it showed that the ABS was activated and worked by preventing the wheel locking completely.
+23. In re-examination he said that from his calculations of the speeds between Points A to B and C to D some braking effort had taken place and this could be due to light braking.
+24. The appellant's Ferrari is equipped with an instrument which allows the driver to select various driving modes. The instrument is called a Manettino and when it was inspected after the accident it was observed to be in "Racing" mode. When accelerating in this mode the exhaust by-pass valve opens earlier and the engine sound or 'roar' is louder, earlier.
+25. The key issue in relation to the car was whether there had been a failure of the brake booster system as the appellant drove down the unnamed road towards the corner. Brake booster systems are designed to improve the efficiency of the braking system by enabling the driver to apply the brakes with less pressure in bringing the car to a halt. The brake booster achieves this by magnifying or boosting the force that the driver applies to the brake pedal. When there is a failure of the brake booster system the brake pedal will feel hard and the driver will have to apply more pressure to it in order to slow the car down.
+26. The first prosecution witness to testify on this issue was PW21, Mr Ng, who was a Motor Vehicle Examiner from the Transport Department. He found the braking system normal apart from damage sustained in the crash. He tested the vacuum assisted unit of the braking system and he found it working normally without any sign of a leak of vacuum.
+27. Ferrari is required to comply with a legal regulation that mandates a minimum stopping distance in the event of a brake booster failure. This minimum stopping distance is laid down in what is known as homologation regulation ECE R13H.
+
+28. The homologation requirement was explained by Mr Casolari, in his report dated 8 August 2016, Exhibit P33, where he said: "[I]n case of failure of the brake booster vacuum, the homologation requirement prescribes that the vehicle must come to a full stop within 168m - from a speed of 100 km/h by applying a force on the brake pedal of 500N. 6 The vehicle deceleration needed to obtain the said result can be calculated as: -0.2339g .
+The actual results of the homologation tests regarding the braking system of the 458 Ferrari model show that this vehicle has been able to grant a stopping distance of 128,86m with 460N of brake force, with a deceleration of -0.311g (in conditions of vehicle "full load", i.e. full fluids, full fuel tank, driver and passenger on board)."
+
+
+29. The key variables in the homologation requirement are speed, brake pedal pressure and stopping distance. If these are known then the vehicles deceleration value can be calculated. By use of a formula Mr Casolari was able to calculate the deceleration value of the appellant's vehicle between Points B and C and that figure could then be compared with the data of the homologation regulation. In this way the homologation requirement could be an indicator of whether the car's brake booster system was working properly.
+30. Mr Casolari calculated that, if the Ferrari was unloaded 7 and was travelling at a speed of 97km/hour at Point B and 76 km/hour at Point C, a distance of around 62 meters, the stopping distance is 97.64m when 490N 8 of force is applied to the brakes. In these circumstances the deceleration value of the appellant's car is "-0.23g" 9 .
+
+31. Mr Casolari also calculated a deceleration value for the appellant's model Ferrari unloaded when travelling at 100 km/hour and when a force of 500N was applied to the brake pedal without the assistance of the brake booster. 10 This came to "negative 0.406g". 11 Had this deceleration value been achieved the appellant's car would have been travelling at approximately 30 km/hour at Point D instead of 70 km/hour. When he was asked to compare this figure (-0.406g) with the deceleration value of the Ferrari at the time of the accident, -0.23g, the following exchange ensued: 12 "Q. Is it fair to say that the driver was not using or was not applying 490 newton during the journey from B to C?
+A. On the basis of the values that we have, yes, I can say so.
+Q. So he was not even doing moderate braking between B and C?
+A. That is my impression."
+
+32. Mr Casolari concluded that the appellant did not apply 'panic braking' at the time. In his report he explained what he meant by 'panic braking': "The condition known as 'panic stop', typically occurs when the driver feels that the vehicle is not braking and, as a reaction, he shortly depress the brake pedal all the way down in order to get an immediate stop of the vehicle. The force applied to the brake pedal is usually around 1000N."
+
+33. He stated: 13 "The deceleration value around -0.23g, as above calculated, does not corresponds to a situation of panic stop braking. Indeed in condition of panic stop like the one allegedly experienced by the driver, with 1000N on the brake pedal, the vehicle deceleration - even in case of brake booster vacuum failure - should have been around -0.68g. Therefore if the vehicle would have started to brake at the point labelled 'B', the stopping distance should have been around 57.68 meters, which is enough to stop it in the space between the point labelled 'B' and the point labelled 'C'. In light of the above I consider that there was not any failure of the brake booster vacuum"
+
+
+34. In summary, the effect of his evidence is that the homologation requirement enables the driver to bring a car being driven at 100 km/hour to a halt within 168 metres by applying a force of 500N to the brake pedal, achieving a deceleration rate of -0.2339g. However, Ferrari have improved on this and can achieve a deceleration value of -0.406g in the event of brake booster failure. The appellant did not have 168 metres in which to bring his car to a halt. He had 62 metres between Points B and C and an additional 20 metres between Points C and D - a total of 82 metres. However, 'panic braking', involving the application of 1000N of force to the brake pedal, should have brought the car to a halt within 57.68 metres, achieving a deceleration rate of -0.68g. The appellant only achieved a deceleration rate of -0.23g and, therefore, he was not in a situation of 'panic braking'.
+35. Mr Casolari also referred to the presence of the ABS skid mark on the concrete and said that this confirmed the braking system was functioning correctly.
+
+36. On 9 June 2015, at 09:52 hours, just over two hours after the accident, the police conducted a cautioned record of interview with the appellant, who elected to write his answers himself. In response to the question whether the mechanical parts of his Ferrari were normal on the day of the accident, he stated: "Up until the accident, everything was perfectly normal. At the time of the accident, the car did not appear to slow down when the brakes were applied".
+
+37. He was asked what the speed of his vehicle was at the time of the accident, to which he replied: "I do not know."
+
+38. He was then asked to relate the course of the accident. He responded by saying: "I was travelling to my parking space, which is the last entrance under the ICC, closest to the main road.
+I stopped at a set of traffic lights. When I pulled away and was preparing to turn a right-hand corner, my car did not appear to slow down under braking. I turned the steering to try and negotiate the corner, but the car slid off the road and into a car park entrance".
+
+
+39. The appellant was driving at a speed almost 3 times above the speed limit between Point B and Point C. In his closing submissions, whilst conceding that speeding per se did not amount to dangerous driving, prosecuting counsel invited the court to consider speeding as "one of the factors" leading to such conclusion, pointing to the nature and condition of the road and the appellant's admission that he was not paying attention to his speed and the fact that he was driving in racing mode.
+
+The defence evidence
+
+40. The appellant gave evidence and called three expert witnesses to testify in the defence case.
+41. The appellant said that at the relevant time, he was driving to his place of work in the ICC Building in his black Ferrari Spider. He said he was very familiar with the stretch of unnamed road before the accident and knows that it is about 200 metres long, has a speed limit of 30 km/hour and that no pedestrians are allowed to walk along it.
+42. When travelling on the unnamed road, he noticed it was empty and there were no cars behind him. He partially opened the throttle of his Ferrari and accelerated so that he could enjoy its engine sound. He had done this before when the road was empty and thought it was completely safe. He accelerated to about the middle of the road where he took his foot off the accelerator and put it on the brake, intending to slow down to take the corner at around 25-30km/h.
+43. However, when he braked, the pedal felt very hard and his car did not slow down as he expected it to do. He pressed the brake pedal again with much more significant force without taking his foot off it. Again, his car did not slow down. He looked up to see the wall coming straight at him. He tried to negotiate the bend by steering right to "cut the corner". It was then the car began to slide to the left, resulting in the accident.
+44. Because he thought he would stop he did not 'panic brake'. He said that he could recall clearly that he did not take his foot off the brake and then reapply pressure. He braked in one continuous action until he was pressing as hard as he could, so hard his back slid up his seat, by Point C.
+45. The appellant said immediately after the accident, PW2 had asked him several times what had happened and in response he said "I had no brakes" 14 . The appellant accepted he was speeding in the unnamed road but maintained that it was only for 1 to 2 seconds before he braked in anticipation of the corner. He blamed the accident on a catastrophic failure of the braking system of the vehicle. He could not recall what gear he was in as he drove down the unnamed road. He did not believe that he drove in Manettino race mode that morning and believed the car was in sport mode at the time of the accident. He did not recall driving in race mode.
+46. The decrease in speed before the accident was not significant and the appellant said he thought it could have been due to engine braking and not the braking system.
+47. He said he was surprised his car slid as he thought it should be able to negotiate the corner even at a speed of 70 km/hour. As far as he could recall the car began to yaw left long before the visible yaw mark.
+48. He denied not trying to brake and wanting to drive at speed around the corner and he denied that, as a consequence, he lost control of the vehicle.
+49. The first of the appellant's expert witnesses was Mr Millar. He was an expert in Forensic CCTV Imagery and Facial Mapping. He examined the relevant CCTV footage and expressed the opinion that the appellant had applied his brakes at the time that his car was captured by a CCTV camera installed near the entrance of the Kowloon Station car park.
+50. The second defence expert was Mr Matthew Burns, a Ferrari Diagnostic Specialist expert. Having examined the Ferrari driven by the appellant, he concluded that its braking system failed at the time of the accident but he did not give an opinion on what part of the system failed or what part was faulty.
+51. The third defence expert was Dr Lim Chaw Hyon Eric. He is an expert in the investigation and reconstruction of traffic accidents. He did not conduct any test on the Ferrari himself. His conclusion was that it was possible the deceleration from 97 km/hour to 76 km/hour was due to engine braking. Engine braking would be greater if the appellant had changed gears but the appellant said he did not do so.
+
+52. Dr Lim concluded there was a transient failure of the car's braking system. He says it was transient because the ABS mark indicated the ABS was functioning. The judge summarized Dr Lim's theory in these words: "So the braking system failed as it approached the corner but was working again after it hit the curb; it may have regained the braking capacity to some extent."
+
+53. Dr Lim was also asked about the homologation test result of the appellant's model Ferrari on which Mr Casolari testified and his evidence that even if the brake booster was not working and the driver braked hard at about Point B he would still have stopped before hitting the curb at Point D. The judge summarised Dr Lim's response as follows: 15 " The homologation test result as set out by Mr. Casolari was put to him. That is even if the brake booster was not working and the driver braked hard at about position B the brake force would still be -0.6 g and TA 4600 would have stopped before the curb and the accident. He agreed that would have been the case if the driver anticipated a danger and slammed hard on the brake but that is different to the defendant who gently applied the brake hoping to slow down the vehicle but when realizing there was no reduction in speed attempted to press harder on the brake without releasing the brake and slamming on it again to achieve a force under a panic situation."
+
+
+54. We shall not discuss the evidence of Mr Burns and Dr Lim in any greater detail as their evidence was rejected by the judge and her conclusions in respect of their evidence are not challenged on appeal.
+
+55. Before concluding our discussion of the defence case we should mention that at paragraph 127 of her Reasons for Verdict the judge noted the following concession by the appellant's counsel: " The defence agree if the court does not find that there was a mechanical fault then the manner of driving must have been dangerous."
+
+
+The judge’s Reasons for Verdict
+
+56. The judge set out the competing cases for the prosecution and defence. She referred to the prosecution's reliance on all the various arithmetic calculations of speed and deceleration rates and said that to "heavily rely on these in a case like this can be somewhat artificial."
+
+57. The judge noted the defence submissions in respect of PW1's evidence namely that it was not credible, his description of the path of the vehicle was not reliable and the CCTV footage did not assist his evidence. She repeatedly viewed the CCTV and concluded: " When one compares the path of the headlights to P17 the sketch, the path of the vehicle becomes clear. That path supports PW1's evidence and although it happened very quickly I believe what he saw and describes is accurate." 16 
+
+58. She then turned to the tyre marks left on the road, saying: " I have taken into account the skid marks, what I am told they indicate and applied it to the path of TA 4600 according to the CCTV and PW1's evidence.  In my view the short yaw mark and the CCTV footage show there was little attempt to steer around the corner. It appears the defendant did not go into yaw until almost after the corner. He should have been turning earlier." 17 
+
+59. She found the short length of the yaw mark significant, saying of it: " It suggests if there was no mechanical fault, he was not steering properly and not in complete control of his vehicle."
+
+60. The judge then went on to discuss the expert evidence, dealing first with the defence experts. She rejected the evidence of Dr Lim, DW4, and Mr Burns, DW2. She accepted the evidence of Mr Millar, DW1, that the CCTV footage showed that the appellant did apply his brakes between Points B and D and said: " We know TA 4600 did slow down by some 20 km/hr between about B and D. I accept the evidence from Mr. Casolari engine braking would not be that significant in that short a distance and the defendant said he did not change to a lower gear. I am sure the deceleration was due to light braking by the defendant." 18 
+
+
+61. The judge accepted the evidence of the prosecution experts and specifically found that there was no mechanical fault in the Ferrari's brakes, the brake booster was functioning at the time, 19 the ABS was functioning and there was no intermittent failure of the brake.
+
+62. The consequence of these findings was, as the judge put it 20 : "The only evidence there was any brake failure came from the defendant not any expert witnesses."
+
+
+63. The judge addressed the issue of the homologation requirement and said: 
+
+148. "In any event, I am sure even if there was a mechanical issue the car would still have slowed down more than it did if the defendant had braked hard. If there was a failure, according to the homologation requirement the vehicle's braking system is designed to operate and will it slow down. According to Mr. Casolari's many calculations he was asked to make, the upshot is the speed of TA 4600 should have been significantly less than the 70 km/hr as recorded at position D; basically it could have stopped by or about position D and certainly not hit the wall or the deceased.
+
+149. According to Mr. Casolari, the defendant did not brake even moderately between B and C. The defendant stressed several times he did not release the brake pedal from B, he only applied more and more pressure. I find that hard to believe he could recall this fact so clearly. The defence submits this would be the normal and natural reaction of a driver in an emergency situation. This submission is made without basis. They submit, in this situation, the homologation requirement did not come into play because it would need the driver to slam on the brakes which the defendant says he did not do. I suspect that piece of evidence was tailor made to explain why the undeniable homologation safety requirement would not have factored here even when the brake booster failed.
+
+150. I have found there is no evidence of mechanical failure as proved by the prosecution witnesses beyond reasonable doubt; I find no lurking doubt. In that case, as there was no problem with the brakes the homologation requirement would not come into play."
+
+
+
+
+64. She then went on to discuss the defence submission that the only plausible explanation for approaching the corner at speed was because there was brake failure. She rejected this submission. She also noted that immediately after the accident the appellant's first reaction was to tell a bystander, PW2, that his brakes had failed. Of this, and of the appellant's claim to the same effect in his own evidence, the judge said: 
+
+154. "The defendant's first reaction to PW2 at the scene and the police later that morning was that his brakes failed. I have taken that into account but that reaction is not supported by the evidence I found credible. In fact the evidence from the defendant that there was a total failure of the braking system to explain how he lost control I find is not supported by the evidence I found credible. I find the car was in good working condition when the defendant left home that morning. He braked and stopped on several occasions on his way to work without problem. I do not believe the problem manifested when he opened the throttle before the corner. I reject his evidence.
+
+155. His evidence he intended to slow down to take the corner at about 25 km/hr flies in the face of my findings. If he had intended to and braked enough the vehicle would have slowed to that speed. The fact it didn't I find discredits his evidence. Tellingly, he himself thought the vehicle was capable and should have rounded the corner even at that speed."
+
+
+
+
+65. The judge then addressed the appellant's manner of driving. She concluded that the accident was caused by "the defendant's speed into the corner and not braking sufficiently. He lost control as he tried to take the corner and hit the curb hard." 21 
+66. The judge found that the prosecution had proven the charge beyond reasonable doubt, stressing that speeding was only "part and parcel of his driving manner" in her consideration of whether the appellant was driving dangerously. She accordingly convicted the appellant as charged.
+
+The Perfected Grounds of Appeal
+
+67. Ground 1 of the Perfected Grounds of Appeal complains that the judge's assessment of the appellant's evidence and his credibility was erroneous, inconsistent with the evidence as a whole and failed to have regard to inherent improbabilities. The combination of these errors, it is said, affected her assessment of the appellant's evidence and credibility. In support of this ground it was submitted that the judge did not deal with the inherent improbability in her finding that the brakes were working normally, namely that as the appellant drove down the unnamed road he braked, then deliberately stopped braking as he approached the corner notwithstanding that he must have known he was heading for a serious crash. Furthermore, the slight deceleration of the Ferrari was entirely consistent with the appellant's evidence of what he encountered as he continued to apply pressure to the brakes and of there then occurring a failure of the car's brake booster system.
+68. It was also submitted that the judge's finding that the appellant's evidence as to the pressure he applied to the brake pedal prior to the accident was "tailor made to explain why the undeniable homologation safety requirement would not have factored here" was unfounded.
+69. Finally, it was submitted that the judge misunderstood the evidence of the path taken by the Ferrari as it tried to negotiate the corner before the accident and, as a consequence, drew adverse inferences as to the way in which the appellant steered his car.
+70. Ground 2 complains that the judge misunderstood the homologation requirement and was wrong in finding that it was not applicable to the defence case, thereby rejecting the evidence of the appellant on a completely false premise. It was, in fact, the defence case that it was the operation of the homologation requirement that was responsible for slowing down the appellant's Ferrari between Point B and Point D. The appellant's counsel on the appeal, Mr Simon Westbrook SC, and with him Mr Derek Chan, argued that the following evidence supported this contention: 
+
+(a) in the event of a brake booster failure, the brake pedal would feel hard when pressed. The brake would still work but there would be no magnification of the brake pedal pressure because there is no vacuum remaining in the pipe lines;
+
+(b) the findings of the homologation tests carried out on another Ferrari of the same model showed that if the brakes are working normally the car can be brought to a stop from a speed of 100 km/hour in a space of 32.5 m. However, where there is a brake booster failure and no vacuum remains in the pipelines, the stopping distance is greatly increased to 97 metres even if the driver presses on the brake pedal twice as hard as usual;
+
+(c) The defence's suggestion put to Mr Casolari, to which he agreed, was that the actual deceleration rate of the appellant's Ferrari between Points B and C, namely, -0.23 g, was consistent with the scenario of the brake booster completely failing and the appellant applying a force of around 500N to the brake pedal.
+
+
+71. It was also submitted that the judge should not have rejected the appellant's evidence in respect of the asserted failure in the brake system because it was consistent with his recent complaint to PW2.
+72. Ground 4 complains that the judge was wrong to use the evidence of PW1 to support inferences that she drew. In support of this ground of appeal Mr Westbrook argued the CCTV proved beyond doubt that PW1 was a thoroughly unreliable witness whose evidence should not have been relied upon for any such purpose. In support of this contention he referred to the mistaken evidence by PW1 that he stopped at the exit, lowered the window and tapped his octopus card. All of these actions were proven to be wrong by the CCTV footage.
+73. In arguing these grounds of appeal Mr Westbrook explained that his position was not that the evidence could not support the appellant's conviction, but rather that the judge erred in her reasoning process by which she reached a verdict of guilty.
+74. He submitted that this was a case "which called for a carefully considered assessment of the Apellant's credibility, properly taking into account inherent improbabilities and the objective evidence which provided support and corroboration for the Appellant's version of events as one which was, or might have been, true." He said that all the grounds of appeal go towards this issue with Grounds 2 and 4 being specific errors made by the judge in the course of assessing the appellant's credibility.
+
+75. In his written argument Mr Westbrook submitted: 
+"The real question in assessing the appellant's credibility, which the learned trial judge never grappled with properly, because of her misunderstanding of the defence, was the resolution of the tension between: 
+
+(i) The inherent unlikelihood of the Appellant intentionally pressing the brake pedal well ahead of the bend, but the lifting his foot off it as the Vehicle was heading towards an inevitable crash (ie the necessary implication of a finding that the brakes were working normally) ; and
+
+(ii) A far more reasonable scenario that the Appellant was pressing gradually harder and harder on a brake pedal that was, as he testified, already 'hard' (ie BB malfunctioning), resulting in (ie as a direct consequence of the 'homologation requirement') the abnormally mild deceleration rates of the Vehicle leading up to the accident and the creation of the 2.3m Yaw Mark at Point D which indicated no or no significant braking, whilst the Vehicle was sliding sideways."
+
+
+
+
+The respondent’s submissions
+
+76. Mr David Chan, Assistant Director of Public Prosecutions, and with him Ms Joey Lin, Public Prosecutor, appeared for the respondent both at trial and on this appeal. In relation to Ground 1, Mr Chan submitted that the judge correctly found that the evidence showed that the appellant was trying to swerve to the right only after he had missed the corner when approaching the curb. The judge was correct in finding that had he steered right in time but been unable to travel along his intended path, the yaw marks would have been longer and the collision with the curb would have been more side-on.
+77. In relation to Ground 2, Mr Chan submitted that the homologation safeguard was not triggered because the appellant did not apply to the brake pedal a braking force of 500N or above, let alone the force of a 'panic braking'. By contrast, the defence case at trial was that the appellant continuously applied an increasing level of force to the brake pedal but this force was below the requisite needed to activate the homologation safeguard, from Point B to Point C. Mr Chan also submitted that a meaningful comparison could only be made between the actual rate obtained from the test of an unloaded vehicle (-0.406g) and the deceleration rate of the vehicle during the accident (0.23g), which was in fact the line of questions pursued by Mr Chan during the examination-in-chief of Mr Casolari.
+78. In relation to Ground 3, it was submitted that when the judge assessed the credibility of PW1, she considered his evidence in its proper context. It was submitted that the pre-crash events did not form a significant part of PW1's observation evidence and in any event the judge was alive to the mistakes made by him amongst his pre-crash observations.
+
+Discussion
+
+79. The issue in this case was a very straightforward one; namely, did the appellant's car suffer a brake failure as it approached the corner? The judge was well aware that this is what she had to decide. Her resolution of this straightforward issue was, however, made more complicated by the volume and complexity of contradictory expert evidence. It was necessary for the judge to analyse that evidence in order to assess the competing opinions of the experts. That she did and we have been assisted by her clear and careful discussion of their evidence. As we have said, no point is taken on this appeal in respect of her rejection of the evidence of two of the defence expert witnesses, namely Mr Burns and Dr Lim.
+80. That left as the only evidence of brake failure, the testimony of the appellant and his assertion stood against the considerable body of evidence adduced by the prosecution experts. Evidence of not only there being no fault of any kind in the brakes but of the fact that even if the brakes had failed the car could have stopped in the distance available to the appellant. If the brakes were working and the car did not stop in this distance then it follows that the appellant was not applying the brakes but rather was deliberately attempting to negotiate the corner at speed. This the appellant argued is an implausible explanation with which the judge failed to deal.
+
+81. However, that the judge was alive to this defence submission is clear from the section of her Reasons for Verdict entitled "My Findings". There the judge set out the competing cases for the prosecution and the appellant. She said of the submissions made on behalf of the appellant: " The vehicle did decelerate. This evidence of braking is relevant to what happened between B and C then C and D. The defence stress if the brakes were functioning then the defendant had plenty of time to slow down and space to stop if necessary before the corner. The failure to slow down significantly can only be because there was a mechanical error. Otherwise it does not make sense. If he intended to take the corner at speed why brake at position B? It is more probable and likely he was increasing his brake pressure between B and D and there was no proper deceleration because the brake booster was faulty." (Emphasis added.)
+
+
+82. It is clear from this passage that the judge was well aware of the defence submission that the prosecution case was not plausible. But, it must be remembered that the implausibility that Mr Westbrook claims is inherent in the prosecution scenario of the appellant not braking as he approached a corner at a speed which made a crash inevitable, only exists if the appellant had appreciated that a crash was inevitable. But the prosecution case is that the appellant deliberately drove into the corner at speed believing he could safely negotiate it. This belief was erroneous and his excessive speed caused him to lose control.
+
+83. This scenario is not an implausible one. The appellant was an experienced sports car driver who enjoyed the thrill that his car could give him. He was asked in his examination-in-chief: "Would you describe yourself as experienced in the driving of sports cars, powerful cars?"
+
+ To this he answered: "I would definitely say that I'm an experienced driver of that type of vehicle, your Honour."
+
+84. When asked to explain why he accelerated down the unnamed road he said: "It was really  it was really to hear the sound of the car, rather than to experience two seconds of speed  It is really  it's a tunnel and the acoustics within that are  give an amplification to the sound of the vehicles that go down that road "
+
+
+85. The judge found that the appellant set the driving mode selector of the car to race mode, accelerated his car to 97 km/hour and, in the words of Mr Westbrook, "buzzed the engine" so that he could enjoy the sound it made. Prior to the corner he was driving on a 200 metre straight stretch of dry road that had no other vehicles on it and was pedestrian free. It is clear from the appellant's evidence that all these surrounding circumstances encouraged him to think it was safe to drive at speed and in fact he had done so on this stretch of road on previous occasions.
+
+86. In describing the moment he lost control of the vehicle the appellant said: "A. I guess I didn't expect the car to go into yaw.
+Q. Sorry, what did you expect the car to behave?
+A. I guess I thought the car would go round the corner. But as I said to you, I had never done it, I'd never tested it, it was just my expectation based upon its paper performance figures which is what you asked me about earlier. I know its performance on paper.
+
+Q. So the question was, from what you've read, did you expect the car to be able to successfully make that 90 degree turn at the speed of 70
+
+A. So your Honour, first of all, I didn't know how fast the car was at C. It's really about what it felt like. So I'm being asked about what's been written in a magazine or a paper about the car's performance and I'm being asked about what happened on the day. On the day, it just didn't feel that the car should slide. It felt that it was a speed at which a car of that accomplishment should have been able to navigate the corner.
+
+Q. How could you have that expectation without knowing the speed at point C?
+A. Well, Mr Chan, I've driven for more than three decades
+Q. So am I.
+A. Okay. And when you drive a car, any car, there's an expectation for it being able to stop, to go, to go round corners. It is -- it was merely my opinion that at what I felt the car was travelling at, it should go round the corner. But you're right, of course, I didn't know for certain. It's a theory, it's a theoretical based upon me reading about the Ferrari 458. That's it. I've never tested it, so you're right, you're right, if you're asking me whether it's my perception based upon my experience as a driver, it is merely that, my perception.
+Q. That's not what you said in your answer: 'The car did not appear to behave in the way I expected'.
+A. Yes, my perception of this -- and expectation of how it should behave. It felt to me like it should've gone round the corner."
+
+
+87. With the belief that he had in his own driving abilities and the performance parameters of his car it is not at all implausible to conclude that he intended to negotiate the corner at speed in order to obtain a further thrill from his vehicle.
+
+88. This is, in effect, what the judge found. She stated in her Reasons for Verdict. 22 " I agree it is unlikely under normal circumstances on the way to work the defendant would drive towards the corner and deliberately not slow down. However, I take into account what he was doing as he approached the corner. On this particular morning, I am sure he did put the manettino into race mode when he usually drove TA 4600 in sports mode. He did that because I am sure he wanted to open the throttle and accelerate to a high speed. He did this to hear the magnification of the roar of the engine in a tunnel like road. The race mode means the noise gets louder quicker than usual. He says he did not look at the speedometer which I find hard to believe. I find it hard to believe those thrills don't go hand in hand. I found from the CCTV, PW1's evidence and the marks on the road as the defendant approached the corner he hardly steered around it. This I am sure was not due to brake failure or the steering not behaving as it should. He did slow down but not enough. I find there is no other explanation other than the defendant lost control at speed."
+
+89. The judge then went on to consider the defence submission "that the only plausible explanation for approaching the corner at speed was brake failure". 23 In noting how accidents can happen for a variety of reasons and that even experienced drivers can be momentarily distracted she explained why she rejected the defence submission. She said: " This can apply to experienced drivers. They can misjudge distances, misjudge speeds, misjudge the vehicles' capabilities, the road ahead or lose control even inexplicably. It is the responsibility of every driver to ensure these errors don't happen. This corner was covered in about one second in time; no time at all. That is why it is important to consider his extraordinary driving manner as he approached the sharp corner. It is very relevant and I am sure the reason why he lost control or became distracted."
+
+90. When she later made the findings in respect of the manner of the appellant's driving, the judge did so in the context of what she had already found, saying: 24 "I am sure he changed the manettino to race mode which he rarely did because he was going to speed on that stretch of road and it would affect and enhance the sound made. On the defendant's own admission and the irrefutable CCTV footage the defendant drove intentionally at excessive speed down the tunnel like road for a thrill. I find he did slow down according to the calculations done by PW19 as he approached the corner but not enough. I find he did not steer properly around the corner or reduce his speed enough. It was slower but still too fast and he lost control driving across the corner. All those actions must collectively and irresistibly constitute dangerous driving according to the objective careful and prudent driver. There can be no other finding."
+
+
+91. In our view the way in which the judge addressed and resolved the issue of the alleged "implausibility" of the prosecution case cannot be faulted.
+92. Having found that there was no brake failure and having resolved the implausibility submission in the way she did, it was inevitable that the judge would reject the appellant's evidence and find that he drove dangerously.
+93. It is against this backdrop that the evidence of PW1 needs to be considered. For, it seems to us, greater significance has been attributed to his evidence than it deserves.
+94. It must be remembered that there was no dispute that the appellant was travelling at an excessive speed around this corner and that as a consequence he lost control of his vehicle. The issue for the judge was whether the appellant was deliberately driving at speed or whether his speed was due to a failure of his brakes. PW1's recollection of what he saw could only be of limited relevance to this issue.
+95. In relation to the evidence of PW1 Mr Westbrook asserts that his recollection of events is unreliable and the judge should not have made use of his testimony when determining how the accident happened and whether the appellant's version of events was credible.
+96. Mr Westbrook argues that PW1 was clearly distracted by the need to focus on what he was doing, namely driving up to the exit barrier, stopping at it, winding down his window and tapping his Octopus card on the reader in order to raise the boom gate. The need to perform all of these actions meant that he could not be concentrating on the appellant's driving at the corner. In support of his argument that PW1's testimony is unreliable Mr Westbrook referred to the fact that he was mistaken that his car had come to a halt, he was mistaken that he had tapped his Octopus card on the reader and he was mistaken that the boom gate was raised.
+
+97. All of this, it is true, might render PW1's evidence unreliable, but only unreliable for the purpose of determining what PW1 did at the exit gate of the car park, and there is a very simple explanation for this. Mr Westbrook is quite correct to say that PW1 was distracted. He was distracted by the sound of the appellant's car and so his attention was diverted away from performing the various actions needed to exit the car park and instead he was looking towards the direction from which the loud sound of the appellant's car was coming. The judge summarized the effect that the noise of the appellant's car had on PW1. She said, after referring to PW1's testimony that the noise from the appellant's car was "very, very loud": "So loud he decided not to leave the car park but wait to see what came around the right hand corner just to the right of the exit of his car park."
+
+
+98. The errors in PW1's evidence show that he was not focused on what was required of him to exit the car park and support his claim that, really, he was focused on the appellant's car.
+
+99. The specific complaint that is made in respect of PW1's evidence is the acceptance by the judge of what PW1 said he saw. She summarized this as follows: "PW1 then saw the black Ferrari to his right coming very fast. At the corner it just missed the concrete pillar corner on its right side (described during the trial as the apex of a concrete pillar), had to move to the left to avoid it and then had to swerve right to try and avoid the curb. What he describes is a vehicle misjudging the corner."
+
+
+100. PW1 actually marked on a sketch of the accident scene how close the appellant drove to this concrete pillar on the corner. The position he marked is consistent with a car "cutting the corner" in order to maximize the length of road that would be available to the driver as he negotiated the corner. However, the position he marked would also be consistent with his testimony that the driver drove too close to the corner and had to swerve away from it.
+101. There was no dispute that the appellant drove his car in a way that is known as cutting the corner. The appellant maintained that he did so as it was a choice forced upon him once he realized his brakes were not working. The judge found that he cut the corner as part of his deliberate driving of his car at speed.
+102. The appellant marked how he cut the corner on the sketch P17B. His markings show he did not cross over the centre line of the two lane road until he was at the corner and was at or past the apex of the pillar. At this stage he said his vehicle started to go into yaw.
+103. PW1, however, said that the appellant's car was steering too close to the apex of the pillar and had to steer away from it before again steering to the right to negotiate the corner. In other words, PW1 says the appellant misjudged the corner and tried to cut it too acutely, bringing his car too close to the apex of the pillar. This required him to make a correction to his steering before again steering to the right. This produced the appearance of a zig zag motion that PW1 claimed he saw.
+
+104. In order to help her resolve these conflicting claims, the judge compared PW1's observations with the CCTV footage and certain still photographs produced from it. There was clearly much argument about what, if anything, could be seen in this footage. It was viewed many times by the judge, as, indeed, it was by us. The judge said of the footage: 25 "It is submitted by the defence that PW1's evidence was not credible and his description of the path of TA 4600 around the corner was not reliable and that the CCTV cameras of P4, the Waterfront car park, do not assist his evidence. The footage does not show the Ferrari losing control around the corner. It is submitted that if I find otherwise the fact the defendant had no control supports his evidence that the brakes failed him and he was dealing with an emergency situation.
+I have reviewed the evidence myself and have watched the relevant CCTV footage numerous times. There are stills taken from the CCTV; particularly photographs 1, 2, 3 of P13. The headlights of TA 4600 and the direction they are pointed can be clearly seen in cameras 3 and 4 of the 4 cameras captured in those stills. One can also make out the inside corner, the apex of the concrete pillar in camera 4 stills. Camera 4 of photographs 2 and 3 show the vehicle on a path driving across the corner instead of one steering around the corner. Camera 3 in photograph 3 shows the headlights at position D or the curb pointing into the car park entrance. If there had been obvious steering to the right the collision would have been more side-on with the curb. When one compares the path of the headlights to P17 the sketch, the path of the vehicle becomes clear. That path supports PW1's evidence and although it happened very quickly I believe what he saw and describes is accurate." (Emphasis added.)
+
+105. She also referred to the different tyre marks left on the road in order to determine whether they were consistent with what PW1 claimed he saw. At paragraphs 132-33 of her Reasons for Verdict the judge said of these marks: "I have taken into account the skid marks, what I am told they indicate and applied it to the path of TA 4600 according to the CCTV and PW1's evidence. Bearing in mind the definition of a yaw mark is an indication of forward and sideways movement at the same time. It means the vehicle was not going along the driver's intended path. The yaw mark here was only about 2 m long and just before the position D and the damaged curb. (Photographs 6 and 9 of P6 capture the yaw mark position as do photos on pages 7 to 10 of P23.) That point of collision with the curb is after the corner, almost on the straight. In my view the short yaw mark and the CCTV footage show there was little attempt to steer around the corner. It appears the defendant did not go into yaw until almost after the corner. He should have been turning earlier.
+The defendant did say the steering did not respond as it should but there is no suggestion there was a fault with the steering system. He said in evidence and drew on P17B that his vehicle went into yaw into the corner as opposed to after the corner. Yet the yaw mark is just 2 m from the curb, it should have been longer if the vehicle had been steered right and was not going in the defendant's intended path around the corner. Therefore, I find the evidence suggests otherwise. It suggests if there was no mechanical fault, he was not steering properly and not in complete control of his vehicle. " (Emphasis added.)
+
+
+106. It is clear from the last sentence that the judge was aware that the evidence of PW1 could not assist her in determining the key issue of why it was that the appellant negotiated the corner at speed. PW1's evidence went to how the appellant negotiated the corner. As the judge said, the relevance of PW1's evidence, if it was proven that there was nothing wrong with the brakes, was that speed was the cause of the appellant losing control of his vehicle. That is, it went to the manner of his driving and whether that driving was dangerous. But, as we have pointed out, that was not in dispute and it was specifically conceded by the appellant's counsel that if the court did not find there was a mechanical fault with the car then the manner of driving must have been dangerous. 26 
+107. When viewed in the context of the issues in the case it can be seen that PW1's evidence was of only marginal significance. Its true significance lay in the fact that it was at odds with the evidence of the appellant and so a finding that the evidence of PW1 was to be preferred to the evidence of the appellant impacted upon the credibility of the appellant. But given that both PW1 and the appellant were describing events that took place within a few seconds, their evidence was going to be largely in the form of impressions of what took place. PW1's evidence was never going to be a reason for disbelieving the appellant on the key issue of whether his car's brakes failed. That was always going to be determined by the judge's decisions in respect of the expert evidence.
+108. Nevertheless, as so much time was spent on the evidence of PW1 we make the following comments.
+109. It is clear to us that the judge was using the CCTV footage and the tyre marks to determine if they in any way undermined or contradicted PW1's evidence. She found they did not and actually supported his evidence. However, she was not saying that without such support she would not have believed PW1. Her perception of what the CCTV and the tyre marks showed no doubt increased her confidence in the visual observations of PW1 but her acceptance of his evidence was not dependant upon finding that these other pieces of evidence supported it. We are satisfied that she was certainly entitled to find that the yaw mark on the road is not consistent with the evidence of the appellant and his markings on the sketch P17B.
+110. In respect of the CCTV the judge relied on the path of the car's headlights in conjunction with the sketch P17 in order to determine the path of the Ferrari. She concluded that with these materials used in this way the path of the vehicle became clear and supported the evidence of PW1. In our view that was a finding open to her. But, even if she gave greater weight than was justified to what she thought the CCTV revealed, her determination of the path of the appellant's vehicle was immaterial to her resolution of the key issue in the case of whether the appellant's car's brakes failed.
+
+111. In respect of the ground of appeal that the judge misunderstood the defence case as it related to the homologation safeguard it is necessary to set out what the judge said. At paragraph 129 of her Reasons for Verdict she set out the defence case: " The defence say the homologation safeguard did not apply or arise here because between B and C or C and D the defendant's evidence was there was a progressively harder pressure applied to the brake as opposed to lifting the foot off and then slam it back down on the brake. It was submitted that that is what is required to get brake pedal pressure and a deceleration in the event of a failure of the brake booster. There is no dispute the brakes still function even if the brake booster fails but only if the force on the brake pedal by a kick or slam achieves a deceleration rate that is meaningful. It was submitted this did not happen here and so the deceleration rate did not increase; the homologation safeguard was not applicable ." (Emphasis added.)
+
+
+ The judge used the word "safeguard" in this passage of her Reasons for Verdict to refer to the benefit which the homologation requirement was intended to confer on a driver of enabling him to bring the car to a complete stop, in the event of a brake booster failure, within a minimum distance.
+112. When read in context it is clear what the judge was saying. She was referring to the evidence of Dr Lim and the appellant which explained why it was that the appellant was denied the benefit that the homologation requirement should have conferred on him. The homologation requirement ensures that a car can be brought to a halt from a speed of 100 km/hour within a distance of 168 metres by the application to the brake pedal of 500N of force. This would produce a deceleration rate of -0.2339g.
+113. Ferrari has improved on this standard and the 458 Ferrari car, within these parameters, can be brought to a halt within 128.86 metres.
+114. 'Panic braking', by which a force of 1000N is applied to the brakes pedal, can bring the car to a stop within a shorter distance and the distance available to the appellant would have been sufficient had he panic braked.
+115. However, it was Dr Lim's evidence that 'panic breaking' requires a driver to act counter-intuitively and to release his foot from the brake before slamming down hard on it again. It was the appellant's evidence that this is not what he did. He had, so he testified, gradually increased pressure on the brake without taking his foot off it. Because he applied force to the brake pedal in this way he did not obtain the benefit of the homologation safeguard.
+116. When the judge's comments are viewed in the context of this evidence it is clear what she is saying. She is absolutely correct to say that on the defence case the homologation safeguard did not come into play in the sense that because the method of braking employed by the appellant was not 'panic braking' the stopping distances of the homologation safeguard were not available to him. She sets out this aspect of the defence case very clearly at paragraph 129 of her Reasons for Verdict that is quoted at paragraph 111 of this judgment. It is only in that sense that she is saying that the homologation safeguard was not applicable.
+117. After the judge made the comment in paragraph 129 of her Reasons for Verdict, she went on to make her findings in respect of the expert evidence. As already noted she accepted the prosecution expert evidence in respect of there being no problem with the braking system and rejected the evidence of the defence experts on this issue. She then went on, in paragraphs 148-150 of her Reasons for Verdict 27 , to discuss the appellant's evidence about how he braked and related that to the evidence in respect of the homologation safeguard. It was then that she made the comment that she suspected the appellant's evidence was "tailor made to explain why the undeniable homologation safety requirement would not have factored here even when the brake boosters failed."
+118. The appellant complains that this was an unfair comment. We are not persuaded that it was. There was no dispute that the homologation requirement meant that the appellant's car could still be brought to a halt in the event of a brake booster failure. The brakes still work but they require more foot pedal pressure to achieve deceleration. The appellant's car did not achieve any meaningful deceleration despite the increasing force he applied to it. He needed an explanation for why this should be so. The appellant sought to take advantage of a distinction made by his expert between 'panic braking' and gradually increased braking without explaining why the latter would not achieve any reduction of speed.
+119. The distinction was also relevant to the point the appellant's counsel made in respect of the coincidence of the appellant's deceleration value between Points B and C, namely -0.23g, being the same as the deceleration value of the homologation requirement as laid down in the regulation. It was the defence case that this supported the appellant's claim that the brake booster had failed.
+120. But, this coincidence of the appellant's deceleration rate with the homologation regulation's deceleration value was illusory as it did not compare like with like. The homologation regulation set a minimum standard for a loaded vehicle. For this particular Ferrari, unloaded, the deceleration value when complying with the homologation requirement was - 0.406g 28 , nothing like the -0.2339g of the regulation. Also, it must be remembered, for the regulation's deceleration value to apply there should be no more force applied to the brake pedal than 500N, yet the appellant was continuously increasing his pressure on the brake pedal from Point B onwards, to such an extent that the pressure forced his body back into his seat.
+121. The appellant's reliance on his non-panic braking mode of applying pressure to the brake pedal was also designed to explain how he could be braking hard but only obtaining the deceleration value of a person applying a force of 500N. Mr Casolari said that a force of 500N was not hard braking but only moderate braking. Furthermore, there was no evidence to suggest that he would not derive any braking effect from the way he applied the brakes; indeed the evidence was to the contrary. Mr Casolari said that applying 500N to the brake pedal would have caused the speed of the appellant's Ferrari at Point D when it struck the curb to be approximately 30 km/hour. However, if the appellant was applying the brake as hard as he claimed then the pressure he would have been applying to the brake pedal must surely have been greatly in excess of 500N.
+122. In these circumstances it is hardly surprising that the judge made the comment she did. In our view it was a comment open to her to make.
+123. We are satisfied that the judge correctly identified the issues in the case and resolved them properly and fairly. We find no merit in any of the complaints made by the appellant in his Perfected Grounds of Appeal.
+
+Conclusion
+
+124. For these reasons we dismiss the appeal against conviction.
+ 1Data stored in the Ferrari's electronic control unit enabled an expert witness from Ferrari to calculate that the applicant's car was travelling at 70 km/hour when it hit the curb at Point D. See paragraph 19 of this judgment.
+ 2There was disagreement between the parties as to the cause of this deceleration. It was the prosecution case that it was due to the appellant applying light braking and it was the defence case that it was due to engine braking.
+ 3It is unclear where this mark starts but the photos taken of the scene suggest it may start where the bitumen and the concrete meet and Dr Wong's markings on these photos also suggest that.
+ 4Dr Wong indicated in his report that Lane 1 was the left hand side lane of the road.
+ 5KSB refers to "Kowloon Station car park" and NSF refers to "near side front".
+ 6"N" stands for Newton and is the symbol for a unit of force.
+ 7He defined a vehicle of "full load" as a car with "full fluids, full fuel tank, driver and passenger on board."
+ 8The third table of Annex 3 to Mr Casolari's report: Appeal Bundle page 120.
+ 9Appeal Bundle page 467F-H.
+ 10This represented what the appellant's model Ferrari could actually achieve in the event of a brake booster failure as opposed to what it was required to achieve in compliance with the homologation regulation.
+ 11Appeal Bundle pages 463T-464K.
+ 12Appeal Bundle page 467Q-R.
+ 13Mr Casolari's report, paragraph 40.3; Appeal Bundle page 110.
+ 14Appeal Bundle page 767B-E.
+ 15Reasons for Verdict, paragraph 107.
+ 16Reasons for Verdict, paragraph 131.
+ 17Reasons for Verdict, paragraph 132
+ 18Reasons for Verdict, paragraph 143.
+ 19Reasons for Verdict, paragraph 145.
+ 20Reasons for Verdict, paragraph 147.
+ 21Reasons for Verdict, paragraph 158.
+ 22Reasons for Verdict, paragraph 151.
+ 23Reasons for Verdict, paragraph 152.
+ 24Reasons for Verdict, paragraph 156.
+ 25Reasons for Verdict, paragraphs 130-131.
+ 26See paragraph 55 of this judgment.
+ 27See paragraph 63 of this judgment.
+ 28That is the deceleration value of the appellant's model car travelling at 100 km/hour and having a force of 490N applied to the brake pedal without the assistance of the brake booster. See the evidence of Mr Casolari at page 464P-Q of the appeal bundle.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

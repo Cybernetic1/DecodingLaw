@@ -1,0 +1,452 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 03 March, 2018 at 23:59 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Yim Wai Ling v Yuen Chik Wah
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Yim Wai Ling v Yuen Chik Wah
+
+
+
+12 August 2016
+District Court
+DC
+Civil Action No 663 of 2013
+DCCJ 663/2013
+
+Citations:[2016] HKEC 1758 English Judgment
+
+Presiding Judges: Deputy Judge Angela Kot
+
+Phrases: Tort - negligence - nuisance - water seepage from defendants' premises to plaintiffs' premises immediately below - whether defendants liable - whether prohibitory injunction restraining continuance of water seepage warranted in circumstances - seepage having ceased, whether injust to grant injunction against defendants
+Damages - assessment - negligence - nuisance - water seepage from defendants' premises to plaintiffs' premises immediately below
+
+Counsel in the Case: Mr Tony Ko, instructed by Jackson Ho & Co, for the plaintiffsMr Victor Gidwani and Mr Ricky Li, instructed by W H Chik & Co, for the defendants
+
+Cases cited in the judgment: Chan Fei Lung v Mansion Products Ltd & Others [1990] 1 HKC 504 
+Lam Sik Heung Perdita 對 Siu Yuet Kwan (unrep., DCCJ 2424/2009, [2012] CHKEC 883) 
+Lau Lai Tan Wah v Cheng Mei Fong (unrep., DCCJ 4976/2004) 
+So John & Another v Lau Hon Man & Others [1993] 2 HKC 356 
+Chung Che Shum & Another v Dong Sai Ming & Another (unrep., DCCJ 21504/2001, [2007] HKEC 329) 
+
+Hunter & Others v Canary Wharf Ltd [1997] AC 655 
+
+Lee Wai Chuen v Cheung Chor Keung (unrep., DCCJ 3098/2006, [2011] HKEC 42) 
+
+Leung Wai Kee v Tam Yuet Sheung (unrep., DCCJ 5716/2007, [2012] HKEC 959) 
+
+Leung Yung Chun v Chan Wing Sang [2000] 1 HKLRD 456 
+
+Ngan Ping Chi v Lam Chi Hao (unrep., DCCJ 462/2003, [2004] HKEC 3) 
+
+Wong Hon Hung v Jolly Birds Ltd (unrep., DCCJ 5341/2006, [2008] HKEC 1072) 
+
+Wong Kan Tai v Man kau Kan & Another (unrep., DCCJ 14290/2000, [2003] HKEC 791) 
+
+
+Judgment: 
+
+
+Deputy Judge Angela Kot
+
+Undisputed or undisputable Background
+
+1. The plaintiffs, being mother and son, are the registered owner of the premises known as Flat 9, 11th Floor, Block A, Kam On Court, No. 20 Hang Kam Street, Shatin, New Territories, Hong Kong ("P's Premises") whilst the defendants are the registered owner of the premises immediately above P's Premises ("D's Premises"). The layout of P's Premises and D's Premises are exactly the same and there is only 1 toilet inside the premises.
+2. Upon purchase of P's Premises in 1997, the 2nd Plaintiff ("P2") and his sister Madam Poon ("Poon") used it as their residence and P2 moved out from P's Premises in December 2010 leaving Poon as the only occupier at P's Premises since then.
+3. On 21 January 2010, water seepage was found at the ceiling inside the toilet of P's Premises. The management company of the Kam On Court was informed on 21 January 2010 and complaint was made to the Food and Environmental Hygiene Department ("FEHD") on 23 January 2010 as well (B/104). Investigation was being conducted by the FEHD including a water test inside the toilet of D's Premises in March 2010 (B/126).
+4. On 14 April 2010, Poon received a letter from FEHD (B/102) confirming that the water seepage at P's Premises came from the floor slab, the bath tub and the walls inside the toilet of D's Premises ( 『上層單位浴室的地台、浴缸及周邊牆壁引致貴單位滲水情況』 ). And the FEHD had given notice requiring the defendants to repair and remedy the water seepage problem within stipulated time. According to a visit by the FEHD to D's Premises on 7 May 2010, it is confirmed that the defendants did take remedial steps by laying water proof material underneath the whole bathtub ( 『已用防水物料鋪蓋了整個浴缸底』 ). On 14 May 2010, the FEHD visited P's Premises and found the water seepage had stopped. These are recorded in a letter from FEHD to the plaintiffs dated 18 May 2010 (Exh D1). This is referred to as the 2010 Incident in this judgment.
+5. On 9 June 2010, the plaintiffs issued legal proceedings against the defendants for damages arising from the 2010 Incident at the Small Claims Tribunal ("SCTC Claim") (B/108-109). In the claim form, a quotation prepared by a company called Kai Kei Engineering ("Kai Kei") for the repair works in the sum of $11,900 was attached (B/112). The SCTC Claim was settled on 7 July 2010 in the sum of $11,000.
+6. In November 2010, the plaintiffs had engaged Vic's Decoration Co. ("Vic's") to renovate the whole unit of P's Premises including the toilet (B/248-251).
+7. On 11 November 2012, Poon discovered large amount of pink coloured water dripping from the false ceiling inside the toilet of P's Premises at 3am. Complaint was made to the management company and upon inspection by the management staff on 12 November 2012, water was found seeping from the ceiling inside the toilet of P's Premises and there was water trapped underneath the bathtub inside the toilet of D's Premises (B/114). Photos were being taken by staff of the management company (B/115-118). The defendants then started replacing the fresh water pipes underneath the bathtub and completed on 26 November 2012.
+8. Poon had also lodged a complaint with the FEHD on 12 November 2012 and staff from the FEHD had collected samples of the pink water from P's Premises for analysis and on 10 December 2012, the FEHD confirmed in a telephone conversation with Poon that the water sample contained the colouring used in the water test conducted by FEHD at D's Premises for the 2010 Incident (B/127).
+9. On 13 December 2012, the management staff visited P's Premises upon complaint by Poon again and discovered that the water seepage on the ceiling inside the toilet at P's Premises still persisted. Photographs were being taken by the management staff at both P's Premises and D's Premises (B/119-120). A letter was sent to the defendants by the management office to remind them of the duty to repair and follow up (B/114). On 16 and 17 December 2012, the defendants replaced a section of the drainage conduit which ran in the vicinity of the bottom of the bathtub.
+10. On 18 December 2012, staff of the FEHD inspected P's Premises again and conducted a test with instruments and confirmed one or two patches on the ceiling were still wet. Poon then engaged Mr Wong Shun Tai Stewart ("Wong") of Proficient Surveyors & Co to find out the source of the water seepage.
+11. Wong attended P's Premises on 18 December 2012 and had also gained entry to D's Premises with the permission of the defendants for inspection and coloured water test on 29 December 2012 by keeping some green dye water underneath the bathtub ("CWT"). On 2 January 2013, Mr Wong visited both premises for the result of the CWT. The defendants were asked to leave the green colour water underneath the bathtub for a few more days.
+12. On 6 January 2013, Poon found green coloured water dripping from the ceiling inside the toilet of P's Premises and the defendants were informed. The defendants then caused repair works at the toilet inside D's Premises to be done by replacing the bathtub, all wall tiles, floor slab and all water pipes as well as installing a water proofing layer. Such construction work started on 7 January 2013 and completed by 15 January 2013.
+13. The water seepage at P's Premises stopped by mid January 2013. Wong had provided Poon with his expert report which was dated 31 January 2013 (B/31-63). On 15 February 2013, the plaintiffs had instructed their solicitors to issue a pre-action letter to the defendants and on 25 February 2013, the Statement of Claim in this case was filed in which an mandatory injunction as well as damages are sought based on a claim of nuisance and negligence.
+14. A joint inspection was being conducted by Wong and Mr Alan Chan ("Chan"), an expert appointed by the defendants, on 1 June 2015 ("Joint Inspection") and a Joint Expert Statement was filed on 3 February 2016 ("Joint Statement") (B/213-232). In pursuant to the direction by this court at the Pre-Trial Review, a Scott Schedule on quantum is being prepared ("Scott Schedule") (B/268-275).
+15. Parties had agreed on the list of issues to be determined in this case (B/260).
+
+The Evidence
+
+16. Poon testified for the plaintiffs and also called their expert Wong to give evidence. The 1st defendant ("D1") and the defendant's expert Chan also testified at trial.
+
+Plaintiffs’ Evidence
+
+17. Poon said that the situation of the water seepage in 2010 and in 2012 is similar and the most serious seepage occurred at the ceiling right above the bathtub.
+18. On 2 January 2013, in the presence of D1, Wong found water dripping from the ceiling inside the toilet of P's Premises showed green colour. But since D1 said it's not that apparent, Wong asked D1 to leave the green dye water under the bathtub for a few more days. On 6 January 2013, Poon discovered a lot of greenish water were dripping from the ceiling so she called Wong. On the instructions of Wong, Poon took photographs of the ceiling which is being included in Wong's report marked as photo no. 92-94 (B/42). Poon said the water dripping lasted for a week and then the water seepage stopped. She didn't know that the defendants had started the remedial work since 7 January 2013
+19. Poon also confirmed that after settlement of the SCTC Claim, renovation of the whole unit of P's Premises had been carried out. As far as the toilet is concerned, the following works were performed : 
+
+a) the water patches and rust patches on the ceiling of the toilet had been removed and after cleaning, water proof paint had been put;
+
+b) The whole false ceiling, the hanging cabinet, the lamp and the electric socket had been replaced;
+
+c) The partition between the bathtub and the washing basin had been replaced ; and
+
+d) The floor slab, the bathtub and the toilet bowl were replaced.
+
+
+20. Poon confirmed that the quotation of Kai Kei is only for the repair work as a result of the water seepage and the renovation work was eventually performed by Vic's and works done by Vic's inside the toilet are more or less the same as that quoted by Kai Kei though with different description (invoice of Vic's at B/248-249).
+
+Defendants’ Evidence
+
+21. D1 testified that upon receipt of the complaint on 21 January 2010, the management company had checked the underneath of the bathtub inside D's Premises and found it was dry without any water leakage. Water dye test had been conducted by FEHD at the toilet inside D's Premises sometime in March 2010 and even though the FEHD had written to the defendants saying that they found the water seepage originated from D's Premises, there was no mention of the exact source of seepage. The remedial works carried out by D1, who is a renovation master by occupation, were proved to be effective by the FEHD.
+22. Yet, D1 maintained that he found the area underneath the bathtub to be dry and no water leakage found in the pipe during the repair work for the 2010 Incident. Instead he found there were water drops and dampness on the wall where the common pipes were and was told by the management staff that this may be due to the steam or the aging of the connection between the common pipe and the pipe leading to the individual unit.
+23. On 12 November 2012, staff from the management company did found water trapped underneath the bathtub inside D's Premises and D1 immediately changed the pipe which was suspected to be leaking. By 13 December 2012, upon being notified of the fact that the water seepage at P's Premises still persisted, D1 changed the other pipes as well.
+24. D1 had allowed Wong to inspect the toilet inside D's Premises and for the CWT to be done on 29 December 2012. On 2 January 2013, Wong came to D's Premises and claimed that the water level underneath the bathtub seemed to be lessened and suspected that water should have dripped into P's Premises, but Wong had made no measurement whatsoever. Inside the toilet of P's Premises, Wong had placed a piece of tissue onto the ceiling and found it turned wet but D1 said he saw no dripping of water or coloured water from the ceiling so the wetness shown on the tissue maybe due to the dampness of the toilet. D1 agreed to let the coloured water underneath the bathtub inside D's Premises to remain for a few more days.
+25. On 6 January 2013 Poon informed the defendants' daughter that there were green coloured water found on the ceiling inside the toilet of P's Premises and told D1 to clear away the water underneath the bathtub without inviting D1 to go and see for himself. On 7 January 2013, the defendants had arranged for repair work to be done inside the toilet including : 
+
+a) Demolition and replacement of the bathtub;
+
+b) Demolition and replacement of the wall and the tiles;
+
+c) Demolition and replacement of the floor tiles and water proof layer;
+
+d) Replaced all pipes inside the toilet; and
+
+e) Add layers of concrete and water proof layer on the floor slab where the common pipe located.
+
+
+26. D1 suggested in his witness statement the possible cause of the seepage, which includes: 
+
+a) Leakage on the pipes or connecting points of the pipes underneath the bathtub due to aging;
+
+b) Water seeped underneath the bathtub through the edge of the bathtub due to the aging of the plastic edge; and
+
+c) The waterproof membrane between the floor slab at D's Premises and the ceiling of P's Premises being worn out.
+
+
+
+Expert’s Evidence on Liability
+
+27. Wong attended P's Premises on 18 December 2012 and found inside the toilet (B/182 §4.1): 
+
+a) water seepage caused dampening of the ceiling (photo No. 11-24 at B/193-194);
+
+b) multiple rust spots on the ceiling soffit (photo No. 11-14, 17-26 at B/193-195), result of a long time affection by seepage of water causing corrosion and rust in the reinforcement embedded in the ceiling slab;
+
+c) ceiling slab is soggy with record of dampness (photo No. 21-26 at B/194-195);
+
+d) binding concrete of ceiling slab is spalled at multiple places due to soakage of dampness in long run; and
+
+e) electrical cables in conduits embedded in ceiling slab are dampened and damaged.
+
+
+28. During the inspection of D's Premises on 29 December 2012, Wong found (B/183 §4.3.2): 
+
+a) There are newly replaced multiple pipe joints in the fresh water pipe supplying fresh water lined from kitchen to bathroom then the bathtub (Photo P.49-50, 56, 61 63 65 & 66 at B/199, 201 & 203-204);
+
+b) One segment of fresh water pipe which is used with a flexible tube (Photo P.49, 61 & 63 at B/199 & 203);
+
+c) An overflow warning drainage outlet of the bathtub made connecting to a loose pvc hose (Photo P.50 & 54 at B/199-200);
+
+d) Floor of bathtub appears to have recently paved with a coat of cement sand mortar (Photo P.50 & 56-58 at B/199 & 201-202); and
+
+e) The P trap of the bathtub looks to be new (Photo P.50 & 56 at B/199 & 201).
+
+
+29. CWT was conducted on 29 December 2012 with greenish dye water poured onto the floor underneath the bathtub (Photo P.55, 59-60, 62-63 & 65-66 at B/201-204) as well as onto the floor near the floor drain of the toilet (Photo P.68 at B/205). On 2 January 2013, Wong found greenish dye flowing from the toilet of D's Premises onto the ceiling of the toilet inside P's Premises.
+30. Wong came to the conclusion in his report that "the damp proof membrane in the floor slab of bathtub and the area of bathroom of (D's Premises) is worn allowing passage of water flowing through the floor of bathroom of (D's Premises) to enter and drip from the ceiling of bathroom of (P's Premises)" and "the fresh water pipes and drainage pipes of bathroom of (D's Premises) are sub-standard posing high risk of due re-occurrence of water escape from the said pipe fittings. As the water proof in the floor slab of bathroom of (D's Premises) is dilapidated, water once is let dampening its floor, it will seep downward through the floor of (D's Premises) to enter, drip or dampen the ceiling and walls of bathroom of (P's Premises)" (B/184 §6).
+31. Due to late instructions on 26 May 2015, Chan was not able to conduct any inspection or test before the Joint Inspection and he had only conducted visual inspection of the parties' respective premises and the fixtures and fittings claimed to be damaged. So Chan's evidence is only on the quantum of the damages and not on the cause of the water seepage.
+
+Whether water seepage occurred at P’s Premises in November 2012?
+
+32. The defendants contend that there was no satisfactory proof as to any water seepage occurred in 2012 on the ground that: 
+
+a) The condition of the ceiling of the toilet inside P's Premises did not prove on a balance of probabilities that there was water seepage in 2012 since it is likely that the condition found by Wong was related to the 2010 Incident;
+
+b) There is no evidence to associate the pink water with the seepage occurred in 2012; and
+
+c) The CWT conducted by Wong did not show any water seepage on 2 January 2013.
+
+
+33. Having considered the evidence in this case, I accept the evidence of Poon that she discovered water seepage occurred again in November 2012. Her evidence is supported by the evidence of the management staff who had inspected P's Premises on the day of complaint and recorded their observation in a letter to the defendants dated 13 December 2012 together with photographs (B/114, 117 & 118). According to the content of the letter and the photographs, the management staff who inspected P's Premises found coloured water dripping from the ceiling of P's Premises and the water seepage continued till 13 December 2012 when the management staff went for another inspection with photographs taken (B/114 & 120). This corroborates the evidence of Poon.
+34. There is also evidence from the management staff that they found water leaking at the connection point of the fresh water pipe underneath the bathtub at the inspection on 11 November 2012 at D's Premises (B/115) and even though the fresh water pipe had been replaced, the management staff still found water leakage under the bathtub on the inspection on 13 December 2012 (B/119). Even though D1 denied that the management staff had found any water leakage on the fresh water pipe on 11 November 2012, I do not accept his evidence in this regard. If the management staff had not found any water leakage on the pipe, why would D1 replace the fresh water pipe right after the inspection? I found the findings by the management staff did support the evidence of Poon as well.
+35. The CWT conducted by Wong also confirmed there was water seepage in 2012. There is a dispute as to whether there is greenish dye water appeared on the ceiling of P's Premises on 2 January 2013 and 6 January 2013. Having considered the evidence, I found the evidence of Poon is more credible and supported by Wong and the photographs taken by Poon on 6 January 2013. From the photographs, one can clearly see there was greenish water on top of the false ceiling. Even though the photographs were taken by Poon in the absence of Wong and the defendants, there is nothing to cast doubt on Poon's credibility on her evidence in this respect. D1 had admitted under cross-examination that Poon had in fact notified his daughter on 6 January 2013 of the large quantity of green dyed water found in the false ceiling. This showed that Poon had informed the defendants right away on 6 January 2013 and this is a contemporaneous complaint to the defendants. And it would not be surprising for Poon to inform Wong of this situation as well and on the instructions of Wong, then taken some photographs of the greenish water. I found the attack by the defendants that the photographs taken by Poon are fabricated is unfounded.
+36. The defendants had attacked on the credibility of Wong in finding the reduction in the dyed water level and the presence of greenish dye water on 2 January 2013. As can be seen from the photographs taken on 2 January 2013 by Wong (B/61-62), the presence of greenish dye water was not that apparent. This also explains why Wong asked D1 to leave the dye water to remain for a few more days for better observation. In any event, given the findings that the greenish dye water did appear on the ceiling of P's Premises on 6 January 2013, this did confirm there was seepage of the dye water from D's Premises to P's Premises and irrespective of how unreliable Wong's evidence may be, the defendants cannot deny that there was water seepage in 2012.
+37. The defendants also contend that since the plaintiffs had not performed the repair to the reinforcement bars as appeared in the Kai Kei quotation (as admitted by Poon), the significant rust damage observed on the ceiling should be formed after a long time of rusting, much longer than one month since the water seepage first occurred in 2012. The failure by the plaintiffs to carry out any remedial work on the reinforcement bar after the 2010 Incident had caused the pink water trapped in the ceiling of P's Premises suddenly released due to further depreciation of the unrepaired ceiling. I found this allegation by the defendants is unsubstantiated. There is no expert evidence to support such an explanation as to the appearance of the pink water found on P's Premises since the water test conducted by FEHD back in 2010. According to Wong, the conditions he found on the ceiling of P's Premises should occur with 2 weeks' of water leakage, this tends to rebut the allegation by the defendants that the condition of the ceiling should have been formed after a long time of rusting.
+38. I found there was water seepage on the ceiling inside the toilet of P's Premises in November 2012.
+
+Whether water seepage emanated from D’s Premises and the mechanism of the seepage?
+
+39. It is the submission of the defendants that the plaintiffs failed to prove that water did emanate from D's Premises. From the evidence of Wong, the cause of the water seepage was "due to worn and dilapidated water proof membrane in the floor slab of bathroom of defendants which caused passage of water flowing through the floor of the said defendants' bathroom to enter and drip from the ceiling of the plaintiffs" (§4.1.5 of Joint Statement at B/215). Even though Wong had also made observations about the high risk of pipe burst on one segment of the fresh water pipe and the high risk of water escape of an overflow drainage outlet of the bathtub made connecting to a loose PVC hose, it is not his opinion that the pipe or the drainage outlet is the cause of the water seepage. I cannot see how the attack of Wong on his observations of the pipe and the drainage outlet can be relevant in this case.
+40. D1 had in his evidence tried to paint a picture that the source of the water seepage may come from the common pipe inside the pipe duct ( 喉槽 ) next to the bathtub (Exh D2). But such a suggestion is not supported by any expert evidence and Wong had specifically refuted such theory under cross-examination. Wong said that the common pipe inside the duct was being wrapped by a plastic tube ( 套筒 ) and there was a gap between the plastic tube and the floor slab of the pipe duct. With such a design, no water can be trapped on the floor slab of the pipe duct so even if there was leakage on the common pipe, it will go all the way down along the vertical common pipe to floors below and will not affect the ceiling inside the toilet of P's Premises which is at such distance away from the pipe duct. Furthermore, Wong had also conducted another coloured water test with greenish dye on the floor slab of the common pipe duct and found no leakage at the common pipe duct at P's Premises and D's Premises. So Wong came to the conclusion that the common pipe was not the cause of the water seepage. Wong's evidence in this respect is unchallenged and I accept his evidence.
+41. I found the CWT conducted by Wong underneath the bathtub of D's Premises is the best evidence to show that the water seepage on the ceiling of the toilet inside P's Premises originated from D's Premises through the floor slab underneath the bathtub due to ineffective water proofing layer. Chan also agreed under cross-examination that from what is being shown on the photographs taken by Poon (B/42), he agreed with this conclusion of Wong. This is consistent with the finding of water trapped underneath the bathtub when the management staff inspected the bathtub of D's Premises on the day when complaint was first made (B/114). This conclusion is also supported by the fact that the water seepage ceased upon the defendants' repair work done in January 2013 including the installation of a new water proof layer in the toilet. And I also found that there is no evidence to show that there is any other possible cause of the water seepage in this case.
+42. I am satisfied, on a balance of probabilities, from the evidence adduced by the plaintiffs that the source or cause of the water seepage in P's Premises is from D's Premises.
+
+Negligence
+
+43. It is trite law that to succeed in a claim in negligence, the injured party must prove that: 
+
+a) The defendant owed to the injured party a duty to exercise due care;
+
+b) The defendant failed to exercise due care; and
+
+c) The defendant's failure was the cause of the injury.
+
+
+44. In this case, the defendants as the owner and occupier of D's Premises, must owe a duty of care to the plaintiffs to maintain the water proof layer under the bathtub in good repair. By failing to do so and allowed water to seep into P's Premises, the defendants are in breach of such duty of care and given the findings above that the cause of the water seepage at P's Premises did originate from D's Premises, the injury suffered by the plaintiffs must be caused by the defendants' failure to maintain the waterproof layer.
+45. It is submitted by Mr Gidwani for the defendants that such duty of care should not be absolute and the defendants cannot be expected to check every water pipes in the premises, especially where destruction and re-construction of the bathtub might be involved. It is contended that the duty of care in water seepage cases would be discharged once the defendants take prompt, timely and effective actions when they knew or ought to have known that water seepage had originated from their own premises.
+46. I found the defendants had failed to take prompt and effective action. The defendants had been notified of the water seepage on the next day after water seepage occurred and when the management staff inspected D's Premises, water was found being trapped under the bathtub with water leakage on the fresh water pipe. Given the fact that the complaint of the plaintiffs was that water dripping from the ceiling immediately above the bathtub and with the finding of water underneath the bathtub, the defendants ought to have known that the water proof layer underneath the bathtub is not working properly and cannot stop water trapped there from dripping into P's Premises. This is somewhat similar to the 2010 Incident where the defendants had taken action to paint water proof layer underneath the bathtub. The defendants ought to have known that the water proof layer underneath the bathtub had failed to work properly again. Yet, all the defendants did was to replace the U-shape pipe and another rusty pipe underneath the bathtub and had done nothing to the floor slab till January 2013. All these actions taken by the defendants proved to be ineffective since the water seepage still persisted. The actions taken by the defendants before 6 January 2013 are neither prompt nor effective.
+47. I found the defendants liable in negligence.
+
+Nuisance
+
+48. It is not in dispute that for a defendant to be liable in nuisance in cases of water seepage, the defendant must be shown to have actual or constructive notice that water originated from his property.
+49. I shall adopt my findings at §46 above to reach the conclusion that the defendants must have actual notice that the water originated from underneath the bathtub and the water proof layer under the floor slab is not working properly. Yet, the defendants had allowed the nuisance to continue.
+50. I found the defendants also liable in nuisance.
+
+Injunction
+
+51. The plaintiffs insisted on the application for a prohibitory injunction even though it is not in dispute that the water seepage had stopped as early as in mid-January 2013 after the remedial work done at D's Premises. In the prayer in the statement of claim, the plaintiffs are asking for an injunction to restrain the defendants from allowing the continuance of water seepage from D's Premises to P's Premises which constitutes a nuisance to the plaintiffs.
+52. Mr Gidwani submitted that the injunctive relief sought must be based on the cause of action of nuisance, rather than negligence. Therefore, if the plaintiffs fail in their claim in nuisance, the injunctive relief sought must fail as well. And since it is confirmed in the Joint Statement that no further water seepage was found at the Joint Inspection, imposing a prohibitory injunction on the defendants is unnecessary and unjust ( Leung Wai Kee and Lou Sau Lin v Tam Yuet Sheung unreported, DCCJ 5716/2007 
+, 10 July 2012).
+53. I agree with the defendants' submissions. An injunction is a remedy of an equitable nature and an injunction may be granted if it appears to the court to be just and convenient to do so. Prima facie, the court will not grant an injunction to restrain an actionable wrong for which damages are an adequate remedy (Halsbury's Laws of Hong Kong Vol 44 at §340.057).
+54. The injury suffered by the plaintiffs and caused by the nuisance is one capable of being estimated in money and can be adequately compensated by way of damages. With the cessation of the water seepage and with the damages being recovered, the rights of the plaintiffs are sufficiently protected. To grant a prohibitory injunction to restrain the continuance of water seepage would be unjust to the defendants when the water seepage had already ceased.
+55. I found the claim for the prohibitory injunction should be dismissed.
+
+Damages
+
+56. In the written final submissions, counsel for the plaintiffs had listed out the heads of claim for damages against the defendants which are (at §65): 
+
+(1) To take out a Third Party Insurance Policy
+$6,000
+
+(2) To scrap away binding concrete at the ceiling of the bathroom
+$3,000
+
+(3) To blast and cleanse the rotted and rusted re-bars, reinforcement in the ceiling slab then apply coats of primer on the reinforcement and make them good with concrete repair mortar, approx. 50 s.f.
+$15,000
+
+(4) To finish the ceiling slab with plaster and ICI paint finish
+$3,500
+
+(5) To replace false ceiling
+$3,000
+
+(6) To replace a wall cabinet (the timber cabinet on the wall above the basin sustained damage by water seepage downpour)
+$3,000
+
+(7) To replace portions of ceramic tiles, a few ceramic tiles cracked. The cement sand render behind the ceramic tiles swollen and damaged
+$3,000
+
+(8) To replace stainless fittings, rusted and replaced
+Nil
+
+(9) To replace ceiling light and power socket, 2 nos including conduits, cables wiring and light fittings
+$3,000
+
+(10) To replace one wooden glazed partition between the basin compartment and the bathroom area which is soaked, dampened, stained by the water seepage downpour requiring replacement
+$8,000
+
+(11) Submission of Minor Works completion form to Buildings Department
+$1,500
+
+(12) Removal of debris and discard
+$2,000
+
+(13) General cleaning after the reinstatement works
+$2,000
+
+(14) Hotel accommodation during reinstatement works, estimated 7 days x $1,000@
+$7,000
+
+(15) Expert fees
+$8,000
+
+(16) General damages
+$50,000
+
+Total :$118,000
+
+Item (1)
+
+57. Wong is of the opinion that since the work involved removal of the concrete from the ceiling, there is a risk that such concrete may fall out of the window and cause injury to pedestrians. So he suggested to purchase a third party insurance with a coverage of $20 to $30 million at $6000.
+58. Chan opined that the quoted premium by Wong is highly excessive, bearing in mind the small scope of work and the nature of the jobs involving no item of high risk. He suggested the market rate of $2,000 for the insurance coverage of all the works involved.
+59. I found the worry by Wong is unrealistic and the insurance coverage suggested by him is highly excessive in view of the scope and nature of the repair work involved. I agree with Chan that an insurance premium of $2,000 is more reasonable.
+
+Item (2) - (4)
+
+60. These involved the labour costs for scrapping away of the damaged concrete at the ceiling of the toilet, cleaning the rotted and rusted reinforcement steel bars, applying anti-rust treatment to the steel bars, covering them with fresh mortar, plastering and painting the surface.
+61. Wong opined that a total of $21,500 is required in view of the state of damage. From his inspection at P's Premises, he opined that the repair work on the ceiling of the toilet stated in the quotations by Kai Kei and by Vic's are only works for cosmetic purpose and does not involve the repair of the rusted reinforcement steel bars.
+62. Chan opined that these items should had been compensated in the SCTC Claim which involved compensation for the damaged structure of the ceiling as indicated on the claim form in the SCTC Claim (B/109). Chan said that had the plaintiffs carried out the work in Kai Kei's quotations in 2010, the state of damage at the ceiling of the toilet should not be at its present status. Even if this court allows these heads of damages, Chan opined that only $3,000 should be allowed since the quotation by Kai Kei is only $2,500.
+63. Poon's evidence is that the work stated in the quotation of Kai Kei and Vic's involved the same kind of work, ie removing the rusty patches and water patches before water proof paint were put, even though the description on the 2 quotations (#2 on Kai Kei and #25 on Vic's) looked different.
+64. I accept the opinion of Wong that the work mentioned in the quotation of both Kai Kei and Vic's are cosmetic works only. As appeared from the quotation of Kai Kei, the work only involved removal of the rusty patches and repair by water proof paint and concrete ( 『維修天花生銹銹跡及重新用防銹油及強化英泥修補』 ) (B/112) with nothing touches upon the reinforcement bar inside the ceiling. Although the quotation of Vic's only mentioned about water proof paint ( 『廁所天花油外牆防水油』 ) (B/249) which seemed not to involve any structural repair of the reinforcement bar, I accept the evidence of Poon that the actual work done also involved removal of the rusty and water patches since it would be non-sensible for this not to be done before the repainting of the ceiling.
+65. And I did not find the different quoted price can be a conclusive evidence that the work done is different in nature bearing in mind Kai Kei's quotation only involved repair work inside the toilet whilst Vic's was being engaged to conduct renovation work for the whole premises, it would not be surprising for Vic's to quote a lower price for the same kind of work compared to Kai Kei. And since the work quoted by Kai Kei is not exactly the same as those mentioned by Wong, the quoted price of Kai Kei would be irrelevant. As for the state of the ceiling, such have already been dealt with at §37 above and I shall not repeat the same.
+66. I found the challenge by Chan under this head of claim is unsubstantiated. This head of claim is allowed in full.
+
+Item (5)
+
+67. Wong opined that the false ceilings inside the toilet have to be replaced since the water which seeped through the concrete ceiling would become alkaline and would cause erosion and oxidation on the aluminium false ceiling and the erosion mark could not be removed. Wong suggested a sum of $3,000 should be allowed.
+68. Chan opined that there was no damage done to the false ceilings as they are water proof and the ash found on it can be easily removed so this item should be disallowed. Chan frankly admitted under cross examination that he could not say for sure whether the eroded marks could be removed, nor did he have any knowledge as to whether the water seeped through would be acidic or alkaline; but he maintained that the aluminium false ceiling would not be able to be eroded by water. In any event, Chan opined that should this court allow this head of damages, 50% discount should be applied since the area of the ceiling panels affected by the water seepage was less than 1/3 of the ceiling.
+69. Mr Gidwani also submitted that Wong's explanation is unfounded since the water leaked are fresh water and not salted water and Wong only disclosed the cause of damage to the false ceiling at trial and had not included the same in the report. In any event, there was only a very small amount of powder on the inner side of the aluminium false ceiling, which did not affect the ordinary function or even appearance or daily usage of the false ceiling so replacement is not necessary.
+70. I accept the contention of the defendants that the replacement of the false ceiling should not be necessary. Poon also confirmed that she saw no damage caused by the water seepage on the false ceiling but just some ash ( 灰 ) found on it. If there was just ash on the false ceiling, why can't it be removed and how can it cause permanent damage to the false ceiling which required a replacement? The allegation that there was concrete falling from the ceiling onto the false ceiling causing damage is something newly raised at trial and had never included in Wong's report or in Poon's statement. Had there been damage found on the false ceiling caused by the falling concrete, one would wonder why such was not mentioned by Wong or Poon. I do not accept Wong's evidence in this regard.
+71. This item of claim is disallowed.
+
+Item (6)
+
+72. Wong opined that the timber cabinet on the wall above the basin sustained damage by water seepage downpour (photo no. 34-36 at B/237) and this has to be replaced at the cost of $3,000. Chan opined that there was only a minor dry stain mark on the top corner of the cabinet which is not cosmetically significant and no adverse effect on its structural integrity, functioning of the cabinet or its life span, so no replacement is required and Chan opined that a sum of $1,500 should be a reasonable figure for this item.
+73. It is not clear what Chan means as to the use of the $1500 he suggested, whether it's for the replacement of the cabinet or just for the repair of it. There is no evidence from Chan to show that the water mark on the cabinet can be repaired or only the part of the cabinet with the water mark can be replaced. Judging from the fact that such a cabinet was newly installed in 2010 and was tainted by the water mark, a replacement is justified. Given the quotation by Vic's for the installation of this cabinet is only $2,500, this item of claim should be allowed at the same price.
+
+Item (7)
+
+74. Both experts agreed that the ceramic sand render behind the ceramic tiles is swollen and damaged and that portion of ceramic tiles need to be replaced at a sum of $3,000. This item is allowed in full.
+
+Item (8)
+
+75. Both experts agreed that this item should be cancelled.
+
+Item (9)
+
+76. Wong opined that the ceiling light and 2 power sockets including conduits, cables wiring and light fittings should be replaced at the costs of $3,000. Wong said the screw fixed on the electrical box was rusted and Poon said that there was rusting on the iron ring surrounding the lampshade on the ceiling (photo at B/105). Yet, Poon confirmed there was never any problem of short circuit since 2010.
+77. Chan opined that since there seemed to be no malfunctioning of these electrical items from early 2013 to June 2015 and he found no evidence of real damage, no replacement is required. In any event, the damage suffered was not sufficiently significant to justify any replacement of the whole electrical system. Chan opined that only $1,500 should be allowed and according to the quotation of Kai Kei, $800 is the sum for the rusty lampshade. If this court allowed the replacement of the whole electrical system, $3,000 is agreed as claimed.
+78. I agree with the defendants that it should not be necessary to replace the whole electrical system just because of a rusty screw or a rusty lampshade. There is no evidence from Wong as to why the whole electrical system had to be replaced and how the water seepage had caused the lampshade and the screw fixed at the electric box to turn rusty.
+79. I found this item of claim is not justified and should be disallowed.
+
+Item (10)
+
+80. Wong opined that one wooden glazed partition between the basin compartment and the bathroom area (photo No. 52, 55-56, 61, 74-76 & 78-80 at B/239-240 & 242 taken at the Joint Inspection) is soaked, damped and stained by the water seepage downpour and replacement is required at the costs of $8,000. Wong said that this claim was not mentioned in his Report since the partition was covered by wall tiles so the damage was not apparent then. However, during the Joint Inspection, he noticed the mosaic on the partition cracked due to the water seepage (photo No. 61 at B/240) so he told Chan that he would include this head of claim in his assessment. After the Joint Inspection completed and Chan left, Wong opened up the wall tiles on the partition to reveal the inside of the partition and saw the damage inside (photo No. 74-81 at B/242-243). Wong did not recall if he had then informed Chan of the same.
+81. Chan said there was no sign of damage found on this partition at the Joint Inspection and the photographs showing the inside of the partition were being taken when he was not there even though Wong had told him during his stay at P's Premises that Wong will add this head of claim. From the photographs, Chan opined that the dark grey/brown colour markings in the underlying woodworks could be consistent with wet/damp patches or dry glue marks used to affix the covering plastic panel to the woodwork. Since such a wooden glazed partition was one facing the bathtub where long term exposure to water moisture/splash generate in bathing and showering could have caused similar result. Since Poon had been using the partition after the water seepage occurred in 2012, Chan considered the minor marks shown on the photographs should not affect the structural or cosmetic integrity of the partition or its life span so no replacement is required. Even if this court allows this item, the quantum should be no more than $1,000 on the basis of the quotation by Vic's which is only $1,500.
+82. From what appeared on the photographs, I cannot accept the opinion of Chan that this wooden glazed partition need not be replaced. Chan also agreed under cross-examination that the mosaic tiles were damaged which was likely to have been caused by water having soaked the wooden partition, causing the same to expand thereby cracking the mosaic tiles. Given this opinion of Chan, the fact that no damage was found on the surface of the partition is neither here nor there. And I also accept Wong's opinion that since no damage to the partition found on the partition facing the bathtub, the suggested cause of the damage to the partition by Chan cannot stand. Even though the partition was only opened up after Chan left, the condition of the mosaic tiles did point to the only reasonable conclusion that the wooden partition was soaked and damaged. To deprive the plaintiffs the right to replace a soaked wooden partition and live with it is unreasonable.
+83. As for the allegation by the defendants that since such a claim had not been pleaded or included in Wong's Report, such a claim should not be entertained as a matter of fairness since the defendants had been deprived of the chance to rebut the claim in the pleadings. I do not find any unfairness to the defendants if this head of claim is being considered at trial. I accept the explanation by Wong that the damage on the partition is not noticeable back in 2012 and was only discovered at the Joint Inspection. The damage on the mosaic tiles is so apparent as seen on the photographs and I do not accept that Poon and Wong are deliberately hiding or making up something which they did not want Chan to have knowledge on. Chan also confirmed that he had been alerted of this head of claim during the Joint Inspection. The opening up of the partition in the absence of Chan may be an inappropriate move but upon being alerted of the addition of this new claim, the defendants have ample opportunity to answer to such a head of claim, including asking for another Joint Inspection of this partition after knowing that Wong was going to add this to the claim or when such a claim was being mentioned in the Joint Statement. Yet the defendants had done nothing. As long as the damage is being caused by the water seepage, this court should allow the plaintiffs to claim the same in these proceedings to avoid duplicity of proceedings which is a waste of resources.
+84. I shall allow this head of claim but given the quoted price of the same item in Vic's quotation, a sum of $1,500 should be allowed instead.
+
+Item (11)
+
+85. Wong opined that the replacement of the partition at Item (10) above involved minor works so submission of minor works completion form to the Buildings Department is required. This is charged at $1,500. Chan opined that this head cannot stand if Item (10) above is disallowed. But even if the partition is required to be replaced, submission of the completion form is not necessary since the partition is not a structural element. And even if it is a structural element, restoration of such unauthorised structure should be the responsibility of the plaintiffs and no damages should be allowed.
+86. Even though claim under Item (10) is allowed, I agree with Chan that the submission of the completion form is not necessary and no extra charge should be levied. As appeared from the quotation of Vic's, no such charge had been mentioned when Vic's only charged a sum of $1,500 for the installation of this partition. If such submission of the completion form is required with a charge at $1,500, it would be unreasonable for Vic's not to charge the same against the plaintiffs in the quotation.
+87. This head of claim should be disallowed.
+
+Items (12) & (13)
+
+88. Wong opined that $2,000 should be allowed for each of these items as part of the cleaning up work after the repair work. Chan opined that only $1,000 should be allowed for each item since some of the works should have been carried out during works in Items (2) to (4).
+89. Given the size of the toilet and the extent of the work involved, I agree with Chan that part of the cleaning up work should have been done when the work under Item (2) to (4) are being carried out. A sum of $1,000 for each item should be allowed instead.
+
+Item (14)
+
+90. Wong opined that since there is only 1 toilet inside the premises, alternative accommodation is required during the repair work which is estimated to take 7 working days.
+91. Chan opined that there is no need for any resident to move out of the premises since the toilet can still be used. Since the plaintiffs do not live in P's Premises, they suffered no loss under this head and any inconvenience or potential loss caused to Poon, a bare licencee, cannot be attributed to the plaintiffs. Even if this head of damages is allowed, 7 working days is excessive for the duration of work and a sum of $1,500 is considered more appropriate.
+92. I agree with the defendants that since the plaintiffs did not live at P's Premises, alternative accommodation is only required for Poon who is occupying P's Premises as a bare licencee. The plaintiffs themselves did not suffer any loss in looking for alternative accommodation. Moreover, given the extent of the work mainly involved the ceiling of the toilet, I agree with Chan that the toilet can still be used by Poon in the course of the repair and no alternative accommodation is required.
+93. This head of claim should be disallowed.
+
+Item (15)
+
+94. The survey fee of $18,000 is the charge levied by Wong for the expert report as well as the joint examination (B/220) even though Mr Ko had only listed a sum of $8,000 in his final submissions. The defendants submitted that this is not a head of damages but rather should be classified as costs incurred in these proceedings.
+95. I agree with the defendants that costs incurred in the engagement of the expert and in the preparation of the expert reports should be classified as costs in these proceedings and not as a head of damages. The judgment of Lam Sik Heung Perdita v Siu Yuet Kwan (DCCJ 2424/2009 
+, unreported, 17 October 2012) relied upon by the plaintiffs is not directly on the point as to whether costs incurred in the survey fee should be considered as damages or costs so is not relevant.
+96. This head of claim as damages should be disallowed.
+
+Item (16)
+
+97. The plaintiffs put forward a claim in the sum of $50,000 for damages for inconvenience and Mr Ko for the plaintiffs is relying on the following judgments to justify the quantum. 
+
+
+
+Lee Wai Chuen v Cheung Chor Keung (DCCJ 3098/2006) 
+
+So John & Another v Lau Hon Man & Others [1993] 2 HKC 356 
+
+Chan Fei Lung v Mansion Products Ltd & Others [1990] 1 HKC 504 
+
+Leung Yung Chun v Chan Wing Sang [2000] 1 HKLRD 456 
+
+Ngan Ping Chi v Lam Chi Hao Louis (DCCJ 462/2003) 
+
+Lau Lai Tan Wah v Cheng Mei Fong (DCCJ 4976/2004) 
+
+Chung Che Shum v Dong Sai Ming Fernando (DCCJ 21540/2001) 
+
+Wong Hon Hung v Jolly Birds Ltd (DCCJ 5341/2006) 
+
+Lam Sik Heung Perdita v Siu Yuet Kwan (DCCJ 2424/2009) 
+
+
+98. The defendants submitted that Poon had not been joined as a plaintiff so she had no locus to sue for any inconvenience caused to her in the enjoyment of P's Premises. And any inconvenience caused to Poon cannot be a head of claim of the plaintiffs who did not live at the premises and did not suffer the discomfort arising from the water seepage themselves ( Wong Kan Tai v Man kau Kan & Another unreported, DCCJ 14290/2000 
+26 June 2003).
+99. Mr Ko for the plaintiffs relied on the House of Lords decision of Hunter & Others v Canary Wharf Ltd [1997] AC 655 
+to support the contention that "the owner or occupier is entitled to compensation for the diminution in the amenity value of the property during the period for which the nuisance persisted" (at page 706).
+100. As stated in §92 above, I do accept that the plaintiffs, not being an occupier of P's Premises, did not suffer any discomfort and cannot lodge a claim under this head. Neither can the plaintiffs sue on behalf of Poon. I do not find the judgment of Hunter relied upon by the plaintiffs is of any assistance since the gist of the case is on whether a person who have no interest in the land can lodge a claim for damages for personal discomfort. So it's only a case on the issue as to whether Poon, as someone not having any interest in the land can sue for damages and not on the issue as to whether the plaintiffs can sue on behalf of Poon.
+101. Given the fact that the plaintiffs were not living at P's Premises and had suffered no discomfort caused by the water seepage, the claim under this head should also be disallowed.
+
+Conclusion
+
+102. I found the water seepage found in P's Premises in 2012 was originated from D's Premises due to the defect in the waterproof membrane underneath the bathtub. As such, the defendants should be liable for the nuisance caused to the plaintiffs and should compensate the plaintiffs for loss and damage in the sum of $32,500 particularised as follows: 
+
+(1) To take out a Third Party Insurance Policy
+$2,000
+
+(2) To scrap away binding concrete at the ceiling of the bathroom
+$3,000
+
+(3) To blast and cleanse the rotted and rusted re-bars, reinforcement in the ceiling slab then apply coats of primer on the reinforcement and make them good with concrete repair mortar, approx. 50 s.f.
+$15,000
+
+(4) To finish the ceiling slab with plaster and ICI paint finish
+$3,500
+
+(5) To replace false ceiling
+Nil
+
+(6) To replace a wall cabinet, water damaged and discarded
+$2,500
+
+(7) To replace portions of ceramic tiles, crack damaged but tiles on walls replaced
+$3,000
+
+(8) To replace stainless fittings, rusted and replaced
+Nil
+
+(9) To replace ceiling light and power socket, 2 nos including conduits, cables wiring and light fittings
+Nil
+
+(10) To replace one wooden glazed partition between the basin compartment and the bathroom area which is soaked, dampened, stained by the water seepage downpour requiring replacement
+$1,500
+
+(11) Submission of MW works completion form to BD
+Nil
+
+(12) Removal of debris and discard
+$1,000
+
+(13) General cleaning after the reinstatement works
+$1,000
+
+(14) Hotel accommodation during reinstatement works, estimated 7 days
+Nil
+
+(15) Expert fees
+Nil
+
+(16) General damages
+Nil
+
+Total :$32,500
+
+The Order
+
+103. The defendants shall pay to the plaintiffs damages in the sum of $32,500 together with interest thereon at judgment rate from the date of writ until payment. The claim by the plaintiffs for injunctive relief is being dismissed.
+104. Costs order nisi that costs of the action be to the plaintiffs, including all costs reserved, with Certificate for Counsel, to be taxed if not agreed. Unless any of the parties applies by summons to vary it, the costs order nisi shall be made absolute upon expiry of 14 days.
+[Postscript: this judgment has been corrected by corrigendum of 22 August 2016 issued by the Judiciary.]
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

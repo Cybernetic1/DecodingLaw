@@ -1,0 +1,164 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 03 March, 2018 at 23:54 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Gay Prospect Co Ltd v Lui Kam On Johnny
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Gay Prospect Co Ltd v Lui Kam On Johnny
+
+
+
+30 November 2017
+District Court
+DC
+Civil Action No 1230 of 2015
+DCCJ 1230/2015
+
+Citations:[2017] HKEC 2576 English Judgment
+
+Presiding Judges: Deputy Judge S.P. Yip
+
+Phrases: Tort - negligence - nuisance - water seepage from premises to premises immediately below - determination of source of seepage
+Damages - assessment - water seepage from premises to premises immediately below - general damages
+
+Counsel in the Case: Mr Thomas Lai, instructed by Leung Kin & Co, for the plaintiffMiss Phyllis S T Lee, instructed by C K Charles Ho & Co, for the defendant
+
+Cases cited in the judgment: Incorporated Owners of Hong Leong Industrial Complex v HL Resources Ltd [2009] 4 HKLRD 692 
+
+Tai Fong Trade Ltd v Incorporated Owners of Nos. 167 and 169 Hoi Bun Road and Lam Chan & Co Ltd (unrep., LDBM 1/2006, [2008] HKEC 1907) 
+
+
+Judgment: 
+
+
+Deputy Judge S.P. Yip
+
+BACKGROUND
+
+1. The plaintiff (P) claims against the defendant (D) for causing water seepage to P's property situated at Workshop 2 on 3rd Floor, Wing Lee Industrial Building, Numbers 54, 56 and 58 of Tong Mi Road, Kowloon, Hong Kong ("Workshop 302").
+2. D is the registered owner of the property right above the P's Property, at Workshop 2 on 4th Floor and Flat Roof, Wing Lee Industrial Building, Numbers 54, 56 and 58, Tong Mi Road, Kowloon, Hong Kong ("Workshop 402").
+3. Workshop 302 has been rented to Hong Kong Storage Limited for a period of 4 years, from 1 April 2014 to 31 March 2018.
+4. P experienced water seepage back in 2011. At that time the Workshop 302 was occupied by another company owned by Mr and Mrs Tsui (the shareholders and directors of P). After Workshop 302 was rented to Hong Kong Storage Limited, the tenant made a complaint of water seepage in about May 2014 and the water seepage found on the ceiling of Workshop 302 recurred on rainy days.
+5. P's causes of action in the present case include negligence, nuisance, breach of deed of mutual covenant (DMC), and infringement of section 34H(1) of the Building Management Ordinance, Cap 344.
+6. P is seeking damages for loss and damages caused by water seepage. Previously, P also sought loss and damages suffered by its tenant, but counsel for P at the opening of the trial abandoned this item of claim as it transpires that the tenancy agreement contains a clause exonerating P from liability towards its tenant for water seepage damage not caused by the fault of P. Therefore, the relief now being sought by P are: 
+
+(i) A mandatory injunction for D to repair and maintain his own property to stop the water seepage;
+
+(ii) Damages to P for repair and such special damages which parties have agreed the quantum at $12,000;
+
+(iii) The general damages for inconvenience and distress; and
+
+(iv) Costs of this action.
+
+
+7. D denies water seepage from his property and asserts that his property is all along in good condition and maintenance. D avers that the cause of water seepage is from the external wall or from workshop 401 and its flat roof.
+8. It is trite law that in water seepage case P bears the burden of proof on balance of probabilities that the source of water is from the defendant who has no obligation to find out or identify the source of water seepage or to prove that its origin did not come from his property.
+9. P has called three factual witnesses: Mr Tsui senior, the director of P, Mr Tsui junior, the son of Mr Tsui senior, and Mr Ng, a manager of the P's tenant. D himself also came up to give evidence.
+
+Expert Evidence
+
+10. The main battle of this case is on expert evidence. On 10 September 2015, the court has granted leave to parties to adduce expert evidence on liability and quantum. P has appointed Miss Lau Shan-la and D appointed Mr Hau Tung-chow as the experts of the parties. There were six joint inspections by the expert and three joint expert reports produced, dated 26 November 2015, 5 July 2016 and 7 November 2016 respectively. The experts had carried out the following tests: 
+
+(i) Visual inspection;
+
+(ii) Infrared scanning;
+
+(iii) Electrical conductivity sensing;
+
+(iv) Microwave scanning;
+
+(v) Florescent dye test (rhodamine B);
+
+(vi) Florescent dye ponding test (using yellowish dye);
+
+(vii) Water sample analysis.
+
+
+11. Although the experts could not agree in many issues and have reached different conclusions as to the source of water, they managed to agree the following: 
+
+(i) The point of seepage is the ceiling of Workshop 302 above the corridor, between storage cabinet 019 and 026;
+
+(ii) Dripping of water is found when there was rainfall within two to three days before;
+
+(iii) Workshop 402 flat roof is a sheltered area and there are towels on the floor of 402 flat roof;
+
+(iv) Workshop 302 is still affected by water seepage;
+
+(v) The sources of water seepage are not fresh water supply pipe or toilet sewage drainage pipe of Workshop 402 flat roof, the source of water seepage involved rainwater.
+
+
+12. The experts' conclusions are very different. P's expert opined that the water seepage affecting Workshop 302 ceiling was rainwater from the flat roof of workshops 401 and 402 which ran on a gutter along the flat roof floor of these two workshops before going into a downpipe located at Workshop 402 flat roof. The waterproofing membrane in the floor slab and perimeter areas of Workshop 402 flat roof was damaged or defective, causing water seepage into Workshop 302. She reached her conclusion based on the finding that there was no corresponding water seepage into the adjoining workshop 301 which is also owned by P.
+13. The flat roof of workshops 401 and 402 was originally one single unit. According to the government approved building plans, originally there were no partition walls between these two workshops. It was believed that the present partition wall separating the two and metal frame shelters were built afterwards. Now the 401 and 402 flat roofs have been converted into storage space. Miss Lau believed that the structural alterations could have damaged the waterproofing layer.
+14. Given that the flat roof of Workshop 402 was a sheltered area and with the negative result after two months of the 48-hour florescent dye ponding test and florescent dye test conducted on the flat roof and the drainage pipe, Mr Hau for D concluded that the waterproofing membrane of Workshop 402 flat roof functioned properly and the water seepage was caused by the flat roof of the adjacent workshop 401.
+15. Both experts came to court to give evidence and were cross-examined. I find that the following points are significant findings by the experts. First of all, it is common ground that the possible source of water was from rainwater and it is not in dispute that the shelters of flat roof 402 and the adjoining flat roof 401 do not offer a complete waterproof shelter. Both parties accept that rainwater could still reach the flat roof of both units and, in particular, there is a gutter running horizontally along the floor of flat roof 401 to flat roof 402 with a downward drainage pipe situated at D's flat roof 402. Given such undisputed background, the source of water could be said to be the following three possibilities: 
+
+(i) The water seeped to the ceiling of the P's property from D's property only;
+
+(ii) The water seeped into the P's property from the adjoining unit of D, i.e. workshop 401 only, in the way as illustrated by Mr Hau's diagram of the water path;
+
+(iii) The third possibility is that water came from both workshops 401 and 402.
+
+
+16. If, at the end of the day, I find on the balance of probabilities that the first or the third option as the source of water, then D shall be liable, but if I find that the water affecting the P's property came from workshop 401 only then D shall not be liable.
+17. Another important issue is whether workshop 301 has suffered from any water seepage. According to P who also owns workshop 301, it has not suffered from any water seepage. Experts inspected workshop 301 on 2 September 2016, and photos were taken and tests were done. Experts did not observe any sign of water seepage on the ceiling of workshop 301 and the microwave scanning test done at workshops 301 and 302 at different levels from the ceiling, namely 30 millimetres, 70 millimetres and 110 millimetres. The results at all levels show that Workshop 302, has higher dampness at respective depths. Miss Lau concluded that water seeped vertically from Workshop 402 to Workshop 302. On the other hand, the dampness of workshop 301 did not exhibit such water seepage phenomenon. Its dampness was average and no point of seepage was seen.
+18. If Mr Hau is correct, ie the waterproof membrane of workshop 401 was defective, the concrete layer between workshops 401 and 301 would not be less wet than the concrete layer above Workshop 302 or in between Workshops 402 and 302. There is no explanation as to why no signs of water seepage was observed at the ceiling of workshop 301. Therefore, the situation at workshop 301 in effect rebuts Mr Hau's proposed water path.
+19. Although there were negative results of water seepage tests done in relation to Workshop 402, bearing in mind that positive results of such test are, of course, concrete evidence of water seepage, negative results do not mean that there is no water seepage.
+20. Miss Lau has offered some explanation of the negative results, but she could not explain such as why the water ponding test involving much more water flooding at the Workshop 402 flat roof than rainfall, why the ponding did not produce raindrops on the ceiling of Workshop 302, but the rain did.
+
+Discussion
+
+21. The civil standard of proof is on balance of probability, not proof beyond reasonable doubt. It is thus acceptable that certain matters are left unexplained. On an overall view of all the evidence, in particular the source of water to be rainwater which could come from either workshops 401 or 402 or both, and if the source of workshop 401 being excluded, then the only possible inference is that the water seeps to Workshop 302 from Workshop 402 through the defective waterproof membrane.
+22. I note that defence counsel has raised an alternative argument in her closing submissions, arguing that the waterproofing membrane of Workshop 402 flat roof does not belong to D, but should be regarded as common parts of the building. First of all, this is not D's pleaded case. This issue has never been raised by D before the closing submission.
+23. Unlike the present case, the 1st respondent in Tai Fong Trade Limited v Incorporated Owners of Nos. 167 and 169 Hoi Bun Road and Lam Chan & Company Limited, LDBM1/2006 
+, cited by Miss Lee, has taken the point of the obligation of repair and maintenance of the roof fell on the 2nd respondent in the 1st respondent's amended notice of opposition.
+24. In the other case, The Incorporated Owners of Hong Leong Industrial Complex, HCA2572/2005 
+, Hon Sakhrani J summarised the defendants' pleaded case in paragraph 12 of his judgment that the defendants denied that the 1st defendant owned the roof and had a right to the exclusive possession or the right to the exclusive use, occupation or enjoyment of the same. They also denied that the 1st defendant had the right to the exclusive use, occupation or enjoyment of the external wall. Therefore, the first issue, as stated in paragraph 22 of the judgment is whether the waterproofing layer in the floor slab of the roof is a common part of the building.
+25. In the above authorities, the ownership of waterproof membrane or the responsibility of maintaining the waterproof membrane have been pleaded by those parties who raised such issue. Therefore, I do not think that D could raise such issue without amending the pleadings and also there is no such evidence disputing the issue of ownership. I do not allow D to raise this point at this late stage.
+
+Conclusion on Liability Issue
+
+26. Once the source of water seepage has been found at D's Workshop 402, parties have no dispute that D should then be held liable to P based on any one of the causes of action. Therefore, D is found liable to P for negligence, nuisance, and breach of clause (s) of the Third Schedule of the DMC.
+
+Quantum of Damages
+
+27. As parties have agreed special damages for repair at HK$12,000 when D is held liable, the only outstanding issue would be general damages.
+
+28. P in its closing submission paragraph 26, submitted that: " The Tsui father and son, alter ego of the plaintiff, no doubt went through very substantial times of anxiety, distress and frustration in chasing the defendant for fruitful dialogue, and running around to meet estate management staff, lawyers and expert staff on many occasions and over the years trying to find a solution. For industrial property let to tenants, worries over losing tenants or meeting claims or rent defaults from them occasioned by water leaks are no less distressing than owners who live in their own properties to seek leak water dropping on their forehead."
+
+
+29. Mr Lai further submitted that it was therefore just and right and reasonable to award general damages to P, which is a limited company.
+30. First of all, Tsui junior was not a member or director of the P. According to Tsui junior, he was authorised by P to deal with the water seepage case and most of the communication with D was done by him. The question is whether the time or efforts spent or made by Tsui junior should be compensated by general damages, as he was not a member or manager of the P. More importantly, the submissions made by Mr Lai in his closing submission, paragraph 26, are simply not supported by any evidence given by the Tsuis. I do not see the Tsuis expressed any anxiety, distress or frustration or worries caused by the water seepage.
+31. In light of the lack of evidence to substantiate the general damages representing any inconvenience or distress suffered by the limited company, I disallow this item.
+32. For the above reasons, I order that judgment be entered against D for P in the sum of HK$12,000.
+
+Injunction
+
+33. I grant a mandatory injunction to order D to repair the waterproof membrane in the flat roof of Workshop 402 covering the peripheral walls and the floor to prevent water seepage from Workshop 402 to Workshop 302.
+
+Costs
+
+34. Costs should follow the event. I disagree with Mr Lai that the scale of costs should be one of common fund or indemnity basis, as I fail to see any special or unusual feature or any oppressive manner of D which warrants a more generous scale of costs. I therefore make an order nisi that costs of the whole action be to P, to be taxed if not agreed on party and party basis, with certificate for counsel.
+35. This costs order nisi shall become absolute after 14 days from the date hereof, unless parties make any applications to vary it within such time.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

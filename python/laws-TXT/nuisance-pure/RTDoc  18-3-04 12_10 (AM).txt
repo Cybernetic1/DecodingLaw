@@ -1,0 +1,135 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:10 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Cheung Churk Hung v Mok Chi Cheong
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+Cheung Churk Hung v Mok Chi Cheong
+
+
+
+29 April 2013
+District Court
+DC
+Civil Action No 2642 of 2012
+DCCJ 2642/2012
+
+Citations:[2013] HKEC 624 English Judgment
+
+Presiding Judges: Judge Kent Yee in Chambers
+
+Phrases: Civil procedure - summary judgment - action for trespass, unlawful interference with use and enjoyment of land and nuisance - whether defence raised triable issues
+Civil procedure - striking-out - counterclaim for adverse possession - whether disclosed no reasonable cause of action and abusive of process
+
+Counsel in the Case: Miss Lorinda Lau, instructed by Messrs Paul W. Tse for the PlaintiffsMr Simon Yip, instructed by Messrs Raymond Chan & Kenneth Yuen & Co. for the Defendants
+
+Cases cited in the judgment: Meadows Indemnity Co Ltd v Insurance Corp of Ireland plc [1989] 2 Lloyd’s Law Rep 298 
+Ko Hon Yue v Chiu Pik Yuk & Others (unrep., FACV 8/2011, [2012] HKEC 265) 
+
+Lyons v Wilkins [1899] 1 Ch 255 
+
+
+Judgment: 
+
+
+Judge Kent Yee in Chambers
+
+Introduction
+
+1. The plaintiffs took out two summonses on 31 October 2012. On one hand, the plaintiffs apply for summary judgment against the 1st, 3rd to 7th, 10th to 22nd defendants (collectively "the said defendants") pursuant to Order 14 r.1 of the Rules of the District Court ("RDC"). On the other hand, the plaintiffs pray for an order that the counterclaim be struck out on the ground that the same discloses no reasonable cause of action against the 1st and 2nd plaintiffs and it is an abuse of the court process pursuant to Order 18 r.19 of the RDC.
+2. This action concerns four lots of land in the New Territories. They are known as Lots 2460, 2461, 2462RP and 2464RP in Demarcation District 120, Yuen Long (collectively "the Land"). References to lot numbers below are references to lot numbers within the Land. The Land is situated within Lam Hou Tsuen (欖口村), Yuen Long, New Territories ("the Village"). In a nutshell, the 1st plaintiff ("Cheung") and the 2nd plaintiff ("City Champion") are the lessees of the Land and intend to develop the Land into an organic farm. However, the said defendants on two occasions prevented their contractor and workers from getting into the Land in an attempt to frustrate construction works on the Land. The plaintiffs' claim is based on the tort of trespass and nuisance. In their defence, the said defendants claim that they have adversely possessed of Lot 2460 since about 1997 and hence they merely avoided the trespass of Lot 2460 by the plaintiffs'contractor. They counterclaim for a declaration of a possessory title to Lot 2460.
+
+Background facts
+
+3. To resolve the applications, it is necessary to go into the background facts further. The following matters, supported by documentary evidence, are either undisputed or indisputable .
+4. At the material time, Tang Wai Sun Tong ("TWST") is the registered owner of Lots 2461, 2462RP and 2464RP. TWST is a tong of Ping Shan Tsuen in Yuen Long. TWST leased the three lots to one Tang Nim Pui ("TNP") in April 1983 on a yearly basis and the lease is evidenced by a written tenancy agreement dated 19 April 2010. By a tenancy agreement dated 21 May 2012, TNP sublet the three lots to City Champion for a term starting from 1 June 2012 to 31 July 2016 at a monthly rent of HK$8,000.
+5. The land search record shows that Tang Sam On, Tang Sum Yuen and Tang Sam Mun are the registered owners of Lot 2460. Tang Ka Hung Robert as executor of Tang Sum On took over his interest in Lot 2460 in or about November 2007. Under HCMP 2344/2010 ("the High Court Action"), the said registered owners of Lot 2460 obtained an order made by Master Ho dated 20 October 2011 ("the Order") in the absence of any opposing evidence. The Order entitled the said registered owners to issue a Writ of Possession for the recovery of possession of Lot 2460.
+6. By a letter dated 12 March 2012 handed to Messrs Kong & Tang, solicitors for the said registered owners on site, the Chief Bailiff informed the said registered owners that possession of Lot 2460 was delivered and an inventory of the goods delivered for safe custody was given.
+7. By a tenancy agreement dated 8 June 2012, Tang Sam Yuen, Tang Sum Mun and Tang Ka Hung Robert leased to Cheung Lot 2460 for a term of two years at an annual rent of HK$20,000.
+8. Messrs Martin Law & Co., the plaintiffs' former solicitors, posted a letter dated 16 July 2012 on Lot 2640 so as to demand the owners of such chattels found on the lot to remove such chattels within 3 days. Or else, the said registered owners might dispose of such chattels without further notice.
+9. The plaintiffs rent the Land for a specific purpose. They entered into an agreement to build an organic farm on the Land. To this end, in or about June 2012, they jointly instructed one Mr Cheung For Yau ("CFY") to be their surveyor and contractor.
+10. Shortly afterwards, CFY and his workers attempted to start working in the Land but they met with the opposition by the indigenous inhabitants of the Village. The triggering event leading to the commencement of these proceedings took place on 20 July 2012 ("the July Incident"). CFY and his workers went to the Land and placed their building materials and equipment onto the Land. When they intended to fence off the Land, a group of people turned up and had a row with them. A large number of policemen attended the scene and arrests were made.
+11. In the wake of the July incident, the plaintiffs found it necessary to enlist the assistance of the court on an ex-parte on notice basis with serious allegations of assault. On 2 August 2012, Deputy District Judge Norman Hui granted the plaintiffs an order against all the defendants ("the ex-parte Order") whereby all the defendants be restrained from trespassing the Land and interfering with and/or causing nuisance to Cheung's and City Champion's use, occupation and enjoyment of the Land. The Writ herein was issued on the following day.
+12. I note that in the Statement of Claim, it is pleaded that when Mr Chan Yiu Hang of Messrs Paul W. Tse served the ex-parte Order on 6 August 2012 and 10 August 2012 on the defendants, the defendants still blocked all the accesses to the Land by, among other things, mobile vehicles parked by the defendants and/or their agents. However, there is no evidence about this allegation adduced by the plaintiffs in support of the present application for summary judgment.
+13. On the return day of the plaintiffs' application on 16 August 2012, the learned deputy judge granted the injunctions sought, which were more or less in the same terms of the ex-parte Order. I note that at the hearing both parties were represented and affidavit evidence was adduced from both sides.
+14. The plaintiffs indicated to this court that since the inter-partes order was made on 16 August 2012, the defendants have ceased the conduct under complaint.
+15. The only matter advanced as a triable issue in the skeleton submission of Mr Simon Yip, counsel for the defendants, is the defendants' claim of adverse possession of Lot 2460. At the hearing, Mr Yip confirms to me that this is the only defence relied upon by the defendants.
+16. Since the defendants' claim of adverse possession is the subject matter of their counterclaim, which is being sought to be struck out by the plaintiffs, I find it logical and convenient to first deal with the plaintiffs' striking out application.
+
+Striking out application
+
+17. There is no debate about the legal principles relating to striking out applications. The summary power to strike out a pleading can be exercised only in plain and obvious cases.
+18. The pleaded case of adverse possession is as follows. The defendants are indigenous inhabitants of the Village. They all belong to and are represented by Chung Shing Tong. The defendants aver that since about 1997, Lot 2460 has been used and occupied by all the residents of the Village including the defendants to the exclusion of the owners for parking of their vehicles with metal roof, shelter and three containers for storage of chattels commonly owned by all the residents of the Village. Hence, the defendants aver that they have been in occupation of Lot 2460 or substantial part thereof since about 1997 up to the present moment.
+19. The defendants further aver that the owners of Lot 2460 misled the court in the High Court Action. In the High Court Action, the owners only made all occupiers of Lot 2460 the only defendant. The defendants aver that the owners actually know their identities and all other residents of the Village. Alternatively, the defendants aver that they are not bound by the Order by reason of the fact that they were not parties to the High Court Action. On that basis, the defendants counterclaim for "a declaration that they and all residents of the Village are entitled to adverse possession of Lot 2460 due to expiration of the time limit prescribed under the Limitation Ordinance for the owners of the land to take legal action for recovering possession thereof."
+20. Miss Lorinda Lau, counsel for the plaintiffs, mounts a vigorous attack on the integrity of the counterclaim. First, she points out that since the defendants are claiming that all other residents of the Village have adversely possessed Lot 2460, all of them must be joined as party and as the pleading now stands, it is doomed to failure.
+21. Mr Yip agrees that all other residents should be joined in the counterclaim. He argues that the counterclaim is amenable to amendments by adding such residents. He submits that an undertaking can be given by the defendants to join all such residents as soon as possible. I note that the plaintiffs have produced an undated letter purportedly signed by thirty seven residents of the Village. These residents themselves object to the claim of adverse possession of Lot 2460.
+22. Not only all other residents but also the registered owners of Lot 2460 must be joined: Meadows Indemnity Co. Ltd. v Insurance Corporation of Ireland plc [1989] 2 Lloyd's Law Rep. 298 
+per Neill L.J. at p.304. As pointed out by Ms Lau, the defendants can only claim adverse possession against the registered owners and not their tenants.
+23. Though there is still no joinder application before me, the defendants having indicated that they would make one, however difficult it would appear to be given the objections among the residents themselves, I am not prepared to strike out the counterclaim on the ground that there are necessary parties to be joined. I take into account Order 15 r.6(1) of the RDC and non-joinder of any party at this stage alone should not be a sufficient ground to strike out the defendants' counterclaim.
+24. Next Ms Lau argues that the owners must have impliedly given the defendants and other residents of the Village a licence to park their vehicles and/or place their three containers on Lot 2460 since it is alleged that the owners know the identities of the defendants and all other residents.
+25. I cannot accept this submission. I am unable to, and indeed should not, draw such an inference of a licence on the evidence in a striking out application.
+26. However, for another reason, I do find the counterclaim objectionable even if all the necessary parties were joined. It appears to me that the counterclaim is an example of the Henderson v Henderson abuse, i.e. res judicata in the wider sense.
+27. As can be seen above, the registered owners of Lot 2460 have properly recovered possession of the lot by virtue of the Order. I do not find any substance in the complaint about the non-joinder of the defendants in the High Court Action. They were not named individually but they were actually joined if in fact they could be included as occupiers of the lot at the material time. They had every right to resist the registered owners' claim in the High Court Action by way of their claim of adverse possession. Mr Yip does not disagree with me that they could have done so.
+28. In Ko Hon Yue v Chiu Pik Yuk & Others unreported, FACV 8/2011 
+, 23.2.2012, Ma CJ at §82 observed that the essence of the doctrine (the Henderson v Henderson abuse) is that a party ought generally not be permitted to raise in subsequent proceedings matters which that party could and should have raised in earlier.
+29. Ma CJ further set out several facets of the doctrine and I do not intend to set them out here. I certainly have them in mind and, in particular, I take heed that when dealing with the Henderson v Henderson type of abuse, I am not looking at an absolute bar to litigation such as issue estoppel or cause of action estoppel. In such cases, the party seeking to re-litigate an issue or cause of action has already had his day in court and the issue or cause of action has been decided. In the Henderson v Henderson type of estoppel, the court is required to assess a number of factors and balance competing interests.
+30. In the present case, the defendants kept abreast of the progress of the High Court Action throughout. Yet, as explained to me by Mr Yip, they elected to distance themselves from those proceedings so as to avoid personal liability for costs. This can hardly be acceptable.
+31. The High Court Action was concluded in October 2011. Execution of the Writ of Possession was completed in March 2012. The registered owners leased Lot 2460 to Cheung in June 2012. It is far too late for the defendants to raise the counterclaim, which is yet to be properly formulated, in October 2012. Mr Yip points out to me that by a letter of the defendants' solicitors dated 6 August 2012, the defendants indicated to the plaintiffs that they together with other residents of the Village had been using a substantial portion of the Land as common right of way and access road. Mr Yip submits that this shows that there is bona fide in the defendants' adverse possession claim and hence it is not an abuse of process.
+32. The defendants did not actually assert adverse possession of Lot 2460 in the said letter. In any event, it cannot explain satisfactorily why the defendants allowed the Order to be made and vacant possession of the lot be recovered by the registered owners before they made the claim for the first time in October 2012.
+33. Absent a valid explanation and indeed given the reprehensible position of the defendants indicated to me, I come to the conclusion that the defendants' counterclaim is an abuse of process and they should not be allowed to raise their claim for adverse possession when they failed to do so in the High Court Action. Accordingly, I make an order that the defendants' counterclaim be struck out.
+
+Summary judgment application
+
+34. The principles relating to Order 14 applications are well-established. Suffice it to say that the defendants bear the burden to show a reasonable defence and that the court should refrain from conducting a trial on affidavit evidence. The question to be asked is whether the defendants' evidence is believable rather than whether it is to be believed.
+35. Miss Lau accepts that in the first place the plaintiffs have to show a prima facie case before the defendants are required to show their defence. Even without the claim of adverse possession, it does not mean that it must follow that the plaintiffs are entitled to judgment as a matter of course.
+36. CFY was in the thick of the July Incident and should be in the best position to tell a full account of the alleged trespass and, nuisance but unfortunately he has not given evidence. The plaintiffs rely solely on the evidence of Cheung in support of their application. As a general observation, in relation to the alleged torts committed by the defendants, Cheung's evidence lacks particulars and contains a lot of hearsay evidence without specifying the source of such information. This is unsatisfactory to say the least.
+37. First, Cheung asserts that from June 2012 onwards, CFY and his workers experienced difficulties in commencing works on the Land. The basis of the assertion is unknown and little details are given. This does not advance the plaintiffs' case.
+38. In regard to the July Incident, Cheung says that when CFY and his workers tried to commence fencing works on the Land, the 1st, 3rd to 7th, 10th to 22nd defendants and some of their agents appeared, encircled them and prevented them from carrying out the works. They even threatened to assault CFY and his workers. As a result, Cheung and his lawyers went to the Land and the police was summoned.
+39 Cheung claims that all of the said defendants eventually assaulted CFY and his workers in the presence of the police. CFY was injured and required medical treatments in Tuen Mun Hospital.
+40. Naturally the defendants have their version of events about the July Incident. I am not in a position to resolve their differences on affidavit evidence. I cannot at this stage conclude that there were assaults even given the averment of the defendants in the Defence that eight of the said defendants were arrested.
+41. Likewise I cannot conclude that there was any trespass on the Land by the said defendants. It is trite that trespass to land consists in any unjustifiable intrusion by one person upon land in the possession of another. Having considered the hearsay evidence of Cheung carefully, I find no evidence to the effect that the said defendants did in any way enter any part of the Land when they allegedly prevented CFY and his workers from working on the Land and when they allegedly assaulted them.
+42. Miss Lau urges me to consider Cheung's allegation that CFY and his workers placed the building materials and equipment on the Land and his assertion that such building materials and equipment were destroyed by the defendants. Cheung says according to CFY the value of the damaged properties amounts to HK$50,000 to HK$60,000. She submits that putting two and two together the said defendants must have entered the Land unlawfully and damaged the said properties of CFY.
+43. I am unable to agree to this submission. There is no evidence of the said defendants' destroying the said properties of CFY on the Land at all. There is no evidence as to who witnessed the alleged criminal damage of the said defendants and no particulars is given as to how and where the said defendants destroyed the said properties. In any event, the said defendants deny this grave allegation and they must have their day in court to show their innocence. I also cannot allow any claim for damages arising from the alleged damage caused to the said properties at this stage.
+44. Being cognitive of my inability to resolve any factual disputes in relation to the July Incident, I note that there is an admission on the part of the said defendants in the Affirmation of Man Cheung Lam dated on 8 August 2012 made in an aborted attempt to discharge the ex-parte Order and apply for an interlocutory injunction against the plaintiffs from carrying out unauthorized works on the Land. Man Cheung Lam ("Man") is the 16th defendant and he made the affirmation on behalf of himself and all the other defendants with their due authorization.
+
+45. In the affirmation, Man deposed to the following: "We all 22 Defendants deny having ever assaulted the Plaintiffs or their contractors or workers. We just went there to prevent them from carrying out the works for damaging our living environment or causing obstruction to our usual right of way and access to and from our homes at Lam Hau Tsuen."
+
+
+46. The foregoing statement makes it very clear that the said defendants as a matter of fact prevented CFY and his workers from carrying out the works on the Land. They did not have, in my view, any lawful reason to do so.
+47. The said defendants could have peacefully persuaded CFY and his workers not to commence works and provided that the method employed to persuade is not a nuisance to other people, there is no nuisance: Lyons v Wilkins [1899] 1 Ch 255 
+per Lindley MR at p.268.
+48. There is no evidence that the said defendants merely embarked on peaceful persuasion. Quite on the contrary, given the substantial involvement of the police it is clear that there was a breach of peace though at this stage I do not accept the plaintiffs' allegation of assault. The said defendants cannot take law into their hands in any event and prevented the plaintiffs' agents from entering the Land to work thereon.
+
+49. A concise definition of the tort of private nuisance can be found in Clark and Lindsell on Torts (20th ed.) at §20-01: "Nuisance is an act or omission which is an interference with disturbance of or annoyance to, a person in the exercise or enjoyment of (a) , (b) his ownership or occupation of land of some easement, profit or other right used or enjoyed in connection with land, when it is a private nuisance."
+
+
+50. I note that in the Defence, the defendants aver that the 2nd defendant, the 8th and 9th defendants were not present at the scene in the July Incident. In light of the averment, the plaintiffs decided not to apply summary judgment against these three defendants.
+51. Apart from the said three defendants, it is clear to me that all other defendants prevented CFY and his workers from working on the Land in the July Incident and this I find to constitute a private nuisance to the agents of the plaintiffs. Construction works were impeded and damage was inevitably caused to the plaintiffs. I cannot see that the said defendants have any defence to the plaintiffs' claim based on nuisance.
+52. Accordingly, I grant summary judgment to the plaintiffs in respect of their nuisance claim. The plaintiffs are to submit their draft minutes of order for my consideration within 7 days from the date hereof. I make a costs order nisi that costs of the summary judgment application should be borne by the said defendants and costs of the striking out application should be borne by all the defendants, to be taxed if not agreed with certificate for counsel.
+53. Lastly, I thank Miss Lau and Mr Yip for their assistance.
+[Postscript: this judgment has been corrected by corrigendum of 30 April 2013 issued by the Judiciary.]
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

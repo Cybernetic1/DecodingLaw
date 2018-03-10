@@ -1,0 +1,117 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IPRequest made on : Saturday, 10 March, 2018 at 00:25 HKT  Client ID : ChineseU_WLA-1Title : Li Junquan v Yip Kwok WahDelivery selection : Current DocumentNumber of documents delivered : 1
+Li Junquan v Yip Kwok Wah
+
+
+
+28 February 2017
+Court of First Instance
+CFI
+Personal Injuries Action No 1402 of 2015
+HCPI 1402/2015
+
+Citations:[2017] HKEC 385 English JudgmentPresiding Judges: Deputy Judge BurrellPhrases: Tort - negligence - employer's liability - liability to employees - worker fell from ladder in course of work - whether employer failed to provide safe ladder - whether worker contributorily negligent Damages (Personal   injuries or death) - spine - burst facture at T12 with cord oedema - persistent and recurring residual back pain - 46-year-old male casual labourerCounsel in the Case: Mr Timmy C H Yip, instructed by Wan and Leung, assigned by Director of Legal Aid, for the plaintiffMr Enzo W H Chow, instructed by Wong & Tang, for the defendantCases cited in the judgment: Kwan Yuk Lin v Ying Wah Civil Engineering Co Ltd (unrep., HCPI 869/2007, [2008] HKEC 2104)   Tam Fu Yip Fip v Sincere Engineering and Trading [2008] 5 HKLRD 210   Wong Kwan Tung v Yetai Chemoplast Co Ltd (unrep., HCPI 103/2007, [2008] 5 HKLRD L4)   Wong Man Kin v Golden Wheel (C&HK) Transportation Co Ltd (unrep., HCPI 913/2011, [2015] HKEC 1426)  
+Judgment: 
+Deputy Judge Burrell
+1. The plaintiff claims damages for personal injuries sustained in an accident at work. There is no dispute that at the material time he was a renovation worker employed by the defendant. On the day of the accident, 28 March 2013, the plaintiff had been given the task of removing old wallpaper from the ceiling in a small residential flat in Kwai Chung where the defendant was carrying out renovation works.
+2. The defendant denies any liability for the accident.
+
+Liability
+
+3. On the issue of liability both the plaintiff and the defendant gave evidence. Having heard and considered the evidence my findings in relation to the accident are as follows.
+4. The plaintiff fell from an "A-shaped ladder" and suffered a serious back injury. No one saw him fall. He was alone in a small room stripping ceiling wallpaper when it happened.
+5. He had little or no experience in this sort of work. He was 46 at the time of his fall and had come to Hong Kong from Mainland China the previous year. In China he had been a hairdresser and had also done some farming work. He had been engaged by the defendant on a "casual labour" basis as a result of an introduction through a relative. The day of his accident was the first day of his employment with the defendant. The accident occurred at about midday and he had only been working for less than an hour when he fell.
+
+The Ladder
+
+6. A photograph of the ladder was exhibited. It was a wooden A shaped ladder with five rungs on each side. It opened up to form an A shape. The fifth rungs were at the apex. There was a rope connecting the third rungs which prevented it from opening any more than the shape of the "A".
+7. The rungs on either side were not steps with a flat surface but pieces of wood, about 2″ × 1″ (although no evidence was given as to the exact dimensions). The normal use of such a ladder was to stand astride it. When using it in such a way it would not be possible to place one's feet on the first and second rungs due to the height of the ladder. Equally it would not be practical to stand on the fifth rungs because they were together at the apex. The only two rungs which it was physically possible to stand on were the third and fourth. The plaintiff was standing on the third rung which enable him to reach the ceiling to pull off or scrape off the wallpaper. Had it been necessary to step one rung higher, on the fourth rung, to reach the ceiling his task would have been closer to a circus act than casual labour. It would have been a dangerous balancing act. Fortunately he was one rung lower which made it easier to balance. His feet were positioned lengthways, ie not at right angles, on each of the third rungs. He was wearing stiff soled safety shoes. The wallpaper was above his head.
+8. The defendant said the ladder was two years old. As to its condition it had no obvious defects. The photograph of it depicts a primitive type of wooden ladder which had seen considerable use in its time.
+
+The Fall
+
+9. The plaintiff gave evidence that he successfully completed stripping one length of wallpaper from the ceiling. He moved the ladder whenever necessary by returning to the floor, moving the ladder a few feet and then return to his working position on the third rung. He had started a second length of wallpaper when the ladder became unstable, it shook and he lost his balance and fell on to his back. Clearly, the ladder would not start shaking by itself, contrary to the laws of physics. A momentary loss of balance whilst adopting a somewhat precarious stance on a primitive ladder will have initiated his fall.
+10. It was suggested to him in cross examination that the reason he fell was due to the fact that he had (i) "walked the ladder" and/or (ii) overstretched his body when reaching up to the ceiling level. "Walking the ladder" is the technique of moving the ladder a few feet at a time with one's legs whilst remaining astride it. The plaintiff denied both suggestions.
+11. No one saw him fall. The defendant, rightly, in evidence accepted that the suggestion that the plaintiff had "walked the ladder" and/or overstretched were speculations. ‌He based his theory on his evidence that he had, half an hour earlier before the plaintiff had commenced his work, specifically warned him not to do those very things. Therefore, if his speculation about the cause of the accident was correct the plaintiff had been guilty of doing the exact things that he had been warned not to do a short time earlier.
+12. In the absence of any reliable evidence to the contrary I accept the plaintiff's revision as to how the accident happened. I found the plaintiff to be an honest and straightforward witness. I reject the suggestion that he contributed to the accident by either "walking the ladder" or by overstretching. I believe the defendant embellished his evidence to conform with his speculations.
+13. I found that negligence on the part of the defendant had been made out. Requiring an inexperienced casual labourer to adopt a precarious position on a primitive ladder in order to reach the ceiling constitutes an unsafe system of work in which there was a clearly foreseeable risk of loss of balance which would lead to a fall. The fact that the plaintiff's hard soled shoes were necessarily placed parallel with the rung on the ladder added to that risk. The ladder was not safe or suitable for the task being carried out by the plaintiff. In all the circumstance the defendant had breached the duty he owed to the plaintiff to take reasonable care for his safety.
+14. Having established liability, the only two issues which could realistically give rise to contributory negligence on the part of the plaintiff are the speculative claims that he may have "walked the ladder" or overstretched. In view of my findings of fact that the evidence does not support such theories I found there to be no contributory negligence. Suggestions, for example, that he should have inspected the ladder beforehand are of no substance.
+
+Damages
+A. Pain, Suffering and Loss of Amenity (PSLA)
+
+15. The evidence contains 340 pages of hospital medical reports, expert medical reports and medical notes, records and statistics. ‌What follows is a bare outline, gleaned from the exhibits, of the most relevant factors.
+16. The plaintiff was taken to hospital where X-rays and examination revealed a burst facture of his spine at T12 with cord oedema. ‌Three days later he underwent surgery to stabilize his spine. ‌It was necessary for him to remain in hospital for a month. Thereafter with the aid of a spinal brace and crutches he re-learnt walking through in-patient physiotherapy and occupational therapy treatment.
+17. He was examined by Dr Wong See Hoi (the plaintiff's expert) and Dr Yen Chi Hung (the defendant's expert) who produced a joint medical report dated 5 September 2015. A "burst" facture is so called because the vertical force on the spine at the time of the trauma is such as to cause an outward crushing of the vertebra. It is more serious than a compound fracture because the bursting effect can lead to more serious spinal damage and thus more serious consequences.
+18. Since the accident, the plaintiff has complained of further ailments. ‌For the purpose of assessing damages, I accept the medical evidence which suggests that these later complaints cannot have arisen as a result of the accident or, in any event, that the causal link between them and the accident is too remote. I refer to liver lesions, muscle cramps, faecal urgency and nerve problems in sex organs in this regard.
+19. I accept that the plaintiff still suffers from persistent and recurring residual back pain. He has been granted many periods of sick leave since the accident, the most recent being 24 January 2017. ‌However, as will be seen later in this judgment the total sick leave for the purpose of assessing pre-trial loss of earning will be 12 months. His prognosis is described as poor. Dr Wong assesses his permanent impairment at 16% - 18% and Dr Yen at 11%. On either view this was a nasty fall resulting in significant permanent impairment. He fractured his spine; he required surgery; his ability to work has been adversely affected on a permanent basis.
+20. Mr Enzo W H Chow, counsel for the defendant, submits that $100,000 is appropriate for PSLA on a full liability basis. I regard this as unrealistically low.
+21. Mr Timmy C H Yip, counsel for the plaintiff, urges the court to award $530,000 under the head of damages.
+22. He refers to three cases, for comparative purposes, in support. They are: 
+
+(a) Wong Man Kin v Golden Wheel (C&HK) Transportation Co Ltd HCPI 913/2011, [2015] 5 HKC 570 ;
+(b) Kwan Yuk Lin v Ying Wah Civil Engineering Co Ltd HCPI 869/2007 ; and
+(c) Wong Kwan Tung v Yetai HCPI 103/2007 .
+
+
+23. These cases are of some assistance however, all cases inevitably turn on their own particular facts and so the assistance is limited. In my judgment a proper award in this case is $400,000.
+
+B. Pre-trial loss of earnings
+
+24. The plaintiff's daily earnings at the time of the accident was not agreed. ‌The plaintiff said it was $600 a day, the defendant said $500 a day at the beginning of his evidence but increased it to $550 a day in cross examination. As it was his first day at work there is no documentary evidence. I accept that prior to this employment the plaintiff had been earning $600 a day and this was the least he would work for. It was significantly lower than an average wage for the work being undertaken. I accept his evidence that it was $600 a day.
+25. The evidence concerning the number of days he worked before the accident is unclear. Mr Chow submits that 17 days a month would be a fair assessment. Mr Yip urges the maximum, namely 26 days. I consider, on the limited evidence available, that a minimum of 21 days is fair.
+
+Post-accident
+
+26. The plaintiff has struggled to get employment. He has been granted many periods of sick leave. The defendant paid him intermittent sums after the accident but the plaintiff found himself in financial difficulty and as early as October 2013 tried to work on a construction site. This job lasted less than a month. He could not cope with the work. His tax return shows him earning $23,120 during this period. Despite some unclear evidence from the plaintiff on this sum (he said it was lower), it is the figure I accept.
+27. His only other employment since the accident was as a general worker in renovation work which paid $12,250 a month from mid 2015 to July 2016. He obtained a permit to do security work but the number of stairs to be routinely climbed and the amount of foot patrol required made such jobs not viable for him. He also looked for hairdressing work without success.
+28. Although he has been granted sick leave on numerous occasions, the correct approach to the calculation of an appropriate period of sick leave was addressed by Le Pichon JA in Tam Fu Yip Fip v Sincere Engineering and Trading [2008] 5 HKLRD 210 
+: 
+
+18. "Since the plaintiff's pre-trial loss of earnings is ascertained by reference to the period during which the plaintiff was prevented by the injuries sustained from returning to work, what has to be ascertained and identified is the length of that period. In my view, that is an exercise that would not require evidence to suggest or imply that those who had granted sick leave to the plaintiff did so improperly. Logically, if the finding is that the plaintiff could have gone back to work after three months, that is the period that is relevant to the assessment and award of pre-trial loss of earnings and no other. ‌Sick leave certificates are no more than a piece of evidence that has to be evaluated in the light of all the available evidence including medical evidence before the court. "
+
+
+
+
+29. Both counsel accept that the sick leave period should be less than the accumulated sick notes. On the plaintiff's case, it should be 12 months; on the defendant's case, 5 months. In my judgment, 10 months is reasonable in all the circumstances.
+30. Further, a reasonable approach as to how to assess what the plaintiff would be earning now had the accident not occurred is to consider the Census and Statistics Department figures. I accept the daily figures of $1,000 for general labour in the construction industry.
+31. Taking a median figure between $600 (2013) and $1,000 (2017) his pre-trial earnings would be $800×24 days=$19,200 (I accept as reasonable, having heard the plaintiff, that the number of days' work per month would have been slightly higher than his pre-accident intermittent employment in his first year of work in Hong Kong after coming from Mainland China in 2012).
+32. I calculate his pre-trial loss as follows: 
+
+(a) For 12 months' sick leave ($600 × 24) × 10 months − $23,120= $120,880(b) For the balance of the time since the accident [ ($19,200 − $12,250) × 12 months + ($19,200 − $12,000) × 27 months ] × 1.05= $291,690
+ The figure of $12,000 in (b) above is a notional figure representing the average earnings of a builder's attendant in 2016.C. Post-trial loss of earnings
+
+33. Mr Yip and Mr Chow disagree as to what the appropriate multiplier should be in this case. Mr Yip submits 12.2 and Mr Chow submits 7.
+34. The plaintiff is now 50. His normal retirement age is 65.
+35. Mr Yip relies on the 2016 Personal Injuries Table as a guide. This is only a guide. 12.2 years represents 81% of the 15 years working life ahead. In the context of this case, in all the circumstances, I consider it to be too high. I will adopt a multiplier of 10. 
+
+($1,000 × 24) − $12,000 × 12 × 10 × 1.05
+= $1,512,000
+
+
+
+D. Loss of earning capacity
+
+36. It is agreed that a sum under this head is appropriate. I award 3 months of a notional 2017 salary, $72,000.
+
+E. Special damages
+
+37. These are agreed at $19,700.
+
+Total
+
+PSLA$ 400,000Pre-trial and MPF$ 412,570Post-trial and MPF$ 1,512,000Loss of earning capacity$ 72,000Special damages$ 19,700$ 2,416,270Less Compensation already received (agreed)$ 190,000 $ 2,226,270 
+Order
+
+38. Judgment for the plaintiff in the sum of $2,226,270 plus interest at 2% per annum on the general damages from 30 December 2015 to date of judgment and half judgment rate on pre-trial loss and MPF and special damages from 28 March 2013 to the date of judgment plus an order nisi for costs in the plaintiff's favour with his own costs taxed in accordance with Legal Aid Regulations.
+[Postscript: this judgment has been corrected by corrigendum of 15 March 2017 issued by the Judiciary.]
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+ 

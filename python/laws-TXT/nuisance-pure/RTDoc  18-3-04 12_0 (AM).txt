@@ -1,0 +1,380 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:00 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Wong Ping Chun v Giant King Corp Ltd
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+Wong Ping Chun v Giant King Corp Ltd
+
+
+
+16 March 2016
+District Court
+DC
+Civil Action No 4020 of 2012
+DCCJ 4020/2012
+
+Citations:[2016] HKEC 623 English Judgment
+
+Presiding Judges: Deputy Judge Phillis Loh
+
+Phrases: Tort - nuisance - water seepage from premises to premises immediately below - ascertainment of source of seepage
+Land law - building management - water seepage from premises to premises immediately below - whether in breach of deed of mutual covenant
+Damages - assessment - water seepage from premises to premises immediately below
+
+Counsel in the Case: Mr David Fong instructed by Huen & Partners, for the plaintiffMr Justin Cheung instructed by WL Yuen & Co, for the defendant
+
+Cases cited in the judgment: Incorporated Owners of Hong Leong Industrial Complex) v HL Resources Ltd [2010] 4 HKC 463 
+Kimberley Assets Management Ltd v Golden Star Overseas Ltd & Ors (unrep., LDBM 291/2004, 2011] HKEC 238) 
+Wong Ping Mui v Mak Hung On (unrep., DCCJ 2874/2001) 
+Hui Ling Chun v Shiu Mak Ying and Choi Chun Hoi (unrep., DCCJ 10294/2001, [2004] HKEC 286) 
+
+Hui Ling Ling v Sky Field Development Ltd (unrep., HCA 35/2007, [2012] HKEC 637) 
+
+Leung Yung Chun v Chan Wing Sang [2000] 1 HKLRD 456 
+
+PC Fortune Co Ltd v Incorporated Owners of Kwong Fu Building [2009] 5 HKLRD 787 
+
+Tin Kin Ka Clara v Chan Koon Cheong & Anor (unrep., DCCJ 3139/2012, [2015] HKEC 779) 
+
+Tong Chi Ying & another v Shum Ping Kuen Benson & another (unrep., DCCJ 3566/2004, [2010] HKEC 1479) 
+
+Wing Ming Garment Factory Ltd v Wing Ming Industrial Centre (IO) [2014] 4 HKLRD 52 
+
+Wong Hon Hung v Jolly Birds Ltd (unrep., DCCJ 5341/2006, [2008] HKEC 1072) 
+
+皇河實業有限公司 v Wan Chiu Yuen and Another (unrep., DCCJ 4448/2011, [2015] HKEC 609) 
+
+
+Judgment: 
+
+
+Deputy Judge Phillis Loh
+1. This is a water leakage case involving two flats one directly above the other in a multi-storey residential building situated at 233 Shau Kei Wan Road, Hong Kong ("the Building").
+
+Introduction
+
+2. The plaintiff ("P") is the registered owner of the flat on the 7th floor of the Building ("the 7/F Flat").
+3. The defendant ("D") is the registered owner of the flat on the 8th floor ("the 8/F Flat"), a top floor flat, and the roof ("the Roof") of the Building.
+4. It is common ground that both the 7/F Flat and the 8/F Flat are subject to a Deed of Mutual Covenant registered in the Land Registry by Memorial No 514058 ("the DMC").
+5. The Building is almost 50 years old.
+6. The area of each of the 7/F Flat and the 8/F Flat is about 500 square feet. Both flats are subdivided into 3 flats, each with separate bathroom and kitchen facilities, for letting.
+7. The 3 rooms in the 7/F Flat are of different sizes. The area of the small room is about 70 square feet.
+8. It is P's case that since October 2010, water has been seeping from the 8/F Flat into the small room in the 7/F Flat ("the Damaged Room"). As a result, the tenant moved out on 27 February 2011. The Damaged Room was rendered uninhabitable ever since, and P has suffered loss of rental income. Despite numerous requests and negotiations between P and D, the water leakage problems were not remedied and have continued.
+9. It is not disputed that there have been continuous water seepage problems in the Damaged Room. The dilapidated conditions of the Damaged Room are shown in the evidence adduced of various photographs of the Damaged Room taken in different periods and most recently on 4 January 2016.
+10. P claims in this action against D:- 
+
+(i) An order for D to rectify the water seepage problems in the 8/F Flat at its own cost;
+
+(ii) Cost of repair of the Damaged Room; and
+
+(iii) Loss of rental income from March 2011 to the date of judgment.
+
+
+11. D argues that the water seepage into the Damaged Room was from other sources not originated from the 8/F Flat, but through the Damaged Room windows and the external walls.
+12. Whilst denying liability, D agrees to pay a reasonable compensation for the cost of repair works to the 7/F Flat at a sum not exceeding $3,000, and argues that P is not entitled to any other claims or reliefs sought.
+13. The central issue of this case is the cause of the water seepage, ie whether the seepage had come from the 8/F Flat. If so, whether there was any breach by D of the DMC or duty under the tort of nuisance and negligence as claimed. Where liability against D is established, what damages and/or other reliefs it should be held liable.
+
+The legal principles
+
+14. It is well established that in relation to water leakage in a multi-storey building, there is no presumption that the source of water must come from the flat above. The plaintiff in a water leakage case bears the burden of proof to establish, on a balance of probabilities, that the source of water was the defendant's flat. The defendant has no obligation to find out or identify the source of the water seepage or to prove that its origin did not come from his property. See, eg: Leung Yung Chun v Chan Wing Sang [2000] 1 HKLRD 456 
+at 461I; Hui Ling Ling v Sky Field Development Limited HCA35/2007 (unreported 
+, 8 May 2012) at para 23.
+15. The fact that there might be other leakage paths would not relieve the defendant from liabilities for water seeped from his property into the property that the water being seeped. See 皇河實業有限公司 v Wan Chiu Yuen and Another DCCJ 4448/ 2011 (unreported 
+, 20 April 2015) at para 295.
+
+The factual evidence
+
+16. The course of events is not disputed. Since about October 2010, P discovered that water was seeping into the Damaged Room of the 7/F Flat. He lodged a complaint with the Incorporated Owners of the Building ("the IO") and provided photographs taken in that period showing water stains at the ceiling of the Damaged Room.
+17. Upon the complaint of the tenant of the Damaged Room, P undertook some repair and renovation works to the ceiling of the Damaged Room, but failed to rectify the problems. Water marks and stains re-surfaced and remained at the ceiling.
+18. On 27 February 2011, P's tenant of the Damaged Room terminated the tenancy and moved out as evidenced by a signed surrender clause in the relevant tenancy agreement.
+19. On 8 March 2011, P lodged a complaint with the Buildings Department/ Food and Environmental Hygiene Department Joint Office ("the Joint Office").
+20. The Joint Office investigated, inspected and conducted tests in the 7/F Flat and the 8/F Flat in the following few months.
+21. P through his solicitors issued a complaint and demand latter dated 16 May 2011 to D requesting for rectification works and compensation.
+22. It was confirmed by a letter dated 20 September 2011 from the Joint Office to P that investigations and tests conducted in the 7/F Flat and the 8/F Flat in the previous few months revealed water seepage at the floor and surrounding walls of the bathroom in Room B of the 8/F Flat . (Emphasis added)
+23. The bathroom in Room B of the 8/F Flat is directly above the Damaged Room in the 7/F Flat.
+24. A Nuisance Notice dated 21 October 2011 was served by the Joint Office on D, stating the nuisance to be "water seepage through the floor slab and its enclosing walls of the bathroom of (Room B of the 8/F Flat) and (the Roof) to the ceiling of (the 7/F Flat)". D was demanded to repair within 28 days the bathroom in Room B of the 8/F Flat and the Roof to abate the nuisance.
+25. Further inspection of the 8/F Flat undertaken by the Joint Office on 13 April 2012 showed that repair works had already been undertaken to the floor and surrounding walls of the bathroom in Room B of the 8/F Flat, but water seepage had persisted. (Emphasis added) [Letter dated 15 January 2013 from the Joint Office to D]
+26. As a result, the Joint Office engaged Paul Wong Consulting Engineers Ltd ("Paul Wong") to conduct tests including dye water ponding and spray tests in the bathroom in Room B of the 8/F Flat on 9 May 2012.
+27. Result monitoring inspection in the 7/F Flat undertaken by Paul Wong on 7 August 2012, ie about 3 months after the tests, showed that no dye water was noted to have seeped into the Damaged Room.
+28. P through his solicitors issued a further complaint and demand latter dated 20 September 2012 to D requesting for rectification works and compensation.
+29. The Joint Office informed P in its letter dated 25 October 2012 that a subsequent result monitoring inspection was conducted by the Joint Office in the Damaged Room of the 7/F Flat on 7 August 2012. Water seepage was noted to have persisted but no dye water was found in the 7/F Flat (pursuant to the dye water test conducted in the 8/F Flat on 9 May 2012). It was concluded that no other source of seepage was confirmed ( 無法確定其他的滲水源頭 ), hence no further follow up action was taken. (Emphasis added)
+30. It is unclear from this letter if "other source of seepage" means source of water other than the water seepage source (from the bathroom room in Room B of the 8/F Flat) previously confirmed by the Joint Office in the Nuisance Notice.
+31. Recent photographs taken of the Damaged Room in May 2013, November 2014 and on 4 January 2016 show progressively more extensive water stains in the ceiling, and some dark/greenish patches/substance at the ceiling and on the walls. There are areas of peeled paint finish with the underlying concrete exposed.
+32. The following witnesses of fact were called to give evidence:- 
+
+(1) To Wai Kuen, secretary of the IO;
+
+(2) Wong Ping Chuen (P); and
+
+(3) Law Yiu Shing, manager of D.
+
+
+33. Their evidence relate to, inter alia, the following matters and disputes:- 
+
+(1) To Wai Kuen gave evidence for P that pursuant to the complaints made by P since October 2010, she had contacted a Miss Lam, staff of D, about P's complaints of water leakage from the 8/F Flat into the 7/F Flat;
+
+(2) Repair and remedial works undertaken by P to the ceiling of the Damaged Room before the tenant moved out on 27 February 2011;
+
+(3) The time when D was first informed of the water leakage problems in the Damaged Room;
+
+(4) Whether D had taken reasonable action in response in dealing with the water leakage problems;
+
+(5) Whether P had taken reasonable action to remedy the water leakage problems in the Damaged Room in order to rent it out again;
+
+(6) The alleged water leakage problems in the 5/F and 6/F Flats of the Building in or about 2012 in respect of which P subsequently paid compensation to the owners;
+
+(7) Renovation and remedial works undertaken by D in the bathroom in Room B of the 8/F Flat from 28 May to 1 June 2012; and
+
+(8) Dye water was noted to have seeped down to the 6/F and floors below as a result of the dye water ponding test conducted by D's expert in October 2014.
+
+
+34. These are in my view peripheral matters setting out the background of the case, but not material to the central issue whether the water seepage in the Damaged Room was caused by the 8/F Flat. The court requires the assistance of water leakage expert evidence in considering the central issue on liability.
+35. I note D's evidence that it had undertaken repair works in the bathroom in Room B of the 8/F Flat during the period from 28 May to 1 June 2012 (pursuant to the Nuisance Notice). This is contradicted by the evidence of the letter dated 15 January 2013 from the Joint Office to D. The evidence raises the query that the 9 May 2012 dye water ponding test conducted by Paul Wong (engaged by the Joint Office) in the bathroom in Room B of the 8/F Flat in fact took place shortly after its recent repair, and explains why the 7 August 2012 result monitoring yielded negative results.
+36. The parties engaged water leakage experts to investigate and conduct tests. D's expert Mr Stewart Wong ("Wong") inspected the premises and conducted tests in March 2014, and on 13 and 25 June, 12, 13, 15 and 19 October 2014 (as recorded in his report dated 13 January 2015). P's expert Ms Lau Shan La ("Lau " ) conducted tests on 30 November 2014 and commissioned a report dated 8 January 2015. According to the court directions made on 13 May 2014, the experts should conduct the tests in the presence of and observed by the other expert. There is no dispute as to Wong and Lau's experience and expert capacity in relation to water leakage cases. The relevance and strength of their expert evidence on the core issues is however in issue, and will be analysed and considered in detail.
+37. There are 6 sources of water in the 8/F Flat, namely a bathroom and a kitchen in each of the 3 subdivided rooms. There are disputes between the parties as to the agreed test locations in the 8/F Flat. P argues that D was uncooperative in making arrangements with its tenants in the 8/F Flat for the tests to be conducted by P's expert. Due to various reasons, P's expert was only able to conduct tests at one source, ie the bathroom in Room B of the 8/F Flat, ie the bathroom directly above the Damaged Room in the 7/F Flat on 30 November 2014.
+38. Evidence shows that the water seepage of the Damaged Room was due to water from the bathroom in Room B of the 8/F Flat, as supported by the expert evidence analysed below. The water seepage problems have persisted and continued until now.
+
+Evidence of the plaintiff’s expert
+
+39. Lau is a chartered engineer in civil engineering. Her academic qualification is BSc (Engineering). She has experience in investigating, advising and commenting on more than 1000 water leakage cases, and has given evidence as an expert in court in more than 30 cases.
+40. She conducted physical/visual inspection of the 8/F Flat and the 7/F Flat, in particular the Damaged Room. She noted clear signs of water seepage at the ceiling of the Damaged Room. Many parts of the ceiling and walls were peeled, mouldy and cracked.
+41. She also noted water marks and peeled paint finish in various parts of the ceiling in the 8/F Flat.
+42. It is not disputed that according to the Hong Kong Observatory records, in the 2-week period immediately prior to the test day on 30 November 2014, there was a record of minimal 4 mm rainfall. On the test day, the rainfall record was traces to 0.2 mm.
+43. Lau conducted the following tests in the bathroom in Room B of the 8/F Flat on 30 November 2014:- 
+
+(i) Eosin yellowish water ponding and flushing in the basin and water closet; and
+
+(ii) Spraying water at the walls.
+
+
+44. After about an hour, she checked for water seepage with reference to the difference in moisture content before and after the tests at the ceiling of the Damaged Room in the 7/F Flat using the following methods:- 
+
+(1) Electrical conductivity sensing ( 導電感應法 ); and
+
+(2) Infra-red scanning ( 紅外線掃描 ).
+
+
+45. Electrical conductivity test using an instrument approved by the Joint Office yielded results of substantial increase in electrical conductivity, ie increase in moisture content in various parts of the ceiling in the Damaged Room. The following results are noteworthy:- 
+
+(1) Electrical conductivity readings taken of the 29 marked grid locations at the ceiling of the Damaged Room, even before the dye water ponding test, show that 17 locations, ie about 60% of the grid locations, gave readings higher than the obvious water seepage standard index ( 明顯滲水標準 ) of 35 prescribed by the Joint Office;
+
+(2) 18 locations, ie about 62% of the total 29 locations, gave higher or substantially higher readings of electrical conductivity showing increased moisture content within an hour after dye water ponding;
+
+(3) The readings at the column of locations lining/adjacent to the external wall/ windows remained below the obvious water seepage standard index of 35, and without much difference, before and after dye water ponding; and
+
+(4) The most substantial increase in readings was found at the column of locations adjacent to the column lining the external wall/ windows, ie directly below the bathroom in Room B of the 8/F Flat.
+
+ (Emphasis added)
+46. When asked why some locations gave lower conductivity readings after dye water ponding, Lau explained that it might be due to slight variation of points of contact of the concrete ceiling with the test point of the instrument. Also some areas would be more affected and show higher conductivity readings than others, as the water from the dye water ponding would not seep down and flow evenly around the whole ceiling, but mainly through the weak or damaged points of the waterproof membrane.
+47. Infra-red scanning conducted after dye water ponding gave decreased temperature readings at various locations at the ceiling of the Damaged Room, indicating increased moisture content. These are shown in the computer images of deepening blue colour attached to Lau's report.
+48. No dye or eosin yellowish water was seen or found at the ceiling of or in the Damaged Room after dye water ponding.
+49. Eosin yellowish water was noted to seep out at two points at the drainage pipes on the external wall outside the bathroom in Room B of the 8/F Flat, and at the external wall outside the bathroom of the Damaged Room at 7/F.
+50. Lau explained that eosin yellowish water was not found in the Damaged Room ceiling during inspection probably because the time was not long enough for the dye water to seep through the floor slab of the 8/F Flat and the ceiling of the Damage Room. Also some dye water had seeped through the damaged drainage pipe of the 8/F Flat to the external wall as found, as the route was shorter and had lower resistance (compared to the concrete slab).
+51. Based on the inspection findings and tests results, Lau came to the following conclusions:- 
+
+(1) There was water seepage at the floor and surrounding walls of the bathroom in Room B of the 8/F Flat and the drainage pipes;
+
+(2) The water seepage at the ceiling of the Damaged Room was at least partly caused by the water seepage in the 8/F Flat described in (1) due to the defective waterproof membrane;
+
+(3) There is no evidence to support that there was leakage at the window sill of the Damaged Room;
+
+(4) The water seepage at the ceiling of the Damaged Room was not caused by rain water seeping through the windows or the external walls of the Building, as clearly shown by the pattern of increased electrical conductivity/ moisture content after dye water ponding; and
+
+(5) She was able to conduct tests only at the bathroom in Room B of the 8/F Flat. She therefore could not conclude if there were other sources or causes of the water seepage at the ceiling of the Damaged Room since there were 5 other sources of water, ie the kitchen of Room B, and the kitchens and bathrooms of the other 2 rooms in the 8/F Flat.
+
+
+
+Evidence of the defendant’s expert
+
+52. D's expert Wong gave evidence that he has experience in investigating, advising and commenting on more than 3000 water leakage cases. He has given evidence as an expert in court in more than 100 cases, in most of which cases his evidence as a water leakage expert was accepted. His capacity as a water leakage expert is not challenged by P.
+53. It is not clear what academic qualification Wong has; it is set out in his lengthy CV that he has completed some certificate and diploma courses in building, fraud examination, investigation and forensic science, waterproofing and repairs, concrete repairs, legal studies, etc.
+54. He is member of a long list of professional affiliates, including the Royal Chartered The Australian Institute of Building and the Chartered Association of Building Engineer, UK. When asked whether he is a registered or chartered surveyor or engineer, he answered that his professional qualifications are equivalent to these qualifications.
+55. It was put to Wong under cross-examination that his status as an expert was doubted by the court in previous cases, eg HHJ Marlene Ng (as she then was) in Hui Ling Chun v Shiu Mak Ying and Choi Chun Hoi DCCJ 10294/2001 (unreported 
+, 3 March 2004), and Recorder Yuen SC in Hui Ling Ling (supra) . He answered that he has gained further experience and qualifications since the dates of these judgments given in 2004 and 2012.
+56. Leaving aside the question of academic and professional qualifications, and even accepting his evidence of profound experience as a water leakage expert, and that he now possesses qualifications equivalent to those of a registered or chartered surveyor or engineer, I find the evidence of Wong unreliable given his approach in investigating the water leakage in the present case, and in view of the contradictory and speculative comments and conclusions he made.
+57. It is recorded in Wong's expert report that he had inspected and surveyed the 7/F Flat, 8/F Flat and the Roof on at least 6 or 7 different dates before 30 November 2014 when P's expert conducted the tests. He had only conducted a dye water ponding test on the Roof on 14 October 2014, but not at any points of water source in the 8/F Flat. (Emphasis added)
+58. The test results showed that dye water was found or seen dripping at the ceiling of various parts of the 8/F Flat, around the door entrance and staircase landing of the 8/F Flat, along the external walls of the Building down to the lower floors, and on the walls of a flat on 2/F, but not in the 7/F Flat or the Damaged Room . (Emphasis added)
+59. Infra-red scanning conducted on 14 October 2014 showed increased moisture content at the ceiling of the 8/F Flat. Wong concluded that the water "shall move further down to affect the 7/F Flat".
+60. He gave evidence during cross-examination of his inspection (by visual inspection and temperature taking) and findings of the conditions of the 8/F Flat and the 7/F Flat, but he had not recorded or explained any of these findings in his report.
+61. Strangely enough, the objective of Wong's test was seemingly an attempt to establish the source of water leakage from the Roof, but not to find out whether the source of water seepage found in the Damaged Room was from the 8/F Flat as claimed by P.
+62. He gave evidence that he had conducted infra-red scanning on 30 November 2014 at the ceiling of the Damaged Room and in another room in the 7/F Flat before and after the dye water ponding and flushing tests to the drainage points in the bathroom in Room B of the 8/F Flat. He has attached some photographs to his report showing the readings without any explanations or result analysis.
+63. He concluded that there was no significant change of moisture content before and after the tests. He explained in court that the small change of moisture content readings was possibly due to the temperature difference at different points of the ceiling, but this may not be reflective of the moisture content.
+64. Whilst the dye water ponding test conducted on the Roof on 14 October 2014 clearly showed that water from the Roof had seeped to the 8/F Flat but not the 7/F Flat, Wong nevertheless went on to conclude that the source of water seepage in the Damaged Room was from the Roof to the 8/F Flat, or through the external walls as the water that flowed or seeped from the Roof "shall move further down to affect the 7/F Flat". This is speculative and without evidential basis. It is contradicted by the results of his dye water ponding test conducted on 14 October 2014 which yielded no dye water stain (from the Roof) in the 7/F Flat, not even by 30 November 2014 when P's expert Lau conducted the tests.
+65. When cross-examined on the result of nil finding in the 7/F Flat after dye water ponding conducted on the Roof, Wong answered that even though no dripping of dye water was noted, there were red stains ( 紅潮 ) in the Damaged Room which would have been covered partly by the hanging cabinet at the ceiling of the Damaged Room.
+66. This is new evidence not recorded in his report.
+67. When cross-examined on the alleged source of rain water from the Roof and the record of minimal rainfall during the period of the inspections, Wong replied that rain water from the Roof could be trapped in the cracks of the Building for a long time and gradually seeped down to affect the flats below. Also there could be sources of water other than rain that have caused the water seepage problems in the Damaged Room, eg leakage from the water tank in the Roof, cleansing activities on the Roof, etc.
+68. Such evidence, again not stated in his report, lacks evidential basis, is speculative and unhelpful.
+69. Instead of relying on objective tests results in his analyses and conclusions, Wong made the following unsubstantiated comments/ accusations in his report:- 
+
+(1) He noted during his inspection of the Roof on 13 June 2014 that some concreting and repair works had been done to the base of the water tank in the Roof since his last inspection in March 2014. He considered it likely that someone had repaired the Roof floor intending to render it more waterproof and tamper with the water seepage results of the dye water ponding test to be carried out;
+
+(2) During his inspections he noted the dark/greenish/ brownish substance on the surfaces of the ceiling and walls of the Damaged Room which Lau concluded to be moss or mycete. He disagreed and concluded that it was dark/greenish/brownish paint or glue put manually. He noted that no such substance was found at the underlying surface of the peeled paint finish. He considered it likely that someone had put paint or glue of dark/greenish/brownish colour at the ceiling and on the walls of the Damaged Room intending to make the water seepage problems/damage look more serious. He had scrapped and taken some samples of the substance.
+
+
+70. Regarding the cause of water leakage in the Damaged Room, Wong made the following conclusions:- 
+
+(1) Rain water seeps from the Roof to the ceiling of the 8/F Flat, and goes on entering the floor of the 8/F Flat and into the Damaged Room;
+
+(2) Rain water seeps through the external walls through cracks in the Building into the 8/F Flat, and goes on entering and into the Damaged Room;
+
+(3) Rain water seeps through the windows of and into the Damaged Room;
+
+(4) No dye water was found seeping from the bathroom in Room B of the 8/F Flat into and affect the ceiling of the Damaged Room;
+
+(5) There was no significant change of moisture content at the ceiling of the Damaged Room before and after the dye water ponding test on 30 November 2014; and
+
+(6) There is no evidence to prove that there was water leakage from the 8/F Flat to the Damaged Room
+
+
+
+Analysis of the expert evidence
+
+71. It is shown by the dye water ponding and spray tests conducted by Wong on the Roof on 14 October 2014 that water seeps into the 8/F Flat ceiling and other areas and through the external walls to the flats below. It can be inferred that the waterproof membrane of the Roof floor was damaged causing water to seep to the ceiling of the 8/F Flat and the flats below. Evidence is however that no dye water was found in the 7/F Flat, nor in the Damaged Room after the test.
+72. This contradicts Wong's conclusion that the water seepage in the Damaged Room was due to rain water seeping from the Roof or through the external walls of the Building, but not the 8/F Flat.
+73. The water seepage from the Roof, even if accepted to be part of the causes of water leakage in the Damage Room, does not rule out water seepage from the 8/F Flat.
+74. Wong's conclusion of rain water seeping into the Damaged Room through the external walls or windows is contradicted by the evidence of low moisture content readings (compared to the inside) of the grid locations at the Damaged Room ceiling lining the windows before and after dye water ponding as shown and analysed by P's expert.
+75. His comments about the dark/greenish/brownish substance being paint or glue but not moss or mycete, and the Roof floor having been repaired and tampered with, aiming to impeach the character of P, are speculative, irrelevant and unhelpful. Having taken samples of the dark/greenish/brownish substance from the Damaged Room, he did not even submit it to laboratory tests to confirm the nature of the substance before making the serious allegations against P for fabricating evidence of aggravated damage. Such evidence, apart from being irrelevant, was given not for the purpose of finding out the source of the water leakage in the Damaged Room, and is not objective. It reflects the attitude of Wong in assuming the role of an advocate against P; this is wholly inappropriate in his role as an expert.
+76. He mounted an unsuccessful challenge of the accuracy of Lau's evidence regarding measurements of the Damaged Room without evidential basis when he had not even taken measurements of the room himself. Such evidence is in any event not relevant to the central issue of cause of water leakage in the Damaged Room.
+77. His challenge, not recorded in his report, of the accuracy of Lau's test results and criticism that the tests were conducted by Lau's assistant, not her, are not substantiated. It was clear that Lau was present at the time of tests and conducted the tests together with her assistant.
+78. He challenged the inappropriate use of the instrument (which he called a "protimeter") in measuring electrical conductivity/moisture content by Lau. He argued that the instrument is principally used for taking moisture content in wood, and the results readings should be converted for taking moisture content readings in concrete. This is a bare allegation not substantiated by any evidence or elaboration. He did not even explain how the alleged non-conversion would affect Lau's conclusions on the readings, which I consider should in any event give a comparative overall upward trend in moisture content before and after dye water ponding.
+79. His evidence of the alleged inappropriate use by Lau of the instrument is contradicted by the evidence of a circular issued by the Joint Office adduced by Lau (page 20 of the Joint Report) which states the (obvious water seepage) standard index of 35% to be applicable to test locations of floors of balcony, bathroom and kitchen, and walls/ceilings.
+80. In view of the above, I consider that Wong's evidence of the infra-red scanning results of "no substantial change in temperature" in the Damaged Room ceiling cannot be safely relied upon.
+81. In Court he gave evidence that the slight variations in temperature readings may be due to other reasons, eg different contact points of the concrete, and may not necessarily be reflective of the moisture content. This begs the questions why the infra-red scanning test is such a widely accepted water leakage test, which was used by him as well.
+82. When cross-examined on the evidential basis of some bare assertions, he gave evidence of inspections and tests that he had allegedly conducted (prior to 30 November 2014) which were for no reason not recorded in his report. When challenged why he did not record the previous inspections and tests, relevant findings and results, he replied that he could not give too many details in his report.
+83. It is noted that Wong's report contains only 8 pages, attached with 44 pages of photographs without proper explanatory notes. This is contrasted with Lau's report of 428 pages containing details of observations, tests conducted, results and findings, analyses and explanations, attached with photographs with explanatory notes.
+84. Wong does not come across as an objective and neutral witness. His evidence is biased, and tainted with contradiction and speculation. I find that I cannot safely rely on his opinions and his conclusions based on the infra-red scanning readings which were, as argued by P's counsel Mr Fong, apparently taken in the absence of P's expert, contrary to the court directions. I am afraid the negative comments and criticisms made by the court in Hui Ling Chun (supra) and Hui Ling Ling (supra) of Wong's evidence as an expert remain valid.
+85. On the other hand, I have no doubt about the expertise and qualification of Lau. She gave firm answers with full explanations based on objective test results recorded in her report during cross-examination.
+86. Having considered Lau's detailed report in the light of the other available materials and evidence, and heard her evidence given at trial, I find her a professional and reliable expert witness. I accept her evidence.
+87. In the circumstances, where there are conflicts in the evidence between Wong and Lau, I would prefer that of Lau.
+
+The court’s findings/causation
+
+88. On the above analysis and upon acceptance of the evidence of P's expert Lau, I come to the following findings on a balance of probabilities:- 
+
+(1) Water seepage in the Damaged Room in the 7/F Flat was due to seepage from the bathroom in Room B of the 8/F Flat, which was caused as a result of the defective waterproof membrane in the bathroom in Room B of the 8/F Flat as shown and concluded by Lau;
+
+(2) This was the conclusion first made by the Joint Office as confirmed in its letter to P dated 20 September 2011 and the Nuisance Notice dated 21 October 2011 to D;
+
+(3) D had carried out repair works of the floor and surrounding walls in the bathroom of Room B of the 8/F Flat before 13 April 2012 (as confirmed in a letter dated 15 January 2013 from the Joint Office to D), but not during 28 May to 1 June 2012 now alleged by D;
+
+(4) Hence the dye water ponding test conducted in the (recently repaired) bathroom in Room B of the 8/F Flat by Paul Wong engaged by the Joint Office on 9 May 2012 did not reveal any seepage in the Damaged Room in the result monitoring inspection on 7 August 2012;
+
+(5) Water seepage problems in the Damaged Room had persisted continuously until now; and
+
+(6) Rain water from the Roof seeped into the 8/F Flat, and through the external walls of the Building to the lower floors on 6/F and 2/F, but not the 7/F Flat (as shown in the dye water ponding test conducted by Wong).
+
+ (Emphasis added)
+89. Counsel for the parties agree that the responsibility of maintenance and repair of the waterproof membrane between two floors lies with the owner of the upper floor. Reference was made to the judgment in Wong Hon Hung v Jolly Birds Ltd DCCJ 5341/2006 (unreported 
+, 24 June 2008), where it was found that the waterproof membrane in the bathroom floor of the defendant was defective causing water to seep from its flat to the plaintiff's flat below. The defendant was found liable to the plaintiff for the water leakage.
+90. The evidence also shows, as agreed by both experts, that there is water seepage from the Roof to the 8/F Flat and other parts of the Building. A reasonable inference is that the waterproof membrane of the Roof was defective.
+91. It is common ground that the waterproof membrane of the Roof is a common part, following the decisions in other water leakage cases of PC Fortune Co Ltd v Incorporated Owners of Kwong Fu Building [2009] 5 HKLRD 787 
+, Incorporated Owners of Hong Leong Industrial Complex) v HL Resources Ltd [2010] 4 HKC 463 
+and Wing Ming Garment Factory Ltd v Wing Ming Industrial Centre (IO) [2014] 4 HKLRD 52 
+. This raises the question as to whether the IO (or other parties) may be responsible, but these are not issues before the Court in the present case. I only need to deal with the central issue whether the water leakage in the Damaged Room had come from the 8/F Flat.
+92. I next consider whether there was any breach of the DMC, tort of nuisance or negligence by D in respect of the water leakage based on my above findings.
+
+Breach of DMC
+
+93. Clause 10 of the DMC states as follows:- "Each of the parties heretothe floor of which he is entitled to the exclusive use, occupation and enjoyment or any part thereof  shall not do or suffer or permit to be done anything therein or thereupon which may be or become a nuisance, annoyance or inconvenience to the occupiers of the other parts of (the Building) or of the premises in the neighbourhood."
+
+
+94. Based on my above findings, I find D in breach of Clause 10 of the DMC and liable to P as sued.
+
+Breach of duty under the tort of nuisance/negligence
+
+95. In order to establish a breach of duty under the tort of nuisance, P must establish that D had: 
+
+(1) Actual or constructive knowledge of the origin of the seepage; and
+
+(2) Failed to take remedial steps within reasonable time: See eg Tong Chi Ying & another v Shum Ping Kuen Benson & another, unreported, DCCJ 3566/2004 (DDJ R Yu; 24 September 2010); Tin Kin Ka Clara v Chan Koon Cheong & Anor, unreported, DCCJ 3139/2012 (HHJ Andrew Li; 11 May 2015)
+
+
+96. On the evidence, I find on a balance of probabilities that D had known or ought to have known the origin of the water seepage, ie from the 8/F Flat, in the Damaged Room. This is consistent with its agreement to pay the repair cost back in 2012, and as pleaded herein. The water seepage problems had persisted over a long period of more than 5 years. D is shown to have failed to take remedial steps within reasonable time.
+97. I find D liable for breach of duty under the tort of nuisance.
+98. On that basis, D should also be held liable for breach of its duty owed to its neighbour P. It was reasonably foreseeable that P would suffer loss and damage as a result of its omission to take remedial steps to rectify the water seepage problems in the Damaged Room. I find D liable in negligence as sued.
+
+Quantum/Relief
+
+99. P claims repair and renovation cost of the Damaged Room at the total sum of $27,300 based on a quotation dated 30 April 2012. Evidence of an updated higher quotation is adduced, but P agrees to limit his claim as pleaded.
+100. No valid challenge is made by D to the items listed in the quotation. D's counsel Mr Cheung argues that the proposed renovation would result in "betterment" of the Damaged Room which was last renovated in 2005, long before the water leakage problems first arose in October 2010. There should thus be a discount of the claim even if awarded.
+101. In considering this argument, I refer to the judgment in Wong Ping Mui v Mak Hung On DCCJ 2874/2001 (unreported 
+
+, 12 October 2001 HHJ Andrew Cheung (as he then was)) which states as follows:- " 關於這3,648.10元所謂的 "betterment" 費用，本官認為根據法律可以作出索償。雖然從某一個角度而言，車輛維修後比較意外前的狀況有實際的改善，但根據McGregor on Damages第16版第1328段指出，關於侵權賠償方面，如果受害人對本身受損壞的物件進行維修，而維修不可避免地令到該物件在維修後比未受損壞前更為有價值或有改進的話，由於他是在無可選擇之下進行維修，而維修的後果是無可避免地有一些新的部分加諸於被損壞的物件內，在這個情況下，法庭不會將因維修帶來的增值，從損害賠償中扣除 "
+
+
+102. The above principle was applied in assessing quantum in a water leakage case in Kimberley Assets Management Ltd v Golden Star Overseas Ltd & Ors, LDBM 291/2004 (unreported 
+, 17 February 2011 DDJ J Wong (as he then was)).
+103. The damages to be awarded must be reasonable. The general rule is that P should be restored to his original position, as far as possible. If the repair/renovation will inevitably put him in a "better" position he should still be entitled to the same without deduction. I consider the amount claimed reasonable and allow the same, following the approach adopted in Wong Ping Mui (supra) and Kimberley Assets Management Ltd (supra).
+104. The Damaged Room had been rented out at monthly rent of $1,800 from 1 December 2007 continuously up to the date the tenant moved out on 27 February 2011, as evidenced by the relevant tenancy agreement.
+105. P's evidence is that he had arranged and carried out repair of the Damaged Room in early 2011, but was not able to keep his tenant when the water leakage problems could not be alleviated or remedied.
+106. P claims loss of rental income from March 2011 to date.
+107. The evidence is that P had in early 2011 tried without success to repair the Damaged Room to remedy the water leakage problems. After his tenant moved out on 27 February 2011 he had contacted a decoration contractor who inspected the Damaged Room. He was advised that any repair works in the Damaged Room would be useless if no repair works were conducted first in the upper floor, ie the 8/F Flat from where the water leakage originated. He therefore did not arrange further repair works.
+108. P had contacted a real estate agent who inspected the Damaged Room and advised that he must repair it and rectify the water leakage problems before the Damaged Room could be rented out again.
+109. I agree that it would be unreasonable to expect someone would rent or live in the Damaged Room given the severe damage caused by the water leakage as shown in the photographs.
+110. I accept that P had taken reasonable steps to mitigate his loss by first repairing the Damaged Room, and later contacting a decoration contractor and a real estate agent with the view to renting it out, though without success.
+111. P's evidence as supported by relevant tenancy agreements is that the monthly rent of the other bigger room of a size of about 120 square feet in the 7/F Flat was $2,850 in 2009 and 2010, $3,500 from December 2012 to November 2014, and currently at $3,900.
+112. On such evidence, I accept that the proposed monthly rent figures, proportional to and based on the smaller size of the Damaged Room, put forward in Mr Fong's closing submissions are reasonable. I adopt the proposed notional monthly rent as follows: 
+
+$1,800(March 2011 to November 2012)
+
+$2,210(December 2012 to February 2015)
+
+$2,460(as from March 2015)
+
+113. I quantify loss of rental income suffered by P from March 2011 to date, updating to March 2016, in the total sum of $129,450 as follows:- 
+
+PeriodLoss of rental income
+
+3/2011 to 11/2012$1,800 x 21 months = $37,800
+
+12/2012 to 2/2015$2,210 x 27 months = $59,670
+
+3/2015 to 3/2016$2,460 x 13 months = $31,980
+
+114. I further award damages for loss of rental income at the rate of $2,460 per month from April 2016 until such time when the leakage in the 8/F Flat will have been fixed by D as ordered herein in accordance with the approach adopted in Kimberley Assets Management Ltd (supra) .
+115. I make a mandatory injunction order for D to rectify the water leakage problems as pleaded by P, within 42 days as agreed by the parties.
+
+Costs
+
+116. Costs should follow the event. P should have costs of the action against D, with certificate for counsel. I have considered the submissions of P's counsel Mr Fong on indemnity costs. I do not consider the conduct of D in defence of the claim would justify a costs order on an indemnity basis against it.
+
+Conclusion
+
+117. To conclude, I make the following order for P against D:- 
+
+(1) An order that D do carry out works in the 8/F Flat to rectify the water leakage problems of the Damaged Room at its own cost within 42 days from today's date;
+
+(2) Payment of damages at the total sum of $156,750;
+
+(3) Payment of further damages at the rate of $2,460 per month from April 2016 until such time when D has complied with and carried out the order made in (1); and
+
+(4) An order nisi that D shall pay the costs of P of the whole action, to be taxed if not agreed, with certificate for counsel.
+
+
+118. I thank counsel for their assistance.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

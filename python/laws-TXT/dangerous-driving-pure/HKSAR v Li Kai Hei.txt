@@ -1,0 +1,118 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:30 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : HKSAR v Li Kai Hei
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Li Kai Hei
+4 September 2017
+District Court
+DC
+Criminal Case No 782 of 2016
+DCCC 782/2016
+
+Citations:[2017] HKEC 2024 English Judgment
+
+Presiding Judges: Judge J Lam
+
+Phrases: Criminal sentencing - road traffic offences - dangerous   driving causing death - using vehicle fitted with pneumatic tyre having portion of ply or cord structure exposed - using public light bus without affixing plate marked legibly and correctly with information specified on fitted speed limiter or on place adjacent to speed limiter - public light bus driven by defendant travelled at excessive speed with no obligatory headlamps turned on for about 17 minutes, and hit and killed pedestrian crossing road hurriedly - defendant’s culpability considered
+
+Counsel in the Case: Present: Mr Phil Chau, Counsel on fiat, for HKSARMr Kwan Tong-lee, instructed by Samuel Ho & Co, assigned by the Director of Legal Aid, for the defendant
+
+Cases cited in the judgment: Lam Ping Kwong (unrep., CACC 262/2015) 
+Cooksley [2003] 3 All ER 40 
+
+Secretary for Justice v Liu Kwok Chun (unrep., CAAR 3/2009, [2010] HKEC 1360) 
+
+
+Judgment: 
+
+
+Judge J Lam
+
+Charge 1
+
+1. Defendant pleads not guilty to Charge 1 'Causing death by dangerous driving'.
+2. Defendant pleads guilty to Charge 2 'Using a motor vehicle fitted with a pneumatic tyre that has a portion of the ply or cord structure exposed'. He also pleads guilty to Charge 3 'Using a public light bus without affixing a plate marked legibly and correctly with the information specified on the fitted speed limiter or on a place adjacent to the speed limiter'.
+
+Facts: Charge 1
+
+3. Defendant was a PLB driver. One evening in February 2016, after 8 pm, he was driving a PLB on the road in Tai Po. The road speed limit there was 50 kilometres per hour. A 23-year-old man, the Deceased, came out of a bus-stop on the right side. Between that bus-stop and Defendant's northwest-bound lane, there was another lane (the southeast-bound lane). A double-decker bus was passing in the southeast-bound lane at that time. Apparently, that bus had hindered the view of the Deceased from seeing Defendant's PLB oncoming. It also hindered Defendant's seeing the Deceased, who had been coming out of the bus-stop to cross the road.
+4. The Deceased at that time was late for dinner at a housing estate on the other side of the road. Therefore, he must be crossing the road hurriedly. When he reached the northwest-bound lane, he was hit by the nearside front of Defendant's PLB. He was seriously injured and died a day later in hospital.
+5. During the trial, I find that when Defendant noticed the Deceased on the road, he applied brake at EDRD time 20.13.28.00. At that time, the real speed of the PLB was around 64 kilometres per hour. Defendant could not stop his PLB in time to avoid colliding with the Deceased, who was severely injured and later died as a result of the collision.
+6. I find that Defendant started to speed from EDRD time 20.13.10.80. Thus, he had been speeding for about 17 seconds by the time he applied brake at 20.13.28.00. During those 17 seconds, the PLB's real speed was above 50 kilometres per hour but below 58 kilometres per hour for the first 11 seconds, (20.13.10.80 to 20.13.21.60). For the next six seconds, Defendant was travelling at a real speed of 58 kilometres per hour or above. His PLB reached the highest real speed of 64 kilometres per hour at 20.13.27.20. Defendant applied his brake at 20.13.28.00. The vehicle came to a halt after four seconds at 20.13.32.00.
+7. I find that if Defendant had travelled within the road speed limit, he could have stopped in time to avoid the accident.
+8. The fatal collision was on one end caused by the Deceased's own carelessness in crossing the road hurriedly without first checking clearly whether there was oncoming traffic on the northwest-bound lane. On the other end, it was caused by Defendant's speeding as said.
+9. The speeding, while not for too long a time or being at excessive figures, was dangerous in the circumstance because Defendant was speeding in an area where he knew from his experience that there might be people jaywalking out of the said bus-stop to cross the road rather than using a traffic-light-controlled pedestrian crossing nearby.
+10. The situation was aggravated by the fact that Defendant had only turned on the obligatory front lamps but not the obligatory headlamps for about 17 minutes prior to the accident. That by itself was also dangerous driving.
+11. While the failure of turning on the obligatory headlamps was not a cause of the accident, Defendant would certainly be able to see more clearly of the road ahead at that hour of 8 pm if he had turned on the obligatory headlamps. If Defendant had done so, that might also have made the Deceased more alert of the oncoming of the PLB.
+12. Defendant was guilty of dangerous driving causing death by his speeding in the circumstance with the aggravating factor of not turning on the obligatory headlamps for some 17 minutes prior to the accident.
+
+Charge 2 and Charge 3
+
+13. Charge 2 and Charge 3 are about defects of the vehicle (see indictment for the particulars). These two offences had no bearing to the occurrence of Charge 1.
+14. Defendant pleads guilty to Charge 2 and Charge 3 on the basis that they are absolute offences, that is, he did not commit those offences in a knowing way.
+
+Record
+
+15. Defendant is now aged 68.
+16. Defendant has no criminal record but he had two previous careless-driving convictions, one in 2007 and one in 2008. On those two occasions, he was fined $1,500 and $2,000 respectively.
+17. Defendant also had one fixed-penalty record for speeding in 2011. He drove in excess of a speed limit by more than 15 kilometres per hour but not more than 30 kilometres per hour. That occasion cost him $450.
+
+Mitigation
+
+18. Counsel says Defendant is now living with his wife and the youngest daughter.
+19. Counsel says Defendant has been driving since he got his driving licence in 1986. Defendant has been a PLB driver for the last 13 years.
+20. Counsel says Defendant's record is not bad and thus deserves leniency.
+21. In his written mitigation, Counsel mentions the possibility of community service order as a sentence but Counsel duly withdraws that saying in court.
+22. Counsel cites the case of Lam Ping Kwong CACC 262/2015 
+and the case of Liu Kwok Chun CAAR 3/2009 and CACC 34/2009 
+(heard together). Counsel says the present case is less serious than those two cases.
+23. Counsel says the present case should be placed in the low-culpability category or at most the lower end of the intermediate one.
+24. Counsel says Defendant due to his age and also as a result of this accident would probably not drive again. He asks the court to be lenient towards the Defendant.
+
+Sentence
+Charge 1
+
+25. A driver is to be sentenced on his culpability if he drove dangerously or carelessly.
+26. The English case of Cooksley [2003] 3 All ER 40 
+categorises a driver's culpability of dangerous driving as follows: low, intermediate, highly culpable and most serious.
+27. The courts in Hong Kong have approved and adopted the Cooksley guidelines on many occasions.
+28. Counsel says the Defendant's dangerous driving should be classified as one of low culpability or at most should only be placed at the lower end of intermediate one.
+29. Although Defendant's speeding was not by too much or for too long a time, he was nevertheless speeding in an area where he knew there might be people jaywalking out of the bus-stop to cross the road there. The bus-stop in question was not far behind a traffic-light-controlled pedestrian crossing.
+30. Defendant's dangerous driving was aggravated by his failure to turn on the obligatory headlamps for quite some time, about 17 minutes.
+31. Defendant's dangerous driving should be placed at least at the lower end of the intermediate culpability category. The starting point would be 24 months' imprisonment.
+32. Defendant is now aged 68. He has no criminal convictions but he has two previous careless-driving records and also a fixed penalty for speeding. But it is fair to say that for a driver who has held his driving licence for many years, that record cannot be said to be very bad. Of course, it is not a good one either.
+33. For Defendant's age and his not-too-bad record, I shall give him a total discount of 3 months, and that is all I can give him. Thus, on Charge 1, I sentence Defendant to 21 months' imprisonment after trial.
+34. On Charge 1, Defendant is also to be disqualified from driving all vehicles for 5 years or until he has completed a driving improvement course at his own cost, whichever is the later. The disqualification order is to take effect from today.
+35. Defendant has to attend and complete the driving improvement course within the last three months of the disqualification period.
+
+Charge 2 and Charge 3
+
+36. I agree with the Defence Counsel that a fine is sufficient to deal with these two offences. Defendant is guilty on the basis that these two offences are absolute offences. He did not commit those offences knowingly. And Charge 2 and Charge 3 had no bearing to the occurrence of Charge 1.
+37. On Charge 2, I adopt $1,800 fine as the starting point. I give Defendant one-third discount for his plea of guilty. On Charge 2, he is fined $1,200.
+38. On Charge 3, I adopt $1,200 fine as the starting point. After one-third discount for Defendant's plea, he is fined $800.
+39. The two amounts of fine can come out of the bail money.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

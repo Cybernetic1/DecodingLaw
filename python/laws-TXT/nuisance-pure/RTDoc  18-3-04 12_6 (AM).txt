@@ -1,0 +1,216 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:06 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Leung Wing Yiu v Ng Kwok Wah
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+Leung Wing Yiu v Ng Kwok Wah
+
+
+
+4 February 2014
+District Court
+DC
+Civil Action No 4418 of 2011
+DCCJ 4418/2011
+
+Citations:[2014] HKEC 199 English Judgment
+
+Presiding Judges: Judge Wilson Chan
+
+Phrases: Tort - negligence - nuisance - alleged water seepage from premises to premises immediately below - ascertainment of source of seepage
+
+Counsel in the Case: Mr Justin KW Wang, instructed by Wan and Leung, for the plaintiffMr Roy KY Lau, instructed by Jackson Ho & Co, for the defendants
+
+Judgment: 
+
+
+HH Judge Wilson Chan in Court
+
+INTRODUCTION
+
+1. This case concerns seepage problems in a building known as Garfield Court situated at Nos 226 to 232 Argyle Street, Kowloon, Hong Kong (the "Building").
+2. The Building was built in around 1975. By the time of the trial in 2014, the Building has been built for some 39 years.
+3. The plaintiff is the owner of Flat B on the 7th Floor of the Building ("Flat 7B"). The defendants are the co-owners of the unit immediately above, namely, Flat B on the 8th Floor ("Flat 8B").
+
+THE PLAINTIFF’S CASE
+
+4. It is the plaintiff's case that Flat 7B has been affected by water seepage problems since 1997. The plaintiff in the witness box confirmed his complaint that the seepage problems have never stopped since 1997 and are still affecting Flat 7B up to the date of the trial.
+5. The plaintiff asserts that there is water seeping from Flat 8B into his premises causing damage to (i) the electrical circuitry; (ii) ceiling of the Master Bathroom; (iii) ceiling of the Guest Bathroom and (iv) ceiling of the corridor and the dining room. The plaintiff brought this action against the defendants based on the following causes of action: - 
+
+(1) Nuisance;
+
+(2) Breach of clauses 3 and 6 of the Deed of Mutual Covenant of the Building; and
+
+(3) Negligence on the part of the defendants.
+
+
+6. Despite that 3 different causes of action have been pleaded by the plaintiff, the real issue in this trial is the source of the water seepage.
+
+INCORPORATED OWNERS’ DUTIES
+
+7. The Incorporated Owners of the Building (the "IO") was established in 1978.
+8. It is trite that after the incorporation of the IO, common parts of the Building (including external walls, sewers, drains, soil pipes, waste pipes, water-courses, gutters, ducts and downpipes) are to be maintained by the IO. Any action regarding the duties in relation to the common parts of the Building should be enforced against the IO and not individual owners [see: section 16 and Schedule 1 of the Building Management Ordinance, Cap 344].
+9. Accordingly, if the evidence at trial establishes that water affecting Flat 7B comes from the external walls of the bathrooms of Flat 7B or Flat 8B, the defendants should not be held liable.
+
+BURDEN OF PROOF ON THE PLAINTIFF
+
+10. In his opening submissions, Mr Justin Wang, counsel for the plaintiff accepts that (i) the burden is on the plaintiff to show that water seepage affecting Flat 7B came from Flat 8B; and (ii) there is no presumption in water seepage cases that the water in question has come from the flat above.
+11. Mr Wang also confirmed in his opening that the doctrine of res ipsa loquitur would not be relied on by the plaintiff.
+
+THE DEFENDANTS’ CASE
+
+12. In short, the defendants deny liability. It is the defendants' position that if there were any water seepage problems affecting Flat 7B, the water did not come from Flat 8B. It is for the plaintiff to show that: (i) the water came from Flat 8B; and (ii) some parts of Flat 8B were defective so that the water seeped into Flat 7B.
+13. Although the defendants have no burden to show the source of the water, the defendants suggest that the water came from the external walls of the Building and seeped into Flat 7B.
+14. It is the defendants' case that before 2002 (by then the Building was 27 years old), there were obvious water seepage problems in the common parts of the Building. In his evidence, Mr Ng Kwok Wah ("Mr Ng") explained that common parts included the external walls of the Building.
+15. In 2002, the IO resolved to perform substantial maintenance of the Building including repairs to the external walls and air-conditioning drainage.
+16. Despite completion of the substantial maintenance of the Building by the IO in 2003, water seepage problems in the common parts affecting various units in the Building persisted.
+17. Further, in 2010 and 2011, only for the purpose of avoiding repeated unreasonable complaints from the plaintiff and to show that the water did not come from Flat 8B, the defendants:- 
+
+(1) stopped using the toilet facilities and converted the Master Bedroom into a storage room in mid-2010;
+
+(2) removed the toilet facilities inside the Master Bathroom in 2011; and
+
+(3) converted the water pipes in the Guest Bathroom from hidden pipes to visible pipes in about April 2011.
+
+
+18. No leakage or seepage can be observed by the defendants. However, the plaintiff continued and still continues to complain of water seepage problems after 2010 and 2011. Objectively, so submit the defendants, there must be some other source of water.
+
+ISSUES TO BE DETERMINED
+
+19. It is for the court to determine whether the plaintiff has discharged his burden of proof to show that the water that had seeped into Flat 7B came from Flat 8B. If so, when did it start, when did it end and the damage caused as a result of the defendants' wrongdoing.
+
+EXPERT EVIDENCE
+
+20. In considering the source of seepage, expert evidence is obviously of crucial importance. In the present case, court's directions were only given to prepare one joint expert report by the respective experts of the parties: Mr Ho Yun Kuen, John for the plaintiff and Mr Stewart Wong for the defendants. There is no other direction to allow other reports to be admitted as expert evidence.
+21. There are in total 6 inspections carried out by the experts (the fifth one, which took place on 2 May 2013 was carried out only by the plaintiff's expert). Before dealing with the inspections in detail, it should be noted that the plaintiff's expert agrees on the following:- 
+
+(1) The Master Bathroom of Flat 8B was used as a storage room and had not been used for the last few years. The toilet bowl and cistern were removed and the floor drain outlet of the Master Bathroom was covered up. In his evidence, the plaintiff's expert agreed that according to his observations, the Master Bathroom appeared to be consistent with not having been used for 2 to 3 years;
+
+(2) For the Guest Bathroom, new sets of fresh water pipes and flushing water pipes had been installed;
+
+(3) The light well outside the bathrooms was enclosed on 3 sides with 1 side open. Accordingly, rainwater can reach the light well easily;
+
+(4) On rainy days, water will flow down along the external wall of the bathrooms from the upper floors. The plaintiff's expert described that rain would wash down like a small waterfall;
+
+(5) For dyed water tests, the dye will usually dry up or oxidize in 1 to 2 months' time and become difficult to detect; 
+
+(6) In the plaintiff's expert's experience, there were incidents where water might travel horizontally along a floor/ceiling slab up to 10-plus feet, but it was less likely in this case;
+
+(7) If water travels horizontally, it is not always the case that the whole path will be wet and can be seen. Areas with higher concrete density may not show watermarks or stains, while areas with lower concrete density will show watermarks and stains; and
+
+(8) Finding of dyed water at the flat below was only a preliminary sign of water seepage. Laboratory tests should be done to confirm the result.
+
+
+
+1st Inspection (4 January 2013)
+
+22. There was no rain on the day of inspection and the past 4 days. Ponding test was done at the Guest Bathroom of Flat 8B. No significant change of moisture content at the ceiling of the Guest Bathroom of Flat 7B was recorded before and after the tests. No dye was found on the ceiling or the internal walls of Flat 7B. All these suggest that there was no water seepage from Flat 8B.
+23. The plaintiff's expert collected water sample from the plastic sheet holding the water dripped down from the ceiling in the Master Bathroom of Flat 7B. Laboratory test confirmed the sample to be saline water. From this, the plaintiff's expert opined that the water seepage was likely to have been caused by the flushing water system of Flat 8B.
+24. I do not accept the plaintiff's expert's opinion in this regard for the reasons submitted by Mr Roy Lau, counsel for the defendants. The results as shown in the test report offer little assistance to this court. It is not clear whether 13400 mg/L for sodium and 23100 mg/L for chloride were high or low figures. According to the defendants' expert, concrete naturally contains about 0.04% salt. More importantly, the water dripped down from the ceiling was collected and left in the plastic sheet for an extensive period of time. Water must have evaporated (thus making the salt content more concentrated) before the sample was collected. In the circumstances, the test results must be inherently unreliable.
+
+2nd Inspection (9 February 2013)
+
+25. Ponding test was done at the Master Bathroom of Flat 8B. No significant change of moisture content at the ceiling slabs of Flat 7B was recorded before and after the tests. No dye was found on the ceiling or the internal walls of Flat 7B, 5 weeks after the tests carried out at the 1st Inspection. This again suggests that there was no water seepage from Flat 8B.
+26. Water spray test was carried out in the afternoon. The defendants' expert discovered droplets of water suspending on the underside of a beam in the Master Bathroom and the Guest Bathroom of Flat 7B during the test. It is the defendants' expert's evidence that the water spray test simulated conditions similar to a rainstorm. Thus, it was not unreasonable to see droplets of water appearing after a relatively short period of time.
+27. From such observation, the defendants' expert opined that there was insufficient waterproofing in the external wall thus allowing rainwater to seep into Flat 7B.
+28. It should be noted that the photographs taken by the defendants' expert were not of a sufficiently high quality to clearly show the water droplets. However, the photographs in the joint expert report (pages 466 and 467 of the Trial Bundle) contained detailed descriptions of the location and findings. I accept the evidence of the defendants' expert in this regard as being truthful and reliable.
+29. The plaintiff's expert disputes the finding of water droplets under the beam but I agree with Mr Roy Lau that his evidence is questionable. Initially, the plaintiff's expert said in his oral testimony that he was not informed by the defendants' expert about the finding of water droplets. However, when the plaintiff's expert was invited to look at photograph no 231 at page 461 of the Trial Bundle, he could not provide any satisfactory explanation to explain why in the photograph, the hand of his assistant was pointing to the location of the droplets. The plaintiff's expert eventually did not reject the defendants' suggestion that his assistant was duly informed about the finding.
+
+3rd Inspection (15 March 2013)
+
+30. According to the plaintiff's expert, a small mark of yellow dye was found in the light fixture holder at the ceiling of the Master Bathroom of Flat 7B. However, I again agree with Mr Roy Lau that his evidence is questionable and I reject the same. 
+
+(1) The plaintiff's expert agrees that the dye mark would show up under ultraviolet light. However, he admitted that he did not use an ultraviolet light to test it. The plaintiff's expert's evidence in this regard is difficult to accept because in the photographs taken by the plaintiff's expert during the 3rd Inspection, he used the ultraviolet light under other circumstances and found no dye on the ceiling.
+
+(2) The plaintiff's expert agrees that he did not take the yellow dye mark for a laboratory test. However, as noted in paragraph 21(8) above, it was his own evidence that the finding of dye at the flat below was only a preliminary sign of water seepage. Laboratory tests should be done to confirm the result.
+
+
+
+4th Inspection (14 April 2013)
+
+31. Water pressure test was carried out by a licensed plumber to the fresh water supply pipe of Flat 8B. No pressure drop in the system was observed during the test. Accordingly, there is no evidence of water seepage from the fresh water supply system of Flat 8B.
+
+5th Inspection (2 May 2013)
+
+32. As noted above, this inspection was carried out only by the plaintiff's expert and his assistant, in the absence of the defendants' expert. In the circumstances, the plaintiff's expert in his oral testimony unequivocally withdrew his observations and findings regarding this inspection.
+
+6th Inspection (20 May 2013)
+
+33. There was 26mm of rainfall during the day of inspection, and rainfall ranging from 0.1 mm to 21 mm during the 4 days immediately prior to the inspection. Significantly, water seepage was found on the ceiling above the wash basin of the Guest Bathroom of Flat 7B. However, no dye stain was observed at the ceiling of the Guest Bathroom.
+34. During the 6th Inspection, the plaintiff's expert allegedly blotted a yellow colour dye stain (with the size of a 50 cents coin) from the disused light fixture holder at the ceiling of the Master Bathroom of Flat 7B.
+35. However, I agree for the reasons submitted by Mr Roy Lau that the plaintiff's expert's evidence in this regard should not be accepted:- 
+
+(1) The dye was administered in January or early February 2013. By the time of the 6th Inspection in May 2013, it was some 3 to 4 months ago. As stated in paragraph 21(5) above, it is the plaintiff's expert's evidence that the dye will usually dry up or oxidize in 1 to 2 months' time and become difficult to detect. No satisfactory explanation was provided by the plaintiff's expert as to why a dye stain was found 3 to 4 months after it was administered;
+
+(2) No ultraviolet test was carried out by the plaintiff's expert on the alleged dye stain. It was the evidence of the plaintiff's expert that an ultraviolet light was available for use during the 6th Inspection; and
+
+(3) No laboratory test was conducted on the alleged dye stain to confirm the result.
+
+
+
+Conclusion on the Expert Evidence
+
+36. I reject the opinion of the plaintiff's expert that water had seeped from Flat 8B to Flat 7B. For the reasons stated above, his conclusion is not properly substantiated by evidence.
+37. I accept the opinion of the defendants' expert that the water probably came from the external wall of the Building and seeped into Flat 7B. His opinion is supported by the fact that seepage was observed at the ceiling during the 2nd Inspection (in the course of the water spray test) and the 6th Inspection (after days of rainfall).
+
+REPORTS AND CORRESPONDENCE FROM FEHD
+
+38. The plaintiff seeks to rely on 2 sets of Nuisance Notices issued by the Food and Environmental Hygiene Department ("FEHD") to advance his case against the defendants. However, I agree with Mr Roy Lau that these notices cannot assist the plaintiff at this trial in proving that the water originated from Flat 8B:- 
+
+(1) Notices dated 15 September 2009
+
+Following a complaint, the FEHD initially alleged that water originated from Flat 8B but no supporting evidence was attached. The allegation by the FEHD was never proved. More importantly, the FEHD did not take any further action based on these notices.
+
+(2) Notices dated 2 February 2010
+
+Following a complaint, the FEHD again alleged that water originated from Flat 8B but no supporting evidence was attached. Later, the FEHD commenced prosecution by summonses against the 2nd defendant and the 3rd defendant (Wai Ha Kan) for failing to abate the alleged nuisance set out in the notices. However, the summonses were withdrawn upon application by the prosecution in December 2010.
+
+
+
+
+39. The plaintiff further seeks to rely on the "Water Seepage Investigation Report" dated 19 August 2009 (the "DCL Report") prepared by one DCL Consultants Limited, a contractor of the FEHD. In particular, the plaintiff seeks to rely on the observation recorded at page 5 of the DCL Report (page 283 of the Trial Bundle), namely: "Fluorescent effect of FS was found at the ceiling of guest bathroom of the affected area on 13/08/2009".
+40. I agree with Mr Roy Lau that the DCL Report, including the observation at page 5 thereof, is not admissible as expert evidence. 
+
+(1) First, the DCL Report is not admissible as an expert report because it did not contain (i) a statement of truth and (ii) a declaration of duty to the court [see: Luan Gang v Simpson Marine Ltd, HCA 107/2011 (Judgment dated 2 September 2013)]; and
+
+(2) Second, no application had been made prior to the trial for the DCL Report to be adduced as expert evidence by hearsay [see: Hussain Tanweer v Focus Roller Shutter Ltd, DCEC 1145/2005 (Judgment dated 18 September 2006)].
+
+
+41. Furthermore, as stated in the letters from the FEHD dated respectively 15 December 2011, 9 February 2012 and 19 July 2012 (pages 230-231, 232 and 857-858 of the Trial Bundle), the FEHD was clearly of the view that the source of the seepage could not be determined.
+
+CONCLUSION
+
+42. For the reasons stated above, I hold that the plaintiff has failed to discharge the burden on him to prove that Flat 8B was the source of the water that has seeped into Flat 7B.
+
+ORDER
+
+43. In the premises, the plaintiff's claim against the defendants in this action is dismissed.
+44. The defendants shall have the costs of this action against the plaintiff, including any costs reserved (if any). Such costs shall be taxed, if not agreed, with certificate for counsel.
+45. The above order as to costs is nisi and shall become absolute in the absence of any application within 14 days to vary the same.
+46. Lastly, I thank counsel on both sides for their helpful assistance in this matter.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

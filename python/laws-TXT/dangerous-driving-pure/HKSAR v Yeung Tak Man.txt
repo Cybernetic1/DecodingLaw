@@ -1,0 +1,92 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 24 February, 2018 at 22:27 HKT
+
+  
+
+Client ID : HKU_WLA-1
+
+Title : HKSAR v Yeung Tak Man
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Yeung Tak Man
+24 January 2018
+District Court
+DC
+Criminal Case No 334 of 2017
+DCCC 334/2017
+
+Citations:[2018] HKEC 349 English Judgment
+
+Presiding Judges: Judge Stanley Chan
+
+Phrases: Criminal sentencing - road traffic offences - dangerous   driving - misreading traffic light, defendant drove taxi into road junction and collided with another vehicle, causing death of one of passengers on board taxi - defendant had clear record throughout past 18 years in which he worked as taxi driver - whether suspended sentence warranted
+
+Counsel in the Case: Present: Mr A M Jr Omar, Counsel on fiat, for HKSARMr Oliver Davies, of Paul Kwong & Co, for the defendant
+
+Case cited in the judgment: Secretary for Justice v Wade Ian Francis (CAAR 1/2015, [2016] 2 HKLRD F2) 
+
+
+Reasons for Sentence: 
+
+
+Judge Stanley Chan
+1. Here are the reasons for sentence.
+2. Originally the defendant was charged with one count of causing death by dangerous driving, contrary to section 36(1) of the Road Traffic Ordinance, Cap 374. The charge was amended to one of   dangerous driving, contrary to section 37(1) of Cap 374. The defendant pleaded guilty to this amended charge and was committed accordingly.
+
+The prosecution case
+
+3. The incident happened at the junction of Tin Kwong Road and Kau Pui Lung Road, To Kwa Wan. At the material time, PW1 was driving a light goods van with the registration number GT900 (V1). The defendant was driving a taxi HM8997 (V2) with three passengers on board, namely PW2 Shum, PW2's wife and Ms Ngan Siu-fai (Ngan) who was aged 43.
+4. Tin Kwong Road is a four-lane-dual carriage way running from East to West. At the junction on the westbound, the fist left lane is designated only for left turn traffic with the second left lane for straight travelling traffic. On the other hand, Kau Pui Lung Road is a three lane dual carriage ways: two lanes going northbound and one southbound. The first left lane of the northbound Kau Pui Lung Road is designated for left turn and straight travelling traffic while the second left lane is only for right turn traffic.
+5. At the material time, the weather was fine with sufficient street light. The road surface was dry. The speed limit at the junction was 50 kilometres per hour. All the traffic lights installed at the junction were functioning properly.
+6. At about 9:55 pm on 21 June 2016, PW1 drove V1 travelling along the second left lane of the northbound Kau Pui Lung Road. V1 stopped at the white stopping line when the traffic light was red. When the traffic light turned green, V1 moved forward at about 5 to 10 kilometres per hour and reached the junction, with a view to turn right into the eastbound lane of Tin Kwong Road.
+7. When V1 was crossing the junction, V2 was travelling on the second left lane of westbound Tin Kwong Road. PW1 attempted to swerve and accelerate in order to avoid collision. However, the speed of V2 was faster than V1. PW1 observed that the defendant did not slow down or even stop the V2. As a result, the front of V2 collided into the offside of V1.
+8. PW1 alighted his van. He noticed that the defendant and two passengers at the rear seat of V2 did not suffer any injuries. However, Ngan, the passenger in the front seat with seat belt on, complained that she was very painful. PW1 made a report to the police.
+9. Upon investigation by the police officer at the scene, the defendant stated that he was the driver of V2 and was travelling on the second left lane of westbound Tin Kwong Road. He has stopped V2 when approaching the junction. However, the defendant mistook the green traffic light for left turn on the first left lane as the traffic light for the traffic on the second lane too. He drove into the junction and caused the collision with V1. Ngan was later escorted to the hospital.
+10. PW2 said when V2 was approaching the junction, he noticed that the traffic light governing the first left lane was green only for turning left and the traffic governing the second lane was still red. The defendant did not slow down V2 when approaching the junction. PW2 immediately yelled at the defendant saying "Stop. It is a red light. It is going to crash." The defendant responded by saying "It's too late." A collision then occurred. Ngan had complained that her head hit the front board of V2 because of the collision.
+11. Unfortunately, Ngan was certified dead on 30 June 2016, nine days after the incident. The causes of death were acute myocardial infarction, congestive heart failure and hypoxic brain damage. No intervening antecedent causes of death were identified. It transpired that Ngan has some pre-existing medical problems prior to this incident.
+12. In a video-recorded interview, the defendant said that he has been a taxi driver for 18 years and was the driver of V2 at the time. He worked as a night shift taxi driver on the day from 5:30 pm to 4 am on the next. He said the condition of V2 was fine.
+
+Mitigation
+
+13. The defendant is aged 52 and had a clear record. It was submitted that the present offence was committed out of defendant's character. The defendant has been a taxi driver for about 18 years. He had no traffic offence record. It was further submitted that the present case was not the most serious type and there was no serious damage to both vehicles. No alcohol was detected from the defendant who was fully cooperative with the police in the investigation. It was submitted that the incident arose out of the momentary mistake of the defendant in not reading the traffic light properly. Defence counsel also tendered the medical report of the defendant and made no submission in relation to the period of disqualification and/or the driving improvement course.
+
+Sentence
+
+14. No one would doubt that this was a tragic incident and prima facie, consequently Ngan's life was shortened unfortunately. The maximum sentence of this amended charge is one of 3 years upon indictment. Under section 37(2), a person was considered driving dangerously if: 
+
+(a) The way he drives falls far below what would be expected of a competent and careful driver.
+
+(b) It would be obvious to a competent and careful driver that driving in that way would be dangerous.
+
+
+15. There is no evidence to suggest that the present offence was committed in circumstances of aggravation. I would say that the defendant should have been praised for his clear traffic record after working as a taxi driver for some 18 years. He had a clear criminal record too.
+16. Based on the facts of the case and the clear record of the defendant, I am of the view that there is no need to send the defendant to prison and a non-custodial sentence is sufficient to reflect the criminality of the present offence.
+17. In Secretary for Justice v Wade CAAR 1/2015 
+
+, the respondent in that case originally was sentenced, inter alia, for a fine of $30,000 in respect of the offence of dangerous driving. The Court of Appeal took the view that: "In determining whether or not it is appropriate to suspend the sentence of imprisonment to be imposed on the respondentregard is to be had also to the low speed at which the respondent drove, the absence of injury to anyone and to the relative low level of damage caused to other vehicles. Also relevant, is the respondent's driving record, and the fact that he is 75 years of age and of good character" (paragraph 48 of the judgment).
+
+18. The Court of Appeal also remarked that: "Obviously, the consequences caused by dangerous driving are highly relevant. Death and serious injury caused by   dangerous driving is to be visited by very different penalties to those imposed for   dangerous driving simpliciter." (paragraph 35 of the judgment).
+
+
+19. In that case, no one died as a result of the incident directly or indirectly.
+20. In the present case, unfortunately Ngan died and to some extent, her death was 'triggered' by this incident.
+21. Nevertheless, taking all factors into consideration, I sentence the defendant to an imprisonment term of 9 months, but the sentence is to be suspended for 2 years. In addition, I would also impose a fine of $10,000, to be paid within one month thereafter. In the present context, I would not impose any additional term of imprisonment for non-payment of the fine. I also order that the defendant be disqualified to drive in respect of all classes for a period of 6 months, and he is also required to complete a driving improvement course within the prescribed period.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

@@ -1,0 +1,93 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:40 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : HKSAR v Ng Tak Hing
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+HKSAR v Ng Tak Hing
+17 May 2017
+District Court
+DC
+Criminal Case No 1161 of 2016
+DCCC 1161/2016
+
+Citations:[2017] 3 HKLRD H2 English Judgment
+[2017] HKEC 1033 English Judgment
+
+Presiding Judges: Deputy Judge Jason Wan
+
+Phrases: Criminal sentencing - road traffic offences - dangerous   driving causing death - using van when protective partition not permanently fitted on vehicle body and lower part not fitted - defendant drove light goods vehicle through red traffic light at pedestrian crossing and struck 77-year-old pedestrian crossing road
+
+Facts: D pleaded guilty to causing death by dangerous driving (Charge 1) and using a van when the protective partition was not permanently fitted on the vehicle body and the lower part was not fitted (Charge 2). D, driving a light goods vehicle (the Van) at about 30 km/h in a 50 km/h zone, approached a junction as the traffic light changed from green to amber. When the Van was about 2 m from the pedestrian crossing (the Crossing), the traffic light was red and the pedestrian light changed to green. V, a 77-year-old woman, started to cross the road with other pedestrians. D did not slow down and struck V causing fatal head injuries. Under caution, D said he saw the traffic light change to amber and thought he could clear the Crossing before the light changed to red; and he did not see V until the Van hit her. At the time of the accident, the road was wet from earlier showers. D was aged 65 and married with two children. D had been an independent contractor for Kowloon Motor Bus and the main breadwinner before the accident. He was of clear record with only fixed penalty tickets. D was very remorseful and submitted that the accident was caused by an error of judgment rather than a deliberate disregard for traffic lights; and he had no plans to drive again.
+Held, that:
+
+(1) Dangerous driving causing death was a very serious offence. One clear aggravating factor was D's conscious decision and deliberate act to drive through the Crossing when the traffic light had already turned amber. It was reckless and selfish because, in order to save himself some time, he put other road users at great risk. An innocent life had been taken away. It was not a momentary lapse of attention or judgment. Further, dangerous driving causing death at a pedestrian crossing was a serious aggravating feature (Secretary for Justice v Lam Siu Tong [2009] 5 HKLRD 601, Secretary for Justice v Wong Wai Hung (unrep., CAAR 7/2010, [2011] HKLRD (Yrbk) 365, [2010] HKEC 1980) applied).
+
+(2) This case fell between intermediate culpability (2 to 3 years) and higher culpability (4 to 5 years). Taking into account D's age, poor health, his clear record and the impact of his incarceration on his family, the proper starting point on Charge 1 was 3 years and reduced for plea, the sentence was 2 years' imprisonment. D was also disqualified from driving for 5 years and required to complete a driving improvement course. On Charge 2, D was fined $4,000 (R v Cooksley [2003] 3 All ER 40 applied).
+
+
+
+Counsel in the Case: Present: Mr Tse Hayson K S, Counsel on Fiat, for HKSAR/Director of Public ProsecutionMr Chan Chee Fai Philip, instructed by Wong Poon Chan Law & Co, assigned by the Director of Legal Aid, for the defendant
+
+Cases cited in the judgment: R v Cooksley & Others [2003] 3 All ER 40 
+
+Secretary for Justice v Lam Siu Tong [2009] 5 HKLRD 601 
+
+Secretary for Justice v Wong Wai Hung (unrep., CAAR 7/2010, [2011] 2 HKLRD D6) 
+
+
+Judgment:
+
+
+Deputy Judge Jason Wan: 
+
+1. The defendant pleaded guilty to the following charges:- 1st charge: Causing death by dangerous driving, contrary to section 36(1) of the Road Traffic Ordinance, Cap 374; and
+2nd charge: Using a van when the protective partition was not permanently fitted on the vehicle body and the lower part was not fitted, contrary to regulation 81A(1)(a) and 121(1) of the Road Traffic (Construction and Maintenance of Vehicles) Regulations made under the Road Traffic Ordinance, Cap 374.
+
+
+Summary of facts: 
+
+2. At about 1:38 pm on 24 April 2016, the defendant drove a light goods vehicle EK6833 along southbound Ma Tau Wai Road and approached a traffic junction near Chi Kiang Street, To Kwa Wan, Kowloon. When the defendant was approaching the traffic light junction, the traffic light for drivers was changing from green to amber. When the defendant's vehicle was about 2 metres away from the pedestrian crossing, the traffic light for drivers had already changed to red and the traffic light for pedestrians turned green.
+3. At that juncture, the deceased, a 77-year-old elder lady, together with some other pedestrians, had started to cross the road. However, the defendant was still driving towards the pedestrian crossing despite the traffic light for drivers was red. He did not slow down and was driving at about 30 km per hour. As a result, the deceased was knocked down by the defendant's vehicle and was seriously injured. The deceased was taken to the hospital and was certified dead at 2:03 pm on the same day. The main cause of death was multiple head injuries.
+4. Under cautioned, the defendant said he was travelling at about 20 to 30 km per hour at the material time. He saw the traffic light for drivers turned amber. He thought that he could pass through the pedestrian crossing before the light turned from amber to red. He did not see the deceased walking out from the pavement until the vehicle hit her.
+5. The speed limit of the road in question was 50 km per hour. Before the accident, there had been shower so the road surface was wet. The rain had stopped at the time of the accident. At the material times, the traffic lights for drivers and pedestrians were all working properly. The amber light of the traffic light for drivers lasted for 3 seconds and it would then turn red. At the same time, when the traffic light for drivers was amber, the traffic light for pedestrians would be red. When the traffic light for drivers turned red, the traffic light for pedestrians would continue to be red for 2 seconds before it turned to green.
+
+Mitigation: 
+
+6. In mitigation, defence told the court that the defendant was born locally and is now aged 65. He is a person of clear criminal record and only has some traffic fixed penalty records. He is married with two adult children. He worked as an independent contractor for Kowloon Motor Bus and was earning about HK$18,000 per month before the accident of this case. He was the main breadwinner of the family because his wife only works part-time and his son has been unemployed for years.
+7. Defence submitted that the defendant's health is not good. He had been suffering from heart problem, eye problem, gout and hypertension. He had a stroke in 2011 and was hospitalized for about a month.
+8. Defence submitted that the defendant is very remorseful. Defence submitted that the accident was caused by a momentary misjudgment rather than deliberate disregard of traffic light. Defence urged the court to impose a lenient sentence in particular for the 1st charge. Lastly, defence made no submission about the length of disqualification the court may impose as the defendant has no plan to drive again.
+
+Discussion: 
+
+9. Without a doubt, dangerous driving causing death is a very serious offence. Loss of human life is irreversible. Innocent lives should not be taken away by the dangerous or selfish acts of others. Grave distress will no doubt be caused to the family of the deceased and such distress could be long-lasting. The court owes the public a duty to take this kind of cases most seriously. On the one hand justice and feeling of the affected must be addressed and on the other hand these dangerous behaviours must be deterred to protect the public.
+10. The English authority R v Cooksley & Others [2003] 3 All ER 40 
+has been approved by the Court of Appeal in Secretary for Justice v Poon Wing Kay [2007] 1 HKLRD 660. In Cooksley, examples of aggravating factors had been listed out. In the present case, one clear aggravating feature is that it was a conscious decision and deliberate act to drive pass the pedestrian crossing when the traffic light for drivers had already turned amber. It was reckless and selfish because in order to save himself some time, the defendant put other road users in great risk. Instead of slowing down and tried to stop before the vehicle reached the pedestrian crossing, the defendant decided to drive pass it. An innocent life had been taken away. It was not a momentary lapse of attention or misjudgment.
+11. Further, in Secretary for Justice v Lam Siu Tong [2009] 5 HKLRD 601 
+, the Court of Appeal made it clear that dangerous driving causing death at pedestrian crossing would be a serious aggravating feature. In another case Secretary for Justice v Wong Wai Hung CAAR 7/2010 
+, unrep, the Court of Appeal expressed the view that dangerous driving causing death at zebra crossing could be regarded as higher culpability as in Cooksley .
+12. Applying the sentencing scale in Cooksley, this case should fall between intermediate culpability (2 to 3 years) and higher culpability (4 to 5 years). Considered the age and health condition of the defendant, his clear record, the impact of his incarceration on his family, I am of the view the proper starting point for the 1st charge should be 3 years. Giving one-third discount for his timely guilty plea, the defendant is sentenced to 2 years' imprisonment for the 1st charge. Considered all the circumstances, I also order the defendant to be disqualified from holding or obtaining a driving licence for all classes of vehicles for 5 years. The said disqualification period is not to run until the defendant has completed serving the term of imprisonment. I also make an order under section 72A(1A) of the Road Traffic Ordinance, Cap 374 that the defendant must at his own expense complete a driving improvement course within the last 3 months of the period of disqualification.
+13. Lastly, for the 2nd charge, the defendant is fined HK$4,000.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

@@ -1,0 +1,374 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:09 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Cosmos Legal Consultant Ltd v Skycherry Development Ltd
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+Cosmos Legal Consultant Ltd v Skycherry Development Ltd
+
+
+
+14 May 2013
+District Court
+DC
+Civil Action No 2548 of 2009
+DCCJ 2548/2009
+
+Citations:[2013] HKEC 741 English Judgment
+
+Presiding Judges: Judge Wilson Chan
+
+Phrases: Tort - nuisance - water seepage from premises to premises immediately below - whether current and/or former owners of former premises liable
+
+Counsel in the Case: Mr Robin D’souza, instructed by Christine M Koo & Ip, for the plaintiffMr Vincent Lung, instructed by Wong, Fung & Co, for the 1st defendantThe 2nd defendant acted in person by its director, Madam Ko Ling Yi
+
+Cases cited in the judgment: Chan Fei Lung v Mansion Products Ltd (unrep., HCA 336/1990) 
+John So v Lau Hon Man (unrep., CACV 110/1993) 
+Leung Yung Chun v Chan Wing Sang [2000] 1 HKLRD 456 
+
+Wong Hong Hung v Jolly Birds Ltd (unrep., DCCJ 5341/2006, [2008] HKEC 1072) 
+
+
+Judgment: 
+
+
+Judge Wilson Chan
+
+INTRODUCTION
+
+1. The plaintiff is and was at all material times the owner of the property known as Flat A, 41st Floor, Tower 5, Dynasty Court, No 23 Old Peak Road, Hong Kong ("Flat 41A"). At all material times until 22 December 2008, the 2nd defendant was the owner of the unit immediately above Flat 41A ("Flat 42A").
+2. On 22 December 2008, the 1st defendant bought Flat 42A from the 2nd defendant and has since then become its owner.
+3. The plaintiff claims that water seeped from Flat 42A into Flat 41A as early as in June 2008 when the 2nd defendant was the owner of Flat 42A, and the nuisance was continued by the 1st defendant when it became its owner, hence the present proceedings.
+4. These proceedings concern three distinct complaints by the plaintiff:- 
+
+(1) alleged water seepage problem at the ceiling of the Master Bathroom of Flat 41A due to the defective water-proofing membrane of the floor slab at the corresponding part of Flat 42A. The plaintiff says seepage continued from June 2008 until December 2010 ("the MB floor slab problem");
+
+(2) alleged water seepage problem at the ceiling of the Guest Bathroom of Flat 41A. The problem was discovered in early December 2008 and was soon rectified by the 2nd defendant's contractors on 13 December 2008 ("the GB problem"); and
+
+(3) another alleged water seepage problem in the Master Bathroom of Flat 41A due to defective basin pipes. It was discovered in or around August 2010, and it was rectified by December 2010 ("the MB pipes problem").
+
+
+5. In its Written Opening dated 11 March 2013, the 1st defendant outlined its defence to the plaintiff's claim as follows:- 
+
+(1) insofar as the plaintiff seeks to rely on the expert reports, the 1st defendant (and its expert) will say that the methodology adopted by the plaintiff's expert is unreliable and cannot prove that water seeped from Flat 42A into Flat 41A;
+
+(2) further or alternatively, certain seepage problems existed before the 1st defendant became the owner of Flat 42A;
+
+(3) if reliance is placed on the defective drainage pipes, those were duly repaired in a reasonable time by the 1st defendant and no liability can attach; and
+
+(4) the Settlement Agreements operate to prevent the plaintiff from bringing new claims against the 1st defendant/2nd defendant on matters that were settled.
+
+
+6. Over the course of the trial, this court received evidence from 4 factual witnesses and 2 expert witnesses.
+7. Mr Koo Yuk Chan ("Mr Koo") was the plaintiff's main and only factual witness. Mr K S Wong ("P's Expert") was the plaintiff's expert witness. Madam Ye Jia Li ("Madam Ye") was the 1st defendant's first witness. She is the current tenant of Flat 42A. Mr Yip Wing Kui ("Mr Yip") was the 1st defendant's main factual witness. Mr John Yip ("D1's Expert") was the 1st defendant's expert witness. Madam Ko Ling Yi ("Madam Ko") was the 2nd defendant's sole witness.
+8. Aside from defending the plaintiff's claim, the 1st defendant has brought contribution proceedings against the 2nd defendant, such that if the 1st defendant is liable to the plaintiff, the 1st defendant seeks contribution from the 2nd defendant over such liability.
+
+LIABILITY
+June 2008
+
+9. During cross-examination by the 1st defendant, Mr Koo gave evidence on how he noticed the water seepage in June 2008. He said he saw water droplets falling from the gaps of the panel at the false ceiling of the Master Bathroom. He said, at that time they removed the panel of the false ceiling to see what was happening and they found water on the panel. He also said he noticed that there was water in between the gaps of the marble sheets around the bathtub. When asked what the state of the marble wall was at that time, Mr Koo answered that the marble walls had some marks and because the bathtub was seldom used, it indicated that the seepage was quite serious.
+10. Upon noticing the water, the plaintiff made a complaint to the Managing Office on or about 26 June 2008.
+11. The plaintiff's solicitors wrote to the 2nd defendant on 27 June 2008 informing it, inter alia, that there was water flowing from Flat 42A to Flat 41A causing damage to Flat 41A. The plaintiff demanded the 2nd defendant to stop the water from leaking immediately and bear the cost of repair of the Master Bathroom.
+12. The plaintiff also made a complaint to the Buildings Department/Food and Environmental Hygiene Department Joint Office ("BD Joint Office") on 27 June 2008.
+13. There cannot be any dispute that in around June 2008, there was a problem of water seepage in Flat 41A. The probable source of the water seepage was identified to come from Flat 42A. During cross-examination by the 2nd defendant, when it was put to him that there was no evidence of water seepage from Flat 42A to Flat 41A, Mr Koo explained that the Management Office came to inspect the Master Bathroom of Flat 41A and looked at the pipes. He said they noted that there was no seepage in relation to common pipes and noted that from the area of the seepage, the source of the seepage was right above where the bathtub was at Flat 42A. Mr Koo also said that staff from the Management Office informed him that there were other similar cases in the building causing water seepage by an upper apartment to a lower apartment. Mr Koo said the Management Office then lent him a plastic bowl to temporarily contain the water seepage.
+
+The settlement agreement between the plaintiff and the 2nd defendant
+
+14. Both Mr Koo and Madam Ko gave consistent evidence that they frequency contacted each other to deal with the water seepage problem after it was brought to the 2nd defendant's attention in June 2008.
+15. In mid-August 2008, the plaintiff concluded the settlement agreement with the 2nd defendant. The terms of the settlement agreement are in dispute between the plaintiff and the 2nd defendant:- 
+
+(1) the plaintiff's case in relation to the settlement agreement is that the agreement had two parts, namely: (i) the 2nd defendant would remedy the problem of water seepage at Flat 42A to enable the plaintiff to conduct repair works at Flat 41A; and (ii) the 2nd defendant would pay the plaintiff a sum of HK$70,000 for the plaintiff to engage a contractor to refurbish the Master Bathroom at Flat 41A; and
+
+(2) the 2nd defendant's case is that the settlement agreement only required the 2nd defendant to pay HK$70,000 to the plaintiff, and it was made on a without admission of liability basis.
+
+
+16. I agree with the submission of Mr Robin D'souza, counsel for the plaintiff, that it was a necessary condition of the settlement agreement that the 2nd defendant was to remedy the water seepage problem. It would be illogical to agree to compensation without having remedied the source of the water leakage problem at Flat 42A.
+17. Further, if there had been an agreement that payment of HK$70,000 alone would be a full and final settlement between the parties, there would be no need for the 2nd defendant to subsequently send contractors to deal with the plaintiff's complaints of continuing water seepage in November 2008 and again in December 2008 (in relation to the water leakage in the Guest Bathroom). The 2nd defendant would simply have said it was not its problem.
+18. The evidence shows that the 2nd defendant would attempt to remedy the water problems upon the plaintiff's further complaints. This is consistent with the plaintiff's case that it was part of the settlement agreement for the 2nd defendant to remedy the water seepage problem.
+19. In the circumstances, the fact that the plaintiff and the 2nd defendant entered into the settlement agreement does not bar the plaintiff from claiming against the 1st and 2nd defendants, because the settlement agreement was never fully performed. There was only part performance of payment of HK$70,000, which the plaintiff gives credit for. The other condition of the agreement, namely that the water seepage problem would be remedied, was never performed.
+
+Tests conducted by BD Joint Office
+
+20. On 2 July 2008 an Environmental Nuisance Investigator ("ENI") from the BD Joint Office conducted preliminary investigation in Flat 41A.
+21. On 17 July 2008, upon another inspection at Flat 41A, the ENI confirmed that there was a water seepage problem but could not confirm the source of the seepage.
+22. The BD Joint Office commissioned Paul Wong Consulting Engineers Limited ("Paul Wong") to conduct and carry out investigation to ascertain the source of the water seepage. Paul Wong attended Flat 41A and Flat 42A on 13 August 2008, 20 August 2008, 23 August 2008, 8 September 2008 and 20 September 2008.
+23. On 16 October 2008, Paul Wong issued two reports. One for Flat 41A and another one for Flat 42A. The conclusion of the Paul Wong reports is that it is "almost certain" that the "source of water seepage is [the] defective water proofing material on the floor slab of the Master Bathroom of [Flat 42A]".
+24. At this juncture, it should be noted that D1's Expert expressly said in his oral evidence that:- 
+
+(1) he does not challenge the methodology and tests conducted by Paul Wong;
+
+(2) he does not challenge the test results and on-site observations of Paul Wong; and
+
+(3) he agrees with Paul Wong's conclusion that the source of water seepage was the defective water proofing material on the floor slab of the Master Bathroom of Flat 42A.
+
+
+25. Further, when asked if he would agree that one has to replace or repair the water proofing material on the floor slab of the Master Bathroom of Flat 42A to stop seepage, D1's Expert admitted during cross-examination that he agrees that the owner of Flat 42A should repair the water proofing membrane on the floor slab. When asked if there was no repair done would water seepage continue, D1's Expert said that if water is poured onto the floor, there would be seepage.
+26. It is not the case of the 1st defendant or the 2nd defendant that the water proofing material on the floor slab at the Master Bathroom of Flat 42A was ever replaced or repaired before December 2010. Only during trial, it transpired that in December 2010, the 1st Defendant caused renovation works to be done in the Master Bathroom of Flat 42A which included replacing the water proofing material on the floor slab of the Master Bathroom. Hence, the water proofing material on the floor slab of the Master Bathroom remained defective until around December 2010.
+
+Plastic tray
+
+27. There was continuing water seepage at the ceiling of the Master Bathroom of Flat 41A in late October to early November 2008. The plaintiff again made a complaint to the 2nd defendant. On 7 November 2008, the plaintiff's solicitors issued a letter to the then solicitor of the 2nd defendant stating that the water seepage problem continued despite the 2nd defendant's undertaking to repair the Master Bathroom at Flat 42A.
+28. Both Mr Koo and Madam Ko agreed that as a result of the plaintiff's complaint, Madam Ko instructed contractors to erect a plastic tray to contain the seepage in around late November 2008.
+29. During cross-examination by the 1st defendant, Mr Koo made it quite clear that the plastic tray was temporary in nature and he allowed the 2nd defendant's contractors to place the plastic tray so that he did not have to remove water every week from the plastic bowl provided to him by the Management Office. Mr Koo also made it quite clear that the installation of the plastic tray did not mean that repair works need not be done in the Master Bathroom of Flat 42A. When asked if the plastic tray would avoid the seepage, Mr Koo disagreed and said that it avoided the scope of the wetness but did not cure the seepage.
+30. I agree with Mr D'souza that as a matter of logic, the plastic tray is not a solution to the water seepage problem. The plastic tray was merely a means of directing away water that had already seeped through the ceiling of the master bathroom at Flat 41A from Flat 42A. It was also readily accepted by D1's Expert during cross-examination by the plaintiff that the plastic tray is not a solution for the seepage problem. D1's Expert said the solution must be to repair the water proofing material at the floor slab of the Master Bathroom of Flat 42A, and to install the plastic tray was a temporary measure which was quite often used by management offices.
+31. It was suggested to Mr Koo that because he allowed the 2nd defendant's contractors to add the plastic tray, any problem thereafter relating to the plastic tray was the plaintiff's problem. Mr Koo disagreed. I agreed with Mr D'souza's submission that it should not be the case that the plaintiff should be responsible for the subsequent defects relating to the plastic tray. The plastic tray was intended to be a temporary measure.
+
+Guest toilet
+
+32. I can deal with the plaintiff's complaint regarding the GB problem relatively quickly. During cross-examination by the 1st defendant, Mr Koo explained how he came to discover the water leakage at the Guest Bathroom of Flat 41A. He said in early December 2008, he noticed rust marks at the panel of the false ceiling in the Guest Bathroom. He removed the panel and saw a big area of rust on the other side of the panel of the false ceiling, which was directly below a pipe hanging down from Flat 42A. He noticed that the joint area of the pipe was very wet. Mr Koo said he then informed the Management Office immediately and the Management Office informed Madam Ko.
+33. The plaintiff's solicitors also issued a letter to the 2nd defendant's then solicitors on 9 December 2008, stating that there was water leakage from the second toilet from Flat 42A to Flat 41A and demanding the 2nd defendant to stop the water from leaking and to bear the cost of repair.
+34. It is not disputed that the 2nd defendant sent contractors to repair the leakage at the Guest Bathroom on 13 December 2008. The events of 13 December 2008 are helpfully summarized by the Management Office in their letter dated 19 December 2008 to Madam Ko. In the letter it stated that water leakage was found on the drainage pipe located at the ceiling of the Guest Bathroom at Flat 41A which belonged to Flat 42A, and that the 2nd defendant's contractors conducted repair works during joint inspection and the water leakage was stopped afterwards.
+35. It should be noted that the repair works conducted on 13 December 2008 only related to the stopping of the leaking from the pipe and did not deal with the corrosion damage caused on the panel of the false ceiling of the Guest Bathroom. In fact, the false ceiling at the Guest Bathroom of Flat 41A was only finally repaired in January 2010 when the plaintiff's contractors replaced the whole false ceiling at the Guest Bathroom. However, the plaintiff accepts that the seepage problem at the Guest Bathroom had stopped by 13 December 2008. By that time, the 1st defendant has not become the owner of Flat 42A. The plaintiff accepts and I hold that, in the circumstances, the 1st defendant should not be responsible for the GB problem.
+
+Letter to the 1st defendant from the plaintiff on 18 December 2008
+
+36. In a letter dated 18 December 2008, the plaintiff's solicitor informed the 1st defendant's solicitor that there was a water leakage problem. It is not disputed that this was the first time the plaintiff informed the 1st defendant of the water seepage issue in Flat 41A. It is the 1st defendant's case that this letter did not give the 1st defendant sufficient notice of the water seepage problem. According to the 1st defendant, this letter only recorded a seepage problem at the Guest Bathroom of Flat 41A.
+37. I agree with Mr D'souza's submission that this argument is very much an afterthought on the part of the 1st defendant. At the time of receiving the letter, the 1st defendant would not have been able to understand whether the reference to the "second toilet" was the Master Bathroom or the Guest Bathroom. What is sufficiently clear, and what in fact did happen, was that the 1st defendant became aware that there was a water seepage issue.
+38. The fact that the 1st defendant was aware of the water seepage issue is evident from the letters it had sent to the 2nd defendant and purportedly to the Management Office. In the letter from the 1st defendant's solicitors to the 2nd defendant's solicitors dated 18 December 2008 it states that the 1st defendant was "informed by the owner of [Flat 41A]  that there was an water leakage problem happened at the property". And in the letter from 1st defendant's solicitors purportedly to the Management Office dated 18 December 2008, it states that "the owner of [Flat 41A]  lodged a complaint of water leakage problem was happened at the above property ". In these letters, there was no reference to any particular toilet. The 1st defendant clearly had notice of a water leakage problem.
+
+Nuisance notice to the 2nd defendant
+
+39. A Nuisance Notice was issued by the BD Joint Office to the 2nd defendant on 6 January 2009. Madam Ko's evidence in relation to the nuisance notice was that she does not remember receiving it but said "theoretically" the 2nd defendant should have received it.
+40. The Nuisance Notice clearly informed the 2nd defendant that the basis of the nuisance was water seepage through the floor slab of the Master Bathroom of Flat 42A and required the 2nd defendant to repair and maintain satisfactorily the floor slab. The notice required the 2nd defendant to make repairs within 14 days.
+41. It is fair to say that the 2nd defendant ignored this notice.
+
+ENI inspection in February 2009
+
+42. An ENI visited the Master Bathroom of Flat 41A on 13 February 2009. The reading of moisture content indicated that the seepage nuisance still existed.
+
+Joint inspection by the plaintiff and the 1st defendant in February 2009
+
+43. During cross-examination by the plaintiff, Mr Yip said that in around mid-February 2009 the Management Office contacted Mr Yip in relation to the water seepage problem in Flat 41A and arranged for a site inspection on 21 February 2009.
+44. During the site inspection, Mr Yip was shown the Master Bathroom. During cross-examination, Mr Yip said he saw pipes. This is consistent with Mr Koo's evidence that when Mr Yip visited the Master Bathroom, Mr Koo removed the panel of false ceiling to show him the affected areas. Mr Yip also said that Mr Koo pointed to a number of places.
+45. Mr Yip, however, maintained in his evidence that he did not see any water seepage during the site visit. When asked if he saw that the ceiling was wet, Mr Yip was evasive and said he did not know what wet means and he was not an expert. His evidence that there was no visible water seepage is contrary to the contemporaneous documents, and I have no hesitation in rejecting the same.
+46. In particular, the Management Office also had a representative present at the time of the inspection and photographs were taken. Although the photographs in the trial bundle are not very clear, the Management Office's description of the photographs was that "water droplets hanging on the ceiling of master bathroom of [Flat 41A] on 21 February 2009". This is a strong indication that there were visible "droplets" at the time of inspection. This is also consistent with the ENI inspection on 13 February 2009 (a week before) noting that water seepage continued.
+47. Mr Koo's evidence is that at the site inspection, Mr Yip informed him that the 1st defendant would conduct repair works at Flat 42A and would inform the progress of the repair works and also invited the plaintiff to send quotations of repair works of the Master Bathroom and the Guest Bathroom. Mr Yip, however, during cross-examination, denies that he informed Mr Koo that he would update Mr Koo on the progress of the works on Flat 42A and the invitation to Mr Koo for quotation of repair works at Flat 41A. However, Mr Yip's evidence is again not consistent with the contemporaneous documents, and I reject the same.
+48. In a letter from the plaintiff's solicitors to the 1st defendant dated 23 February 2009 (two days after the inspection), its stated the following:- 
+
+(1) that the plaintiff and the 1st defendant together with the 1st defendant's contractor and a representative from the Management Office attended Flat 41A in the morning of 21 February 2009;
+
+(2) during the inspection, the 1st defendant informed the plaintiff that it would soon conduct repair works in Flat 42A;
+
+(3) the plaintiff requested to be informed as soon as the repair works is completed so that the plaintiff can start its own repair works;
+
+(4) the plaintiff informed the 1st defendant that the plaintiff will be sending quotations of the repairs for the toilets of Flat 41A as soon as the repair works at Flat 42A is done; and
+
+(5) in relation to the amount of damages, the plaintiff invited the 1st defendant to provide the plaintiff with a mobile number so that the party can deal with this directly.
+
+
+49. Had Mr Yip not informed Mr Koo that he would update Mr Koo on the progress of the works at Flat 42A and invited Mr Koo to send him quotation of repair works at Flat 41A, the plaintiff's solicitors would not have issued such a letter so soon after the inspection. It is also noteworthy that there was no response by the 1st defendant to this letter until 20 April 2009, about two months later. It can be inferred that at the time of receiving this letter, the 1st defendant did not strongly object to the contents, otherwise an immediate denial would have been forthcoming.
+50. Again, on 9 March 2009, the plaintiff's solicitors wrote to the 1st defendant following up on the matters in its previous letter dated 23 February 2009. Again, there was no immediate response from the 1st defendant.
+51. And again on 27 March 2009, the plaintiff wrote to the defendant stating the following:- 
+
+(1) the plaintiff is aware that the 1st defendant has commenced repair works at Flat 42A;
+
+(2) the plaintiff invited the 1st defendant to inform it when the renovation works would be completed so that the plaintiff could begin renovation works on the two toilets at Flat 42A;
+
+(3) the plaintiff enclosed two quotations and invited the 1st defendant to let it know if it has any objections;
+
+(4) since the renovation works at Flat 41A would render both toilets unusable, the occupants would have to move out from the property and seek alternative accommodation;
+
+(5) the plaintiff identified the scope of relief it intended the 1st defendant to pay for; and
+
+(6) the plaintiff informed the 1st defendant that it was looking forward to hearing from the 1st defendant in relation to the two quotes.
+
+
+52. Had Mr Yip not said what he did to Mr Koo during the inspection, it is very unlikely that the plaintiff's solicitors and the plaintiff would issue the above letters and in particular invites the 1st defendant to make comments on the quotation for the repair works at Flat 41A.
+53. In the circumstances, I agree with Mr D'souza that Mr Koo's evidence that Mr Yip informed Mr Koo that he would update Mr Koo on the progress of the works at Flat 42A and invited Mr Koo to send him quotation of repair works at Flat 41A is much more consistent with the contemporaneous documents.
+
+Nuisance Notice to the 1st defendant
+
+54. On 27 February 2009, the BD Joint Office issued a Nuisance Notice to the 1st defendant. The Nuisance Notice was both in English and in Chinese.
+55. The Nuisance Notice clearly informed the 1st defendant that the basis of the nuisance was water seepage through the floor slab of the Master Bathroom of Flat 42A and required the 1st defendant to repair and maintain satisfactorily the floor slab. The notice required the 1st defendant to make repairs within 14 days.
+56. During cross-examination by the plaintiff, Mr Yip agreed that he would have received the Nuisance Notice within a few days after 27 February 2009 (when the notice was issued). Mr Yip further gave evidence at follows:- 
+
+(1) he agreed that the Nuisance Notice required the 1st defendant to abate the nuisance by repairing and maintaining satisfactorily the floor slab of the Master Bathroom of Flat 42A;
+
+(2) he agreed that the notice required the 1st defendant to fix the problem within 14 days;
+
+(3) when asked if his contractor did as the Nuisance Notice stated, Mr Yip said he did not know if the 1st defendant's contractor fixed the floor slab part;
+
+(4) he agreed that he did not give the Nuisance Notice to his contractor;
+
+(5) when asked to confirm that in his evidence-in-chief he had said his contractor did not renovate the floor of the master bathroom, Mr Yip avoided the question by saying that it was for the contractor to decide which parts should be repaired;
+
+(6) he said that he had told his contractor to fix the matter of the complaint made by Flat 41A but did not mention the Nuisance Notice specifically; and
+
+(7) he agreed that the contractor during the renovations in March 2009 did not change the bathtub or the toilet.
+
+
+57. In the circumstances, the 1st defendant cannot dispute that by around 27 February 2009:- 
+
+(1) the 1st defendant was well aware of the water seepage problem;
+
+(2) the 1st defendant knew exactly what the source of the water seepage was (ie seepage through the floor slab of the Master Bathroom of Flat 42A); and
+
+(3) the 1st defendant knew exactly how to remedy or repair the problem or abate the nuisance (by repairing and maintaining satisfactorily proper water-proofing material to the floor slab of the Master Bathroom).
+
+
+58. Despite the aforesaid, the 1st defendant merely gave general instructions to its contractors to deal with the water complaint from Flat 41A. The 1st defendant did not give its contractors the Nuisance Notice or, it seems, the information contained in the Nuisance Notice. The contractors would not have known what the cause of the water seepage problem was and would not have been able to remedy it. The renovation works included other general works like lighting, windows, cabinets, doors etc. However, no work was done to the floor slab of the Master Bathroom of Flat 42A. It is also not the 1st defendant's case that there was in fact any work specifically done in relation to the floor slab in March 2009.
+59. Hence, the water proofing material at the floor slab of Flat 42A was not repaired and the seepage problem was not resolved.
+
+ENI inspection in April 2009
+
+60. It is the 1st defendant's evidence that the tenant at Flat 42A left in around the end of February 2009. It is also the 1st defendant's evidence that the renovation work at Flat 42A were carried out in March 2009 and lasted about 1½ to 2 months. The 1st defendant's evidence is quite clear that during the "period from end-February 2009 to 1 September 2009, [Flat 42A] was unoccupied or used ".
+61. The evidence shows that the floor slab of Flat 42A was not repaired. On the other hand, the 1st defendant's evidence was also that Flat 42A was unused for about six months. It is hence not surprising at all that when the ENI went to measure the moisture content on 20 April 2009, the reading was below 35.
+62. I accept that this did not mean that the water seepage was remedied. It only meant that the seepage was drying as a result of non-use of the Master Bathroom at Flat 42A.
+
+P’s Expert Report
+
+63. P's Expert produced a report on 5 October 2009.
+64. P's expert's expertise is not challenged by the 1st defendant or the 2nd defendant. P's Expert compiled his report based on the following methodology:- 
+
+(1) discussion with the occupant in relation to date of discovery, the seepage areas, frequency and other observations;
+
+(2) conducting visual and physical contact inspection of the water seepage areas; and
+
+(3) carrying out infra-red scanning tests.
+
+
+65. P's Expert carried out the inspection on 16 September 2009. This date is important as the evidence now shows that the toilet of the Master Bathroom at Flat 42A had been recently reused by its new tenant (who moved in on 1 September 2009) after being unused for about six months.
+66. In relation to the source of water seepage, P's Expert identified that the possible cause was likely to be: (i) the deteriorated water-proofing layer of the floor slab at Flat 42A where "water seeped and flowed to the lower floor via the weak points inside the concrete slab when water was trapped and accumulated in the floor slab. It is also one of the possible sources that caused the persistent wetness inside the wall of the bathroom"; and (ii) poor workmanship where "in view of the persistent dampness at the corner areas of the marble walls near the bathtub in [the Master Bathroom], sub-standard repair works may be a cause for the continuous water leakage".
+67. P's Expert considered other possible sources and came to the conclusion that defective water supply, water seepage from external wall and water seepage from adjoining units were not the likely cause of water seepage to the Master Bathroom.
+68. P's Expert, during his evidence, explained that the brown marks at the ceiling visible in the photograph at page 378 of the trial bundle were rust marks which resulted from the expansion of steel bars within the concrete slab due to long term water seepage. On the other hand, D1's Expert says in his evidence, for the first time, that these brown marks are likely to be remains from the wood formwork used during the construction of the building. However, apart from the fact that D1's Expert never conducted any inspection, his theory does not sit well with the other evidence. The same brown marks are not visible at the ceiling of the Guest Bathroom (see: photograph at page 379 of the trial bundle). D1's Expert's attempt to give an explanation by saying that a different wood formwork would have been used is not convincing. P's Expert further explained that the brown marks on the top of the false ceiling visible in the photograph at page 378 of the trial bundle were also rust marks which resulted from long terms exposure to water. D1's Expert simply says that these brown marks are likely to be dirt marks or remains of the wood formwork that have fallen onto the false ceiling from the ceiling. Again, this explanation by D1's Expert is unlikely to be true. If such marks were dirt marks, it is likely that similar brown marks would be found on top of the false ceiling at the Guest Bathroom. However, as can be seen in photograph No 2G at page 370 of the trial bundle, apart from the corrosion marks there are no similar dirt marks like those found at the Master Bathroom.
+69. In relation to the brown marks visible at the marble wall which can be seen in the photograph at page 367 of the trial bundle, P's Expert says that these marks are rust marks and are a result of water trapped inside the wall. However D1's Expert disagrees and says the marks are likely to be caused by the normal use of the Master Bathroom caused by soap, detergent or other impurities. D1's Expert explained that normal use meant someone standing in the bathtub to take a shower everyday. Again, I agree with the plaintiff's counsel that the explanation by D1's Expert is unlikely to be true, as the bathtub was seldom used.
+70. Mr Koo in his evidence mentioned on at least two occasions during cross-examination that the bathtub was rarely used. I accept Mr Koo's evidence. As a matter of common sense, if there is a separate shower cubicle, it is very seldom that people would use the bathtub for showers. The fact that there exists a shower cubicle was confirmed by D1's Expert identifying the box below the bathtub in the plan at page 380 of the trial bundle. Further, it can be noted that the bottom photograph at page 346 of the trial bundle shows a shower cubicle at the Master Bathroom of Flat 41A.
+71. Returning to P's Expert report, P's expert gave evidence that the green patches of the infra-red diagrams at pages 377 and 378 of the trial bundle are indicative of moisture in the walls. This is consistent with P's Expert's explanation on why there are rust marks on the marble walls below. However, D1's Expert challenged the infra-red test saying that it only measures temperature difference and not water moisture. This is despite the fact that in his own report, D1's Expert says that infra-red test is a common method for water seepage survey. It should further be noted that D1's Expert never conducted a site visit and do not have the benefit of examining the wall like P's Expert was able to. Further, I agree with the plaintiff's counsel that D1's Expert's explanation for lack of moisture is also contradicted by subsequent events, namely: (i) when water marks were noted at the ceiling on 20 January 2010 by the BD Joint Office (see: page 332 of the trial bundle); and (ii) when ENI conducted the moisture content test on 20 January 2010 the reading was greater than 35 (see: page 726 of the trial bundle).
+72. All in all, I prefer the expert opinion of P's Expert over the opinion of D's Expert. It is quite clear, with an overview of the evidence before the court, that the water seepage at the floor slab was never repaired (until December 2010) and hence there was continuous seepage. The logical reason why this was not so apparent during the inspection on 16 September 2009 by P's Expert was probably because the Master Bathroom at Flat 42A was only recently being used again and the seepage would not have been as serious as it was subsequently in January 2010.
+
+Further complaints of continuing seepage
+
+73. Mr Koo decided to initiate renovation works in January 2010 at the toilets of Flat 41A. On 7 January 2010, the plaintiff's solicitors wrote to the BD Joint Office to inform them that during the repair works by the plaintiff's contractors at Flat 41A, the plaintiff's contractors detected that the water seepage was existing or continued to exist and the seepage rendered the plaintiff's contractors difficulty in carrying out the repair works unless proper repair works is done at Flat 42A to rectify all defects.
+74. On 11 January 2010, the plaintiff's solicitors wrote to the 1st defendant's solicitors informing them that the plaintiff's contractors noticed seepage caused by Flat 42A and that it was difficult to carry out remedial works. The plaintiff's solicitors also raised the issue of the plastic tray as being unauthorized structure and that it had not been removed.
+75. On 18 January 2010, the plaintiff's solicitors again wrote to the BD Joint Office informing them that the fresh or continuing seepage appears to be coming from unauthorized structures installed by the owner of Flat 42A.
+76. As a result of the plaintiff's letter dated 18 January 2010, the BD Joint Office referred the case of the unauthorized structure to the Buildings Department ("BD") on 29 January 2010.
+77. It is Mr Koo's evidence, which I accept, that during the repair works at Flat 41A, water was found continuously dripping from the plastic tray. To temporarily resolve the matter, a plastic bag was placed underneath and since then Mr Koo had to remove the water from the plastic bag regularly once every one to two weeks.
+
+BD Report
+
+78. On 9 February 2010, BD conducted an inspection at Flat 41A and later produced a report (the "BD report").
+79. In the BD report, photo 1 at page 331 of the trial bundle identifies the plastic tray. Photo 3 at page 332 of the trial bundle identifies the wet water marks at the ceiling of the Master Bathroom at Flat 41A. Photo Nos 03 and 04 at page 334 of the trial bundle show the plastic bag referred to in Mr Koo's evidence containing water.
+80. The conclusion of the BD report was that an advisory letter should be issued to the owner of Flat 42A. However, this advisory letter has not been disclosed by the 1st defendant.
+81. It would be useful at this juncture to examine why there was water leakage from the plastic tray. The plastic tray was to collect water at the ceiling of the Master Bathroom at Flat 41A that seeped through the floor slab of the Master Bathroom of Flat 42A. I agree with Mr D'souza that as a matter of logic, the fact that the plastic tray itself was leaking water necessarily meant that water was collected by the plastic tray at the ceiling and that water continued to seep through the floor slab of the Master Bathroom at Flat 42A. Otherwise, there would not have been water at the plastic tray for leakage to occur at all. Hence, this further indicates that water seepage continued until January 2010.
+
+Order from BD
+
+82. On 27 July 2010, a building order was issued by the Building Authority to the 1st defendant pursuant to Section 28(3) of the Buildings Ordinance, Cap 123 (the "BD order"). Pursuant to the BD order, the 1st defendant was required to investigate, repair and renew the defective soil or waste pipes at the master toilet at Flat 42A.
+
+Another leakage from drainage pipe of Master Bathroom
+
+83. On 3 August 2010, the plaintiff's solicitors wrote to the BD Joint Office stating that there was seepage from two pipes at the Master Bathroom of Flat 42A. The plaintiff demanded that the 1st defendant should deal with repairing these pipes immediately.
+84. It is Mr Koo's evidence that a plastic container was placed below the pipes to hold the water that seeped through the drainage pipes and that the water from the container had to be removed once every one to two weeks.
+85. Inspection and tests were conducted by the BD Joint Office on or about 17 August 2010. By way of a letter dated 27 September 2010, the BD Joint Office confirmed that the seepage was caused by defective and damaged drainage pipes connecting from the Master Bathroom of Flat 42A and that the 1st defendant was under a statutory obligation to carry out the necessary repair works to rectify the defect.
+
+December 2010 repair works
+
+86. It is Mr Koo's evidence that the contractors appointed by the 1st defendant eventually came to fix all the defective and damaged pipes at Flat 41A starting from around 6 December 2010 and the works lasted about five to six days.
+87. It emerged during trial that around this time, extensive work was also done at the Master Bathroom of Flat 42A.
+88. During cross-examination by the plaintiff, Madam Ye, the current tenant of Flat 42A, gave some very helpful evidence. She said that there was renovation works at the Master Bathroom of Flat 42A which lasted for about one month and was paid for by the 1st defendant. She could not use the Master Bathroom and understood that the reason why there was repair works was because the lower property complained of water seepage and the contractors were doing water-proofing works. Madam Ye said the works included the removal of the floor slab and also included a water testing for two days.
+89. Apparently, up until trial, the plaintiff was never informed that repair works had been done in relation to water-proofing works. In his written Closing Submissions, Mr D'souza made clear that now that repair works had been done to the floor slab of the Master Bathroom at Flat 42A, the plaintiff is satisfied that the water seepage is remedied. On this basis, the plaintiff is no longer claiming for any injunctive relief or order for disclosure of documents.
+
+Conclusion on liability
+
+90. It is trite that water seepage is a form of nuisance. However, it is not uncommon for water seepage to occur in multi-storey buildings in Hong Kong. There can be many different causes of water seepage. There is no presumption that water must necessarily leak from the flat above to the flat below.
+91. In the present case, it is for the plaintiff to prove that water leaked from Flat 42A in order to succeed in its claim against the 1st and 2nd defendants. In particular, there is no burden on the defendants to prove that water leaked from a source other than Flat 42A.
+92. The evidence set out above shows that the source of the water seepage is the defective water-proofing material at the floor slab of the Master Bathroom at Flat 42A. This defect was identified on 31 October 2008 and I hold that it was not repaired until December 2010. Throughout this period, the plaintiff continued to complain of water seepage, and the evidence does show that there was continuous seepage (the different moisture content readings taken at different points in time, and the obvious water dripping from the plastic tray). The plaintiff has a clear case of continuing nuisance in respect of the MB floor slab problem against the owner of Flat 42A.
+93. In relation to the 2nd defendant, although the 2nd defendant was generally responsive to the complaints of the plaintiff, its purported repair works were simply insufficient. The 2nd defendant simply asked its contractors to fix up to make sure that there was no more leakage. However, by late October or early November 2008, the 2nd defendant would have been notified (by the BD Joint Office or Mr Koo) that the source of the seepage was the defective water-proofing material at the floor slab of the Master Bathroom at Flat 42A, and the 2nd defendant did nothing about it.
+94. By November 2008, after the plaintiff's further complaints, the 2nd defendant knew that whatever works previously done to repair the Master Bathroom at Flat 42A was not effective as water seepage continued. The 2nd defendant should have caused further repair works to be done, but rather chose only to install the plastic tray to temporarily divert the water to buy some time for it to sell the property away.
+95. The 2nd defendant did not take reasonable steps to abate the nuisance as it had failed to repair the source of water leakage (or investigate the source of water seepage when it was quite clear the seepage was from Flat 42A). As a result, the nuisance existed and continued. I agree that the 2nd defendant should be liable to the plaintiff for damages so caused.
+96. In relation to the 1st defendant, as stated in paragraph 38 above, as early as 18 December 2008 the 1st defendant was aware of the water seepage problem. By mid-February 2008 (during inspection), Mr Yip of the 1st defendant saw for himself the water seepage problem. The Nuisance Notice on 27 February 2009 made it abundantly clear to the 1st defendant that there was a nuisance, the source of the nuisance, and the manner in which the 1st defendant was to abate the nuisance. The 1st defendant did nothing about the Nuisance Notice and assumed that its contractors will deal with it (without informing them of the Nuisance Notice). The 1st defendant was fully aware that the plaintiff was consistently complaining of water seepage, and did nothing about it. It should have been clear to the 1st defendant, by January 2010 at the latest (when the ENI visited again), that the repair works purportedly done by its contractors in March 2009 in relation to water seepage was ineffective. Yet, the 1st defendant did nothing about this until December 2010. The 1st defendant prolonged the period of the nuisance for two full years.
+97. I agree with the plaintiff's counsel that the 1st defendant should have taken reasonable steps to abate the nuisance as soon as it had received the Nuisance Notice in February 2009 or at the very least in January 2010 when further seepage was recorded. The 1st defendant did not take these reasonable steps. As a result of this, the nuisance existed and continued. The 1st defendant should be liable to the plaintiff for the damages so caused.
+98. As stated above, the plaintiff is no longer seeking injunctive relief or an order for production of documents to satisfy the plaintiff of the repair works done in December 2010.
+99. I hold that the 1st defendant and the 2nd defendant are liable to the plaintiff jointly and severally for the MB floor slab problem as they are joint-tortfeasors. As for the GB problem, as stated in paragraph 35 above, I hold that the 2nd defendant is solely liable, as the damage to the Guest Bathroom of Flat 41A was done before 1st defendant became the owner of Flat 42A.
+
+QUANTUM
+Cost of repair at Flat 41A - HK$168,900 claimed by the plaintiff
+
+100. The sum of HK$168,900 was spent by the plaintiff for its repair works done to Flat 41A in January 2010. The quotation for the repair works was present as early as July 2008, with subsequent minor changes which resulted in the invoice at page 438 of the trial bundle.
+101. The 1st defendant attempted at trial to challenge the reasonableness of the repair works. However:- 
+
+(1) Mr Koo's evidence was quite clear that the repair works were not to enable the plaintiff to have a new toilet but to replace the damaged areas. Mr Koo's evidence was that it was not possible just to change one marble tile or one panel of the false ceiling, the whole thing had to be changed. I accept that such an explanation is reasonable; and
+
+(2) Further, P's Expert was of view that the expenses incurred were suitable expenses for repairing the damage of a luxurious property like that of Flat 41A.
+
+
+102. Further, unlike cases where the court has to estimate how much future repair works would cost, in this case we already have the amount spent available. I agree that, in the circumstances, the amount spent on the repair works is reasonable and was a result of the damage caused by the seepage. I hold that this head of claim should be allowed in full.
+103. As to the apportionment between the damage caused by the MB floor slab problem and the GB problem, after perusing the invoice at page 438 of the trial bundle, it seems that only item Nos 7, 8 and 9 thereof (totalling HK$29,500) are referable to the Guest Bathroom. Doing the best I can, I would apportion the sum of HK$14,500 to the Guest Bathroom and the sum of HK$154,400 to the Master Bathroom.
+104. In respect of the damages for the MB floor slab problem, the plaintiff should give credit of HK$70,000 from the settlement agreement previously paid to it by the 2nd defendant.
+
+Rental of alternative accommodation and associated expenses - HK$63,947 claimed by the plaintiff
+
+105. Mr Koo gave evidence that since both toilets were being repaired in January 2010, the occupants of Flat 41A would have to move out while repair works were conducted. It is submitted by the plaintiff that it was reasonable for the occupants to move out.
+106. I agree with Mr Vincent Lung, counsel acting for the 1st defendant, that the plaintiff's claim for rental of alternative accommodation is fraught with difficulties:- 
+
+(1) it transpired that the alternative accommodation (the "Belchers Premises") was owned by one Keyik Limited ("Keyik"), which is a family company owned and controlled by Mr Koo, his wife and daughters;
+
+(2) the original tenant of the Belchers Premises moved out in late December 2009, and Keyik sold the Belchers Premises in February 2010; and
+
+(3) it is natural that Mr Koo and his family wanted to utilize the empty "family flat" in the interim while renovation work was carried out at Flat 41A, and they moved into the Belchers Premises on 1 January 2010 until 10 February 2010. However, Mr Koo's assertion, that his family could no long tolerate the conditions of the 2 bathrooms by December 2009 which forced them to move out, cannot be seriously entertained.
+
+
+107. The 1st defendant has no complaints about the Koo family moving into the Belchers Premises which for all purposes was their property. Rather, the point is that the plaintiff cannot claim any hypothetical loss of rental income that would have been made by Keyik. First, that is Keyik's claim, not the plaintiff's. Secondly, there is no evidence of any actual rental payment from the plaintiff to Keyik. Lastly, it is most likely that the Belchers Premises would be left vacant pending completion in any event, and there is no loss even on the part of Keyik.
+108. Mr Lung went on to submit that the same can be said of the new mattresses and curtains. If the plaintiff is now able to recover such cost from the 1st or the 2nd defendant, Keyik would have been unjustly enriched.
+109. A more fundamental point, so say Mr Lung, is: why was it necessary for the Koo family to move out when the renovation works were carried out? The Guest Bathroom could still be used, for there is no urgency to replace the false ceiling. It can also be noted that the Koo family did not feel the need to move out in December 2010, when renovation works were carried out by the 1st defendant.
+110. In the circumstances, I agree with the defendants' submissions that the court should not allow this head of claim.
+
+Damages for loss of amenity, distress and inconvenience caused
+
+111. Both the plaintiff and the 1st defendant agree that there is no scientific way of translating inconvenience and discomfort into a sum of money.
+112. In John So v Lau Hon Man CACV 110/1993 
+(Judgment dated 5 October 1993), the court allowed HK$10,000 for water leakage for the period of 1.5 months.
+113. In Chan Fei Lung v Mansion Products Limited HCA 336/1990 
+(Judgment dated 22 June 1990), HK$25,000 was awarded as damages for nuisance for a period of 2 months.
+114. In Wong Hong Hung v Jolly Birds Limited DCCJ 5341/2006 
+(Judgment dated 24 June 2008), HK$50,000 was awarded as damages for water seepage nuisance that lasted for a little over one year.
+115. In Leung Yung Chun v Chan Wing Sang [2000] 1 HKLRD 456 
+, Cheung J (as he then was) considered, inter alia, the fact that the family moved into a newly built flat, how the occupants had to take shifts to replace wet cloths, the family was unable to use the air-conditioner, family embarrassed by the state of the premises that they never invited guests, and the defendant's unreasonable behavior. The learned judge awarded HK$80,000 under this head of claim.
+116. In the present case, I am of the view that HK$60,000 is an appropriate award under this head of claim. Although the seepage problem had lasted for over two years, there was an extended period during which Flat 42A was left vacant.
+
+CONTRIBUTION PROCEEDINGS
+
+117. In the contribution proceedings, the 1st defendant seeks contribution or an indemnity from the 2nd defendant.
+118. The basis for contribution or indemnity is premised upon negligence and/or breach of DMC and/or breach of statutory duties under the Buildings Ordinance on the part of the 2nd defendant in creating the nuisance or otherwise allowing the nuisance to continue.
+119. The 2nd defendant relies on the "as is" clause, and asserts that the 1st defendant accepted the title to Flat 42A when it decided to complete the sale and purchase.
+120. The only contentious issue of fact between the 1st and 2nd defendants is whether the 2nd defendant informed the 1st defendant of the seepage problem on or about 19 December 2008 as claimed by the 2nd defendant (whether through the estate agent or otherwise). In his written Closing Submissions, Mr Lung urged the court to place weight on the letter from the 2nd defendant to the 1st defendant dated 19 December 2008 (page 581 of the trial bundle). If Madam Ko on behalf of the 2nd defendant had informed the 1st defendant of the seepage problem, it would be curious that the letter contained a straight denial and made no mention of such telephone conversation. Indeed, the tone of letter suggests that the parties were merely communicating through solicitors. I agree.
+121. As to the amount of contribution, Mr Lung submitted and I accept that an apportionment based on time (ie the duration for which each of the 1st defendant and the 2nd defendant was responsible for the nuisance) is the most equitable way of addressing the issue. On my finding, the water seepage nuisance at Flat 41A lasted between June 2008 and December 2010 (ie some 30 months). The 2nd defendant was responsible for the period between June 2008 and December 2008, when Flat 42A was assigned to the 1st defendant (ie about 6 months). In the circumstances, I hold that the 2nd defendant should contribute 20% in respect of the plaintiff's claim against the 1st defendant herein.
+
+ORDER
+
+122. To sum up, I give judgment in favour of the plaintiff for the following orders:- 
+
+(1) In respect of the GB problem, the 2nd defendant do pay to the plaintiff damages in the sum of HK$14,500; and
+
+(2) In respect of the MB floor slab problem, the 1st and 2nd defendants do pay to the plaintiff damages in the sum of HK$144,400 (ie HK$154,400 plus HK$60,000 less HK$70,000).
+
+
+123. As between the 1st defendant and the 2nd defendant, regarding the MB floor slab problem, the 2nd defendant should contribute to the extent of 20% in respect of the plaintiff's claim against the 1st defendant.
+124. Interest is awarded on the said sums ordered in favour of the plaintiff at the Judgment Rate from the date of the Writ until full payment.
+125. Costs should follow the event. Accordingly, the plaintiff shall have the costs of this action against the 1st and 2nd defendants, including any costs reserved (if any). The 1st defendant shall have the costs of the contribution proceedings against the 2nd defendant, including any costs reserved (if any). All such costs shall be taxed, if not agreed, with certificate for counsel.
+126. The above orders as to costs are nisi and shall become absolute in the absence of any application within 14 days to vary the same.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

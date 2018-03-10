@@ -1,0 +1,140 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IPRequest made on : Friday, 09 March, 2018 at 23:46 HKT  Client ID : ChineseU_WLA-1Title : Ranjit-Singh v U - Win Construction & Engineering Co LtdDelivery selection : Current DocumentNumber of documents delivered : 1
+Ranjit-Singh v U - Win Construction & Engineering Co Ltd
+
+
+
+2 February 2018
+Court of First Instance
+CFI
+Personal Injuries Action No 667 of 2016
+HCPI 667/2016
+
+Citations:[2018] HKEC 189 English JudgmentPresiding Judges: Deputy Judge BurrellPhrases: Tort - negligence - employer's liability - liability to employees - employee injured in course of work - whether accident occurred as alleged Damages (Personal   injuries or death) - shoulders - dislocation of his right shoulder - 25-year-old male general labourerCounsel in the Case: Mr Meyrick W K Wong, instructed by Or & Partners, assigned by Director of Legal Aid, for the plaintiffMr Victor Gidwani, and Mr Joseph C S Ng, instructed by Paul C K Tang & Chiu, for the 1st and 2nd defendantsCase cited in the judgment: Lau Kwok Chiu v Senfield Ltd (HCPI 245/2006, [2007] HKEC 419)  
+JUDGMENT: 
+Deputy Judge Burrell
+1. In this action the plaintiff claims damages for personal injuries sustained in the course of his employment with the 1st defendant (the 2nd defendant being the main contractor) as a general labourer on a construction site in Tai Po, New Territories. It is alleged that the injuries were caused by an accident when the plaintiff fell from scaffolding which occurred because of the defendants' negligence, breach of employment contract, breach of duty of care and statutory obligations. The plaintiff's fall was a little over two metres to the ground. The most serious of his injuries was the dislocation of his right shoulder.
+2. In a nutshell, the defence is that the plaintiff's version of how and why he fell and dislocated his shoulder is false, a fabricated account. The only witness at trial to the actual fall was the plaintiff himself. His evidence is that he was in the process of assisting in the dismantling of a working platform made from metal scaffolding tubes and wooden planks when he fell. He had been asked to do this work by his foreman and he had been similarly asked on previous occasions. The defendants however submit that, as a general labourer, he was not qualified to assist in scaffolding work, he would not have been and had not been asked to do such work by his supervisor on this or any previous occasion and however he came to injure his shoulder that day, it was not in the course of scaffold dismantling. In response, the plaintiff submits that the denial of any liability is an attempt to resist any finding which would show the defendants to have caused or permitted a general labourer to carry out skilled work which he was not qualified to do.
+3. In the absence of any direct evidence of the accident itself, the defendants rely on evidence from the plaintiff's foreman who says he did not and had not asked the plaintiff to assist in the dismantling work and on a site diary which, they submit, supports the argument that the plaintiff could not have been doing dismantling work at the place or at the time when he says he fell. It is argued therefore that he must have dislocated his shoulder in some other way and has invented his account in order to claim damages.
+
+THE SITE
+
+4. The work being carried out was slope landslip prevention. The slope in question was in Tai Po. It was approximately 100 metres in length. The drop from top to bottom was about 10 metres at an angle of about 45 degrees. (These dimensions are taken from the site plan.)
+5. In order to strengthen the slope "soil nails" were being drilled into the slope. The project required about 170 nails to be drilled in total over the entire slope in six equidistant rows, marked rows A to F, A being the row at the top of the slope and F at the bottom.
+6. The preparatory work involved covering the entire slope with scaffolding. It should be noted at the outset that this is not the scaffolding with which this case is concerned. This scaffolding was a permanent feature of the site once installed ("base scaffolding").
+7. On top of the base scaffolding working platforms were constructed. Such platforms were constructed out of scaffolding tubes and wooden planks. They were constructed at a level where drilling work was being carried out at a particular row of soil nails. When the work moved to a different row the working platform could be dismantled and re-erected at a different level. The plaintiff's claim is that he was helping to dismantle a platform which had been erected on a row near the bottom of the slope. The scaffold tube on which he was standing was part of the platform structure and was secure. However the scaffold tube he held onto with his hand became loose which caused him to lose his balance and fall to the ground below.
+
+PLEADINGS
+
+8. The plaintiff was 25 at the time of the accident. He had been employed by the 1st defendant for about 14 months prior to the accident as a general labourer. The statement of claim pleads 13 particulars of negligence and 15 breaches of statutory duty.
+9. The breaches of statutory duty are of sections 6A of the Factories and Industrial Undertakings Ordinance (Cap 59); regulations 38A, 38AA, 38E, 38H and 52 of the Construction Sites (Safety) Regulations (Cap 59I); section 12 of the Occupational Safety and Health Ordinance (Cap 509) and regulations 24, 25, 27, 28, 29, 30 and 31 of the Occupational Safety and Health Regulations (Cap 509A).
+10. It is unnecessary to set out these sections and regulations in this decision for two reasons. First, they are fully set out in the statement of claim and secondly, if the plaintiff's version of the accident is accepted either wholly or substantially, a finding of negligence against the defendants is bound to follow. In summary, the basis of such negligence would be causing or permitting the plaintiff to carry out tasks which he was neither skilled nor qualified to do and causing or permitting him to work in an unsafe place of work, for him, and an unsafe system of work, for him.
+11. I turn therefore to my analysis of the evidence and to my findings on that evidence upon which my decision is based.
+
+EVIDENCE
+
+12. It is the defendants' submission that the plaintiff's version of how he fell is a lie. Almost every aspect of the plaintiff's case, both as to liability and quantum, has been challenged. The main thrust of the challenge is against the plaintiff's evidence that, at the time he fell, he was assisting in dismantling scaffolding, which he was not qualified to do and had not been asked to do.
+13. In short, the plaintiff stated that he was assisting to dismantle a working platform. The wooden planks had been uplifted and he was moving from one end of the platform to the other walking along a secure length of scaffolding metal tube. He was holding on to a similar tube, at about waist height, which had been unbolted behind him. This tube, on which he was dependant to maintain his balance, became wobbly as a result of being insecure at the end ahead of him which caused him to lose his balance and fall.
+14. The plaintiff was carefully cross examined. The defendants submit that certain entries in the site diary adequately support their contention that the plaintiff has failed to prove on a balance of probabilities that his version is true and accurate, or substantially so. The plaintiff's credibility and reliability, he being the only witness at trial to the fall, is therefore crucial.
+15. For the reasons which follow I am satisfied that the plaintiff's version is substantially correct and reliable. I am satisfied that at the material time a working platform was being dismantled so that it could be moved somewhere else. I am satisfied that he was assisting in this task. It is not necessary to determine the extent of his assistance. I am satisfied that he had assisted in this sort of work before. Whether his assistance amounted to the unbolting of the metal tubes or merely the carrying of loose tubes from A to B is a moot point. It was telling in this regard that he said in evidence that he carried on his belt a "special tool" (otherwise called a spanner) to assist in this work.
+16. He gave his evidence clearly when describing his fall. His answers in cross examination, it seemed to me, were those of a man who was familiar with the particular task. He was not fabricating a story. He had been asked to assist (in the general sense). He was walking along a metal tube in excess of two metres above ground without a safety belt. The tube he was holding was insecure. He fell.
+
+THE SITE DIARY
+
+17. He was asked at which level ("A" being the top and "F" at the bottom) the platform was. The purpose of the question was to show that his version was inconsistent with the entries in the site diary for the day of the accident. The site diary is a daily précis of what was happening on site each day. The column relied on is headed "Brief description of activities." Each day there are two or three entries. On the day of the accident it states "(1) Erection of platform of row A. (2) Drilling holes of soil nails E21 - E26. (3) Fabrication of steel bars for grouting." If holes were being drilled at E21 it follows that there was a platform there.
+18. It would be unsafe in my judgment to treat these entries as the best evidence that no dismantling works were being carried out on the lower part of the slope at the material time. For the month of September, the diary has 16 daily entries relating to erection of working platforms but only two to the dismantling of platforms. There seems to be (by reference to the diary) no particular order in which the platforms were erected. Chronologically, A, F, B, D, F, and E are mentioned being erected; but only C (31 August and 2 September) and A (19 September) are mentioned as being dismantled. The platforms were clearly intended to be moveable. When asked which level he was on, the plaintiff (understandably and honestly in my judgment) gave answers such as "not sure which row, D, E or F  I am only a labourer", "maybe it was D or E, maybe they wanted to move the drilling machine." There clearly was a platform at Row E because it can be seen on photographs adduced in evidence. The site diary for September in its "brief description" does not refer to it being dismantled. On the other hand, platforms were erected at five different levels in September. The plaintiff explained that the materials from a dismantled platform would be used to erect a new platform at another location.
+19. To summarise, the site diary seems to be the sole weapon in the defendants' armoury. It only came to the plaintiff's notice after it was disclosed following a specific discovery application over four years after the accident. In my judgment it does not have the firepower relied on by the defence. For the above reasons and given the plaintiff's honest demeanour, it fails to erode the reliability of his evidence given in court.
+
+SUBSEQUENT MATTERS
+
+20. Contentious issues emerged in respect of a number of matters relating to post accident factors. I shall list them briefly and make such findings as I consider necessary: 
+
+(a) I accept that the time of the accidents was about 1:45 pm. I also accept the plaintiff's account that after fellow workers had come to his aid he was asked to sit in a van for over an hour before he was driven away from the site.
+(b) I accept that during this period three more senior personnel came to the site upon being made aware of the plaintiff's fall. These were safety officer (DW3) Mr Hui Yun Tim and two site agents Mr Wong and Mr Ng (neither gave witness statements).
+(c) Discussions took place the content of which the plaintiff cannot say because he was sitting alone in the van.
+(d) The plaintiff was then taken to a nearby "bonesetter" (more accurately described as a qualified Chinese medical practitioner). He was seen at 3:30 pm. I agree with Mr Meyrick Wong's observation (counsel for the plaintiff) that one would have expected, in normal circumstances, that the plaintiff would have been taken immediately to the A&E department of the Tai Po Government Hospital. The defence explanation that the "bonesetter" was nearer and that the plaintiff did not seem to be too badly injured is less than satisfactory. However it would be dangerous to speculate on the real reason for the delay.
+(e) The defendants did not report the accident to the Labour Department within 14 days, as required by the Employees Compensation Ordinance (Cap 282). The 2nd defendant received a letter from the Labour Department on 24 September asking why no "Form 2" notification had been submitted. Over two weeks later they replied saying that the injured worker had not made a report. The explanation given in evidence by DW3 was that they could not locate the plaintiff. In fact, the plaintiff had submitted his own "Form 2" to the Labour Department on 11 September. It stated " was dismantling some poles on my slope work in the course of which  fell down from a height of metres." Again, the reasons given for the delayed response by the defendants is less than satisfactory.
+(f) A very brief Accident Investigation Report was eventually prepared and dated 16 October, 6 weeks after the accident. Its author states that another employee, Mr M N Wong, had spoken to the plaintiff by phone and that he had said that he had been loading and unloading poles when he slipped on the ground and suffered injury. There was no other evidence of any other workers being interviewed or photographs being taken. It is a hearsay report of little weight and doubtful content, and again does nothing to erode the plaintiff's case.
+
+
+21. Taken cumulatively, the above matters plainly do not advance the defence case. On the contrary, the defence's challenge to the accuracy and veracity of the plaintiff's account of his fall is further weakened by their poor response both at the scene and in the weeks that followed.
+
+THE DEFENCE WITNESSES
+
+22. Before concluding my decision on liability, I shall comment briefly on the defence witnesses.
+23. DW1 was Mr Wong Hung Tak, a director of the 1st defendant. He candidly accepted that he had no personal knowledge of the incident, he had not been on site at the material time and he was relying on the site diary. His main purpose was to state that non-qualified labourers could not be permitted to do scaffolding work. He also stated that the site diary was a true record of the activities on site. In general terms he was not an impressive witness, often being vague and slow in his attempt to answer questions. He added little or no weight to the defence case and was fairly described by Mr Victor Gidwani, counsel for the defence, as "not our star witness".
+24. DW2 was the site supervisor, Mr Wong Hin Yu. He stated that he had not asked the plaintiff to help with the dismantling of the scaffolding and would never do so because of his lack of qualifications. He accepted that labourers might be required, when dismantling was being done, to "support the pipes and move them and the pipes would be placed on the ground." The distinction between assisting in the dismantling of scaffolding on the one hand and assisting the scaffolders when they were dismantling on the other hand was not clearly made. The former, it seems, meant that the labourer might unclamp the bolts, even though unqualified to do so. The latter meant giving assistance without unclamping such as simply carrying the poles. Such assistance was permissible. In view of my acceptance of the plaintiff's version of events, I find that once labourers were asked to assist the scaffolders, there was inadequate supervision to ensure that they did not undertake tasks which they were not qualified to do.
+25. The safety officer, Mr Hui Yun Tim was DW3. One criticism of his evidence merits comment. In his first statement he said "At about 3 pm on 6 September, I was working at the same construction site ." This suggests that on 6 September, he was the safety officer on site and implies that the incident occurred at about 3.00 pm. In fact, this was clarified by his supplemental witness statement, dated 19 December 2017, in which he explained that he had ceased to be the safety officer on this site on 1 September and had handed over to a Mr Chan. On the day of the accident he had travelled from his office on Tsing Yi Island once he heard about the accident. 3:00 pm was the approximate time he arrived at the accident site. The plaintiff would have been still waiting in the van with a dislocated shoulder at this time. The remainder of his evidence concerned general procedures and the slow response to dealing with the plaintiff's injuries and subsequent reporting thereof. His successor at Tai Po, Mr Chan, had not given any witness statement.
+
+CONTRIBUTORY NEGLIGENCE
+
+26. In both the pleadings and in Mr Gidwani's written opening submission, the defendants rely on the issue of contributory negligence in the event of a finding of negligence against them. However, in his closing submission this was abandoned and rightly so.
+27. For all the above reasons there shall be a finding that the plaintiff's injuries were wholly caused as a result of the defendants' negligence and breach of statutory duty.
+28. I turn now to the question of quantum of damages.
+
+QUANTUM
+
+29. The plaintiff, who was 25 at the time of the accident sustained a dislocation of the right shoulder. He had been employed by the 1st defendant as a general labourer since July 2012.
+30. A Chinese medical practitioner performed a reduction at about 3:30 pm on the day of the accident and he was given an arm sling. Later the same day, because of continuing pain, he attended the A&E Department of Kwong Wah Hospital. Subsequent X-rays showed no abnormalities and normal alignment. However, in spite of physiotherapy treatment the pain continued and loss of movement was complained of. On three occasions prior to April 2016 the shoulder became dislocated again. He dealt with these incidents by self reduction and did not attend hospital. In June 2015 he was referred to the Department of Orthopaedics and Traumatology at Queen Elizabeth Hospital. In October 2015 an MRI scan was performed which confirmed that he had suffered Bankart lesion and Hill-Sachs defect. Further physiotherapy sessions, 13 in all, were given.
+31. An operation was performed on 26 April 2016 in order to correct the plaintiff's "recurrent anterior dislocation of the right shoulder". The operation may be regarded as a success. There has been no further dislocation. The Bankart lesion was repaired and the Hill-Sachs defect was regarded as mild.
+32. On 7 March 2017 the plaintiff was jointly examined by Dr Wong See Hoi (appointed by the plaintiff's solicitors) and Dr Lee Po Chin (appointed by the defendants' solicitors). Regarding the plaintiff's condition at the time of the examination, Dr Wong agreed that there was no ligament laxity and the apprehension test had been negative but opined that the plaintiff's continuing complaint of discomfort was due to post-surgical correction with mild stiffness. Dr Lee however concluded that the arthroscopic surgery had been successful and there should be no residual pain. The operation had been 11 months earlier. The plaintiff himself assessed his recovery at 70 - 80% back to normal.
+33. The measure of disagreement between the doctors was not great. Dr Lee considered the plaintiff capable of continuing his pre-accident work. Dr Wong considered that his continuing pain made such a return not possible.
+
+Pain, suffering and loss of amenities (CPSLA”)
+
+34. Mr Meyrick Wong submits that this should be graded as a serious injury and be awarded $350,000 in damages for pain, suffering and loss of amenities. Mr Gidwani submits that it is not in the serious injury category and such damages should not exceed $200,000. A number of authorities have been brought to my attention. I shall refer to just one. In Lau Kwok Chiu v Senfield Ltd HCPI 245/2006 
+(8 March 2007) a sum of $200,000 was awarded for very similar, although very marginally less serious, injuries. Using that case as a guide and adding small amounts for the nature of this particular injury and inflation since 2007, I award $275,000 for PSLA.
+
+Loss of earnings
+
+35. I divide my assessment into two periods.
+36. Firstly, from the date of the accident up to a period seven months after his surgery. During this period he was under a continuing disability for which he must be compensated.
+37. His potential earnings at the time of the accident were $19,100 per month (based on a $700 per hour rate). He had actually been earning slightly less. Between September 2012 and August 2013 he actually worked for 10½ months and earned $180,489, an average of $17,190 per month.
+38. For the purpose of arriving at a figure for his earnings in September 2013, I take a median figure of $18,200.
+39. The same job now pays about $1,000 a day. However, for these purposes a figure for December 2016 is required. I have selected December 2016 being a little over 7 months after his operation. In my judgment, based on Dr Lee's assessment, reasonable sick leave should end on that date. I assess it as $900 per day which equals $23,400 without overtime, say $25,000 with overtime. A median figure for calculating loss of wages as a labourer for the first period is $21,600 per month.
+6 September 2013 to 6 December 2016 is 39 months = $842,400
+40. It is accepted that his various jobs undertaken during this period, mainly as a motorcycle delivery worker came to about $412,000.
+41. The loss is therefore: 
+
+$842,400 - $412,000 × 105% = $451,920
+
+
+42. The second period, ie post December 2016 is more speculative and more difficult. It is the defence case that the plaintiff was capable of returning to his pre-accident employment. They submit that no further award should be made.
+43. Mr Wong, however, submits that "it is quite clear that he would not be fit to work as a construction worker anymore." The plaintiff therefore seeks a future loss based on a retirement age of 65 and a short fall in wages of approximately $15,000 a month with a multiplier of 23 plus MPF producing a final figure of about $4.5 million.
+44. I regard this approach as untenable. I find there to be no acceptable medical support for the contention that the plaintiff's sufferings which prevent him from earning a wage comparable to his pre-accident wage will continue unabated for another 35 years.
+45. Giving some weight to Dr Wong's opinion that his present condition, although now nearly two years after a successful shoulder operation, prevents him from labouring work on a construction site, I shall allow a limited period of time within which that condition will probably continue. I bear in mind that his pre-accident job was that of a general labourer, not the more demanding job of a scaffolder. Heavy lifting is not required. Moreover, with his driving skills and potential it is reasonable to assume that the plaintiff is now or will soon be able to seek employment on construction sites paying at least the same or possibly more than before.
+46. Balancing the two experts' reports I proceed on the basis that there is minor residual pain and, although the apprehension test was negative, a loss of confidence in the shoulder's strength, which even if more imagined than real, is nonetheless a factor which deserves some weight when assessing the present and immediate future situation.
+47. Since the time he had fully recovered from his operation, December 2016, he has been in employment. I consider his average monthly earnings to be about $12,000. His earnings had he remained in his pre-accident job would, by 2018/19 be in the region of $26,000.
+48. Although possibly generous, in all the circumstances I consider it fair and reasonable that he be compensated for his reduced income for a further three years from December 2016. Considering the whole of the medical evidence I regard it as very probable that by the end of 2019 he will have the strength, confidence and ability to resume work of a similar nature to his pre-accident job. 
+
+$14,000 × 36 × 105% = $529,200
+
+
+49. In coming to this assessment I have found the opinion of Dr Lee more realistic and helpful. He stated that the 2016 operation and post-operation examinations and tests show that the plaintiff's residual pain should be absent, or at worst, minimal. For example, the measurement of his arm girths was equal, his right shoulder movement was improving and approaching normal and the apprehension test results were negative. Dr Wong does not challenge these results.
+50. For loss of earning capacity, I accept the plaintiff's submissions. The original claim was for $90,000. For reasons which are not clear that sum had risen to $230,000 by the end of trial. I allow the original claim.
+51. Expenses incurred is agreed at $7,868.
+52. To summarise, the damages shall be: 
+
+HK$PSLA275,000
+Loss of earnings
+from date of accident to 6 December 2016451,920from 6 December 2016 and continuing529,200Loss of earnings capacity90,000
+Expenses incurred7,868
+1,353,988
+Less ECC compensation179,977
+1,174,011
+53. This sum is net of interest. I invite the parties to calculate and agree the various sums for interest.
+54. There shall be judgment for the plaintiff in the sum of HK$1,174,011 plus interest to be agreed.
+
+Costs
+
+55. I make a costs order nisi in the plaintiff's favour. This order shall become final 14 days after the handing down of this decision unless either party makes an application to vary it. Such application shall be made by written submissions not exceeding three pages.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+ 

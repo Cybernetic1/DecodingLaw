@@ -1,0 +1,115 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IPRequest made on : Saturday, 10 March, 2018 at 00:22 HKT  Client ID : ChineseU_WLA-1Title : Talat Arslan v Li Tak CheungDelivery selection : Current DocumentNumber of documents delivered : 1
+Talat Arslan v Li Tak Cheung
+
+
+
+3 April 2017
+District Court
+DC
+Personal Injuries Action No 2540 of 2014
+DCPI 2540/2014
+
+Citations:[2017] HKEC 689 English JudgmentPresiding Judges: Deputy Judge Jason WongPhrases: Tort - employer's liability - liability to employees - occupier's liability - employee injured in course of work at site occupied by employer - whether employer (a) failed to provide safe system of work, necessary supervision and safe place of work; and (b) in breach of common duty of care Damages (Personal   injuries or death) - spine - fracture of at L2/L3 level - dislocation at L5/S1 level - pelvis - closed fracture of left acetabulum - fingers - fracture of proximal phalanx of left ring finger - significant residual left hip pain and some residual pain, stiffness and weakness in back - 24-year-old male construction workerCounsel in the Case: Mr Carl Yuen, instructed by WT Law offices, assigned by the Director of Legal Aid, for the plaintiffThe defendant was not represented and did not appearCases cited in the judgment: Ku Chiu Chung Woody v Tang Tin Sung (unrep., HCPI 228/2001)  Azhar Hussain v Fastcut Services Ltd & Another (unrep., DCPI 902/2004, [2006] HKEC 274)   Chan Long Kin v Lam Kam Cheong (unrep., HCPI 1186/2014, [2016] HKEC 2505)   Cheng Chi Hong v Lo Chi Hung (unrep., HCPI 330/2004,[2005] HKEC 633)   Cheung Kwok Keung v Yip Man Hing Building Materials Co Ltd (unrep., DCPI 2738/2009, [2012] HKEC 6)   Hussain Shoukat v Ma Chi Tat (unrep., DCPI 2470/2009, [2010] HKEC 1181)   Wan Chuen Hoi v Wing Shun Engineering Transportation Ltd (unrep., HCPI 530/2008, [2011] 4 HKLRD J6)   Wong Wing Sun v Chan Man Kin (unrep., HCPI 902/2002, [2004] 1 HKLRD C18)  
+Judgment: 
+Deputy Judge Jason Wong
+1. Mr Arslan, the plaintiff, was born on 19 July 1989. He came to Hong Kong as an asylum seeker in 2009. On 21 September 2013, he sustained personal injuries while working for the defendant, Mr Li. Mr Arslan thereby brought proceedings under the Employees' Compensation Ordinance in DCEC 1965 of 2014 ("EC Case") and these proceedings to claim damages. He is now 27 years old, and speaks Punjabi, Urdu, some English and some Chinese.
+2. Mr Li was not represented and did not appear at trial. Counsel for Mr Arslan, Mr Carl Yuen, informed this court that a notice of hearing had been duly served at the office of a business owned by Mr Li. Since solicitors for Mr Arslan gave an undertaking to file an affirmation of service within 3 days, trial of this action continued in the absence of Mr Li.
+
+The accident
+
+3. For the purpose of these proceedings Mr Arslan made two witness statements which he adopted as evidence in chief. According to these statements, Mr Arslan became acquainted with Mr Li in 2011 when Mr Arslan was a tenant of Mr Li at some premises in Kam Tin. On 21 September 2013, Mr Arslan was brought to the place of accident, which was at 1145 Ha Che Tsuen, Pat Heung, New Territories ("Site"), to take down a wall of a house. The wall was made of mud and brick, and was measured about 9 feet in length by 10 feet in height.
+4. In order to demolish the wall, Mr Li provided Mr Arslan with a big hammer and instructed Mr Arslan to start by making a hole at the bottom. At trial, Mr Arslan confirmed that no other instruction, tool or equipment such as gloves, helmet or safety shoe was given by Mr Li, who left the Site about 15 to 20 minutes afterwards. As Mr Arslan hammered the wall in the way he was told, the wall collapsed on him which led to his personal injuries. He was alone at the material time.
+
+Liability
+
+5. It was Mr Arslan's case that a few days before the accident, an oral agreement was reached between Mr Li and Mr Arslan to work as a general labourer at a daily rate of $450. Mr Arslan attended the Site for the first time on 20 September 2013 to remove the roof of the house. The date of the accident was hence the second day of his employment. As Mr Arslan understood, Mr Li intended to build a new house. Mr Arslan also said at trial that to gain access to the Site, Mr Li and he needed to go through a main gate opened by Mr Li.
+6. Mr Li filed a defence on 8 November 2015 and a witness statement on 8 January 2016. Essentially, he denied having employed Mr Arslan who was no more than a tenant to him. No other useful particular was provided by Mr Li. He did not file a list of documents nor did he produce any other document in these proceedings.
+7. The issue of employment had already been adjudicated in the EC Case. Mr Li attended trial on 30 August 2016. Having heard evidence from parties, the court in the EC Case considered it inexplicable for Mr Arslan to be able to identify the Site and also the private car in which he was brought by Mr Li to the Site had Mr Arslan been just a tenant. The court in the EC Case was further left with an impression that Mr Li intentionally hid the fact that he ran a business which involved the hiring of general labours at the at material time.
+8. There being a finding by the court in the EC Case that Mr Arslan was employed by Mr Li on 21 September 2013, it is not open for Mr Li to re-litigate the same issue in these proceedings. As matter stood, Mr Li did not appear to have brought an appeal against the earlier decision.
+9. In the premises, and in any event, I am satisfied there was an employment relationship between the parties on the day of the accident. I further find that Mr Li was an occupier of the Site at the material time.
+10. Quite clearly, Mr Li employed Mr Arslan who was conveniently his tenant and who was expected to work at a low rate because of his status as an asylum seeker. Save the simplest, but apparently inappropriate, instructions to demolish the wall Mr Arslan was left alone at the Site with only a hammer to find out by himself how to execute those instructions. I have no hesitation to find that Mr Li was in breach of the implied terms under the employment contract as well as the statutory duties as an employer under the Occupational Safety and Health Ordinance, Cap 509 to provide a safe system of work, necessary supervision and a safe place of work. Mr Li must also be in further breach of the common duty of care as an occupier under the Occupiers Liability Ordinance, Cap 314.
+11. Since Mr Li did not raise the question of contributory negligence, this is not a matter which I need to consider.
+
+Injuries and treatments
+
+12. After the accident, Mr Arslan was admitted to the A&E Department of Pok Oi Hospital where he was found to be stable but suffering from skin laceration over the right eyebrow and right face, posterior displacement of the lumbar vertebrae at level L2 and L3, and local tenderness at the lumbar region. He was then transferred to the Tuen Mun Hospital on the same day to be diagnosed of a closed fracture of the left acetabulum, a fracture of the lumbar spine at the L2/L3 level, a dislocation at the L5/S1 level, and a fracture of proximal phalanx of the left ring finger.
+13. On 26 September 2013, an open reduction with internal fixation was performed at Mr Arslan's spine. The fracture at his pelvis was treated by way of closed reduction with internal fixation. Mr Arslan was discharged from hospital on 3 October 2013 whereafter he received physiotherapy and occupational therapy. As back pain persisted, Mr Arslan was readmitted to the Tuen Mun Hospital to receive an injection. In October 2014, the metal implant at the spine was removed. Sick leave was given to Mr Arslan intermittently which ended on 17 February 2015. On 2 March 2015, the Medical Assessment Board assessed a loss of earning capacity of 14% which was reviewed to 17% on 6 July 2015.
+14. Dr Lau Hoi Kuen ("Dr Lau") was the appointed orthopaedic expert who examined Mr Arslan on 17 February 2016. In the report of Dr Lau dated 2 March 2016, it was recorded that Mr Arslan complained of multiple scars over his right face and both elbows. In addition to some darkish discolouration around both eyes, Mr Arslan also complained of right sided headache once a week which lasted for an hour or so each time, pain in the left finger when holding heavy objects or wringing a towel, continuous low back pain which intensified to grade 8-9/10 when sitting from more than half an hour or lying in bed for long periods, disturbed sleeps 3 nights a weeks, intermittent pain in the left hip at grade 7-8/10 particularly during cold and humid weather, walking for over 10 minutes or climbing stairs, and the inability to squat.
+15. On physical examination, Dr Lau observed that Mr Arslan was able to walk without aid or limp. However, Mr Arslan was unable to make a full squat, or to walk on tiptoes or heels. Mr. Arslan was also unable to stand on his left leg. As for his back, Dr Lau did not find any swelling or deformity but there was a 23 cm long scar extending from L1 to S2 level of the spine with tenderness at the surrounding areas. As for the hip, Dr Lau also did not find any swelling or deformity. There was a 1 cm scar to the left of the scrotum similarly with tenderness at the nearby region.
+16. In terms of range of motion, Mr Arslan demonstrated substantial limitation in the flexion of the spine. Straight leg raising while sitting was 90 degrees on the right side but 70 degrees on the left side. There was also a decreased range of movement of the hip on the left with slight muscle wasting of the thigh and calf. As for the ring finger, Dr Lau observed that there was mild bony swelling and tenderness over the dorsum of the proximal phalanx, however, the range of movement was found to be normal.
+17. Dr Lau found that the injuries sustained by Mr Arslan to be consistent with and thus caused by the accident. Despite signs of exaggeration in the symptoms discovered over the examination, Dr Lau considered that Mr Arslan would continue to experience significant residual left hip pain in the future, and some degree of residual pain, stiffens and weakness in the back. Accordingly, Dr Lau concluded that Mr Arslan was unable to resume pre-accident occupation as a construction worker and recommended that he took lighter duties such as restroom attendant, fuel station worker, cashier or office light cleansing worker. Dr Lau assessed the permanent impairment to the whole person at 16%, and a loss of earning capacity at 20%. Dr Lau also considered a sick leave period of 12 to 16 months to be appropriate.
+18. Mr Li did not appoint and elected not to rely on any expert evidence in these proceedings. At trial, Mr Arslan had similar complaints about his residual disabilities albeit he appeared to be rather causal and calm when describing them.
+
+PSLA
+
+19. Mr Yuen relied on the following authorities in his opening submissions: - 
+
+(a) Ku Chiu Chung Woody v Tang Tin Sung HCPI 228 of 2001 , unrep, 20 September 2002 where the plaintiff sustained a close fracture of the left acetabulum with dislocation of the left hip, open fracture of the left proximal tibia, open complete tear of the anterior cruciate ligament of the left knee, open partial tear of the lateral meniscus of the left knee and a closed fracture of the shaft of the left tibia. Open reduction of the left hip and internal fixation of the left acetabular fracture, open reduction and internal fixation of the left proximal tibia, closed reduction of the tibia shaft fracture with external fixator were performed. Further repeated operations for the adjustment of the tibial shaft fracture were carried out at a later stage and the plaintiff was discharged about 1.5 months after the accident. The court in that case awarded $375,000.00 as PSLA;
+(b) Cheng Chi Hong v Lo Chi Hung HCPI 330 of 2004 , unrep, 28 April 2005 where the plaintiff sustained a right hip dislocation, a fracture of the right femoral head and a laceration over the right eye. Open reduction was performed at the hip together with a removal of a bone fragment, and the laceration was sutured. The plaintiff was discharged in about a week after the accident, but about 11 months later he developed mild degeneration at L4/L5 and L5/S1 levels and a mild disc protrusion at the L4/L5 level. The court in that case awarded $300,000.00 as PSLA.
+(c) Cheung Kwok Keung v Yip Man Hing Building Materials Company Limited & Others DCPI 2738 of 2009 , unrep, 3 January 2012 where the plaintiff sustained a Garden type IV comminuted fracture of the right hip. After closed reduction with screw fixation, displacement fracture was observed which required a second closed reduction and internal fixation. Almost 4 years later the screws were removed and hip arthroscopy was performed. On discharge, the plaintiff walked with elbow crutches. The court in that case awarded $400,000.00 as PSLA.
+(d) Chan Long Kin v Lam Kam Cheong HCPI 1186 of 2014 , unrep, 17 November 2016 where the plaintiff sustained fractures of the right superior pubic ramus, L5 lumbar vertebrae transverse process, left distal fibula, and a soft tissue injury to the left shoulder. Open reduction internal fixation operation on the ankle was performed whereafter the plaintiff was given non weight bearing and physiotherapy. The plaintiff was discharged 16 days after the accident, and developed mild adjustment disorder with mixed anxiety. Having accepted that the lower end of the "serious injury" category would be $510,000.00, the court in that case awarded $475,000.00 as PSLA.
+
+
+20. I find the following authorities to be also helpful: - 
+
+(a) Hussain Shoukat v Ma Chi Tat, trading under the name or style of Kan Tat Engineering & Building Materials & Others DCPI 2470 of 2009 , unrep, 27 July 2010 where the plaintiff lost consciousness after the accident for about 9 hours. On admission to hospital, he was found to have sustained fractures of both wrists and the left hip, and multiple facial and skull fault fractures. Open reduction and internal fixation of the left forearm was performed. The hip was treated with close reduction and internal fixation. The right wrist was treated conservatively with plaster. The plaintiff remained hospitalised for 1.5 months. The court in that case awarded $420,000.00 as PSLA.
+(b) Wan Chuen Hoi v Wing Shun Engineering & Another HCPI 530 of 2008 , unrep, 14 June 2011 where the plaintiff sustained fractures to the left writ and left hip. Close reduction and external fixation of the left wrist, and open reduction with internal fixation with metal implants of the left femur under general anaesthesia were performed. The plaintiff was discharged 3 months after the accident. The court in that case awarded $370,000.00 as PSLA.
+
+
+21. Mr Yuen submits that an appropriate award under this head for Mr Arslan will be $450,000.00. I find, however, that most of the plaintiffs in the above cases suffered injuries that were more serious than the injuries sustained by Mr Arslan. In all the circumstances, I consider that an appropriate award for PSLA in this case is $375,000.00.
+
+Loss of earnings
+
+22. As for pre-trial loss of earnings, Mr Yuen relied on the findings in the EC Case and also on Dr Lau's report to submit that an award of $66,150.00 was appropriate based on Mr Arslan having worked 10 days a month during a 14 month sick leave period. The claim of $66,150.00 was inclusive of employer's mandatory provident fund contributions.
+23. Putting aside whether that was a correct quantification in the first place, I reject that submission. Mr Arslan was an asylum seeker who was required to enter a recognizance under s 36 of the Immigration Ordinance, Cap 115. On his own evidence, he needed to obtain approval from the Director of the Immigration in order to work locally. However, there was no evidence, and neither evidence was led by Mr Yuen from this witness, as to whether an application for such an approval was made, and if so, when it was expected to be granted.
+24. Save a general assertion by Mr Arslan who claimed to be receiving an average monthly income of $11,700.00 prior to the accident, there was no document in support of, and no meaningful particular was provided about, his so-called past employment. Rather inconsistently, Mr Arslan stated at paragraph 5 of his supplemental witness statement that a few days before the accident Mr Li asked whether Mr Arslan wanted to make some money again because Mr Arslan was "staying home all the times".
+25. Mr Yuen did not seek to clarify the employment history of Mr Arslan at trial. Mr Arslan was not even asked whether or what effort he had made in search of gainful employment after the accident or after the sick leave period.
+26. In any event, and because of his refugee status, Mr Arslan was not entitled to work in Hong Kong. Be it legally or factually, Mr Arslan's claim for pre-trial loss of earnings must fail.
+
+Future loss of earnings
+
+27. In the Revised Statement of Damages, Mr Arslan claimed a sum of $204,120.00 which was based on him being able to find some sedentary work with a monthly income of $9,000.00 and then to adopt a multiplier of 6 for the loss of income plus MPF over a 12 month period.
+28. In his written opening submissions, Mr Yuen referred to Azhar Hussain v Fast cut Services Limited & Another DCPI 902 of 2004 
+, unrep, 14 February 2006 and Wong Wing Sun v Chan Man Kin HCPI 902 of 2002 
+, unrep, 17 March 2004 to suggest that the pleaded multiplier was "very low". Mr Yuen then invited the court to consider the referred decisions.
+29. At trial, Mr Yuen confirmed orally that Mr Arslan's claim for future loss of earnings was no longer pursued.
+
+Loss of earning capacity
+
+30. Mr Yuen submitted that a sum of $50,000.00 would be an appropriate award under this head of claim. At trial, Mr Yuen further argued that a high award for loss of earning capacity was justified to, put simply, make up for Mr Arslan having abandoned his claim for future loss of earnings.
+31. For similar reasons set out above, I reject this claim. For as long as Mr Arslan remains in Hong Kong as an asylum seeker, he cannot be lawfully employed. Mr Arslan did not give evidence, and likewise neither evidence was led from him by Mr Yuen at trial, as to how long Mr Arslan's claim for protection would take or as to any employment prospects had Mr Arslan, for instance, elected to return to his home country. It is clear from Dr Lau that Mr Arslan is able to return to a number of types of work. Over the rather short 2 hour trial, Mr Arslan also appeared to have acted normally without any sign of walking disability or apparent discomfort in court. There is no evidence whatsoever that Mr Arslan will face a substantial or real risk of a disadvantage in getting the recommended employments or the level of monthly income Mr Arslan might receive from a lawful employment had he not sustained the injuries. As matter stands, there is no evidence that Mr Arslan will start lawful employment at all for as long as his asylum seeker status remains.
+
+Special damages
+
+32. Mr Arslan claimed special damages for travelling and medical expenses. At trial, Mr Arslan explained that he attended follow up treatments by taxi for about 5 return trips at $100.00 each trip, and by bus for another 10 return trips at $15.00 each trip. He also said that he had purchased painkillers for about 40 times each time spending about $30.00 to $40.00.
+33. No other claim is made under this head. I allow a sum of $2,750.00 to be awarded to Mr Arslan.
+
+Credit to the defendant
+
+34. At the time of the accident, Mr Arslan was a tenant of Mr Li. After Mr Arslan received the injuries, Mr Li waived 6 months of rent which represented a total sum of $10,800.00. Mr Yuen agreed that credit is to be given to Mr Li in Mr Arslan's claim in these proceedings.
+35. Further, a sum of $125,520.00 was received by Mr Arslan in the EC case.
+
+Summary of loss
+
+36. The summary of loss is as follows:- 
+
+PSLA$375,000.00Special Damages$2,750.00Less: Rent waived$10,800.00Less: EC payment$125,520.00__________Total$241,430.00
+Interests
+
+37. There is therefore a judgment for the plaintiff Mr Arslan against the defendant Mr Li in the sum of $241,430.00. I further award interests at 2% pa for PSLA from the date of the writ to the date of this judgment, and half judgment rate at 4% pa for special damages from the date of the accident to the date of this judgment, and thereafter at judgment rate until payment.
+
+Costs
+
+38. While costs would normally follow the event, however, the plaintiff Mr Arslan had failed his claims for loss of earnings. In the Revised Statement of Damages, Mr Arslan claimed a total sum of $999,548.00, out of which $270,428.00 was for loss of pre-trial earnings and MPF, $204,120.00 was for loss of future earnings and future MPF, and $30,000.00 was for loss of earning capacity.
+39. There was no legal or factual basis for these claims to be made, which were pursued up till trial. The claim for future loss of earnings was only abandoned when counsel opened his case. In my view, the pursuance of these claims was simply ill advised. Applying a broad brush principle, I deny one third of the plaintiff's costs in these proceedings. I make a costs order nisi, to be made absolute within 14 days from this judgment, for the defendant to pay two thirds of the plaintiff's costs in this action, to be taxed if not agreed. The plaintiff's own costs shall be taxed in accordance with the Legal Aid Regulations.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+ 

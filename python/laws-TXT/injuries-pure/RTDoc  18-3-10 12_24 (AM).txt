@@ -1,0 +1,330 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IPRequest made on : Saturday, 10 March, 2018 at 00:24 HKT  Client ID : ChineseU_WLA-1Title : Lau Wa Ying v Caritas-Hong KongDelivery selection : Current DocumentNumber of documents delivered : 1
+Lau Wa Ying v Caritas-Hong Kong
+
+
+
+6 March 2017
+District Court
+DC
+Personal Injuries Action No 2885 of 2014
+DCPI 2885/2014
+
+Citations:[2017] HKEC 437 English JudgmentPresiding Judges: Deputy Judge K C ChanPhrases: Tort - negligence - employer's liability - liability to employees - employee injured in course of work - whether employer liable  Damages (Personal   injuries or death) - soft tissue sprain injury at lower back and left foot - mild to moderate psychiatric disorder - 45-year-old female personal care worker in elderly homes Counsel in the Case: Ms Rebecca M K Lee, instructed by Rita Law & Co, for the plaintiffMr Maurice Chan & Mr Leon Ho, instructed by Au & Associates, for the defendantCases cited in the judgment: McGregor v AAH Pharmaceuticals Ltd 1996 SLT 1161  Chan Chi Ming Billy v Lau Fuk Cheung t/a Gold Full Restaurant (unrep., HCPI 787/1997, [2000] HKEC 188)   Chan Kwok Chu v Morning Spring Ltd (unrep., DCPI 355/2007, [2007] HKEC 2293)   Chu Sio Long v Cheung Ho Yin (unrep., DCPI 580/2011, [2013] HKEC 678)   Fung Lee Hung v The Spastics Association of Hong Kong (unrep., DCPI 1112/2005, [2007] HKEC 1846)   Lau Wing Yeung v Kowloon Cricket Club (unrep., HCPI 955/2013, [2014] HKEC 662)   Tam Wai Tuen v Seiko Screw Manufactory Ltd (unrep., HCPI 383/2008, [2009] HKEC 2057)   Tamang Udas v Global Sunny Engineering Ltd (unrep., HCPI 732/2011, [2013] HKEC 40)   Tsang Chiu Yip v Ho Kwok Leung (unrep., HCPI 305/2013, [2016] HKEC 473)   Yip Mau Kei v Wong Kam Tin (unrep., DCPI 1905/2013, [2015] HKEC 240)   Zhong Ruyin v Fuk On Home of Aged Ltd (unrep., DCPI 1795/2010, [2012] HKEC 99)  
+Judgment: 
+Deputy Judge K C Chan
+1. In this action the plaintiff claims against the defendant, her employer, damages for personal injuries sustained in a slip and fall accident occurred during work on 5 August 2013.
+2. At the time of the accident, the plaintiff was 45 years old and was an experienced personal care worker in elderly homes ("PCW"), having worked as such for 10 years, in about five of which (since 2008) she was employed by the defendant.
+3. The defendant was and is a charitable corporation operating, among others, the elderly home named "Caritas Fu Tung Home" at Ground, 1st and 2nd Floors, Tung Shing House, Fu Tung Estate, Tung Chung, Lantau Island ("the Elderly Home").
+4. The slip and fall accident happened in the toilet of Room 17 ("the Toilet") on the 2nd Floor of the Elderly Home ("the 2nd Floor").
+5. The layout of the 2nd Floor is relevant to some of the issues raised, so I will describe it here. The 2nd Floor consisted of four Wings - Wings A to D - each square in shape and similar in size, and they were situated on the four sides of the square-shaped lift and staircase lobby ("the Lobby"). Wing B was used as canteen and had a nursery room. In Wings A, C and D were altogether 12 rooms, 11 of which were living quarters accommodating four to six elderly each. Each of these rooms has its a toilet inside serving the four to six elderly living in that room. Only three rooms in Wing D were used as quarters, the remaining one was used as a TV/common room ("the TV Room"). The TV Room was directly opposite to Room 17 across the corridor.
+
+The plaintiff’s case on liability
+
+6. In her witness statement, which was adopted as her evidence-in-chief, the plaintiff recounted how the accident occurred, as follows:- 
+
+(a) on the day in question (ie 5 August 2013), she was the only PCW attending to 58 elderly 1 ;
+(b) at about 9 to 9:15 pm while walking her rounds on the 2nd Floor, she reached Room 17, and there she saw the elderly 謝祖港 ("Tse") having wetted his pants with urine and faeces thereon and on the floor beside his bed 2 ;
+(c) she then helped him up (" 立即扶起他 ") and accompanied him to the Toilet and sat him down, took off his dirtied pants and placed them on the floor beside the laundry bucket 3 ;
+(d) she then showered and cleaned Tse's lower body, put on diapers and clean clothes for him and took him back to his bed 4 ; and
+(e) after settling Tse, she went back to the Toilet intending to rinse the pants and then put them into the laundry bucket for sanitization. However, when she entered the Toilet and having taken several steps (" 但當本人進入該洗手間，行了幾步後 "), she slipped and fell with her buttocks landing on the floor 5 .
+
+
+7. She alleged that at the time the floor of the Toilet and at its entrance was wet and slippery for a number of reasons 6 :- 
+
+(a) the Toilet was used by the six elderly living in Room 17;
+(b) in the Toilet, the bathing area was separated from the toilet only by a curtain, but without proper partition 7 ; and water, urine and faeces were often trampled on and spread across the floor of the Toilet and its entrance;
+(c) the tiles on the floor of the Toilet were not of the non-slip type;
+(d) there was only one cleaning worker working on the P shift from 12 noon to 9 pm. She would be too busy to clean every toilet after 5 pm. And as Tse had fecal and urinal incontinence, he would often wet the Toilet floor with faeces and urine. Therefore, every day after 5 pm, the Toilet would always be wet and slippery with faeces and urine;
+(e) there was no cleaning worker on duty in the Elderly Home after 9 pm; and
+(f) because she had used the shower on that day to clean Tse as said above, the floor was slipper than usual.
+
+
+8. She explained she was not wearing non-slip water boots ("water boots") at the time (as the defendant said she should) because, according to the defendant's instruction, except in the morning when they were required to wear water boots when bathing the elderly, they could wear sports shoes 8 . She further explained that according to the defendant's instruction, priority should be given to taking care of the elderly, therefore she showered Tse without changing into water boots 9 .
+9. She also explained why she could not fetch the towels to clean the lavatory floor (as the defendant said she should) as it would take her 8 to 10 minutes' walk to fetch the towel (" 存放毛巾位置在A1及B1，距離該洗手間有8至10分鐘的路程 ") and that it would only "lose time" by so doing (" 只會耽誤時間 ") 10 .
+10. She reiterated and stressed that in the P shift, only she and another cleaning worker were on duty; and that there was thus absolutely insufficient man power (" 絕對人手不足 ") 11 .
+11. Based on these, the plaintiff pleads nine substantive particulars of negligence and/or breaches 12 . They are, in gist:- 
+
+(a) Failure to provide a safe working environment;
+(b) Failure to take adequate precaution for her safety while at work;
+(c) Failure to maintain an adequate system of inspection and/or maintenance of the Toilet floor;
+(d) Failure to ensure the Toilet floor was dry by providing adequate man power to clean it up in time;
+(e) Failure to prevent the Toilet floor from being slippery;
+(f) Failure to provide an adequate number of personal care giver to take care of the elderly after 5:00 pm given most of them were incontinent;
+(g) Failure to heed the risk that the plaintiff might slip on the Toilet floor given the non-partitioning of the shower/washing area and the lack of cleaner for cleaning or mopping the Toilet floor after 5 pm;
+(h) Failure to provide adequate training or safety guidelines; and
+(i) Failure to give the plaintiff supervision and/or instructions and/or warnings of the risk of injury.
+
+
+12. All these the defendant disputes. I will discuss them below under various topics. Before doing so, I must say something about the general credibility of the witnesses, particularly that of the plaintiff.
+
+General credibility of the plaintiff and the witnesses for the defence
+
+13. The plaintiff gave evidence. She is the only one who can give evidence on the slip and fall accident as no one else witnessed it.
+14. As will be set out and analysed below, many allegations in her case, particularly those concerning the working of the Elderly Home and the condition of the Toilet are evidently false, without merit and/or clearly contradicted by contemporaneous documents.
+15. I listened to the plaintiff attentively and with care when she was giving her oral testimony. I find that she was prone to exaggerate and to argue. In many instances, she was making up and shifting her evidence along the way and digressing to other unrelated scenarios to attempt to advance her claim. She was often evasive. In a number of instances towards the latter part of her cross-examination when she was cornered, she simply refused to answer by saying " 我唔識答 ".
+16. In all, I have no hesitation in finding her to be an untruthful and unreliable witness.
+17. I much prefer the evidence of Ms Lai Kit Yee ("Ms Lai") and Ms Ha Man Bun ("Ms Ha") where the same conflicts with that of the plaintiff.
+18. Ms Lai, the Social Worker Supervisor working in the Elderly Home for over 10 years and Ms Ha, a Care Assitant ("CA") working there who was more junior than the plaintiff, gave evidence for the defence. Their demeanor when giving evidence was attentive, careful and straight forward. In any event, their evidence in many instances was supported by contemporaneous documents and mostly was not seriously challenged. I find them truthful and reliable witnesses.
+
+The floor of the toilet was in fact laid with non-slip tiles and the entrance thereof laid with non-slip stripes
+
+19. Ms Lai gave evidence that the tiles covering the floor of the Toilet were non-slip tiles. Two enlarged close-up photographs of the tiles produced by the defendant 13 clearly showed that the surface of these tiles was coarse, rough and not flat or smooth. At trial, the plaintiff did not challenge this. I find the tiles were of the non-slip type.
+20. The plaintiff must have known this, and yet she chose to make the evidently false allegation that the tiles were not of the non-slip type.
+21. Moreover, photographs showed and was undisputed that four stripes of anti-slip material were laid horizontally across the entrance area of the Toilet. I find that appropriate measures were taken to ensure that the entrance to the Toilet was also not slippery.
+
+Complaint about Cnon-partitioning” inside the toilet
+
+22. One of the breaches alleged against the defendant was that the bath area in the Toilet was only separated by a plastic curtain and not by partition, thereby she claimed, the water from bathing would be splashed to other areas in the Toilet making them slippery. In oral evidence, she reasoned that even in her home, she would use such a device to keep bathing water from splashing. She further complained that the gap of about 7 inches between the floor and the plastic curtain would allow water to be splashed to as far as the doorway of the toilets (which was about 8 to 10 feet away).
+23. Save bare accusation, the plaintiff has proffered no evidence as to how a solid partitioning could or should have been used reasonably and safely in the Toilet in the setting of an elderly home.
+24. This alleged breach is wholly unrealistic and unmeritorious.
+25. The Toilet shared the same design with other toilets in Wings A, C and D in the Elderly Home. They were clearly designed with features to cater for the safety and specific needs of elderly 14 . Such features include the following. At the far corner, the toilet seat was placed about two and half feet away from the side wall to provide an area where a white plastic chair was placed for the elderly to sit on and receive his/her bath. For those immobile elderly, a specially designed bath chair with wheels and straps would be used to wheel them into the toilet. This wheeled bath chair was relatively tall and was designed to just fit into and above the toilet seat. The area where the white plastic chair was placed would also allow a PCW/CA to stand there to help support an elderly from his/her left side. Along the side walls were hand rails at waist height for the elderly to hold onto.
+26. As is undisputed and indeed well known by the plaintiff, as many as three PCW/CAs were required to safely handle and manoeuvre some of the immobile and plumper elderly before and after bathing.
+27. For this, ample room for manoeuvring must be allowed in these toilets for the safety of the elderly and for those caring for him/her. With a size of about 80 square feet each, any solid partitioning in these toilets would unduly restrict movement and would pose potential hazards.
+28. Evidently, only a toilet of much larger size could accommodate such partitioning to be used safely. That would be wholly unrealistic for the Elderly Home.
+29. In the premises, I dismiss as unfounded such alleged lack of partitioning as constituting any negligence and/or breach on the part of the defendant.
+
+Condition of the toilet generally and just before the accident
+
+30. As has been set out above, the plaintiff's case is that every day after 5 pm, the Toilet would always be wet and slippery with faeces and urine. If what the plaintiff alleged was true, the condition of the Toilet would have been nothing short of appalling. It was seriously disputed by the defendant.
+31. In cross-examination, the plaintiff initially described vividly such condition of the floor of the Toilet. Later on in cross-examination, however, she accepted that she was in fact describing the condition of the Toilet floor at the time when the elderly were having their bath in the morning. That, even if true, was a totally different time and scenario altogether.
+32. What happened was that in each morning after breakfast, three to four PCW/CAs would, room by room, bath those elderly who need help in so doing in the toilets of their rooms. During the bath, of course, the floor of the toilet would be wet and slippery. The PCW/CAs would wear water boots and aprons during bath time. Afterwards, they would mop the toilet floor clean and dry them with old towels.
+33. Though in cross-examination the plaintiff weakly argued against it, but the evidence clearly showed, and I find, that the floor of the Toilet was well drained with two drainage outlets, that there was a gentle gradient on the floor leading the water to the two drainage outlets, and that the Toilet was well ventilated with the assistance of a ventilation fan which was kept on all the time.
+34. During the day until 9 pm, there was a dedicated cleaning worker on the 2nd Floor to clean the toilets on her own initiative or when called upon.
+35. At trial, the plaintiff accepted that it was part of her work responsibility to help make sure that the toilet floors were clean and dry. It was not disputed that when a PCW/CA saw that the toilet floors were dirty or wet, they would inform the cleaning worker and ask her to clean it, or they would clean and dry it themselves if the cleaning worker was not available.
+36. It is common ground that the daily routine on the 2nd Floor was such that dinner was served at about 5 pm, by 6:30 pm all those elderly who need personal or medical care would be resting on their beds when the PCW/CAs would attend to them by measuring their body temperature, blood pressure and so on and then would begin their round of diaper changing. The Elder Home used a specially designed dedicated cart trolley for the diaper changing. Then by 9 pm, all would need to be in bed and lights would be turned off.
+37. It is also common ground that of the 56 elderly on the 2nd Floor on the day in question (not 58 as claimed by the plaintiff), many of them wore diapers.
+38. Specifically for Room 17 and as supported by the defendant's records and I so find, in the day in question, it housed five elderly (and not six as claimed by the plaintiff), two of whom required the assistance of at least one PCW/CA to get off bed to go to the Toilet, one of whom was completely bed-ridden and one was on wheel chair and was using a portable urinal, and only Tse in Room 17 could have used the Toilet independently. In other words, these four elderly could not have wetted or soiled the floor of the Toilet as alleged by the plaintiff.
+39. It is also undisputed that the PCW/CAs and the supervising nurse on duty would periodically walk their rounds on the 2nd Floor to ensure that everything was fine. I find it very hard to believe and very inherently improbable that the defendant, the supervising nurse or the PCW/CAs would condone such unpleasant condition of the Toilet after 5 pm as now alleged by the plaintiff.
+40. In the course of the trial, the plaintiff did not seriously pursue her case that the floor of the Toilet just before she cleaned Tse was "wet and slippery with faeces and urine".
+41. In the premises, I find that the conditions of the toilets on the 2nd Floor generally were not as alleged by the plaintiff. I find particularly that the floor of the Toilet just before the plaintiff cleaned Tse was not "wet and slippery with faeces and urine". I also find that there was an adequate system of inspection and maintenance of the floor of the Toilet.
+
+How the slip and fall accident happened
+
+42. Mr Chan (Mr Ho with him), counsel for the defendant, submitted that there were a number of discrepancies in her account showing her to be an untruthful and unreliable witness.
+43. The plaintiff's account in her witness statement suggested that Tse was lying on his bed when she found him having wetted his pants. In cross-examination, however, her version was different in that now she said that when she reached Room 17, she saw Tse already at the right side of his bed walking towards the Toilet with the aid of his walking frame, and that seeing he had wetted and soiled his pants, his slippers and the floor by the bedside, she helped him to the Toilet. Yet, further into the cross-examination when asked exactly when did she fetch Tse's clean cloths, his towel and diaper which were stored on shelves situated on the left side of his bed, she then said that after she first saw him as described above, she thought that he was quite safe, she then left Tse alone and went to the left side of his bed to fetch the clean cloths, towel and diaper and took them to the Toilet and placed them there first, she then walked out of the Toilet to help Tse.
+44. In her witness statement, she said she slipped after walking a few steps into the Toilet. In cross-examination, she now said with certainty that she slipped after having taken two steps into the Toilet. The position where she said she fell that she pinpointed by reference to a picture of the Toilet, however, was on the 3rd row of tiles from the entrance, which was just about two feet's distance into the Toilet. Mr Chan submitted that her strides would be too short to make that credible.
+45. She was also questioned that according to her account, she would be walking Tse back, after the shower, to his bed by the right side of his bed where the floor was wetted and soiled; and also after settling Tse, she would have been walking back to the Toilet by the same soiled path; and yet, she never took any action to clean the soiled floor first. She confirmed that that was what happened. Moreover, it is undisputed that at the time Tse was wearing a diaper which was highly absorbent with tightened elastic bands around the two thigh openings, which in all likelihood was a new one just having been changed during the diaper-changing round. Therefore, the likelihood of wetting and soiling the pants, then the slippers and then the floor as now claimed by the plaintiff was slim. In all, I find this aspect of her account incredible, highly improbable and more likely than not an exaggeration.
+46. Moreover, in her oral testimony she grabbed every matter at hand and attempted to attribute it to be the reason why she slipped. In cross-examination when asked about the gentle gradient on the floor of the Toilet to show that it was well drained, the plaintiff spontaneously said that she now remembered that it was the slope of the floor that has caused her to slip. When cross-examined regarding the height of the gap between the end of the plastic curtain and the floor, she again seized that opportunity and said that despite the gap the water splashed out to the spot near the doorway of the Toilet which caused her to slip. Yet again when cross-examined as to the absurdity of walking on the same soiled path time and again without taking any action to clean it, she then said that probably that was why she slipped. These instances and the continual shifting of the reason why she slipped show, in my view, that the plaintiff was not minded to tell the truth during her testimony, but was minded to say what was convenient to advance her claim.
+47. The plaintiff maintained that she was walking in a normal pace when she slipped. However, during cross-examination and re-examination she stressed several times that the reasons why she did not follow the defendant's instructions were " 冇時間 " and " 我得一個人 ". I therefore have the distinct impression that she felt very time-pressed at the time (a matter I will discuss further below).
+48. In all, having considered the plaintiff's general credibility and the specific matters above, I do not find truthful or reliable her testimony as to how the accident happened, particularly, over her claim that she was walking at a normal pace when she slipped.
+
+Adequate warning
+
+49. The defendant issued a written working guideline/directive ( 護理員實務工作指引 ), which was placed in the PCW/CA duty room on the 2nd Floor. In it was the clear guideline asking the PCW/CA to pay attention to slippery floor ( 留意地面濕滑 ). It is not disputed by the plaintiff that she was aware of this guideline/directive.
+50. A warning notice in bright yellow colour with the Chinese words " 小心地滑 " was conspicuously posted on the wall of the Toilet facing its entrance, such that, and I find, it should easily catch the eye of the user upon his/her entrance into the Toilet. In evidence, the plaintiff for the first time claimed that this warning notice was not there at the time of the accident. Ms Lai gave evidence that it was. I have no hesitation in preferring the evidence of Ms Lai and find that the notice was there at the time of the accident.
+51. I find there was adequate warning given by the defendant to the plaintiff as to the potential risk of slippage in the Toilet.
+
+The defendant’s training and instructions requiring the plaintiff to wear non-slip water boots when bathing an elderly and to dry the toilet floor with old towels before proceeding
+
+52. It is the defence case that it was the training and instruction given by the defendant that a PCW/CA, and therefore the plaintiff in the present instance, should wear the water boots when bathing an elderly and/or to dry the Toilet floor with old towels before proceeding.
+53. Each of the PCW/CA was provided with her own pair of water boots by the defendant. They were tidily stored in a cabinet in a room in the Lobby area, making them easily accessible from each of the four Wings. The floor plan 15 showed that that room was about 22 meters away from Room 17.
+54. On training generally, it is undisputed that the defendant held quarterly workshops to train the PCW/CA, held regular meetings to discuss and teach them how to properly handle specific situations, conducted regular assessment exercises assessing the competence of individual PCW/CA over relevant tasks, and put in place a mentoring system where each PCW/CA was assigned a superior whom they called "mother" who would guide and teach the junior staff. These are all documented. Incidentally, the plaintiff used to be the "mother" of Ms Ha.
+55. One of the training and assessment exercises related to the task entitled "bathing and hair washing" is directly relevant. The assessment form for this task ("the Assessment Form") 16 contained 39 check list items that a PCW/CA was to get right. Item 6 concerned wearing the proper outfit, namely an apron and a pair of non-slip water boots. Five assessment forms assessing the plaintiff's performance on this task covering the period from June 2009 to December 2012 were produced showing that the plaintiff had passed in all five instances. In all five instances, the plaintiff correctly performed the said check list Item 6.
+56. Ms Lee, counsel for the plaintiff, submits that it is not clear whether such instruction is also applicable when the showering activity is not scheduled.
+57. While asserting it, the plaintiff did not point to any reference in any documents, or recounted any instance of training or instruction given orally to that effect.
+58. Ms Lai gave evidence that in the defendant's said instructions and training related to bathing generally, there never was any distinction drawn between "scheduled and non-scheduled bathing" now argued by the plaintiff; and that the same instructions and training applied to bathing even during night shift, though that should be rare. Ms Ha gave evidence that so far as she herself was concerned, it was her training and understanding that she was required to put on the water boots before bathing an elderly, whenever the time of such bathing, because the safety of the elderly and herself was the top priority. I accept the above evidence from Ms Lai and Ms Ha.
+59. I further note in the Assessment Form that there was no reference to any "scheduled bathing" or "bathing in the morning" or words to that effect; nor was there any other references limiting its applicability.
+60. Moreover, as have mentioned, when cross-examined as to why she did not follow the defendant's instruction to change into the water boots (among others), the answer repeatedly stressed by the plaintiff was that there was no time (" 冇時間 ") and she was the only one on duty " 我得一個人 "; and not that she was not instructed to do so.
+61. As to the defence case that the plaintiff should have dried the floor of the Toilet with towels before proceeding, the plaintiff did not dispute it as something she should have done but said, as set out in paragraph 9 above, that she had no time to do so as the towels were placed in "A1 and B1" which were 8 to 10 minutes' walk away. However, as shown by the floor plan 17 and I find, the towels were stored in Wing B which was about 34 meters away. The trip from Room 17 to fetch the towels and back would take about one minutes even when one was walking at the leisurely pace of 3 km per hour. It was not 8 to 10 minutes as the plaintiff claimed, which she clearly should have known was not true. The plaintiff's explanation for not doing so is clearly untenable.
+62. Based on the above, I find that there was adequate training and instructions from the defendant to the PCW/CA, including the plaintiff who understood it, that a PCW/CA was required to change into water boots whenever they bathed an elderly and to dry the toilet floor with towels afterwards.
+
+Should have specific personnel to do the cleaning work after 9 pm?
+
+63. Ms Lee submits that to make the system and place of work reasonably safe, the defendant should have assigned a specific personnel to do the cleaning work, as in Chan Kwok Chu v Morning Spring Limited t/a Edo Restaurant DCPI 355 of 2007 
+18 and Chan Chi Ming Billy v Lau Fuk Cheung t/a Gold Full Restaurant HCPI 787 of 1997 
+19 .
+64. Both of these cases concern a slip and fall accident occurred in a restaurant. In Chan Kwok Chu, the waiters/waitresses were given, additional to their usual duties, the responsibility to clean the utensils collection area to keep it from being wet or slippery. D J Mimmie Chan (as she then was) found that, in view of the frequency that area would get wet and slippery, and the number of staff and workload, a member of staff designated to clean the area regularly should have been employed to make the place and system of work reasonably safe.
+65. Similarly in Chan Chi Ming Billy, Beeson J found, on the facts of that case, that the system and work place of the defendant restaurant was unsafe without employing a dedicated employee responsible for keeping the floor dry and not slippery.
+66. Evidently, these cases were decided on their own facts.
+67. Now, it is undisputed that there was a dedicated cleaning worker working on the 2nd Floor generally and on the day in question until 9 pm. The plaintiff's submission therefore was that there should still be a dedicated cleaning worker on duty after 9 pm.
+68. On man power and workload, the duty roster produced by the defendant showed, and I so find, that on the day in question there were nine PCW/CAs on duty working various hours. Four of them began work from 7 am, one of these four got off at 3 pm while the other three at 4 pm. Three of them started work respectively from 10:30 am (one Ms Tsui), 12 pm (one Ms Cheung) and 1 pm (that was the plaintiff) until respectively 7:30 pm, 9 pm and 10 pm. Two of them worked the night shift beginning work from 9:45 pm (that was Ms Ha) and 10:15 pm respectively. There were thus a concentration of man power from morning to early afternoon - taking care of the elderly when presumably they were more active in the day time and when they were taking their daily bath and dealing with the cleaning up afterwards.
+69. Thus, the plaintiff's claim that she was the only PCW working was only true in respect of the 45-minute period between 9 pm when Ms Cheung has gotten off work and 9:45 pm before Ms Ha began her shift.
+70. As have mentioned, the routine on the 2nd Floor was such that by 9 pm, the PCW/CAs would have finished the diaper-changing round, all of the elderly would have settled in their bed ready to sleep, if not already fallen asleep, lights (except the night lights) would be out, and the cleaning worker got off duty. Therefore, save the occurrence of an exceptional nature, the use of the toilets on the 2nd Floor after 9 pm would have to be minimal. The need of any cleaning work after 9 pm thus would normally have to be small and occasional.
+71. Ms Ha gave evidence, which I accept, that by 9 pm, there would usually be little, if any, activity; and that the duties of the PCW/CAs working on night shift consisted of walking at least one round every hour and responding to any situation, if any, that might come up.
+72. The plaintiff claimed that at the time of the accident, there were several elderly still up watching TV in the TV room; while Ms Ha said that there was only one elderly, Mr Wong Gun ( 黃根 ) who usually stayed up to watch TV. I prefer the evidence of Ms Ha. However, even assuming what the plaintiff said were true, it was not seriously disputed that these late TV watchers would be well behaved and what a PCW/CA need do was to kindly remind them to go to bed. They thus did not impose any strain on the workload.
+73. Thus, having found that the general conditions of the floors of the toilets on the 2nd Floor and particularly that of the Toilet were dry and good, and taking into account the relatively light workload of the PCW/CAs working after 9 pm and the need for cleaning after 9 pm being small and occasional, I find that it was not an unsafe system of work to place the responsibility of any such occasional cleaning after 9 pm on the PCW/CAs. I reject the plaintiff's submission that a specific cleaning worker should be employed/assigned to work after 9 pm to provide a reasonably safe system and place of work.
+
+No time to change into water boots or to dry the floor with towels? Only person on duty to respond to calls?
+
+74. It is I think clear and as a matter of common sense that for a system of work to be reasonably safe, it must be workable on the practical level. In other words, if the system of work was such that the plaintiff was given no reasonable time or opportunity to change into water boots or to dry the floor with towels, then even though she was instructed and trained to and the same were provided to her, it would still be a system that was not reasonably safe.
+75. As mentioned, the reasons repeatedly stressed in cross-examination by the plaintiff as to why she did not change into water boots before bathing Tse or after having bathed and settled Tse but before she returned to the Toilet, or to dry the floor with towels, were that she had no time and she was the only one on duty.
+76. Concerning the alleged lack of time, I bear in mind Ms Lai's evidence 20 which was undisputed and which I accept, that it would have taken the plaintiff only about one and a half minutes to fetch and change into water boots.
+77. In evidence, the plaintiff agreed with defence counsel that there was nothing urgent for her to attend to at the time of the accident.
+78. Rather, the circumstances elicited from her evidence were these. When she saw Tse in Room 17 at about 9:15 pm, she was finishing her last round of patrolling the Wings - with Room 17 as the last room - before she got off duty at 10 pm. It was about 9:35 pm when she finished bathing and settling Tse on his bed. Before she could properly hand over and get off duty, she would need to complete the following task: rinse the dirty clothing of Tse and place them into the blue bucket in the Toilet, fetch the bleaching liquid from the "Quarantine Room" (which was situated between the Lobby and Wing D), sanitize the dirtied clothing by soaking it in the blue bucket with diluted bleaching liquid, write down various entries into the log books, meet Ms Ha in the PCW duty room to go over these entries with her and walk a round together with her to complete the hand-over. When asked why she did not go to fetch the bleaching liquid first before she went into the Toilet to rinse the dirtied clothing, thereby saving herself one more trip in and out of the Toilet, the plaintiff replied that she intended to just rinse and place the dirtied clothing into the blue bucket, leaving the fetching of the bleaching liquid and the sanitization to the PCW working next shift. Evidently in my view, the plaintiff was eager to get off work; and her such intention was to minimize the task she would need to do (even though it was properly hers to do) so that she could get off work.
+79. Indeed, the "Quarantine Room" was just meters away from the room where the water boots were stored. Had she been minded, she could have, in one round, changed into water boots and fetched the bleaching liquid. This could have just taken her a minute or two.
+80. Similarly, it would have taken her just a minute or two to fetch the dry towels from Wing B.
+81. The plaintiff's other claim that she could not change into water boots or dry the floor with towels because she was the only one on duty was also another red herring. Her point was that she was the only PCW on the 2nd Floor to respond to any call for help which might be made by an elderly.
+82. The fact was, as testified to by Ms Lai and Ms Ha and not disputed by the plaintiff, that the supervising nurse, one Ms Tsui, was on duty on the 2nd Floor since 9 pm that day. She also could have responded to any call for help by an elderly.
+83. Moreover, the system in the Elderly Home was such that when an elderly pressed the call button located by his/her bedside, the ring could be heard anywhere on the 1st and 2nd Floor (there were different ring tones to distinguish whether a call was made from the 1st or the 2nd Floor). Thus, the plaintiff could have heard and responded to the call even though she might be, say, en-route to fetch the water boots or the towels, or while drying the floor of the Toilet with towels.
+84. I thus find no merits in and reject her claim that she had no time, or was under such workload to make her unable, to follow the defendant's instructions to change into water boots or to dry the floor of the Toilet with towels.
+
+Taking steps to make sure the system was followed and inadequate supervision?
+
+85. Ms Lee also submits that even if the defendant did prescribe a system of work, it is not a discharge of its duty unless it is also accompanied by its taking steps to make sure that the system is followed, citing McGregor v AAH Pharmaceuticals Ltd 1996 SLT 1161 
+21 and Zhong Ruyin v Fuk On Home of Aged Ltd DCPI 1795 of 2010 
+. 22 The gravamen of Ms Lee's submission was that there was not adequate supervision to ensure the plaintiff would follow the defendant's instructions and training.
+86. The general principle is not disputed save the steps taken only need to be reasonable. The dispute is the ambit and extent of such reasonable steps and its application to the present facts. The facts of the two cases, particularly McGreggor, are illustrative.
+87. In McGreggor, liability was established as it was held that while running a bonus system rewarding the employees per number of items removed from the shelves in a large warehouse, insufficient step ladders were provided and further there was no system to ensure that these ladders were not left randomly around but were made available in near vicinities; and that though training and a booklet on good working practice were given both of which instructed employees not to climb on shelves, managerial staff turned a blind eye to breaches of this instruction, and even on occasions gave assistance to employees who climbed on shelves and that was not accompanied by any reprimand.
+88. In Zhong Ruyin, the plaintiff, who sprained her back while trying to lift one of the elderly into a shower wheel chair by herself, won because even though there was a system whereby the plaintiff could request assistance, no actual assistance was given upon her request because of the shortage of manpower.
+89. Reading the judgment in McGreggor, in my view Lord Cameron decided the case on the basis, among others, that the defendant's condonation and even assisting in such breaches of their own instruction in fact negated the instruction, if not encouraging its breach. I do not think the learned judge held the defendant liable on the basis that it has failed to do something positive, adequately or at all, to ensure the plaintiff followed the instruction.
+90. I have above set out the training the defendant has given to the plaintiff. The training has been reinforced by periodic assessment exercises in which the plaintiff was expected to and did pass them. She was an experienced PCW. She in fact was assigned as the "mother" to guide Ms Ha, who evidently has taken the defendant's training and instructions properly and seriously. The supervising nurse was assigned as the plaintiff's superior. The supervising nurse would walk her rounds on the 2nd Floor to ensure everything was in order.
+91. Ms Lai gave evidence, which is not seriously disputed and I accept, that in addition to the above the defendant has maintained a system to ensure a PCW/CA would perform adequately, including following the defendant's training and instructions. Firstly, there was an annual written appraisal of their performance. The result of the appraisal would affect, among others, whether a PCW/CA would receive the annual increment to her salary. Secondly, if a PCW/CA breached these instructions, she would be given oral and then written warnings and ultimately she might be fired if she continued to breach. Ms Lai added that depending on the severity of the breach, appropriately stronger or weaker enforcement action might be taken.
+92. Ms Lee was quite unable to suggest other practical steps to ensure that the plaintiff would follow the training and instructions save to have her supervisor shadowing her most, if not all, of the time. I do not consider that it is reasonable to expect the defendant to have to take such further action in effect to guarantee that the plaintiff would follow its instructions and training so as not to risk her own safety. I reject the plaintiff's said submission. In my view, in the present case the defendant has adequately done its part, to follow the instructions and training was the responsibility of the plaintiff.
+
+Conclusion on liability
+
+93. By reason of the above and in the result, I hold that the plaintiff's claim is not proved, which is hereby dismissed.
+
+Quantum
+
+94. Given the dismissal of the plaintiff's claim, I will give my findings and reasons on the quantum case briefly. However, I need to set out the treatment more fully to make clear the related points.
+
+Injury and treatment
+
+95. The plaintiff attended the Accident and Emergency Department ("A&E") of Princess Margaret Hospital ("PMH") the next day after the accident at about 2 pm. Physical examination showed mild tenderness over her lower back and the sole of her left foot. X-ray showed no bone fracture. No neurological sign was noted. She was discharged with medication. Two days' sick leave was given up to 8 August 2013.
+96. On 9 August 2013, she attended Tung Chung Outpatient Clinic and was diagnosed with lower back and left foot sprain with soft tissue injury. Three days' sick leave was given up to 12th August.
+97. From 13th to 20th August, she consulted a Chinese medical practitioner four times, each time she was given two days' sick leave. The last sick leave ended on 21 August 2013.
+98. The plaintiff had an MRI on 27 August 2013 which showed a number of degenerative changes in her lower back. On 28 August 2013, the plaintiff went to see Dr Clarence Cheung and was given eight days' sick leave back dated to begin from 22 August and ended on 29 August 2013. On 29th August, the next day after she last consulted him, she saw him again and was given sick leave for seven days. In sum, she went to see Dr Cheung five times, each time on the day the last sick leave expired. She obtained sick leave from him up to 8 October 2013. Not much was known about treatment and so on from Dr Cheung as no medical report from him was produced by the plaintiff.
+99. Then, from 3 October 2013 to 24 January 2014, she consulted Dr Pun Kam Wa nine times, complaining of continuous ache from left side of her lower back radiating to left sole. Dr Pun reported that on 3 October 2013, the straight leg raising were full for both legs and muscle tone, tendon reflexes and sensation of both lower limbs were all normal, though tenderness was elicited at the midline of L4/5 region and left sacroiliac joint.
+100. On 16 October 2013, Dr Pun referred the plaintiff to A&E of PMH upon her expressing low mood and suicidal ideas. The plaintiff was then admitted to Emergency Medicine Ward ("EMW") of PMH up to 18 October 2013 when she was allowed discharge against medical advice.
+101. In the meantime, the plaintiff received 13 sessions of physiotherapy treatments from North Lantau Hospital ("NLH") since 11 December 2013 up to 5 March 2014. Since 5 March 2014, she defaulted treatment from physiotherapy department of NLH.
+102. Dr Pun opined that by 24 January 2014 the plaintiff has reached maximal medical improvement. Sick leave was given by him up to 7 February 2014.
+103. On 8 February 2014, the next day after the expiry of last sick leave, the plaintiff attended A&E of PMH for her back pain. No lower limb neurology was noted. The plaintiff was discharged with symptomatic treatment. She was given sick leave up to 12 February 2014.
+104. On 13 February 2014, the next day after the expiry of last sick leave, she attended A&E of NLH for her back pain. Examination showed she walked unaided with normal gait, range of movement of back was satisfactory and power of both lower limbs full. She was discharged and given sick leave up to 17 February 2014.
+105. From 18 February to 25 February 2014, she attended North Lantau General Outpatient Clinic three times for her back pain and obtained sick leave up to 28 February 2014.
+106. On 1 March 2014, the next day after the expiry of last sick leave, she again attended A&E of NLH for her back pain and was given sick leave up to 5 March 2014.
+107. On 6 March 2014, the next day after the expiry of last sick leave, the plaintiff attended A&E of PMH complaining of visual hallucination with insomnia. She was admitted into EMW of PMH. On 7 March 2014, she was transferred to Kwai Chung Hospital for further management of emotional instability and destructive behaviour. She was admitted into Kwai Chung Hospital from 7 March until 1 April 2014.
+108. On 19 March 2014, she was first seen by the Orthopaedic Outpatient Clinic of PMH and since has been regularly followed-up by it until 20 July 2015. Repeated sick leaves were given by it up to 25 August 2015.
+109. In the meantime since 28 May 2014, the plaintiff was referred by PMH to Occupational Therapy Department of NLH where she received work hardening program with little progress until 31 December 2014. The plaintiff was then transferred to Occupational Therapy outpatient services in United Christian Hospital. Apparently, the plaintiff defaulted after the transfer.
+110. Then on 26 August 2015 upon the expiry of the sick leave given by the Orthopaedic Outpatient Clinic of PMH, the plaintiff attended A&E of Tseung Kwan O Hospital. On 28 August 2015, she saw a private doctor Dr Yam Cheong Fat for back injury. On 8 September 2015 and then after, she attended Kwai Chung Child and Adolescent Psychiatric Centre four times for schizophrenia with depression. She obtained sick leaves from these medical services up to 3 December 2015.
+
+The plaintiff’s present complaints
+
+111. She complains of continuous and non-stop low back pain on the left side, numbness of the left lower limb on the lateral aspect of the left thigh, leg and sole with pinpricking or no sensation, and intermittent left scapular pain since December 2013.
+112. She also complains of depressed mood, worries, annoyance, poor memory, poor sleep, self-blame, appetite loss and suicidality.
+
+Joint psychiatric expert report
+
+113. In the joint report by Dr Wong Chung Kwong (for the plaintiff) and Dr Peter Yu Wai Tak (for the defendant), they agreed that:- 
+
+(a) The diagnosis was Major Depressive Disorder, Single Episode, which was caused by the accident and from which the plaintiff has recovered.
+(b) The plaintiff showed a great deal 23 of exaggeration of mental symptoms.
+(c) On psychiatric grounds, she was able to return to her previous job.
+
+
+114. Of note is that even Dr Wong for the plaintiff opined that the plaintiff's disorder at its worst severity was likely between mild and moderate 24 ; and he also concluded that "there are no physical or psychiatric disorder that can explain Ms Lau's [the plaintiff's] multiple, persistent and severe pains and severe impairment of physical functioning" 25 .
+115. The two doctors diverged in their opinion about future treatment. Dr Wong recommended psychiatric treatment from private sector for a further period of about three to six months essentially to counsel her out of the "abnormal sick role" 26 . Dr Yu disagreed and opined that there is no benefit from seeking treatment at private sector and that her prognosis depended entirely on the outcome of this litigation.
+116. Having seen the plaintiff and having regard to their conclusion that the plaintiff has recovered, I prefer the opinion of Dr Yu and would not make any award for future treatment.
+117. The two doctors also have different opinion on sick leave on psychiatric grounds, which I will discuss later.
+
+Joint orthopaedic expert report; my finding on present complaints, prognosis and ability to return to pre-accident work
+
+118. In the joint report by Dr Fu Wai Kee (for the plaintiff) and Dr Chun Siu Yeung (for the defendant), they agreed that:- 
+
+(a) the diagnosis was a soft tissue injury of back (Dr Chun further termed it as "minor trauma") which should be the result of the accident;
+(b) that the left shoulder pain was not related to the accident;
+(c) that the degenerative changes in the spine should be pre-existing; and
+(d) that the plaintiff had reach maximal medical improvement.
+
+
+119. On present orthopaedic complaints, Dr Chun was of the clear view that the plaintiff has exaggerated and expanded her symptoms and disability out of proportion to the initial minor trauma. He supported his opinion by the fact that there was significant presence of non-organic signs, that the sensory reduction on the whole left lower limb was non-anatomical and could not be explained by MRI findings, that the cogwheel weakness on muscle power testing was not supported by the MRI or objective signs, and that there was no wasting of the left lower limb to support the symptom and disability.
+120. Dr Fu did not dispute any of these and agreed that "some of her symptoms cannot be completely explained on clinical grounds" 27 .
+121. When talking about the degenerating changes 28 , Dr Fu commented that the accident should have turned the asymptomatic degeneration into symptomatic one. Dr Fu's such comment must be premised on the fact that the plaintiff in fact truly suffered or truly continues to suffer the symptoms she alleged.
+122. I have closely observed the plaintiff in the two days she gave evidence in the witness stand. On several occasions when referring to the floor plan Exhibit D-1 held in her hand and being eager to show defence counsel wrong, she spontaneously without aid of her hands stood up from the witness stand and maintained for some while a half stand-up leaning forward posture. In so doing and when sitting down giving evidence in these two days, there was no indication of discomfort, pain or weakness from the left side or at all.
+123. The contemporaneous reports from treating doctors, particularly that from Dr Pun and A&E of NLH, clearly showed that even then the plaintiff was not suffering such severe symptoms as she now alleged. She also defaulted physiotherapy treatment in March 2014. The pattern of the timing of her seeking medical help, as revealed by the treatment history quite fully set out above, was that almost invariably she sought medical help on the day or the next day after the last sick leave has expired. In testimony she explained that fact by saying she was really feeling painful at the time. I find it highly improbable and do not believe that almost invariably in so many instances that she would feel so painful as would need help precisely when the sick leave expired.
+124. For these reasons I prefer the opinion of Dr Chun and find that the plaintiff has been exaggerating, totally out of proportion to her relatively minor injury, her symptoms and present complaints.
+125. Dr Chun opined that the plaintiff's prognosis is good and can return to her pre-accident occupation. Dr Fu opined she cannot and need to shift to lighter duties. For the same reasons expressed above, I prefer the opinion of Dr Chun and find that the plaintiff can return to her pre-accident occupation.
+
+Pain, suffering and loss of amenities
+
+126. The plaintiff claims HK$300,000 under this head, citing Tsang Chiu Yi v Ho Kwok Leung HCPI 305 of 2013 
+29 , Tam Wai Tuen v Seiko Screw Manufactory Ltd. HCPI 383 of 2008 
+30 and Fung Lee Hung v The Spastics Association of Hong Kong DCPI 1112 of 2005 
+31 . Without discussing each of them, it is quite clear that the injuries, disabilities and loss of amenities suffered by the plaintiffs in these cases were more severe than those suffered by the plaintiff as I have found them.
+127. The defendant submits the proper award under this head is HK$90,000, citing four cases involving soft tissue injury of back awarding HK$90,000 to HK$100,000 for PSLA. They are Chu Sio Long v Cheung Ho Yin DCPI 580/2011 
+32 , Tamang Udas v Global Sunny Engineering Ltd. HCPI 732/2011 
+33 , Lau Wing Yeung v. Kowloon cricket Club HCPI 955/2013 
+34 , Yip Mau Kei v Wong Kam Tin DCPI 1905/2013 
+35 .
+128. In my view the injuries and loss suffered by the plaintiff are comparable to those in the four cases cited by the defendant. Taking into account also the psychiatric disorder single episode of mild to moderate severity suffered by the plaintiff, I would have awarded HK$120,000 to the plaintiff for PSLA.
+
+Pre-trial loss of earning
+
+129. Based on Dr Fu's opinion endorsing the sick leaves issued by the treating doctors 36 totalling 809 days, the plaintiff claims loss of earning for that period.
+130. It is rightly accepted by Ms Lee that the court is not bound by the mere issue of sick leave certificates. As jointly opined by the Psychiatric experts and by Dr Chun, whose opinion I prefer over that of Dr Fu, which is also my finding, that there is clearly a great deal of symptom exaggeration by the plaintiff, I would not accept the certificates issued by the treating doctors as reliable evidence to show that the plaintiff was in fact unfit to work at the time.
+131. Dr Chun opined that reasonable sick leave should not be more than six weeks 37 . The learned doctor based his opinion predominantly, if not solely, on the reasoning that "prolonged sick leave is harmful instead and against basic principles of rehabilitation for low back pain without objective neurological deficit". In support he cited in seven paragraphs in the Joint Report various studies undertaken by foreign institutes/authors, mainly from the UK. I must however take note that the general working conditions and environments in the UK and other countries are very likely to be significantly different from those in Hong Kong, such that I could not find it safe to accept the results of these studies in a wholesale and unreserved manner, as Dr Chun has, as necessarily applicable to a situation in Hong Kong such as the plaintiff's. Thus, I find myself not much assisted by Dr Chun's such opinion on sick leave based on these studies.
+132. Psychiatrically, Dr Yu opined no sick leave was required as the mental symptoms were not severe. Dr Wong recommended granting sick leave for six months covering a period three months prior to and after the date of her admission into Kwai Chung Hospital, ie from 7 December 2013 to 6 June 2014.
+133. I note that Dr Pun, also a specialist in Orthopaedics and Traumatology, then treating the plaintiff opined that she has reached maximal medical improvement on 24 January 2014 and he granted sick leave to her up to 7 February 2014.
+134. In the round, I accept Dr Pun's opinion on sick leave orthopaedically and take the view that the plaintiff should be given sick leave up to 7 February 2014. Between the two psychiatric experts, I prefer the opinion of Dr Wong on sick leave and take the view that psychiatrically, sick leave should be granted to the plaintiff up to 6 June 2014.
+135. There is no dispute that the plaintiff's monthly salary was HK$14,460. Her loss of pre-trial earnings with MPF therefore would have been for the period up to 6 June 2014: HK$14,460 x 10.1 months x 1.05 = HK$153,348.
+
+No future loss of earnings, loss of earning capacity and future medical expenses
+
+136. By reason of my findings that the plaintiff can return to her pre-accident occupation, that she suffers no disability and my finding against Dr Wong's recommendation for future medical treatment, I would not have made any award under these three headings.
+
+Special damages
+
+137. The defendant agreed to various items of special damages, save that it maintained as a matter of principle that medical expenses incurred after the sick leave period should not be allowed. Falling into that category was only the medical expenses paid to Tseung Kwan O Hospital in the sum of HK$400 incurred in August 2015. I disallow this HK$400.
+138. The award for special damages therefor would have consisted of medical expenses of HK$3,890 (HK$4,290 - HK$400), travelling expenses of HK$2,000 and tonic food of HK$3,000, totalling HK$8,890.
+
+Interest
+
+139. I would have awarded the usual interests, at 2% on the sum awarded for PSLA from the date of writ to the date of trial, and at half judgment rate of 4% on the awards for pre-trial loss of earnings and special damages from the date of accident to the date of trial.
+
+Summary of award; netting amount paid under DCEC 2188/2014
+
+140. Thus, I would have awarded PSLA at HK$120,000, pre-trial loss at HK$153,348 and special damages at HK$8,890, totalling HK$282,238.
+141. The plaintiff was paid HK$344,555.15 under her claim for employee compensation in DCEC 2188/2014, which is more than my award above. Thus, even if I had found liability in favour of the plaintiff, I would still have dismissed this action.
+
+Disposition
+
+142. I therefore dismiss the plaintiff's action and make the costs order nisi that the plaintiff do pay the defendant costs of this action with certificate for one counsel, to be taxed if not agreed, and the plaintiff's own costs be taxed according to the Legal Aid Regulations. The costs order nisi will become absolute unless an application by summons to vary the same is taken out within 14 days of the handing down of this judgment.
+143. It remains for me to thank counsel for their assistance.
+ 1§6 of her witness statement
+ 2ibid
+ 3ibid
+ 4§7 of her witness statement
+ 5ibid
+ 6§9 of her witness statement, respectively sub-paragraph (i) to (vi)
+ 7The allegation of "without proper partition" was made in §10 of her witness statement
+ 8§11 of her witness statement
+ 9ibid
+ 10§11 of her witness statement
+ 11ibid
+ 12In the statement of claim, the plaintiff alleges (a) breach of the common duty of care under Section 3 of Occupiers Liability Ordinance Cap 314, (b) breach of statutory duty to ensure the safety and health at work of an employee under Section 6 of Occupational Safety and Health Ordinance Cap 509, (c) failure to ensure that a preliminary assessment was made of the risks to the health and safety of employees under Regulation 23 of Occupational Safety and Health Regulations Cap 509A, (d) under common law, negligence and breach of a term in the contract of employment to take all reasonable precautions for the safety of the plaintiff while at work.
+ 13pp 533 and 534 of trial bundles
+ 14see photos at pp 522 to 525 of trial bundles
+ 15Exhibit D-1
+ 16P 218 to 219 of trial bundles
+ 17Exhibit D-1
+ 18DCPI 355 of 2007
+ 19HCPI 787 of 1997
+ 20paragraph 16(1) of her witness statement
+ 211996 SLT 1161
+ 22DCPI 1795 of 2010
+ 23This description of "great deal" was taken from Dr Wong's opinion at paragraph 75 of the report
+ 24paragraph 69 of the report
+ 25paragraph 67 of the report
+ 26paragraph 85 of the report
+ 27in paragraph 108 of that report
+ 28in paragraph 100 of that report
+ 29HCPI 305 of 2013
+ 30HCPI 383 of 2008
+ 31DCPI 1112 of 2005
+ 32DCPI 580/2011
+ 33HCPI 732/2011
+ 34HCPI 955/2013
+ 35DCPI 1905/2013
+ 36para 123 of the joint orthopaedic expert report
+ 37para 115, ibid
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+ 

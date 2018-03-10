@@ -1,0 +1,176 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 03 March, 2018 at 23:58 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Yui Tat Nam Darney v Century Bridge Ltd
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Yui Tat Nam Darney v Century Bridge Ltd
+
+
+
+28 October 2016
+District Court
+DC
+Civil Action No 2399 of 2016
+DCCJ 2399/2016
+
+Citations:[2016] HKEC 2515 English Judgment
+
+Presiding Judges: Deputy Judge Winnie Tsui in Chambers
+
+Phrases: Civil procedure - summary judgment - action for nuisance, negligence and breach of the deed of mutual covenant arising from water leakage into premises - whether defence raised triable issues - effect, if any, of lack of expert evidence on cause of leakage
+
+Counsel in the Case: Mr Martin Wong, instructed by Hau, Lau, Li & Yeung, for both plaintiffsMr Matthew Ngai, instructed by C K Mok & Co, for the defendant
+
+Cases cited in the judgment: Billion Silver Development Ltd v All Wide Investments Ltd [2000] 2 HKC 262 
+Man Earn Ltd v Wing Ting Fong [1996] 1 HKC 225 
+Ng Shou Chun v Hung Chun San [1994] 1 HKC 155 
+Wing Hang Bank Ltd v Liu Kam Ying [2002] 2 HKC 57 
+張秀玲 對 鄭禮莊 (unrep., CACV 268/1998) 
+Bank of China (Hong Kong) Ltd v Twin Profit Ltd [2010] 2 HKLRD 1065 
+
+Comprehensive Auto Restoration Ltd v Lee Seng Siew (unrep., CACV 159/2012, [2013] HKEC 857) 
+
+Toy Major Trading Co Ltd v Hang Shun Plastic Toys Ltd [2007] 3 HKLRD 345 
+
+
+Judgment: 
+
+
+Deputy Judge Winnie Tsui in Chambers
+1. This is the plaintiffs' application for summary judgment.
+2. This is a water leakage case. The plaintiffs, who are the owners of a basement unit in an industrial building in Kowloon (the "Basement" and the "Building" respectively) sue the defendant, who is the owner of a ground floor unit of the Building (the "Ground Floor Unit"), claiming that there has been water leaking into the ceiling of the Basement since September 2015 and the water has originated from the Ground Floor Unit.
+3. The plaintiffs' claim is for nuisance, negligence and breach of the deed of mutual covenant in respect of the Building. In the prayer of the statement of claim, the plaintiffs seek damages and injunctive relief. In the Order 14 summons, the plaintiffs, however, only ask for interlocutory judgment be entered against the defendant with damages to be assessed. There is no mention of the injunctive relief in the summons.
+4. Mr Matthew Ngai, counsel for the defendant, sought to argue at this morning's hearing that it would not be just to allow the plaintiffs to be granted the injunction if they succeed in their application.
+5. Mr Martin Wong, counsel for the plaintiffs, did not agree. He submitted that the injunctive relief has been clearly set out in the prayer of the statement of claim and the defendant ought reasonably to have expected that the injunctive relief would be sought as well. In any event, the intention to seek the injunction is clearly spelt out in Mr Wong's written submissions.
+6. In my view, an injunction to compel a defendant to stop further nuisance is a common remedy if the nuisance is established. Given that and the fact that the injunctive relief is pleaded in the statement of claim and referred to in the plaintiffs' skeleton submissions, there is really no prejudice in allowing the plaintiffs to seek such relief at today's hearing in the sense that the defendant would not have prepared its case any differently if the injunctive relief had also been included in the summons. There is no unfairness or injustice as alleged by the defendant. And I would be prepared to grant injunctive relief if I am satisfied that summary judgment ought to be given.
+
+Factual Background
+
+7. I first set out below the background facts which are common ground or are not in any serious dispute.
+8. The plaintiffs acquired the Basement in late 2011. Since about August 2012, the plaintiffs had let the property to a tenant who used it as a warehouse and packaging workshop for its fruit retail business. The defendant acquired the Ground Floor Unit in March 2013. It was let to a tenant who has taken possession of the unit since June 2015 and has been operating a canteen there.
+
+The Plaintiffs’ Case
+
+9. The 2nd plaintiff made two affirmations in these proceedings in support of the Order 14 application. The plaintiffs' case is essentially this. The Ground Floor Unit is directly above the Basement. In this regard, the 2nd plaintiff has referred to the floor plans of the ground floor and the basement floor of the Building. The two plans do not appear to be on the same scale and no attempt has been made by the plaintiffs to align the two plans in order to show how one unit overlaps onto the other if viewed directly from above. Nevertheless, one can readily come to the conclusion that a sizeable portion of the Ground Floor Unit is shown to be directly above the Basement if one takes certain features in the plans as reference points in comparing the plans, such as the solid pillars and the lift shafts, as pointed out by Mr Wong.
+10. In September 2015, water was first found to be leaking into the ceiling of the Basement, and the water leakage affected also the walls and flooring of the Basement. (I pause here to note that this was about three months after the defendant's tenant moved into the Ground Floor Unit. It is not known exactly when the canteen started business after that.)
+11. As there were large areas affected by the water leakage, the tenant in the Basement moved out on 1 October 2015 as the Basement was no longer fit for occupation. Based on a review of the floor plans of the Building by a professional engaged by the plaintiffs, it transpired that the source of the water originated from the kitchen of the canteen in the Ground Floor Unit.
+12. The plaintiffs promptly complained to the management office of the Building and soon began to engage in direct communication with the defendant by letters in which the plaintiffs explicitly referred to the water leakage as coming from the kitchen area in the Ground Floor Unit.
+13. It certainly appears from those letters exchanged in October and November 2015 that the defendant had initially been very responsive to the plaintiffs' letters and had been adopting a co-operative attitude and seemed genuine in its efforts in trying to resolve the issue. Most noteworthy of those letters are the following ones from the defendant to the plaintiffs: 
+
+(1) letter of 9 November 2015 in which the defendant stated that a visit had been made to the Ground Floor Unit in order to ascertain the leakage problem, and the defendant invited the plaintiffs to discuss the matter face-to-face;
+
+(2) letter of 16 November 2015 in which the defendant mentioned that he wished to make arrangement for some renovation contractor to inspect the Basement in order to decide what repair works were needed;
+
+(3) letter of 24 November 2015 in which the defendant made a detailed proposal to "eradicate the leakage problem" (my translation) and invited the plaintiffs to work together so that the parties could co-ordinate with each other to fix the issue. The proposed work was to repair or seal the crack found in the ceiling of the Basement.
+
+
+14. Not surprisingly, Mr Wong now relies on those letters to contend that the defendant had never disputed its liability.
+15. There was then a negative turn of event which might have been triggered by the plaintiffs' letter dated 3 December 2015. In that letter, the plaintiffs agreed to the proposed repair work. They then went on to demand a sum of about $137,000 from the defendant as compensation for the loss caused by the water leakage.
+16. The next letter that followed was one from the defendant. It was noticeably a short one in which the defendant informed the plaintiffs that the matter had been referred to its insurer for further handling and follow-up.
+17. Since then, the defendant does not appear to have written to the plaintiffs directly, and there does not appear to have been any follow-up taken by any insurer either. In the meantime, water leakage persisted at the Basement. The water leakage was found to be partially abated after some renovation works were carried out in the Ground Floor Unit in February 2016, but it has never stopped completely.
+18. The plaintiffs contend that the water has originated from the Ground Floor Unit. In this application, the plaintiffs have filed no expert report on the cause or potential cause of the leakage. Instead, Mr Wong invites the court to take into account the following factual matters and by deduction come to the conclusion that the Ground Floor Unit has been the source: 
+
+(1) The affected part of the Basement is located next to a pump room. At the plaintiffs' request, the management office checked the pump room and found no sign of water on either the floor or the ceiling of the pump room.
+
+(2) The leakage has been found in the middle part of the ceiling of the Basement and not its side walls. This seems to suggest that the water did not come through the side walls from above.
+
+(3) The defendant referred to a crack on the ceiling of the Basement in respect of which repair work was earlier proposed. This seems to suggest that water has been coming down from directly above through the crack and not from the side walls.
+
+(4) Directly above the leakage location is the kitchen area of the canteen operated by the defendant's tenant.
+
+(5) The Ground Floor Unit was renovated in February 2016 and water leakage abated partially, which seems to suggest that the leakage did have a connection with the state of the Ground Floor Unit.
+
+
+
+The Defendant’s Case
+
+19. The defendant has so far not raised any positive case. The defence primarily pleads non-admission to the plaintiffs' case and further contains a bare denial to the plaintiffs' plea that the Ground Floor Unit was the cause of the water leakage without any elaboration. The pleas of non-admission are not understood, in particular, those in reply to the plaintiffs' recount of the correspondence between the parties. The fact and content of the correspondence should not be controversial. In fact, the letters have been exhibited to the affirmation made by the director of the defendant in opposition to the plaintiffs' Order 14 application.
+20. Another prominent feature of the defendant's case is that in neither the opposing affirmation nor the defendant's skeleton submissions is there any rebuttal of the factual matters relied on by the plaintiffs as set out above save that the defendant describes the Ground Floor Unit as being "partly" above the Basement.
+
+21. The defendant's stance in these proceedings can be gathered from the following documents - in the affirmation filed by the defendant at paragraph 6: " The Plaintiffs carry the burden to establish the source of water leakage does lie within the Defendant's property. The present case is to the contrary. The Plaintiffs have not even at all explicitly made clear to the Court and to the Defendant exactly where they believe the source be at or which part of the property they suspect to have been causing leakage. Further, such mere speculation is without any expert opinion. "
+
+22. Then in paragraph 13: "It is only just that the Defendant would not be in any position to admit or deny liability in the present circumstances. Once again, the Plaintiffs have the burden to prove the source of leakage which may well be a difficult task without any expert opinion. It is my understanding that the Plaintiffs in their correspondence seem to have wrongly shifted the burden to the Defendant in identifying the source of leakage Without any identification on the source of leakage however, the Defendant simply is in no position to admit or deny an arbitrary allegation."
+
+23. Mr Ngai argues in his skeleton submissions as follows. "This is an action with respect to water leakage and it is thus inherently and vastly fact sensitive. Issue of liability is determinative on findings of fact as to the source of water leakage. The only credible and reliable evidence on the origin(s) of water leakage must be the evidence of expert(s) and it must also be evidence which the Court would accept and/or find more favourable in a trial hearing." (paragraph 18)
+"It is D's position that liability is denied, in that Workshop 1C being the source of water leakage to the Basement is denied" (paragraph 19)
+"The Court is invited to dismiss Ps' summary application on the basis of serious material factual dispute and further in the absence of professional opinion to assist the Court on the issue of liability." (paragraph 20)
+
+
+24. In gist, it seems that the defendant's submission is based on two main planks. First, the plaintiffs have failed to produce any expert evidence to show the cause of water leakage when expert evidence is the "only credible and reliable" evidence in this regard. Secondly, the plaintiffs have in any event failed to discharge their burden to prove the origin of the leakage.
+
+Legal Principles on Order 14
+
+25. In view of how the defendant has argued the case, namely, on the basis of burden of proof and the nature of the evidence required, it is necessary to look at the general principles governing Order 14 more closely and in greater detail than is normally necessary in this kind of application.
+26. The principles are well-settled. Unless otherwise stated, the following statements are extracted from Hong Kong Civil Procedure 2017: 
+
+(1) Order 14 is a summary procedure. Its underlying policy is to prevent a defendant from delaying the plaintiff from obtaining judgment in a case in which the defendant clearly has no defence to the plaintiff's claim: see paragraph 14/4/1. See also Man Earn Limited v Wing Ting Fong [1996] 1 HKC 225 . This fundamental feature was emphasised by Cheung JA in Comprehensive Auto Restoration Limited v Lee Seng Siew CACV 159/2012 , 30 May 2013 at paragraph 12. He remarked that the procedure enables the court to dismiss an unmeritorious defence and give judgment to the plaintiff without going through a trial.
+
+(2) An application must be properly constituted. It would be so if, first, the case comes within the Order, ie, it does not belong to the types of actions listed in Order 14, rule 1(2) which are specifically excluded from the operation of Order 14 and, secondly, the plaintiff has satisfied the preliminary requirements as set out in Order 14, rules 1(1) and 2: see paragraphs 14/1/3 and 14/4/1.
+
+(3) It is important to understand how the Order 14 regime operates in order to achieve the above policy. The machinery of Order 14 works on the basis that if the plaintiff's application is properly constituted, he is prima facie entitled to judgment unless the defendant shows cause to the contrary or the application is dismissed: see paragraph 14/4/1. This machinery is expressly provided for in the rules themselves: see Order 14, rules 3(1) and 4(1).
+
+(4) In an Order 14 application, the burden is therefore on the defendant to raise triable issues or other reasons so that leave to defend ought to be given. The burden is generally considered to be of a low threshold. For instance, it is well-known that any relevant factual allegation made by the defendant needs only to be believable as opposed to "to be believed": see, eg, Ng Shou Chun v Hung Chun San [1994] 1 HKC 155 at 158. In order to oppose an Order 14 application, the defendant's task is to raise an arguable defence. As Ma CJHC (as he then was) put it in Toy Major Trading Company Limited v Hang Shun Plastic Toys Limited [2007] 3 HKLRD 345 at paragraph 12, the defendant is expected to demonstrate a fair probability or reasonable grounds that a bona fide defence exists.
+
+(5) The Order 14 procedure is sometimes compared to the summary procedure under Order 28, rule 4(1). The latter procedure is "akin to an application for summary judgment under O.14, but with the difference that the burden is not cast upon the defendant as in O.14. Unlike O.14 applications, the plaintiff must first justify its entitlement to summary judgment, but once this is demonstrated prima facie on the evidence, the burden falls on the defendant to show that he has a defence to the claim.": see Bank of China (Hong Kong) Limited v Twin Profit Limited [2010] 2 HKLRD 1065 at paragraph 8 per Fok J (as he then was). See also Wing Hang Bank Limited v Liu Kam Ying [2002] 2 HKC 57 at paragraphs 7 and 10, per Ma J. This comparison echoes the points made in (3) above on the machinery of Order 14, namely, that once the application is properly constituted, the burden is on the defendant to show why the case should proceed to trial.
+
+(6) Having said that, however, it remains important for the plaintiff to put forward a plausible and prima facie sustainable case for if he fails to do so, that must mean that the defendant will be able to show cause against judgment being entered. An illustration of this point can be found in Billion Silver Development Limited v All Wide Investments Limited [2000] 2 HKC 262 , a case cited by Mr Ngai. Where there are doubts, suspicions, genuine weaknesses in the plaintiff's own case, these doubts would detract from the plaintiff's right to summary judgment: see 268C-D.
+
+(7) It is trite that the defendant must "condescend upon particulars" and should as far as possible deal specifically with the plaintiff's claim and affidavit and state clearly and concisely what the defence is and what facts are relied on to support this. As Ma J explained in the Toy Major case, this obligation is to ensure that where a plaintiff raises a plausible and prima facie sustainable case, a defendant can convince the court there exists a triable issue so that leave to defend is given or the application for summary judgment is dismissed: see paragraph 14/4/4. I think it may be said that the more plausible the plaintiff's case is, the more specific and particularised the defence needs to be so as to convince the court that there are indeed issues that ought to be tried.
+
+(8) And that is generally the reason why it is always said that a bare denial on the part of the defendant is not sufficient to resist an Order 14 application.
+
+
+
+Analysis
+
+27. There are two slightly unusual features in this Order 14 application. First, neither party has adduced any expert evidence on the source of the water leakage. (I should add that the fact of the water leakage at the Basement does not appear to be in dispute, according to Mr Ngai's submissions.) That said, however, there is no authority to the effect that expert evidence must be adduced in order to resolve the issue of the cause of any water leakage, as Mr Ngai seemed also to have accepted.
+28. Secondly, the defendant's defence seems to be that the burden is on the plaintiffs to prove or at least point to the cause and that since they have not done so, not least because they have not engaged any expert to comment on the cause, the defendant is in no position to admit or deny liability, as suggested by the defendant in the opposing affirmation.
+29. I say this is unusual because the defendant's stance is clearly a deviation from the general principles governing Order 14 applications which I have sought to set out in some detail above based on the White Book and well-known Order 14 cases. And it is these principles which I shall now apply to the present case.
+30. I shall start by pointing out that there should not be any doubt that the plaintiffs' application is properly constituted as the action is within the scope of the Order and all the procedural requirements have been complied with. As such, the plaintiffs are prima facie entitled to judgment unless the defendant is able to show cause otherwise.
+31. I would further observe that the case as put forward by the plaintiffs as to the origin of the water leakage is inherently plausible and prima facie sustainable. I am of the view that the factual matters relied on by Mr Wong form a sound and sufficient factual premise based on which the conclusion that the Ground Floor Unit was the source of the water that has been leaking into the Basement ceiling can be legitimately and reasonably deduced. The position of the two units, the location of the water leakage, the identification of the crack on the ceiling and the lack of water leakage in nearby space or walls are all factors that the court can take into account in determining the cause.
+32. I also consider that the fact that the water leakage occurred shortly after the canteen started business in the Ground Floor Unit and that the leakage partially improved after the renovation work in February 2016 is a relevant factor pointing to the Ground Floor Unit being the source, given that there had apparently been no previous problem of water leakage suffered or experienced by the former tenant of the Basement.
+33. There is of course no presumption that water leaking into a flat below comes from the flat above. See 張秀玲 對 鄭禮莊 CACV 268/1998 
+, 9 April 1999, a case cited by both counsel. But Mr Wong's analysis of the case does not rest on any such presumption. One may say that the matters relied on by the plaintiffs are not overwhelmingly conclusive factors pointing to the cause being the Ground Floor Unit. Yet they present a positive, reasonable and well-reasoned case and thus cannot and should not be dismissed casually out of hand, as what the defendant seems to have done here.
+34. In view of the above, the burden falls squarely on the defendant to convince the court that there are issues to be tried at trial or that it has an arguable defence. It may do so by attacking or challenging the plaintiffs' own case - such as refuting, where possible, the factual matters relied on by the plaintiffs, for example, the relative positions of the two units, the existence of the ceiling crack, whether the kitchen area of the canteen is directly above that part of the ceiling where water leakage has been found.
+35. What is remarkable in this case is that the defendant has done none of the above. It must be borne in mind that a number of these matters are within the power of the defendant to find out. Yet it has made no attempt to refute the factual basis from which the plaintiffs' conclusion is drawn. Neither has it mounted any challenge as to whether the deduction exercise gone through by the plaintiffs is a logical one. All it has to say about the plaintiffs' case is that it is unsupported by expert evidence and that it is for the plaintiffs to pinpoint the source of water leakage, for example, the types of pipes from which the water originated. Mr Ngai emphasised at the hearing that a general reference to the kitchen area is not good enough. Until that is done, the defendant cannot even decide whether to admit or deny liability.
+36. In my view, the defendant's position is flawed in two fundamental respects. First, as remarked above, there is no law, rule of practice or rule of evidence mandating the use of expert evidence in a water leakage case. Ultimately, the cause of the leakage is a factual issue that will be decided by the court. It is wrong for the defendant to say that expert evidence is the "only credible and reliable evidence" on the cause in a water leakage case, such as the present one.
+37. Secondly, as is clear from the discussion above, in a summary judgment application (as opposed to a trial), as the plaintiffs have made out a prima facie sustainable case, the burden is on the defendant to show an arguable defence. A bare denial is clearly insufficient. Given the requirement for the defendant to condescend to particulars in order to meet the plaintiffs' case (albeit to the relatively low threshold of raising an arguable defence), it would not do for the defendant to adopt the position that it does now. In order to discharge its burden, it may have to go and carry out its own investigation and come up with other potential sources, if any.
+38. As far as the court can see, it has taken a completely laid back and passive approach in these proceedings. Clearly, under the Order 14 infrastructure, this is not good enough. There is a burden on the defendant though, as is often said, it is not a heavy one. Yet the defendant has taken no step at all effectively to discharge this burden by, for example, challenging the plaintiffs' own case, factual or otherwise, or putting up any potential defence. In the premises, the defendant must be taken to have no triable issue or arguable defence to put forward in this case. It follows that summary judgment must be entered.
+
+Conclusions
+
+39. I make the following orders: 
+
+(1) The defendant be restrained, whether by its servants, agents or otherwise, from causing, suffering or permitting to suffer any water leakage from the Ground Floor Unit to the Basement.
+
+(2) Interlocutory judgment be entered against the defendant for damages to be assessed.
+
+(Discussion re costs)
+
+(3) The plaintiffs do have costs of the application and costs of the action up to today, with certificate for counsel, such costs be summarily assessed in aggregate at $105,000.
+
+
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

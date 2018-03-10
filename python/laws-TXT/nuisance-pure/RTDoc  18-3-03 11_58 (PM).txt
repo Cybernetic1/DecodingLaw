@@ -1,0 +1,379 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 03 March, 2018 at 23:58 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Ma Kam Har Annie v Tang Lai King
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Ma Kam Har Annie v Tang Lai King
+
+
+
+29 November 2016
+District Court
+DC
+Civil Action No 3884 of 2014
+DCCJ 3884/2014
+
+Citations:[2016] HKEC 2582 English Judgment
+
+Presiding Judges: Deputy Judge D To
+
+Phrases: Tort - negligence - nuisance - water leakage from premises to premises immediately below - determination of source of leakage - evaluation of expert reports
+
+Counsel in the Case: Mr Matthew Ngai, instructed by Ong & Chung, for the 1st and 2nd plaintiffsMr Frederick H F Chan, instructed by Keith Lam Lau & Chan, for the defendant
+
+Cases cited in the judgment: Cheung Sau Ling & Another v Cheng Lai Chong (unrep., CACV 268/1998) 
+Kennedy v Cordia (Services) LLP [2016] UKSC 6 
+Wilson v HM Advocate 2009 JC 336 
+Wong Yim Fong 對 Lee Hok Chau (unrep., DCCJ 343/2013, [2014] CHKEC 700) 
+Good Century Investment Ltd v Yim Kin Kuo (unrep., DCCJ 4980/2013, [2015] HKEC 2487) 
+
+Hui Ling Ling v Sky Field Development Ltd (unrep., HCA 35/2007, [2012] HKEC 637) 
+
+Thompson v Smiths Ship Repairers (North Shields) [1984] QB 405 
+
+Waghorn v George Wimpey & Co Ltd [1970] 1 All ER 474 
+
+Wong Ping Chun v Giant King Corp Ltd (unrep., DCCJ 4020/2012, [2016] HKEC 623) 
+
+Yan Wing Fai Rick v Century One Ltd (unrep., DCCJ 2773/2009, [2011] HKEC 167) 
+
+皇河實業有限公司 v Wan Chiu Yuen (unrep., DCCJ 4448/2011, [2015] HKEC 609) 
+
+
+Judgment: 
+
+
+Deputy Judge D To
+1. This is a case of water leakage dispute between owners of adjoining upper and lower units in a multi-storey residential building.
+2. Having sensibly abandoned their reliance on the rule under Rylands v Fletcher and the doctrine of res ipsa loquitur at trial, the plaintiffs' causes of action are now narrowed down to breach of the Deed of Mutual Covenant ("DMC"), nuisance and/or negligence.
+
+Issues for determination
+
+3. In the identification of source of leakage which is a common issue in all water leakage disputes, this case can be tagged as a complicated one. Not only that the perplexed professionals involved hold rather extreme views, the methodologies and approaches customarily deployed by the plaintiffs' expert are for the first time being challenged and tested in court.
+4. Core issues for determination include the following:- 
+
+(1) Whether the defendant's unit is the source of the water leakage?
+
+(2) If answer to (1) is in the affirmative, whether the defendant is liable for breach of DMC, nuisance and/or negligence ?
+
+(3) If answer to (2) is in the affirmative, whether the damages to the plaintiffs' unit were attributable to the defendant's breach or fault? and
+
+(4) If answer to (3) is in the affirmative, what is the quantum of damages and whether injunctive relief should be granted?
+
+
+5. In relation to core issue (1) on source of leakage, the following are, inter alia, sub-issues for consideration: 
+
+(i) Whether there was inherent leakage problem in the defendant's unit such that there was already water entrapped in the floor slab of the guest bathroom before she took possession?
+
+(ii) If answer to (i) is in the affirmative, whether the entrapped water seeped to the ceiling of the guest bathroom of the plaintiffs' unit?
+
+(iii) Whether the new water-proofing membrane of the floor slab in the guest bathroom re-laid by the defendant upon possession was defective?
+
+(iv) Whether the source of leakage can be identified by the positive result of the 1st ponding test?
+
+(v) Whether repair work was carried out and defect remedied by the defendant pursuant to the nuisance notice?
+
+(vi) Whether the negative result of the 2nd ponding test can be explained in light of all available evidence?
+
+(vii) Whether the moisture content test was properly conducted by the plaintiff's expert such that the data and findings are reliable?
+
+(viii) Whether the combined analysis of dye test and moisture content test results conducted by the plaintiff's expert was acceptable and reliable?
+
+(ix) Whether the external wall was sufficiently excluded as a probable source of leakage? and
+
+(x) Whether the continuation of leakage can be explained in light of all available evidence?
+
+
+
+Background
+
+6. The plaintiffs are the registered owners and occupiers of Flat B on the 13th Floor of Maple Mansion in Taikoo Shing ("Flat 13B") whereas the defendant is the registered owner of Flat B on the 14th Floor of the same building ("Flat 14B").
+7. On 9 May 2012, vacant possession of Flat 14B was delivered to the defendant as the new owner. According to the defendant, renovation work commenced on 10 May 2012 and was completed in end of July 2012.
+8. During the said renovation period, the plaintiffs in about June or July 2012 first noticed signs of water leakage in Flat 13B.
+9. The Building Department and Food and Environmental Hygiene Department's Joint Office ("the Joint Office") was first to be involved to carry out investigation. Moisture content test was conducted at the various suspected areas of seepage at Flat 13B.
+10. The said moisture content test revealed that moisture content at the ceiling of guest bathroom, master bathroom and corridor outside guest bathroom of Flat 13B exceeded 35% which suggested apparent water seepage. For this reason, the Joint Office referred the matter to its consultant, Paul Wong Consulting Engineers Limited ("the Consultant") for further investigation.
+11. The Consultant carried out investigation on four occasions: 16 November 2012, 15 January 2013, 28 February 2013 and 25 March 2013. These investigations included visual inspection, colour water test for sanitary fitments, moisture content test, and ponding test.
+12. The ponding test conducted on 15 January 2013 yielded positive result; colour dye was noted at the seepage areas ("the 1st Ponding Test"). The Consultant in its report dated 27 March 2013 recommended the source of leakage should be the defective water-proofing material on the floor slab of the guest bathroom in Flat 14B.
+13. This led to the issuance of the nuisance notice dated 3 May 2013 from the Joint Office to the defendant requiring her to repair the defect.
+14. Supported by a receipt issued by her contractor, the defendant said remedial work was done to the water-proofing membrane of the floor slab in her guest bathroom on 14th May 2013. This was not challenged under cross-examination.
+15. However, water leakage at Flat 13B still continued.
+16. The Consultant was once again instructed by the Joint Office to carry out further investigation at both 13B and 14B. They did so on two occasions: 15 October 2013 and 12 November 2013. Similar tests including visual inspection, moisture content test and ponding test were conducted.
+17. On 15 October 2013 ponding test was conducted at the guest bathroom of Flat 14B for the second time. This time it produced negative result, no dye was noted at the seepage areas ("the 2nd Ponding Test"). As a result, the Consultant concluded that the source of leakage could not be identified. The Joint Office then declared the case closed.
+18. The plaintiffs' expert Madam Lau Shan La Rosanna ("Madam Lau") was first engaged in June 2014 to conduct inspection at Flat 13B. Thereafter, she compiled the 1st investigation report dated 29 July 2014 ("the 1st Report").
+19. Joint inspections by Madam Lau and the defendant's expert Mr Cheung Wai Sum Simon ("Mr Cheung") at both Flats 13B and 14B were conducted on four occasions in 2015: 12 June 2015, 18 June 2015, 2 July 2015 and 21 September 2015. The Joint Report dated 10 November 2015 was compiled ("the Joint Report").
+20. Leakage still does not stop; it persisted at least up to the time when the 1st plaintiff made her witness statement in December 2015. This was not challenged under cross-examination.
+
+Expert Evidence
+
+21. Madam Lau is a chartered engineer and a registered professional engineer; Mr Cheung is a chartered building surveyor and a registered professional surveyor. Although the experts are professionals by different training, both of them hold the same qualification of Technical Competent Person TCP-5 with the Buildings Department; and they both have previously given evidence as an expert witness of the court in water leakage cases.
+22. However, Mr Cheung is being presented as having a stronger background than Madam Lau. It is stressed that Mr Cheung had been engaged by the Joint Office in many water leakage investigations. Further, he had knowledge of and accorded full weight to the "Professional Guide to Water Seepage Investigation, Diagnosis, Testing and Reporting in Residential Buildings prepared by Building Surveying Division of the Hong Kong Institute of Surveyors" ("the HKIS Guide") which prescribes stringent requirements in the application of water leakage tests. It is therefore suggested that Mr Cheung's test methods are scientific and reliable; his opinion is well-grounded and should be preferred.
+23. In considering experts' evidence, I do not give weight to their knowledge and experience per se; but rather weight is given to how they heed to the following based on their knowledge and experience. 
+
+(1) whether the test method is an established approach or recognized technology; if not, whether the new approach or technology is reliable under the established body of knowledge;
+
+(2) whether the test method is applied in a prudent manner with proper and effective procedures;
+
+(3) whether the data or result yielded is accurate and reliable;
+
+(4) whether the result or data collected is properly and carefully analysed or evaluated;
+
+(5) whether the expert is objective in reaching his conclusion and the basis of his opinion well-reasoned; and
+
+(6) whether there is any omission in considering material facts which could detract from a concluded opinion.
+
+
+24. Although the HKIS Guide provides useful reference and guidance to water leakage investigations, it is never an authoritative or superior set of guidelines over other established approach or recognized practice. Further, the HKIS Guide does not bind Madam Lau as a chartered engineer.
+25. As regards test methods, there is no universal water seepage testing method or equipment applicable to all situations. Each method or type of equipment has its strengths, potential pitfalls and limitations. The choice of method, procedure and interpretation of the results require the skill, experience and judgment of professionals.
+
+Core issue (1) : Whether Flat 14B is the source of the water leakage?
+
+26. According to the 1st Report and her view given in the Joint Report, Madam Lau opined that the leakage at Flat 13B was caused by the defective water-proofing membrane (including the floor slab, the wall and floor of the shower-tray) of guest bathroom in Flat 14B.
+27. Mr Cheung is of the view that the leakage did not originate from Flat 14B. He said it was attributable to an inherent water leakage before the defendant took possession of the flat; he also regarded the external wall a probable source of leakage.
+
+Madam Lau’s methodologies and conclusion
+The 1st Report
+
+28. On 20 June 2014 Madam Lau and her team conducted the first inspection at Flat 13B. Thereafter, she compiled her first report on 29 July 2014 ("the 1st Report").
+29. A number of tests were done on 20 June 2014. 
+
+(i) Microwave Scan
+
+This is a test to measure the dielectric constant of the material to evaluate the free moisture content. Seepage area would be shown in blue; the deeper the blue shades the higher the moisture content.
+
+Madam Lau used the microwave scanner to scan the ceiling of guest bathroom, master bathroom and corridor outside guest bathroom into 3 levels of depths of the floor slab.
+
+By comparing the moisture content levels, she concluded that leakage first occurred at the ceiling of guest bathroom; water seeped to the ceiling of master bathroom and then to the ceiling of corridor outside guest bathroom.
+
+(ii) Infrared Scan
+
+This is a test to measure the heat that radiates from a surface.
+
+From the variations in the radiation detected and the moisture contours, the presence of moisture may be inferred.
+
+Madam Lau used the infrared scanner to take images of the ceiling of guest bathroom and master bathroom. The abnormally low temperature thereat infers dampness and sign of seepage.
+
+(iii) Electrical Conductivity Sensing
+
+This is known as the moisture content test which measures the relative moisture condition of the building materials at affected areas.
+
+Madam Lau used the moisture meter to take various moisture content readings from the ceiling of guest bathroom, master bathroom and corridor outside guest bathroom. She said more than 85% of the checkpoints had a moisture content reading of over 35% which showed apparent seepage.
+
+(iv) Visual inspection of external wall
+
+Madam Lau visually inspected the external wall of Flats 13B and 14B by leaning out from the kitchen window of Flat 13B. She said the cracks and rust stains were of a slight degree, and there were no signs of water seepage on the external wall and the exterior pipes.
+
+In reaching her conclusion that there was no leakage from the external wall, Madam Lau also relied on the microwave scan which did not show any water seepage path from external wall into Flat 13B.
+
+(v) Water sample analysis
+
+Water sample collected from the ceiling of Flat 13B's guest bathroom was tested with test paper and revealed presence of sodium chloride.
+
+Since the water was yellow in colour, Madam Lau opined that it was rusty water and the presence of rust might have confused the result of the sodium chloride test. There was no further follow up or investigation.
+
+
+30. The defendant's challenge on the above are mainly three-fold: 
+
+(1) the way Madam Lau conducted the moisture content test is fraught with deep-rooted and incurable problems, hence the readings should not be given any weight;
+
+(2) the external wall being a probable cause of leakage has not been carefully considered or excluded; and
+
+(3) the results and findings could at most only show water seepage in Flat 13B, they could not support the conclusion that Flat 14B was the source.
+
+
+
+Challenge (1): Madam Lau’s moisture content test
+
+31. With Madam Lau's method, moisture content readings were taken invariably at various checkpoints without identifying reference points at the dry and non-seepage areas.
+
+32. The defendant criticized that this method was contrary to the established "reference points - cum - checkpoints" approach which was adopted by both the Joint Office and the Consultant in their moisture content tests. Reference is made to the HKIS Guide which specifies how reference points should be identified. "Select and clearly mark three to ten checkpoints (CPs) within the seepage area. Check the moisture contents of the CPs with a moisture meter  Record the EMM [electrical moisture meter] readings of at least four additional reference areas (RPs) outside, but adjacent to the seepage area. The RPs should be in a dry area with the same construction material as that of the affected ceiling or wall surface".
+
+
+33. Mr Cheung stressed that those readings with moisture content over 35% have to be referenced to other dry surfaces before any leakage can be inferred; otherwise they are simply raw data of no use. To illustrate the importance of reference points, he elaborated under cross-examination that if the moisture content reading of a dry spot (which happened to be located in a tropical and very humid place) is 50%, even there are checkpoints showing moisture content of 60%, it would nonetheless entail a conclusion that there is no water seepage.
+34. Madam Lau explained that although she has not given any of the test points the coded name "reference points", it can be seen from the moisture content measurement that the checkpoints included both damp and dry spots. She said those dry spots at the relatively dry areas are in substance reference points.
+35. I have reservation about Madam Lau's theory which sounds loose and lacks precision. A test point with low moisture content reading within the dry and no seepage area is very different from a test point with the lowest moisture content reading among others all within the seepage area (even it is below the calibrated figure of 18.3%). The former is a reference benchmark to identify whether there is seepage (even if moisture content readings of checkpoints exceed 35%), the latter is not a dry spot as such but only a relatively dry spot by comparison.
+36. So happened that although Madam Lau did not identify any reference points, her conclusion on the source of seepage is the same as the Consultant's in his report dated 27 March 2013 who has adopted the "reference points - cum - checkpoints" approach. However, it is noteworthy that while Madam Lau relied heavily on the moisture content readings, the Consultant apparently reached his conclusion based on the positive result of the 1st Ponding Test. Therefore, the Consultant's same conclusion shall not be taken as supporting the accuracy and reliability of Madam Lau's moisture content findings.
+37. Madam Lau did not explain why the established "reference points - cum - checkpoints" approach was not followed. There are no criteria by reference to which the court could test her approach; neither is there any substantial body of academic writing approving her methodology.
+38. I think it is prudent to conduct the moisture content test in accordance with the established practice; an omission to do so can lead to doubt and confusion over the findings. Therefore, it is unsafe to rely on the moisture content readings set out in the 1st Report.
+
+Challenge (2): External wall remains a probable source of leakage
+
+39. Although the presence of rust in the water sample might have affected the sodium chloride test, the test result of sodium chloride being present should not be thereby brushed aside. It calls for follow up or further investigations which may have bearings in assessing the possibility of water seepage coming into Flat 13B from the external wall.
+40. Further, according to the microwave scan images of the guest bathroom, the part situated closer to the external wall of Flat 13B was blue in colour showing moisture and water seepage. However, Madam Lau has not analysed or given due regard to this. I think it is unsafe to exclude the possibility of external wall leakage simply by determining visually that there was no water seepage path from external wall into Flat 13B.
+41. Although the Consultant also regarded the source of leakage from external wall and roof cover unlikely, it cannot therefore support Madam Lau's conclusion. The basis of the Consultant reaching such conclusion is not entirely clear from its report. If the only ground is that moisture readings on sunny day were high, I think the conclusion lacks careful deliberation.
+42. Therefore, I find that there is a lack of mature consideration on the part of Madam Lau in excluding the external wall as a probable source of leakage.
+
+Challenge (3): Source of leakage not identified
+
+43. Even the ceiling of the guest bathroom is the origin from where water seeped to the ceiling of corridor close to guest bathroom and the ceiling of master bathroom, one cannot therefore presume that water flows from a higher to a lower level and hence concludes that source of seepage was the flat above.
+44. As discussed in the HKIS Guide, the movement of water can be horizontal, vertically downwards, or even upwards, as it is aided by gravity or capillary action. Heat and thermal differences can also cause water movement in almost all directions in buildings. Water movements and ramifications can be difficult to trace, this is why the source and movement which cause seepage are often mysterious.
+45. It is well established that there is no presumption that water leakage was necessarily caused by the flat above. See: Cheung Sau Ling & Another v Cheng Lai Chong CACV 268/1998 
+, unreported (9th April 1999); Hui Ling Ling v Sky Field Development Limited HCA 35/2007 
+, unreported (8th May 2012)
+46. I agree with the defendant that the results and findings in the 1st Report do not support the conclusion that Flat 14B was the source of leakage.
+
+Further observation of the 1st Report
+
+47. Apart from the defendant's challenges, I noticed that Madam Lau has not mentioned in the 1st Report the two ponding tests conducted by the Consultant respectively in January and October 2013 which have oddly produced contrary results.
+48. There should be no question that Madam Lau had knowledge about the two ponding tests because she has appended to the 1st Report the two letters respectively dated 19 April 2013 and 7 January 2014 from the Joint Office. However, Madam Lau under cross-examination said she could not remember whether she has read them; she just appended those documents supplied to her. She went on to say she did not regard it necessary to consider the ponding test results because she was to conduct her own independent investigation.
+49. It is essential for an expert to maintain both independence and objectivity. Madam Lau ought to have taken into account the ponding test results which are materials relevant to her investigation. If she elected not to consider them, she should have at least explained why such material was ignored or regarded as unimportant. See: Wilson v HM Advocate 2009 JC 336 
+, paras 59-60.
+
+Weight given to the 1st Report
+
+50. By reason of the aforesaid, I do not give weight to the moisture content readings nor the analysis drawn thereon. I also do not accept that the possibility of external wall leakage has been excluded.
+51. On those untainted data and information which are still relevant to the issues in question, they will be given due regards and assessed against other available evidence.
+
+The Joint Inspections
+
+52. The defendant severely criticized Madam Lau's methodologies at the joint inspections and the related findings. They included (1) the infrared scan conducted on the external walls of Flats 13B and 14B; and (2) the "combo test" comprising moisture content test at Flat 13B and the dye test in the guest bathroom of Flat 14B.
+
+Criticism (1): the infrared scan conducted on the external walls of Flats 13B and 14B
+
+53. Madam Lau drew conclusion from the five infrared scan images that there was no water seepage from the external walls of Flats 13B and 14B. She disagreed with Mr Cheung that infrared scanning must be conducted together with a water spray test; she is of the view that infrared scan images alone is sufficient to exclude the possibility of water seepage through and from the external walls.
+54. Mr Cheung insisted that combining the water spray test is essential. He explained that an infrared scan itself is only a static analysis to ascertain whether there are defects on the external wall; a set of static snapshots is not informative. When combined with water spray test, there will be water movement analysis to show whether water seepage came from the external wall.
+55. Different tests serve different purposes. Whether a test is required will depend on the circumstances. If the static analysis shows dampness and signs of seepage, then combining the water spray test is helpful in tracing the source. If the infrared scan already confirmed no dampness, it may not be necessary to conduct further tests. Therefore, speaking in general terms, I do not think an infrared scan alone is of no value.
+56. However, during Madam Lau's 1st inspection on 20 June 2014, infrared scan images did show dampness and sign of seepage; whereas infrared scan during the joint inspections in 2015 no longer showed dampness. In such circumstances, follow up and careful consideration is required; a water spray test is therefore necessary before the possibility of water seepage through and from the external walls can be excluded.
+57. Therefore, as also mentioned in paragraph 50 above, I do not accept that the possibility of external wall leakage has been excluded.
+
+Criticism (2): the combo test
+
+58. During the 2nd joint inspection on 18 June 2015, dye test was conducted at Flat 14B. Alongside with the dye test, Madam Lau took moisture content readings at the ceiling of guest bathroom, master bathroom and corridor outside guest bathroom at Flat 13B before and after the dye test with an interval of one hour.
+59. By comparison of the two sets of readings, Madam Lau noted a significant increase in moisture content after the dye test. She concluded that the increase in moisture content was sufficient to show that the source of seepage was from Flat 14B. Although no sign of dye was noted in Flat 13B, Madam Lau did not regard this as definite evidence against the suspected source.
+60. Madam Lau admitted that the "combo test" is not an established technique but her own idea. The defendant said she is not qualified to invent and then vouch for her own methodology which lack scientific and academic support.
+61. In this connection, I was referred to Kennedy v Cordia (Services) LLP [2016] UKSC 6 
+
+where Lord Reed and Lord Hodge JJSC held that:- "In many cases where the subject matter of the proposed expert evidence is within a recognised scientific discipline, it will be easy for the court to be satisfied about the reliability of the relevant body of knowledge. There is more difficulty where the science or body of knowledge is not widely recognised. Walker and Walker at para 16.3.5 refer to an obiter dictum in Lord Eassie's opinion in Mearns v Smedvig Ltd 1999 SC 243 in support of their proposition that: "A party seeking to lead a witness with purported knowledge or experience outwith generally recognised fields would need to set up by investigation and evidence not only the qualifications and expertise of the individual skilled witness, but the methodology and validity of that field of knowledge or science."
+
+We agree with that proposition, which is supported in Scotland and in other jurisdictions by the court's refusal to accept the evidence of an expert whose methodology is not based on any established body of knowledge.
+
+
+62. The second point of challenge is that the HKIS Guide only permits a moisture content test combined with flooding test using clear potable water but not dye water. Further, the relevant procedures were not strictly observed by Madam Lau.
+63. Thirdly, the defendant challenged the same problematic approach of Madam Lau in collecting moisture content readings without identifying any reference points.
+64. The plaintiffs argued that the "combo test" is reliable because Madam Lau has used the same method in the case of Wong Ping Chun v Giant King Corporation Limited DCCJ 4020 of 2012 
+, unreported (16 March 2016) where the court has accepted her evidence. However, it must be noted that the methodology itself was not challenged, argued or tested therein upon which the court has made a finding.
+
+Discussion
+
+65. Regarding the repeated criticism on Madam Lau's moisture content test, I do not think the "reference points-cum-checkpoints" system matters in the context of the "combo test". Moisture content readings within the "combo test" are for comparison of dampness at the same spots, not for referencing with dry spots to locate situs of seepage.
+66. As regards the objection to combining moisture content test with dye test, Appendix 7.3 and 7.4 of the HKIS Guide has set out the application procedures of two types of flooding test, one with dye water and the other with clean potable water. Both tests involve taking of moisture content readings, but only the clean water test procedures cover analysis of moisture content after the flooding test that an increase would indicate seepage. It is unclear whether this post-flooding test analysis also applies to the dye water test; if not, the purpose of taking moisture content readings not being mentioned is also in doubt.
+67. No information enables the court to understand the difference between clean potable water and dye water in relation to an increase in moisture content readings. There is no academic support that an increase in moisture content will only be meaningful with clean potable water. In stressing adherence to the HKIS Guide which is unclear on this point, Mr Cheung did not provide any explanation or elaboration.
+68. In the premises, there is insufficient evidence for the court to find whether the "combo test" is scientific or acceptable.
+69. Moving on, assuming that the "combo test" is an acceptable methodology, reliability of the test results and analysis would still depend on the process of reasoning before a conclusion is reached.
+70. Madam Lau placed emphasis on those spots which showed a significant increase in moisture content readings. However, she did not comment in the Joint Report on those spots where moisture content has decreased or remained unchanged; nor did she analyse or explain how she regarded that to be insignificant. No explanation was given by her during oral testimony.
+71. Therefore, no weight will be given to the "combo test" and the data collected thereon. On those untainted data and information in the Joint Report which are still relevant to the issues in question, they will be given due regards and assessed against other available evidence.
+
+Mr Cheung’s investigations and opinion
+(1) Mr Cheung’s no dye- no source theory
+
+72. Regarding the 2nd Ponding Test with negative result, Mr Cheung opined that since there was no dye, it is conclusive that the water-proofing membrane of the floor slab in guest bathroom of Flat 14B was not the source of seepage. He also considered the ponding test a first tier testing method and moisture content test only a supportive measure.
+73. It occurred that this "no dye-no source" theory does not gain support from the HKIS Guide. It is stated therein a dye test is not always successful; a failure to record its presence in the damp zone cannot be taken as definite evidence against the suspected source; however a positive test is firm proof of the source. Some factors affecting the result of a dye test are also set out, they include absorption or filtration of dye solutions along the cracks, size and type of the defect, texture of the surface and penetrative properties etc.
+74. In the case of Good Century Investment Limited v Yim Kin Kuo & Another DCCJ 4980 of 2013 
+, unreported (23 November 2015), it was held that negative result of the ponding test would not pose any bar to the plaintiff in establishing liability on the defendant's part.
+75. Therefore, I reject Mr Cheung's theory. If there is no dye, one may regard the possibility of seepage through water-proofing membrane uncertain. However, it cannot be concluded that the water-proofing membrane is not defective for any seepage.
+76. I also do not accept that ponding test is a first tier testing method and moisture content test only a supportive measure. As discussed in paragraph 25 above, each method has its strengths, potential pitfalls and limitations. The Ponding test is one of the methods, it is not an indispensable test. See: Wong Yim Fong v Lee Hok Chau DCCJ 343/2013 
+, unreported, 22 July 2014.
+
+(2) Mr Cheung’s analysis to exclude Flat 14B as the source of leakage
+
+77. Based on the following, Mr Cheung excluded Flat 14B as the source of leakage. 
+
+(a) On 17 May 2012, the defendant's interior designer has recorded abnormal and considerable amount of water underneath the bathtub of the guest bathroom of Flat 14B after removal of old bathtub and wall tiles. The floor slab under the bathtub was fully wetted.
+
+(b) As part of the renovation work, the bathtub was changed to tiled shower tray and water-proofing membrane was re-done.
+
+(c) Based on his visual inspection during a site visit in 2015 and perusal of documents and photographs, Mr Cheung holds the view that the renovation work in 2012 was carried out effectively with workmanship above standard.
+
+(d) Since water was entrapped inside the reinforced concrete slab, it required a considerable time to evaporate. Mr Cheung suggested that the reasonable time for the entrapped water to escape is about 1 to 2 years, in some cases it may take up to 3 years.
+
+(e) Therefore, the water seeped to Flat 13B was the water entrapped in the floor slab between Flat 14B and Flat 13B. No water seeped through the water-proofing membrane. Further, external wall is also a possible source of seepage.
+
+
+78. In his attempt to explain the positive result of the 1st Ponding Test, Mr Cheung under cross-examination mentioned for the first time that the water-proofing membrane of floor slab at the guest bathroom in Flat 14B was damaged during the installation of a doorstop. Dye water seeped through the hole and hence dye was noted in Flat 13B.
+79. Mr Cheung went on to say the damage was already fixed during the repairs undertaken by the defendant on 14 May 2013 pursuant to the nuisance notice. However, he did not explain how the hole could not have been the source of seepage during the time before it was repaired.
+80. The defendant seeks to distinguish between the liability of the creator of a nuisance and the person who continued with the nuisance. It is submitted that the defendant is not liable for the inherent water leakage because she did not continue or adopt the nuisance. She is also not liable for the seepage possibly through external wall which is a common part of the building under the control and possession of its manager and the owners' incorporation respectively under the DMC.
+
+Discussion
+
+81. While Mr Cheung regarded the seepage properly explained, I find the account untenable, albeit impregnable and impeccable as appears.
+82. Firstly, I do not think it is reliable to conclude that renovation work done a few years ago was without defect by mere visual inspection of the workmanship and photographs a few years later. In this regard, Madam Lau did in the Joint Report challenge that the renovation work in 2012 may well be defective.
+83. Secondly, the seepage of entrapped water in terms of timing is too coincident to be worthy of belief. There was no seepage of entrapped water any time before the defendant took possession of Flat 14B; coincidentally it started to seep during the defendant's renovation.
+84. Further, if water entrapped in the floor slab has continued to seep to Flat 13B as suggested, there should have been a decreasing trend of moisture content readings in 2014 and 2015 as entrapped water has evaporated with time. There is none.
+85. Although there is nothing to rebut the allegation of an inherent water leakage, I do find on balance of probabilities that the leakage in question was not seepage of entrapped water in the floor slab of guest bathroom in Flat 14B.
+86. Although the defendant's account of event is not accepted, she has no duty to prove the source of leakage. The plaintiffs carry the burden of proof that the source of leakage was from Flat 14B.
+
+Evidence available for determination on the source of leakage
+
+87. I have not adopted the conclusions of the two experts. In ascertaining the source of leakage, I relied on other available evidence which include the investigations by Joint Office and the Consultant (with particular reference to the two ponding tests conducted respectively on 15 January 2013 and 15 October 2013), as well as the experts' reports (save for those parts I have rejected).
+88. Based on my finding in paragraph 85 above, I further find on balance of probabilities that the positive result of the 1st Ponding Test was due to the defective water-proofing membrane of the floor slab of guest bathroom in Flat 14B. Such defect was created during the renovation in 2012 and during the installation of doorstop.
+89. As regards the negative result of the 2nd Ponding Test, in light of available evidence it can be explained as follows. While texture of the surface and penetrative properties are the same, the only intervening event between the 1st Ponding Test on 15 January 2013 and the 2nd Ponding Test on 15 October 2013 was the repair work done on 14 May 2013. It is therefore reasonable to infer that the repair work has rectified the defect. In the premises, seepage which occurred after 14 May 2013 is no longer due to the said water-proofing membrane.
+90. While the external wall still remains a possible source of leakage, it is probable that seepage which continues is in connection with the external wall, if not due to other unidentified source.
+91. I bear in mind that for the period up to 14 May 2013, in addition to seepage through the defective water-proofing membrane, there may also be seepage from the external wall. However, the fact that the defective water-proofing membrane was proved as the identified source is sufficient to find liability against the defendant. In 皇河實業有限公司 v Wan Chiu Yuen & Another DCCJ 4448 of 2011 
+, unreported (20 April 2015), it was held that if in fact there might be other leakage paths, the defendant would not be relieved from his liabilities for water seeped from his property into the affected premises in question.
+92. Finally, a pleading point. Although the plaintiffs did not plead guest bathroom of Flat 14B as the exact situs of source of seepage, bathroom(s) of Flat 14B is pleaded; further Madam Lau has already in the 1st Report identified the exact situs. I find that the case proved is not a radical departure but a mere development of what had been alleged in the pleading. See: Waghorn v George Wimpey & Co. Ltd [1970] 1 All ER 474 
+.
+
+Issue (2) whether the defendant is liable for breach of DMC, nuisance and/or negligence?
+
+93. In failing to keep the interior of her flat in good repair and condition and to maintain the same in a manner so as to avoid any loss damage nuisance or annoyance to the owner or occupier of any other flat of the building, the defendant is liable for breach of clause 1 of the Second Schedule of the DMC.
+94. In finding liability for the tort of nuisance, it was held in the case of Yan Wing Fai Rick & Another v Century One Limited DCCJ 2773 of 2009 
+
+(unreported, 2 February 2011) as follows:- "Once that the defendant was made aware that there was a water leakage the source of which could reasonably be identified to be from its property, it has the duty to investigate, locate and repair such water leakage in a prompt and reasonable manner."
+
+
+95. In the present case, when the defendant was made aware of the water leakage in Flat 13B, she already had knowledge of the inherent water leakage in the guest bathroom where the floor slab under the bathtub was fully wetted. Under such circumstances, she should have alerted herself that the source might reasonably be identified to be from her flat and therefore should have investigated or located the source and then caused repair work to be done within reasonable time. She is therefore liable for nuisance.
+96. On this basis, it was reasonably foreseeable that the plaintiffs as owners of the lower flat would suffer loss and damage as a result of the defendant's omission to investigate and take remedial steps to rectify. Therefore, the defendant should also be held liable for negligence.
+
+Issue 3 : Whether the damages at Flat 13B were attributable to the defendant’s breach or fault?
+
+97. The defendant's liability for damages caused by the defective water-proofing membrane is only up to 14 May 2013. However, there are uncertainties on which part of the damages to Flat 13B is attributable to the defendant's breach.
+98. In cases where it is known that only part of the damage is the defendant's fault, what justice does demand is that the court should make the best estimate which it can in light of the evidence making the fullest allowance in favour of the plaintiffs for the uncertainties known to be involved in any apportionment. See: Thompson v Smiths Ship Repairers (North Shields) [1984] Q. B. 405 
+at 443D to 444A, Mustill J.
+99. In the present case, it is not known (in fact it is impossible to be known) that only part of the damage was caused by seepage from Flat 14B; neither is it known (in fact it is impossible to be known) that some part of the damage occurred only after the defendant's breach has ended.
+100. There is no evidence the size of the damaged area has increased with time. What is available for reference and comparison is Madam Lau's assessment respectively in the 1st Report and the Joint Report with a time gap of more than one year. There is no change in the size of the damaged area.
+101. Weighing the available evidence and doing the best this court can, I find the defendant responsible for the whole (instead of a part which is unquantifiable) of the damages as listed in the experts' reports.
+
+Issue 4 : What is the quantum of damages and whether injunctive relief should be granted?
+Damages
+
+102. Under the Scott Schedule prepared by the defendant, the cost of repair and renovation work is HKD12,703.56 and the costs of relaying the electric circuit is HKD2,000.
+103. The plaintiffs concede to the sum total of HKD14,703.56 and no longer pursue for the damages as assessed by Madam Lau.
+
+Injunctive relief
+
+104. Based on my finding, no injunction relief is warranted. Since the defect for which the defendant is liable was already fixed on 14 May 2013, there is no defect which can form the subject matter of any injunction.
+
+Issue on costs
+
+105. The plaintiffs successfully enforce a legal right and in no way misconduct themselves; there is no reason why costs shall not follow the event. However, in light of my finding, the plaintiffs' costs on expert evidence and the grant of counsel certificate are likely to be matters of concern.
+106. Although I did not rule in favour of the plaintiffs by adopting Madam Lau's opinion direct, her evidence cannot be regarded as useless or unnecessary. There are relevant data, information and comment in her reports which the court has considered in assessing and evaluating all available evidence as a whole. Although the discretion on costs is wide, it is a judicial discretion which must be exercised according to rules of reason and justice. I do not think it is fair to disallow the plaintiffs' costs on expert evidence.
+107. On the grant of counsel certificate, notwithstanding the amount of damages awarded, the complexity involved in the issue of liability justifies the grant of a certificate for counsel.
+
+Conclusion
+
+108. The defendant do pay the plaintiffs damages in the sum of HK$14,703.56 with interest thereon at judgment rate from the date of judgment to date of payment.
+109. I make an order nisi that the defendant do pay the plaintiffs' costs of the action, with certificate for counsel, to be taxed if not agreed.
+110. The order nisi shall become absolute unless an application to vary is made within 14 days from today.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

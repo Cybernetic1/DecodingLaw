@@ -2,15 +2,17 @@
 """
 The main RNN algorithm.
 
-* RNN _input layer now changed to word-vector encoding
-* can answer single queries
+Updates:
+1. RNN _input layer now changed to word-vector encoding
+2. can answer single queries
+3. use YELLOW highlight sections as training data
 
 Modeled after the code found in Ch.6 of "Learning Tensorflow" by Tom Hope et al.
 
-@author: YKY, Jesmer Wong, Raymond Luk
+@author: YKY with advice from Jesmer Wong
 """
 import numpy as np
-import os						# for suppressing Tensorflow warnings
+import os						# for os.listdir and os.environ
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'	# suppress Tensorflow warnings
 import tensorflow as tf
 from nltk.corpus import stopwords
@@ -27,52 +29,46 @@ num_classes = 2
 hidden_layer_size = 32
 times_steps = 128				# this number should be same as fixed_seq_len below
 
-# These are the 2 classes of laws:
-class1_sentences = []			# "nuisance"
-class2_sentences = []			# "dangerous driving"
+""" These are the 3 classes of laws:
+* nuisance
+* dangerous driving
+* OTHERWISE, or work injuries
+"""
 
 # =================== Read case examples from file ======================
-
-example1 = []
-example2 = []
-
-with open('class1_example.txt') as f:
-	for line in f:
-		line = re.sub(r'[^\w\s-]',' ',line)	# remove punctuations except hyphen
-		for word in line.lower().split():	# convert to lowercase
-			if word not in stopwords.words('english'):	# remove stop words
-				example1.append(word)
-
-with open('class2_example.txt') as f:
-	for line in f:
-		line = re.sub(r'[^\w\s-]',' ',line)
-		for word in line.lower().split():
-			if word not in stopwords.words('english'):
-				example2.append(word)
-
-len1 = len(example1)
-len2 = len(example2)
-print("Example 1 length = ", len1)
-print("Example 2 length = ", len2)
-
-# ============ Randomly select a sequence of words in each case-text ==========
-
+"""
+0. for each category:
+1. read all cases in YELLOW folder
+2.	  for each case generate N examples (consecutive word sequences of fixed length)
+"""
 seqlens = []
-num_examples = 256				# change to larger later
-fixed_seq_len = times_steps		# For each case law, we take N consecutive words from the text
-for i in range(num_examples):
-	seqlens.append(fixed_seq_len)		# this is variable in the original code (with zero-padding), but now it's fixed because we don't use zero-padding
+labels = []
+data = []
+num_examples = 0 				# change to larger later
+fixed_seq_len = times_steps		# For each case law, take N consecutive words from text
 
-	rand_start1 = np.random.choice(range(0, len(example1) - fixed_seq_len))
-	rand_start2 = np.random.choice(range(0, len(example2) - fixed_seq_len))
-	class1_sentences.append(" ".join(example1[rand_start1: rand_start1 + fixed_seq_len]))
-	class2_sentences.append(" ".join(example2[rand_start2: rand_start2 + fixed_seq_len]))
+for i, category in enumerate(["nuisance-YELLOW", "dangerous-driving-YELLOW"]):
+	for filename in os.listdir("laws-TXT/" + category):
+		yellow_stuff = []
+		with open("laws-TXT/" + category + "/" + filename) as f:
+			for line in f:
+				line = re.sub(r'[^\w\s-]',' ',line)	# remove punctuations except hyphen
+				for word in line.lower().split():	# convert to lowercase
+					if word not in stopwords.words('english'):	# remove stop words
+						yellow_stuff.append(word)
+		print("Case-law length = ", len(yellow_stuff))
+
+		for j in range(0, 10):
+			# Randomly select a sequence of words (of fixed length) in yellow text
+			seqlens.append(fixed_seq_len)		# this is variable in the original code (with zero-padding), but now it's fixed because we don't use zero-padding
+			rand_start = np.random.choice(range(0, len(yellow_stuff) - fixed_seq_len))
+			data.append(" ".join(yellow_stuff[rand_start: rand_start + fixed_seq_len]))
+
+		# set labels
+		labels += [i]
 
 # ================ Set up data (for training & testing) ================
 
-data = class1_sentences + class2_sentences
-seqlens *= 2
-labels = [1]*num_examples + [0]*num_examples
 for i in range(len(labels)):
 	label = labels[i]
 	one_hot_encoding = [0]*2

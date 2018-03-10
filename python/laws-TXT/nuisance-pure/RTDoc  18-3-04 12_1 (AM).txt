@@ -1,0 +1,353 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:01 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Chu Chung Shing Investment Co Ltd v Lam Chung
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+Chu Chung Shing Investment Co Ltd v Lam Chung
+
+
+
+30 November 2015
+District Court
+DC
+Miscellaneous Proceedings No 2773 of 2011
+DCMP 2773/2011
+
+Citations:[2015] HKEC 2547 English Judgment
+
+Presiding Judges: Deputy Judge WY Ho
+
+Phrases: Land law - ownership of land - adverse possession - whether established
+Tort - nuisance - trespass to land - whether established - whether defence of waiver or acquiescence made out
+Land law - building management - illegal structure erected by defendants on rooftop - appropriate remedy
+
+Counsel in the Case: Mr K M Chong and Ms Emma Wong, instructed by Messrs Christine F L Ip & Young, for the plaintiff.Mr Peter C C Yu, instructed by Messrs Ho Tse Wai, Philip Li & Partners, for the 3rd defendant and the 4th defendant.
+
+Cases cited in the judgment: Ng Lai Sim v Lam Yip Shing & Another (unrep., HCA 2963/1998, [1999] HKLRD (Yrbk) 451) 
+The Incorporated Owners of Hoi Luen Industrial Centre & Another v Ohashi Chemical Industries (Hong Kong) Ltd [1995] 2 HKC 11 
+Tsang Foo v Chu Jim Mi Jimmy (unrep., HCA 7140/1995, [2015] HKEC 1271) 
+
+Willis v Earl Howe [1893] 2 Ch 545 
+
+
+Judgment: 
+
+
+Deputy Judge W Y Ho
+1. This is the plaintiff's claim for an order of possession, damages, order of demolition, and a declaration for indemnity against the defendants. By way of an Amended Counterclaim to Counterclaim, the plaintiff further seeks two injunction orders; one to restrain the defendants from entering the building and another to restrain the defendants from connecting water and electricity supply to the Roof.
+2. The plaintiff claims the 3rd and 4th defendants have been in wrongful occupation of the whole of the roof at No 49, Chung On Street, Tsuen Wan, New Territories, Hong Kong ("the Roof") and have erected illegal structures therein.
+3. In its Amended Counterclaim to Counterclaim, the plaintiff further claims the defendants have trespassed onto the Roof and that the illegal structures have caused nuisance.
+4. By way of an Amended Counterclaim, the 3rd and 4th defendants claim they have possessory title to the Roof. The defendants also claim to have acquired a right of way pertaining to the common corridor by reason of easement of prescription or by way of licence by estoppel.
+
+THE ISSUES
+
+5. The parties provided this court with an extensive list of agreed issues of the case.
+6. I am of the view the real issues of this case can be succinctly summarized as follows:- 
+
+1) Whether the 3rd and 4th defendants (collectively referred to as "the defendants") have been in continuous and exclusive possession of Flats B and C of the Roof, respectively, for a period of 20 years prior to the commencement of these proceedings (9 November 2011). 
+
+a) Whether the 3rd defendant ("the late Mr Chan") can prove he and the previous occupiers have been in successive and exclusive possession of Flat B of the Roof since 1986.
+
+b) Whether the 4th defendant ("Ms Fong") can prove she and the previous occupiers have been in successive and exclusive possession of Flat C of the Roof since 1983.
+
+2) If successive and exclusive possession is established:- 
+
+a) Whether the late Mr Chan and Ms Fong acquired a right of way to the common corridor on the Roof by easement by prescription, presumed lost of grant or by licence by estoppel.
+
+b) Whether the late Mr Chan and Ms Fong are barred from obtaining possessory title to the Roof by reason of illegality, that is, by reason of having erected illegal structures.
+
+3) If the defendants are found to have trespassed the Roof by reason of having erected illegal structures and causing water and electricity supply to be connected, whether such trespass has been waived and/or acquiesced by the plaintiff.
+
+4) Whether the equitable remedies sought by the plaintiff are appropriate remedies. 
+
+a) Whether doctrine of laches operates to bar the plaintiff from seeking an order for demolition against the late Mr Chan and Ms Fong.
+
+b) Whether an order for demolition should be made in view of the hardship that will be caused to the late Mr Chan's daughter, Chen Yau Cheung ("Ms Chen"), and Ms Fong.
+
+
+
+FACTS NOT IN DISPUTE
+
+7. The parties do not dispute the following:- 
+
+1) In 1987, Chu Chung Sing purchased the Roof and 2nd Floor, No 49, Chung On Street, Tsuen Wan, New Territories, Hong Kong ("2/F") in 1987. On 18 July 1997, Chu Chung Sing assigned the Roof and 2/F to the plaintiff. The plaintiff has since been the legal owner of the Roof and the 2/F.
+
+2) Chu Chung Sing is the plaintiff's director.
+
+3) The aerial photos of the Roof show structures have been erected on the Roof since 1973.
+
+4) At all material times, the plaintiff's representatives and Mr Chu Tak Wing ("Mr Chu"), the son of Chu Chung Sing, have been unable to enter Flats B and C of the Roof.
+
+5) The market rent of the Roof is $5,000.
+
+6) On or about 13 June 2012, the plaintiff received an order from the Buildings Department demanding that the illegal structures on the Roof be demolished.
+
+7) The findings of the joints experts set out in the Amended Statement of Experts are not disputed. The experts found, inter alia, the structures on the Roof have caused damage to the building as a whole and have caused water seepage into 2/F.
+
+8) The defendants are bound by the negative covenants set out in the New Grant and the Deed of Mutual Covenant.
+
+9) The period of adverse possession required to establish possessory title in this case is 20 years.
+
+
+
+BACKGROUND
+
+8. In addition to the undisputed facts of this case, I set out below a brief summary of the parties' respective case. Further facts are discussed where relevant to the issues.
+
+The plaintiff’s case
+
+9. Since 1988, Chu Chung Sing had repeatedly requested the occupiers of the Roof to vacate the Roof and to demolish the illegal structures. The documentary evidence shows letters were sent to the occupiers of the Roof every year from 1988 to 1997. The letters produced also show that during the period from 2000 to 2005, the plaintiff made similar requests to the occupiers asking them to move out of the Roof.
+10. All requests made by Chu Chung Sing and the plaintiff have been ignored by the occupiers.
+11. The plaintiff complains it has been unable to comply with the demolition order issued by the Buildings Department in 2012 because the plaintiff has been unable to gain access to the Roof.
+12. The plaintiff relies on the findings set out in the Amended Statement of Experts to prove the illegal structures on the Roof have caused damage to the building as well as to the 2/F. The experts found the following:- 
+
+1) The structures on the Roof have caused damage to the structure of the building.
+
+2) The electricity supply to the Roof is contrary to the prevailing safety regulations.
+
+3) The structures on the Roof have caused blockage of the rainwater drainage system.
+
+4) The structures occupied by the late Mr Chan and his daughter Ms Chen Yau Cheung ("Ms Chen") "illegally and wrongfully connected and discharged foul water into the rainwater drainage system."
+
+5) The water seepage onto the ceiling of 2/F comes from the structures on the Roof.
+
+
+13. The plaintiff further claims the late Mr Chan and Ms Fong have breached the Deed of Mutual Covenant and the terms and conditions set out in the New Grant by maintaining the illegal structures on the Roof.
+14. The plaintiff seeks a number of relief against the late Mr Chan and Ms Fong. The appropriateness of the relief sought is being challenged by the defendants.
+
+The case of the 3rd and 4th defendants
+
+15. The defendants both claim to have adversely possessed their respective parts of the Roof for more than 20 years. They both rely on the successive possession by previous occupiers.
+16. The late Mr Chan came into possession of part B of Flat B of the Roof in 1999. In 2008, the late Mr Chan purchased part A of Flat B of the Roof. Parts A and B of Flat B are collectively described as Flat B in these proceedings. Ms Chen produced handwritten sale and purchase agreements dating back to 1986 to show the chain of successive occupiers whom have occupied parts A and B of Flat B of the Roof. Ms Chen relies on the successive possession by the previous occupiers to prove the late Mr Chan's claim to a possessory title of Flat B of the Roof.
+17. Ms Fong similarly relies on the successive possession of the previous occupiers for her claim of adverse possession. She produced handwritten sale and purchase agreements dating back to 1983 to show the successive possession by the previous occupiers. In 2009, Ms Fong purchased Flat D and part A of Flat C of the Roof. Subsequently in 2011, Ms Fong purchased part B of Flat C of the Roof. Parts A and B of Flat C of the Roof are collectively known as Flat C in these proceedings.
+
+WHETHER THE DEFENDANTS HAVE BEEN IN CONTINUOUS AND EXCLUSIVE POSSESSION FOR 20 YEARS
+
+18. The plaintiff does not argue whether the late Mr Chan and Ms Fong had the requisite intention to possess.
+19. The crux of the case is whether the defendants are able to prove they have factually possessed the Roof for more than 20 years prior to 2011 by virtue of their own physical possession and the successive possession by the previous occupiers.
+20. Counsel for the defendants concedes their claim of the right to use the common corridor based on easement by prescription and/or licence by estoppel and/or presumed lost of grant is dependent on whether possessory title could be proved by the defendants.
+
+The Law
+
+21. The law on adverse possession is succinctly summarized by Chow J in the case of Tsang Foo v Chu Jim Mi Jimmy HCA 7140/1995 
+(30 June 2015) at paragraphs 39 to 47.
+22. I find it helpful to quote the principles relating to factual possession summarized by Chow J in full as set out below:- 
+
+40. "In Shine Empire Ltd v Incorporated Owners of San Po Kong Mansion [2006] 4 HKLRD 1, at paragraph 28, Yuen JA (with whom Rogers VP and Le Pichon JA agreed) explained these two basic elements in the following way:-"The House of Lords in Pye has said that whilst the term 'adverse possession' should be avoided as no intention of hostility to the paper title owner is required (paras. 36, 69), it is still necessary for the party ('the squatter') claiming that it has dispossessed the paper title owner to prove two separate elements: (1) a sufficient degree of factual possession in the sense of physical control, and (2) an intention to possess. To establish factual possession, the squatter has to show absence of the paper title owner's consent, a single and exclusive possession and such acts as demonstrated that in the circumstances, in particular, the nature of the land and the way it was commonly used, it had dealt with it as an occupying owner might normally be expected to do and that no other person had done so (para. 41). To establish an intention to possess, the squatter has to show that he intended to occupy and use the land as his own (para. 71), to exclude the world at large, including the paper title owner, so far as was reasonably possible (para.43)."
+
+41. The decision of the Court of Appeal in Shine Empire Ltd was upheld by the Court of Final Appeal: (2007) 10 HKCFAR 588. At 593, Nazareth NPJ, giving the judgment on behalf of the Court of Final Appeal, endorsed the following statement of principles by Slade J in Powell v McFarlane (1979) 38 P&CR 452 (which were also approved by the House of Lords in JA Pye (Oxford) Ltd v Graham [2003] 1 AC 419):- 
+
+(1) "
+
+(2) If the law is to attribute possession of land to a person who can establish no paper title to possession, he must be shown to have both factual possession and the requisite intention to possess (' animus possidendi ').
+
+(3) Factual possession signifies an appropriate degree of physical control. It must be a single and conclusive possession, though there can be a single possession exercised by or on behalf of several persons jointly. Thus an owner of land and a person intruding on that land without his consent cannot both be in possession of the land at the same time. The question what acts constitute a sufficient degree of exclusive physical control must depend on the circumstancesacts of possession done on parts of land to which a possessory title is sought may be evidence of possession of the whole. Whether or not acts of possession done on parts of an area establish title to the whole area must, however, be a matter of degree.is that the alleged possessor has been dealing with the land in question as an occupying owner might have been expected to deal with it and that no-one else has done so.
+
+
+
+
+
+42. The burden of proof of these two basic elements lies on the person claiming adverse possession. The evidence necessary to establish adverse possession must be "compelling" (Wu Yee Pak v Un Fong Leung (2004) 7 HKCFAR 498, at paragraph 5 per Chan PJ). This gives recognition to the serious consequence of a finding that the title of a paper owner is displaced by an adverse possessor, although the standard of proof is still the normal civil standard, ie on a balance of probabilities.
+
+43. In so far as the element of "factual possession" is concerned, it has been said that the occupation should be "exclusive, continuous, open and visible and notorious  It must not be equivocal, occasional, or for a special or temporary purpose" (Pflug v Collins [1952] 3 DLR 681, at 689).
+
+
+
+(ii) Possession must be by the claimant in his own right and not as licensee or representative of another person
+
+48. To constitute possession for the purposes of limitation, the claimant must show that he took possession of the land in his own right and not as licensee or representative of another person, even if that other person is not the true owner or an agent acting on behalf of the true owner.
+
+49. In Brazil v Brazil [2005] All ER (D) 311 (Mar), David Donaldson QC (sitting as a deputy judge of the High Court in the Chancery Division) stated the principle as follows, at paragraph 27:- "  the need for the possession to be adverse means that a possession based on licence or permission cannot be relied upon. And the decision of the Privy Council in Sze v Kung [1977] 1 WLR 1232 makes clear that this applies even where the licence or permission is given by some person other than the true owner or on his behalf, since the possession is then that of the licensor."
+
+50. The same conclusion was reached by Au-Yeung J in Pang Yiu Chor and Others v Wong Wai Leung and Others, HCMP 3972/2000 (17 September 2013), at paragraphs 22 and 23:- 
+
+22. "The following principles are relevant: 
+
+(1) To constitute possession, control must be exercised by the defendant in his own right: Jourdan and Radley-Gardner, Adverse Possession, 2nd ed, at para 7-103.
+
+(2) If a person (the licensee) takes possession by virtue of a license granted by another, it is the licensor who is treated as being in possession: Radley-Gardner, Adverse Possession, 2nd ed, at para 7-127.
+
+23. The 2nd principle is made clear by the Privy Council decision in Sze To Chun Keung v Kung Kwok Wai David & anor [1997] 1 WLR 1232.It applies even where the license was given by some person (in that case, the government) other than the true owner or on his behalf, since the possession is that of the licensor."
+
+
+
+51. That for the purpose of adverse possession, occupation by a licensee is to be regarded as occupation by the licensor is well established (Harper v Charlesworth (1825) 4 B&C 574, at 584 per Bayley J)."
+
+"
+
+
+
+
+23. There is no dispute that possession of previous squatters could be aggregated so as to dispossess the owner of his title: see Willis v Earl Howe [1893] 2 Ch 545 
+and Ng Lai Sim v Lam Yip Shing & Another HCA 2963/1998 
+.
+24. Bearing the above principals in mind, I first deal with Ms Chen's case on factual possession.
+
+Whether Ms Chen has established factual possession
+
+25. Counsel for the plaintiff submitted, inter alia, the sale and purchase agreements are insufficient to prove factual possession for the following reasons:- 
+
+1) There is doubt as to the authenticity of the sale and purchase agreements.
+
+2) The sale and purchase agreement purportedly assigning the part B of Flat B to Chan Hoi Ning ( 陳海玲 ) explicitly reserved Lau Chung Po's ( 劉忠蒲 ) right to use and occupy half of the living room. Hence any subsequent assignment to Ms Chen must also be subject to the same right and that Ms Chen. Alternatively, her father never had exclusive possession of Flat B.
+
+3) The information contained in the sale and purchase agreements is hearsay evidence and should not be given weight.
+
+
+26. I have considered the submissions of defence counsel and counsel for the plaintiff. I shall only deal with their salient submissions.
+27. I do not accept the plaintiff's submission that the court should doubt the authenticity of the signatures contained in the sale and purchase agreements. There has not been any expert evidence produced to show the signatures in the sale and purchase agreements were forged. Without the benefit of any expert evidence, I am of the view it is inappropriate to speculate whether the signatures contained in the documents were forged.
+28. In respect of the veracity of the contents of the sale and purchase agreements, I find I am unable to rely on the contents of the sales and purchase agreements produced as being true for the reasons given below.
+29. Firstly, the express reservation set out in sale and purchase agreement between Chan Hoi Ning and Chan Hing Heung ( 陳興響 ), dated 15 June 1999 (Exhibit D14) relating to part B of Flat B of the Roof, clearly stipulates Lau Chung Po has the right to occupy half of the living room in part B of Flat B of the Roof. Chan Hoi Ning never had single and exclusive possession of part B of Flat B of the Roof as her interest was subject to Lau Chung Po's right to use half of the living room. Consequently, any interest in part B of Flat B of the Roof Chan Hoi Ning purportedly sold to the late Mr Chan is also subject to Lau Chung Po's right to use half of the living room. Since there is no evidence Lau Chung Po ever sold or assigned his right to use the half of the living room to the late Mr Chan or any other person, Lau Chung Po's right of occupation has never been extinguished.
+30. Furthermore, the late Mr Chan has not been in possession of part B of Flat B of the Roof for the requisite period (12 years) so as to dispossess Lau Chung Po of his right to use half of the living room. In such circumstances, Lau Chung Po's right of occupation continues to exist independently of the late Mr Chan's interest in part B of Flat B of the Roof. (see Megarry & Wade. The Law of Real Property, 8th Ed, paragraph 35-022)
+31. Hence, even on the evidence submitted by Ms Chen, the late Mr Chan never had single and exclusive possession of part B of Flat B of the Roof.
+32. Secondly, there is doubt as to whether Lau Yan Wai ( 劉恩懷 ) did in fact have single and exclusive possession of part A of Flat B of the Roof after Lau Chung Po purportedly assigned the whole his interest. Since Exhibit D14 expressly reserves the right of Lau Chung Po to occupy half of the living room in part B of Flat B of the Roof, by implication, Lau Chung Po must also have had the right to use or occupy the other half of the living room in part A of Flat B of the Roof. This assumption is supported by the evidence of Chan Hoi Ning's evidence that during the whole time she was in occupation of part B of Flat B, Lau Chung Po had occupied part A of Flat B.
+33. Defence counsel submitted the express reservation could have been made because Lau Yan Wai permitted Lau Chung Po to continue to remain on the premises. Hence the express reservation is not determinative of whether Lau Yan Wai is the true owner of part A of Flat B of the Roof. However, I do not accept counsel's submission. The explanation provided by defence counsel is pure speculation without any evidentiary support. There is no evidence to explain the reason behind the need to reserve Lau Chung Po's right to occupy half of the living room in part B of Flat B of the Roof.
+34. In absence of an explanation for the express reservation in Exhibit D14 of Lau Chung Po's interest and in absence of any explanation as to the nature of Lau Chung Po's interest in part A of Flat B after he purportedly assigned the whole of his interest to Lau Yan Wai, it is unknown whether Lau Yan Wai did in fact have exclusive and single possession of part A of Flat B of the Roof. In such circumstances, I do not accept the hearsay evidence contained in the sale and purchase agreement at Exhibit D2 as being true and accurate.
+35. I find Ms Chen unable to prove, on a balance of probabilities, Lau Yan Wai had single and exclusive possession of part A of Flat B.
+36. Hence for reasons given above, I find Ms Chen unable to prove, on a balance of probabilities, the late Mr Chan and his purported predecessors had exclusively possessed parts A and B of Flat B for an aggregate period of 20 years.
+
+Whether Ms Fong has established factual possession
+
+37. Counsel for plaintiff made essentially the same submissions against Ms Fong's case of factual possession as he made for Ms Chen's case. In addition to the submissions relating to the authenticity of the sale and purchase agreements and the hearsay evidence contained therein, he made, inter alia, the following salient submissions:- 
+
+1) In the sale and purchase agreement dated 19 July 2009 (Exhibit D13) where Wong Mei Ying ( 王美英 ) purportedly assigned her interest in part of Flat C of the Roof to Ms Fong, the agreement described the premises as Flat B. However the description of Flat B of the Roof only came into existence for the purposes of this litigation. Hence it was impossible for the parties to have used the description of "Flat B" in the agreement if it was genuinely made before the commencement of these proceedings.
+
+2) Paragraph 16 of Ms Chen's statement states: " 據本人瞭解，方雲女士曾居於C單位。在每次收到水費單後，本人及A單位的住戶便以水分表計算應付的水費金額，然後以現金方式交給C單位的住戶代為繳交。 " (own emphasis added) The meaning of the paragraph translates to the following: "According to my understanding, Ms Fong Wan had lived in Flat C. Every time the water bill is received, the owner of Flat A and I will calculate the payment according to the water meter and then hand over the cash payment to the owner of Flat C." Although Ms Chen in her evidence in court attempted to correct this statement by saying that Ms Fong continues to reside in Flat C, Counsel for the plaintiff argues that the meaning of the said paragraph in the witness statement is clear in that Ms Fong had previously lived there but no longer lived there at the time Ms Chen gave her statement. Counsel submitted there is at the very least a doubt as to whether Ms Fong had truly been in occupation of Flat C for the period she alleges.
+
+
+38. In respect of the content of the sale and purchase agreements, I accept the submissions of plaintiff's counsel that the use of the description "Flat B" indicates the sale and purchase agreement was drafted after the commencement of the proceedings and therefore cannot be a contemporaneous record.
+39. In her oral evidence in court, Ms Fong admitted that prior to the commencement of these proceedings, the 2 flats on the Roof in question were only known as Flat A and C of the Roof. The description of Flat B only existed after the commencement of proceedings where the respective areas of the Roof were marked for the purposes of identification.
+40. Defence counsel submitted it does not make sense and does not further Ms Fong's case to fabricate a sale and purchase agreement describing the property as Flat B because her claim relates to Flat C of the Roof. Counsel argues that such a description must have been used mistakenly and unintentionally. However I do not accept those submissions.
+41. The only explanation offered by Ms Fong is that the description of "Flat B" was written by her daughter and she was not aware the description was erroneous at the time when she signed the agreement. Ms Fong has not offered any reasonable explanation as to why the sale and purchase agreement purportedly signed on 19 July 2009 contains a description that was non-existent at the time of the agreement. I find the only reasonable inference to draw in such circumstances is that the said sale and purchase agreement was written after the commencement of the proceedings. This inference is supported by the evidence in Ms Chen's witness statement which specifically stated Ms Fong " lived in Flat C" (曾居於C單位 ) (own emphasis added).
+42. Although Ms Chen explained the literal meaning of the sentence quoted from paragraph 16 of her witness statement was not her intended meaning, I do not accept her explanation for it is contrary to the statement of truth appended to her witness statement. Ms Chen confirmed in her statement of truth that the contents of her witness statement are true and accurate. I therefore do not accept Ms Chen signed the statement of truth knowing full well her statement contained such words and that such words were contrary to her intended meaning.
+43. Having considered all the evidence, I do not accept Exhibit D13 was drafted and signed by the parties in 2009 and I do not accept the contents in Exhibit D13 to be true and accurate. I therefore find Ms Fong unable to prove, on a balance of probabilities, she had single and exclusive possession of Flat C of the Roof since 2009.
+44. By reason of the matters set out above, I find the late Mr Chan and Ms Fong unable to prove their claim of having adversely possessed Flat B and Flat C of the Roof, respectively, for a continuous period of 20 years.
+45. Since the defendants are unable to prove their claim of possessory title of the Roof, the defendants' claim of having attained the right to use the common corridor by way of easement by prescription and/or licence estoppel and/or presumed lost of grant also fails.
+
+PLAINTIFF’S COUNTERCLAIM OF NUISANCE AND TRESPASS
+
+46. The plaintiff claims the defendants have trespassed onto the Roof by erecting illegal structures and by connecting water and electricity supply to the said structures. Ms Chen and Ms Fong do not dispute there are illegal structures erected on the Roof of which they are now in occupation.
+47. For reasons given above, I do not accept the defendants' respective claims of adverse possession to be made out. Having considered the evidence, I find the late Mr Chan and Ms Fong have no lawful authority to remain on or use the land. By continuing to remain on the Roof and maintaining the illegal structures without the lawful authority of the plaintiff, the late Mr Chan and Ms Fong have trespassed onto the Roof.
+48. In respect of the claim of nuisance, I note Ms Chen and Ms Fong do not dispute the findings set out in the Amended Joint Statement of Experts. The joint expert report clearly states the illegal structures have caused water seepage and damage to the plaintiff's premises on the 2/F. By reason of the matters set out in the joint expert report, I find the defendants have caused nuisance by interfering with the plaintiff's use and enjoyment of 2/F.
+
+WAIVER OR ACQUIESCENCE
+
+49. The defendants argue that even if they had committed trespass in the manner as alleged, it has been waived or acquiesced by the plaintiff.
+50. I have considered the evidence and the submissions of counsel on this matter and I am in agreement with the submissions of plaintiff's counsel.
+51. The case of The Incorporated Owners of Hoi Luen Industrial Centre & Another v Ohashi Chemical Industries (Hong Kong) Ltd [1995] 2 HKC 11 
+is clear authority that incorporated owners cannot acquiesce or waive an act in contravention to a deed of mutual covenant.
+
+52. Although the present case concerns whether an individual owner can grant such waiver or acquiescence, I am of the view that the legal principles set out by the Court of Appeal in The Incorporated Owners of Hoi Luen Industrial Centre are equally applicable in this case. Godfrey JA stated at page 13D of the judgment:-"What cannot be done expressly cannot be done implicitly. Although equity will sometimes restrain a plaintiff in the exercise of his legal rights because it would be inequitable and unjust in all the circumstance to allow him so to exercise those legal rights, equity will not hold him bound by acquiescence to allow something which he could not have allowed by express grant."
+
+
+53. The covenants contained in the Deed of Mutual Covenant binds the plaintiff as the owner of 2/F and the Roof (see section 34E Building Management Ordinance (Cap 344)).
+54. The Deed of Mutual Covenant in respect of the said premises and the Roof expressly stipulates:- 
+
+8. "Each of the parties hereto shall not make any structural alteration to the said building or to the floor of which he is entitled to the exclusive use; occupation and enjoyment and shall not make any alteration to any installation or fixture so as to affect or likely to affect the supply of water, electricity or gas. 
+
+
+
+19. The party entitled to the exclusive use occupation enjoyment of the second floor of the building shall also be entitled to the exclusive use occupation and enjoyment of the roof provided that:- 
+
+(a) No additional floor or penthouse or attic or structures of any kind shall be allowed to be erected or constructed thereon without the consent of the Building Authority.
+
+(b) Such party shall not use or allow nor permit to be used the said roof in any manner so as to cause nuisance or annoyance to the other or other of the parties hereto"
+
+
+
+
+55. Clause 3 of the New Grant prohibits additional structures or alterations to be made to the building in contravention of the Building Ordinance (Cap 123). This prohibition is, in effect, incorporated into clauses 8 and 19 of the Deed of Mutual Covenant.
+56. It is clear the plaintiff is prohibited by the Deed of Mutual Covenant and the New Grant from erecting illegal structures on the Roof and is not permitted to cause nuisance. Applying the principle set out in The Incorporated Owners of Hoi Luen Industrial Centre as cited above, the plaintiff cannot waive or acquiesce the erection of illegal structures and the nuisance caused by the said structures.
+57. By reason of the matters set out above, I allow the plaintiff's main claim and the Amended Counterclaim to Counterclaim.
+
+DOCTRINE OF LACHES AND HARDSHIP SUFFERED BY THE DEFENDANTS.
+
+58. Defence counsel sought to argue the plaintiff is debarred from seeking a demolition order by reason of the operation of the doctrine of laches . Defence counsel further submitted the defendants would suffer from hardship in the event an order of demolition is made against them. I do not accept either of the submissions.
+59. Firstly, the defendants have failed to plead laches and the particulars thereof in their pleadings. Laches is an equitable defence which must be specifically pleaded: see paragraph 18/8/10, Hong Kong Civil Procedure 2015, Vol 1. In absence of any pleaded particulars on how the doctrine of laches operates in this case, the defendants are not entitled to rely on this defence.
+60. Secondly, there is no evidence to support counsel's assertion of hardship the defendants may suffer in the event an order for demolition is granted. There is no mention by the defendants, either in their witness statements or during their evidence in court, what type of hardship they would possibly suffer, whether it was likely they would suffer hardship (if any) and the consequences that may arise from any hardship they may suffer as a result of demolishing the structures on the Roof.
+61. I therefore do not accept defence counsel's submissions on the operation of the doctrine of laches and hardship.
+
+ORDER FOR DEMOLITION
+
+62. In respect of whether the order for demolition is an appropriate remedy, I am of the view such an order is appropriate for the following reasons:- 
+
+1) The Building Authority has issued a demolition order against the plaintiff on 13 June 2012 ordering that the illegal structures on the Roof be demolished. Until this date, the illegal structures on Flats B and C continue to remain on the Roof and the plaintiff is unable to gain access to Flat B and C of the Roof to carry out the demolition order.
+
+2) The experts of both parties agree the illegal structures "would be highly likely the direct and major cause of the structural and physical damages to the Building, especially the building elements of the 2nd Floor residential units." Furthermore, the presence of the illegal structures prevents the building's residents from proper escape to the Roof in the event of a fire. It is therefore crucial to the safety of the building and to the safety of the residents of the building to have these illegal structures removed.
+
+3) The experts found the electricity and water supply to the illegal structures have been wrongfully and unlawfully connected on the Roof. In addition to contravening fire safety regulations, the defendants have caused foul water to be discharged in the rainwater drainage system. The presence of such installations not only presents a real risk of fire hazard but has caused pollution to the public rainwater system. Hence for the safety of the residents of the building, these installations must be removed.
+
+4) There is no evidence from the defendants to show they will suffer any hardship in the event of a demolition order is made against them.
+
+5) Due to the seriousness and the extent of damage to the building caused by the illegal structures, monetary damages are not an adequate remedy in this case.
+
+
+63. Having considered all the matters set out above and the circumstances of the case, I am of the view an order requiring the defendants to remove the illegal structures is appropriate and should be made.
+
+WHETHER THE DECLARATIONS AND INJUNCTIONS SOUGHT BY THE PLAINTIFF SHOULD BE GRANTED
+
+64. The plaintiff asks this court to make various orders as set out in the pleadings. However some of the orders sought overlap in nature; in particular, the order of demolition sought and the order for costs for demolition (see paragraphs 1(c) and 2 (c) of the prayer in the Statement of Claim). Having considered the submissions of the plaintiff's counsel, I take the plaintiff to have elected for an order for demolition. For reasons given above, I grant the order for demolition as sought by the plaintiff.
+65. In respect of the declaration sought at paragraph 2(a) of the prayer in the Statement of Claim, I find the declarations are unnecessary as the defendants have already conceded they are bound by the covenants set out in the Deed of Mutual Covenant and the New Grant. I therefore decline to grant such declarations.
+66. In respect of the declaration that the plaintiff be indemnified for potential loss arising from the enforcement of the demolition order by the Building Authority (See paragraphs 1(d) and 2(d) of the prayer in the Statement of Claim), I find it inappropriate to make such declarations as such loss is prospective and has not been incurred. Without any evidence as to what potential loss the plaintiff is likely to face, the court is not in a position to determine whether the defendants are necessarily liable for all potential loss. I therefore do not grant the said declarations sought.
+67. In respect of the injunction seeking to prohibit the defendants and their agents from entering the premises, such an injunction is inconsistent with the order of demolition. The defendants' agents must be allowed to enter the Roof for the purposes of carrying out the demolition order. In view of the broad prohibition the injunction seeks to impose and in view of the election of an order for demolition against the defendants, I am of the view that the injunction in the form as is prayed for in the Amended Counterclaim to Counterclaim is inappropriate. I therefore do not grant the said injunction.
+68. In respect of the injunction seeking to restrain the defendants and their agents from connecting water and electricity supply to the Roof, I am satisfied that such an injunction should be granted in view of the findings made by the joint experts.
+
+DAMAGES
+
+69. The plaintiff claims damages be assessed in the Amended Counterclaim to Counterclaim. However no split trial has ever been sought or ordered where damages would be separately assessed. Moreover, the parties agree to the contents of the joint expert reports. Section 5 of the Amended Joint Statement of Experts clearly sets out the damages suffered by the plaintiff in the section "Agreed Issues on the Structure on the Roof and Damages Assessment of the Repair/Reinstatement Work."
+70. The total value of repair works as assessed by the experts is $106,063.00. Since this figure is not disputed by the defendants, I order this sum to be paid by the defendants as damages suffered by reason of the trespass and nuisance caused.
+71. In respect of mesne profits, I note the parties agree the rent of the Roof is $5,000. I therefore order the 3rd and 4th defendants to pay to the plaintiff mesne profits at the rate of $5,000 per month from the date of the issuance of the Originating Summons until vacant possession of the Roof is delivered to the plaintiff.
+72. All monetary damages will be awarded interest at judgment rate from the date of this order until full payment of the said sums.
+
+COSTS
+
+73. By reason of the matters set out above, I find the plaintiff's claim and Amended Counterclaim to Counterclaim proved on a balance of probability. I allow the plaintiff's claim and Amended Counterclaim to Counterclaim.
+74. For reasons already given above, I dismiss the 3rd and 4th defendants' counterclaim.
+75. I make a costs order nisi that the 3rd and 4th defendants pay the plaintiff's costs of this action to be taxed if not agreed, with certificate for Counsel. Unless any party applies to vary the costs order within 14 days hereof, the costs order shall become an order absolute.
+76. I also order the 3rd and 4th defendants' own costs to be taxed in accordance with the Legal Aid Regulations (Cap 91A).
+
+SUMMARY OF ORDERS
+
+77. In summary, I make the following orders:- 
+
+1) The 3rd and 4th defendants, and each of them, shall demolish and remove all illegal structures on the Roof and reinstate the Roof in compliance with the terms and conditions of the New Grant and the Building Ordinance within 28 days of this judgment or within such period as may be further extended by the court.
+
+2) The 3rd and 4th defendants, and each of them, shall deliver vacant possession of the Roof to the plaintiff immediately after the completion of the demolition and reinstatement works to the Roof.
+
+3) The 3rd and 4th defendants, and each of them, and their licensees, tenants, servants or agents be restrained from connecting the water and electricity supply of the Building to the Roof.
+
+4) The 3rd and 4th defendants shall pay the plaintiff a sum of $106,063.00, with interest on the said sum at judgment rate from the date of this judgment until full payment thereof.
+
+5) The 3rd and 4th defendant shall pay to the plaintiff mesne profits at the rate of $5000 per month from the date of the issuance of the Originating Summons until vacant possession of the Roof is delivered to the plaintiff, with interest on the said sum at 8% per annum from the date of the issuance of the Originating Summons until the date of this judgment and thereafter at judgment rate.
+
+6) Costs order nisi that the 3rd and 4th defendants pay the plaintiff's costs of this action, with certificate for counsel, to be taxed if not agreed. Unless any party applies to vary the costs order within 14 days hereof, the costs order shall become an order absolute.
+
+7) The 3rd and 4th defendants' own costs to be taxed in accordance with the Legal Aid Regulations (Cap 91A).
+
+
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

@@ -1,0 +1,264 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:06 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : On Park Property Management Ltd v Incorporated Owners of Kwan Yick Building Phase II
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+On Park Property Management Ltd v Incorporated Owners of Kwan Yick Building Phase II
+
+
+
+27 January 2014
+District Court
+DC
+Civil Action No 1535 of 2009
+DCCJ 1535/2009
+
+Citations:[2014] HKEC 146 English Judgment
+
+Presiding Judges: Judge Michael Wong
+
+Phrases: Tort - negligence - breach of statutory duty - nuisance - flooding, caused by heavy rain, affecting basement and ground floor of building, causing loss to plaintiff who operated car park thereat - whether incorporated owners of building liable - whether defence of act of God made out
+
+Counsel in the Case: Ms Pauline Leung instructed by Messrs Chow, Griffiths & Chan for the plaintiffMr Kam Cheung instructed by Messrs Paul CK Tang & Chiu for the defendant
+
+Case cited in the judgment: Star Ferry Co Ltd v Owners of the Ship or Vessel ‘Argonaut’ (Greek Flag) & Another [1980] HKC 308 
+
+Judgment: 
+
+
+Judge Michael Wong
+
+Background
+
+1. In the morning on 7 June 2008, there was heavy rainfall all over Hong Kong which caused a number of places to be severely flooded. Kwan Yick Building at No 343 Des Voeux Road West, Hong Kong ("the Building") was one of them.
+2. The plaintiff operates a public fee paying car park at the basement and ground floor of the Building ("the Car Park"). As a result of the flood, a number of cars parked at the basement of the Car Park on 7 June 2008 were covered with water and parts of the Car Park were rendered inaccessible and unsuitable for parking of vehicles. The plaintiff received notifications from the tenants of the Car Park claiming that the plaintiff was liable to compensate them for damage to their vehicles ("the 3rd Parties' Claims"), the total sum of which is $488,704.00. The plaintiff was also out of business for a period of time from June to August 2008 and suffered a loss of rental income in the sum of $136,272.30.
+3. The defendant is the owners' corporation of the Building and responsible for the Building's management and maintenance. The plaintiff contends that the flood at the basement of the Car Park was caused by the defendant's negligence, breach of the deed of mutual covenant of the Building ("the DMC"), breach of statutory duty and nuisance. Thus, the plaintiff brings the present action against the defendant to claim for damages and other reliefs.
+4. The defendant denies all the liabilities and contends that the damage to the Car Park was due to an act of God, as the rainstorm causing the flood on 7 June 2008 was unprecedented, unanticipated and unprepared for, and that the flood could not by any amount of ability have been foreseen or if foreseen could not by the exercise of all reasonable skill and care have been avoided (see Star Ferry Co Ltd v Owners of the Ship or Vessel 'Argonaut' (Greek Flag) & Another [1980] HKC 308 
+).
+5. Thus, the main issue in this case is whether the defendant is liable for the flood at the basement of the Car Park on 7 June 2008.
+
+The plaintiff’s case
+
+6. The plaintiff alleges that the flood was caused by the defendant's negligence. At the beginning of the trial, the plaintiff further amended its pleadings to give details of the alleged negligence. The particulars of negligence, as given in the Re-Re-Re-Amended Statement of Claim, are as follows:- 
+
+(1) failing to inspect and/or keep in good repair and condition flat roofs FR1 and FR2 and all water pumps, tanks, pipes, sewers, drains, drainage pipes and water-courses in the Building, ie (a) pipe work between storm water manhole 10 and 9 and light well LW3 and (b) pipe work between storm water manhole 13 and gully trap, which are for the common use of the occupants;
+
+(2) allowing debris and waste to accumulate on flat roofs FR1 and FR2 and in drains, drainage pipes, sewers in the Building, ie (a) pipe work between storm water manhole 10 and 9 and light well LW3 and (b) pipe work between storm water manhole 13 and gully trap, which are for the common use of the occupants;
+
+(3) failing to carry out maintenance work to clear debris and waste on flat roofs FR1 and FR2 and in drains, drainage pipes, sewers in the Building, ie (a) pipe work between storm water manhole 10 and 9 and light well LW3 and (b) pipe work between storm water manhole 13 and gully trap, knowing or ought to have known that flooding had occurred at the Car Park before on divers date in April, May and June 2008;
+
+(4) exposing the plaintiff to risk of flooding knowing or ought to have known that flooding had occurred at the Car Park before on divers date in April, May and June 2008; and
+
+(5) failing to take any or any sufficient step to prevent water from flooding in the Car Park.
+
+
+7. From the particulars given, the plaintiff's complaints are now related to only 3 parts of the Building, namely: (1) flat roofs FR1 and FR2; (2) pipe work between storm water manhole 10 and 9 and light well LW3; and (3) pipe work between storm water manhole 13 and gully trap.
+8. Further or alternatively, the plaintiff alleges that the flood was caused by the defendant's breach of clause 10(d)(9) and (24) of the DMC, which reads as follows:- 
+
+(d) "Without in any way limiting the generality of the provisions of paragraph (a) of this Clause, the Managers shall have the following powers and duties, namely:- 
+
+
+
+(9) To keep in good repair and condition all water pumps, tanks, pipes, sewers, drains, water-courses, cables and wiring in the said building which are for the common use of the occupants of the said building.
+
+
+
+(24) To do all such other things as are reasonably incidental to the management of the said land and the said building."
+
+
+
+
+9. However, the plaintiff has not given any particulars concerning the breach of the DMC. Presumably, the plaintiff is relying on the same particulars under its claim for negligence as it is an alternative claim.
+10. Again, further or alternatively, the plaintiff alleges that the flood was caused by the defendant's breach of statutory duty under section 18 of the Building Management Ordinance, Cap 344, which stipulates that:- 
+
+(1) "The corporation shall - 
+
+(a) maintain the common parts and the property of the corporation in a state of good and serviceable repair and clean condition;
+
+(b) carry out such work as may be ordered or required in respect of the common parts by any public officer or public body in exercise of the powers conferred by any Ordinance;
+
+(c) do all things reasonably necessary for the enforcement of the obligations contained in the deed of mutual covenant (if any) for the control, management and administration of the building."
+
+
+
+
+11. The particulars given in respect of this breach is that the defendant failed to maintain water pumps, tanks, pipes, sewers, drains, drainage pipes and water-courses which are common parts and the property of the defendant and/or other common parts of the Building in a state of good and serviceable repair and clean condition. However, unlike the particulars given for negligence, there was no amendment made for this particular to give further details. It is not clear whether the plaintiff is referring to all the water pumps, tanks, pipes, sewers, drains, drainage pipes and water-courses and common parts of the Building, or just the 3 parts of the Building mentioned above.
+12. In the further alternative, the plaintiff alleges that the flood constituted a nuisance caused or permitted by the defendant.
+13. In the pleadings, the plaintiff states that it will rely on the doctrine of res ipsa loquitur, but the plaintiff drops this plea at the trial.
+14. Based on the aforesaid causes of action, the plaintiff claims for damages, an injunction ordering the defendant to carry out necessary repairs and maintenance works to the drains, drainage pipes and other common parts of the Building which caused the flood, and a declaration that the plaintiff is entitled to be indemnified by the defendant against the whole of the 3rd Parties' Claims and costs in respect of the damaged vehicles, as well as interest and costs of this action.
+15. The plaintiff has called 4 factual witnesses, namely, Wan Chi Hing, Wan Chung Hei, Cheng Yang Hu and Wan Chung Lai Bobby, as well as an expert witness, Tsang Tat Ming Jacob, to give evidence at the trial.
+
+Wan Chi Hing’s evidence
+
+16. Mr Wan Chi Hing is the plaintiff's company secretary and the sole shareholder, responsible for all the business of the plaintiff. His evidence is that the Car Park had flooding problems all along from August 2004 to March 2008. Water would come out from the floor and the walls of the Car Park, and the drains and pipes would be blocked. During summers when there were rainstorms, water would accumulate on the floor of the Car Park up to 2 to 3 inches deep. However, he never encountered water coming down to the basement of the Car Park from the street level through the entrance of the Car Park because of rainstorm. The Car Park was installed with two pumps to deal with the water accumulation and leakage problems.
+17. Some of the light wells of the Building are always covered with miscellaneous items. Whenever it rains, the defendant will arrange to have the lids of the light wells opened so as to release the water. However, he is not aware that the defendant had carried out cleaning or clearing of the rubbish or debris in the light wells or that there was regular maintenance or clearance of the water pipes. The water accumulation problem became more serious from 2007 onward and affected the car owners in walking away from the Car Park. He made complaints to the defendant and owners of the Building many times, but the situation was not improved.
+18. There was heavy rainfall on 19 to 20 April 2008 and the Car Park was flooded. The water accumulated to about 4 to 5 inches deep. He was informed by his staff that water came through the gaps at the bottom of the walls. So he asked his staff to report the situation to the defendant and requested the defendant to improve the situation before the rainy season came. As the defendant did not reply or improve the situation, he and his staff wrote to various government departments to lodge complaints.
+19. In the morning on 7 June 2008, his staff, Mr Lau Tai Shing, called him at about 8 am to inform him that water was coming in from the four walls of the Car Park and the floor was flooded. He arrived at the Car Park at about 11 am or 12 pm. At that time, the water accumulated inside the Car Park was about 2 feet deep. Water was flowing in from the light wells like water emitting from taps and the flow was not slow. Water was also flowing in from the window near parking space 13. However, there was no water coming in from the entrance of the Car Park.
+
+Wan Chung Hei’s evidence
+
+20. Mr Wan Chung Hei was the plaintiff's employee and the supervisor in charge of the Car Park from 1 July 2007 to 30 April 2008. He left the plaintiff's employment in May 2008. He gives evidence that during his employment, there were always water leaking from the ceiling and the walls of the Car Park, and blockage at the drains and pipes making the Car Park very smelly. The condition was worse during rainy seasons and minor flooding occurred 2 to 3 times a year. Every time when there was flooding, pumps were used to remove the water to the light wells, but as the light wells were blocked, water would just flow back to the Car Park. He personally made complaints to the management office of the defendant many times, but the defendant just ignored the complaints. He also complained to the relevant government authority, but was informed that it was just a private matter and should be resolved on his own.
+21. On 19 April 2008, at about 3:30 pm, there was heavy rainfall and the caretaker at the Car Park reported to him that flooding occurred at the Car Park and the water was about 4 to 5 inches deep, but no water was coming down from the street level. On 20 April 2008, as water could not be pumped away, he complained to the management office again, but was ignored. He also sent a written complaint to the defendant on 22 April 2008, but there was no reply from the defendant.
+
+Cheng Yang Hu’s evidence
+
+22. Mr Cheng Yang Hu has been employed by the plaintiff as the cashier and caretaker of the Car Park since 17 January 2005. He gives evidence that during his employment, the Car Park always had water leaking from the ceiling and the walls of the Car Park, blockage at the drains and pipes, and minor flooding conditions, which were more serious during raining periods. On 19 and 20 April 2008, serious flooding occurred at the Car Park and the water was about 4 to 5 inches deep. He informed the plaintiff and the management office when the flood started. Thereafter the plaintiff complained to the defendant and various government departments.
+23. On 7 June 2008, there was heavy rainfall. He arrived at the Car Park at about 6:55 am. At about 7 am, when he was patrolling the Car Park and checking the cars as usual, he found that water was leaking from many places at the floor and the walls and it was more serious than before. At about 7:30 am, he reported the matter to Mr Lau Tai Shing and also informed the management office about the same, but no one from the management office came.
+24. At about 8 am, the rainfall became even heavier and more water was leaking from the floor and the walls of the Car Park. He could see that water was coming out like fountains at 4 pipes (near car park nos. 15, 20, 39 and 44). There were 10 odd places at the walls with water coming out and 3 of them (near car park nos. 15, 29 and 39) had larger holes (about 3 to 4 cm) for water to come out. He also saw lots of water coming out from a drain on the floor, another one about 5 feet above the floor and the window connecting the pump to the light well. He confirms at the hearing that flat roof FR1 was the spot where he saw heavy down flow of water from an opening connecting to the Car Park. He also saw water flowing in at the expansion joint near flat roof FR2.
+25. As the condition became more serious, he called Mr Lau again at 8:15 am and was instructed to ask the car owners to drive away the cars as soon as possible. He therefore called the management office again and also the car owners. At that time, the water inside the Car Park was 8 to 9 inches (according to his witness statement) or 7 to 8 inches (according to his oral evidence in court) deep. When he was calling the car owners, he saw that water was coming in like waterfall from the staircase near the toilet opposite to the cashier office. The covers of 2 sewage pipes inside the toilet were also flushed open by the water. Water was coming out from these pipes as well as 2 other sewage pipes near the toilet. In addition, the covers of 2 sewage pipes in front of the toilet were also opened intermittently by the water flushing out.
+26. At about 9:15 am, he saw that more and more water was accumulated at the street level and the water started to come into the Car Park through the entrance of the Car Park. At the peak, the depth of the water flowing in from the entrance was about 8 to 10 cm and the flow lasted for about 10 minutes. Then the water at the street level started to reduce and the water flowing into the Car Park stopped. At that time, the water accumulated inside the Car Park had a depth of about 60 cm and the cars remaining there were flooded.
+27. However, during cross-examination, he admits that he did not make any written record of what happened on 7 June 2008. His witness statement was made from his memory. At about 7:30 am, when he reported to Mr Lau about the flood, he was not instructed to inform the car owners to evacuate the cars immediately because the flood was not so unusual. By 8:15 am, as the flood was more serious, he again reported it to Mr Lau and was told to keep observing. He did not walk out of the Car Park. As previously no water came in via the Car Park entrance, he was most concerned with the inflow of water inside the Car Park, including the ceiling and the walls. Comparatively, the inflow of water from flat roof FR1 was more serious than that of flat roof FR2. He said that water suddenly rushed in from the Car Park entrance and it took a very short time, 10 seconds or slightly more than 10 seconds for the water level at the entrance to reach 8 to 10 cm. Water flowed in for about 10 minutes and about half a minute after it ceased coming in, the entrance was no longer covered with water.
+
+Wan Chung Lai Bobby’s evidence
+
+28. Mr Wan Chung Lai Bobby is the general manager of Parker Engineering Limited, which was appointed by the plaintiff to obtain professional surveyor's report on the Car Park's flooding incident on 7 June 2008. His evidence is that he had a report from Mr Alfred Ngo Thanh Lien through C S Surveyors Limited. However, Mr Ngo has left his job on 30 May 2009 and joined the government since then. The plaintiff was unable to call Mr Ngo as its expert witness and hence engaged another expert, Mr Tsang Tat Ming Jacob, in place of Mr Ngo.
+
+Tsang Tat Ming Jacob’s evidence
+
+29. Mr Tsang Tat Ming Jacob is a surveyor employed by Dudley Surveyors Ltd. He was instructed by the plaintiff to determine why and how the basement of the Car Park was flooded on 7 June 2008. He gives his opinion in his Final Individual Expert Report dated 9 July 2012.
+30. Mr Tsang in fact had a without prejudice meeting with the defendant's expert Dr Tung Yeou Koung on 2 June 2012, and thereafter they both agree that based on the different statements of witnesses and sustainable symptoms observed at site, the following rainwater paths and mechanisms causing the flooding at the basement of the Car Park on 7 June 2008 are identified:- 
+
+ItemsMechanism
+
+ADefective Basement walls and floorsBasement structure is directly surrounded by the underground water. Should there be defects such as cracks, holes, crevice on the walls and floors, ingress of subsurface water was unavoidable. During heavy rainfall, underground water level would rise which would result in greater water pressure and so the flow of subsurface water seeping into the basement of the Car Park would increase.
+
+BInternal rainwater pipe worksIn general, drainage pipe works are not designed to be pressurized and normally are subject to atmospheric pressure. But under heavy rainfall, large volume of rain-produced surface runoff would lead to pressurized flow in the pipe work. Due to dilapidation of some pipe work joints and fittings, leakage of rainwater was resulted.
+
+CLight wellsIn accordance with the design on the BD record plans, rainwater onto a light well was collected at the gully traps and then discharged by the storm water drainage pipe work. Should the floor drain inlets in the light well be blocked by rubbish or other abandoned objects, flow conveyance capacity of the pipe work would decrease. Under the scenario of heavy rainfall, significant amount of rainwater could accumulate in the light well. As smoke vent of the basement of the Car Park is directly abutted the light well, water pressure could build up as a result of rainwater accumulation in the light well. This would lead to ingress of rainwater into the basement of the Car Park from smoke vent.
+
+
+This mechanism is particularly apparent at LW3 because, in addition to rainwater directly falling through the light well opening, there were several rainwater pipe works discharging water over there. Also, the opening of smoke vent had been left uncovered during the 7 June 2008 flooding incident.
+
+DFlat roofsIn accordance with the design on the BD record plans, rainwater on the flat roof is to be collected at the gully traps and then discharged by the rainwater drainage pipe work. Should the rainwater outlets were blocked by rubbish or other abandoned belongings, discharging capacity of the pipe work would be decreased. Under the scenario of heavy rainfall, flooding over the flat roof is possible and the water depth would be above the curb of dog house. In this connection, rainwater would leak or flow into the basement of the Car Park.
+
+
+The above mechanism was particularly apparent at FR1 as there were so much rubbish and abandoned belongings left during the joint on-site inspection. The observation could directly reflect the possible conditions during the 7 June 2008 incident.
+
+EStorm water manholesIn accordance with design on the BD record plans, the structure of storm water manholes directly abutted to the external walls of the basement of the Car Park. Should there be defects such as cracks, holes, crevice on both the external walls and structures of manholes, ingress of discharged storm water could happen. During heavy rainfall, water level inside the manholes would rise and become surcharged. The water level would be substantially high if there was rubbish blocking the conveyance of flow in the manholes. The higher water level easily resulted in greater water pressure and so the flow of storm water into the basement of the Car Park would be increased.
+
+FExpansion jointsWaterproofing was one of the performance for outdoor expansion joints of the Building. Had the building elements aged, rainwater seepage is unavoidable.
+
+GWater ingress through the basement of the Car Park entrancesSurface water outside the site boundary should be discharged through the public storm water sewer system. Heavy rainfall would result in street flooding outside the Car Park entrances. Should the street water level become higher than the threshold level of entrances, ingress of street flood water produced by heavy rainfall was unavoidable.
+
+31. Apart from the aforesaid rainwater paths, Mr Tsang identifies a further path designated as item H in his report, namely rainwater came through the storm water manhole cover lids. According to Mr Tsang, the situation is more or less the same as those at the light wells (item C) and the flat roofs (item D). Discharge capacity of the pipe works would be decreased in case of blockage of the pipe works. During heavy raining, water level inside the storm water manholes would be raised. Alongside with rising of water level, water pressure would build up. The increased water pressure would cause lifting of cover lids of manholes and lead to spillage and flow of storm water into the basement of the Car Park.
+32. Mr Tsang opines that except for item G, which can be regarded as disaster, ie act of God, all the other identified water sources are related to dilapidation of common facilities and common areas, and that the problem of flooding on 7 June 2008 and during the other periods can be alleviated or thoroughly solved by routine maintenance and housekeeping of common areas. He classifies items A to F and H as one class of water sources and item G as another class of water sources. Relying on Mr Cheng Yang Hu's estimations of the water depth and the assumption that the leakage of rainwater is proportionate to the intensity of rainfall, he calculates that the depth of water seeped into the basement of the Car Park through the sources of items A to F and H was 458mm when the rainfall was 128.5mm, and the water depth caused by the flow of water from the street was 142mm. From his calculation, the ratio of these 2 classes of water sources causing the flood on 7 June 2008 is quantified as "Dilapidation of common facilities and common areas/Act of God = 458mm /142mm = 3:1". However, if there was blockage for the storm water drainage systems SS1 and SS2, the ratio would even be higher.
+33. He also opines that street water from the entrance facing Ka On Street had undoubtedly led to some flooding inside the administration office in addition to the water flow from the car parking areas. Nevertheless, the extent of such causation was limited, as much of the water would directly flow down the elevated carriageway rather than turning around into the administration office. On the contrary, flooding at the car parking areas possibly contributed more to the same flooding. Floor space of the car parking areas was linked with the space of the administration office through the drain point and the level difference was about 200mm. Had the water level of flooding at the car parking areas reached up to 600mm and inflow of flooding water into the basement of the Car Park was continuous, it was possible for the flooding water to pass in upward direction under static water head pressure into the administration office.
+
+34. To apportion the extent of causation, Mr Tsang adopts the following formula:- "Level difference for the floor level of car parking areas and floor level of Administration Office was about 200mm.
+The highest level of water flooding at car parking areas was 600mm.
+The highest level of water flooding at Administration Office was 700mm (Four steps of the staircase - indicated in photo no.4 of Appendix 18 of Hui's statement)
+Simply speaking:
+600mm - 200mm = 400mm - Belonged to Dilapidation of common facilities and common areas
+700mm - 400mm = 300mm - Belonged to Act of God
+In terms of extent of causation, the ratio could be quantified as
+Dilapidation of common facilities and common areas / Act of God = 400mm/300mm = 4:3"
+
+
+35. Mr Tsang concludes that the flooding of substantial depth on 7 June 2008 was solely related to substantial rainwater or storm water which accumulated through different water paths to the basement of the Car Park and those water paths were owing to dilapidation of common facilities and common areas. There was contributory water path by an act of God (ie coming from the entrance of Ka On Street) but it was minor in proportion.
+
+The defendant’s case
+
+36. The defendant's case is that on 7 June 2008, the black rainstorm signal was hoisted by the Hong Kong Observatory at 6:40 am and the hourly rainfall of Kwun Lung Lau Estate (Kennedy Town) measured by the Hong Kong Observatory from 7:00 am to 10:00 am was as follows:- 
+
+Time
+Rainfall (mm)
+
+07:0033.5
+
+08:0064.5
+
+09:00128.5
+
+10:0060.0
+
+37. The hourly rainfall between 8:00 am and 9:00 am on 7 June 2008 was the highest record in Hong Kong and the streets close to the Building, including Connaught Road West, Des Voeux Road West and Ka On Street were all flooded by rainwater of about 1 foot high. As a result of the torrential rains, large volume of rainwater flowed down from the entrance of the Car Park to the basement of the Car Park in the morning of 7 June 2008 which was an act of God.
+38. The defendant also relies on clause 10(f) of the DMC which stipulates that "The Managers shall not be liable to the owners  or to any person  for or in respect of any act, deed, matter or thing done or omitted  not being an act or omission involving criminal liability or dishonesty or willful negligence". As there is no suggestion in the plaintiff's pleadings, nor any evidence to show that the defendant was guilty of any criminal liability or dishonesty or willful negligence, the defendant is not liable to the plaintiff's claim.
+39. The defendant also submits that in so far as the plaintiff's case for indemnity is concerned, the fact is that nobody has filed any claim against the plaintiff. As indemnity is a secondary liability and unless the plaintiff is primarily liable to the car park users, there can be no basis for the plaintiff seeking indemnity from the defendant.
+40. There are other matters raised by the defendant in the Re-Re-Re-Amended Defence, such as the flood was caused by the plaintiff's own negligence in failing to take any preventive measure or to increase the number of water pumps, but as the defendant has not made any closing submissions in respect of those matters, I take it that the defendant is no longer relying on them.
+41. The defendant has called 3 factual witnesses, namely, Lam Yan Keung, Hui Kai Shui and Sze Sung Chuen, and his expert, the aforesaid Dr Tung Yeou Koung, to give evidence.
+
+Lam Yan Keung’s evidence
+
+42. Mr Lam Yan Keung was the driver of a 7-seater vehicle registration no. KE5556. The vehicle belonged to an associated company of his employer and was parked at the Car Park. His evidence is that on 7 June 2008, as the black rainstorm warning was hoisted from 6:40 am onward, he was not required to go to work. At about 8:30 am, he received a call from a Mr Cheng of the Car Park office informing him that there was flooding at the Car Park and he should immediately drive the vehicle away, otherwise the vehicle could be damaged by water. He lived just nearby to the Building. As he was walking to the Building, he realized that Queen's Road West was flooded with muddy water of 1 foot deep. When he reached the junction of Queen's Road West and Hill Road, he saw a large quantity of muddy water coming out from the ground and several private cars were stalled there. When he reached Des Voeux Road West, it was just like Queen's Road West, flooded with muddy water of 1 foot deep. It was raining very heavily and the pavement was flooded with water. So he had to walk very carefully. When he reached Ka On Street, it was also flooded with muddy water of 1 foot deep and several private cars were stalled there as well.
+43. He also gives evidence that at about 9:00 am, it was raining very heavily. The whole of Ka On Street was flooded with muddy water of 1 foot deep. He saw a large quantity of the muddy water flowing into the Car Park and the slope going down to the basement of the Car Park was like a river. He went down the slope carefully and reached car park no. 88 where the 7-seater vehicle was parked. When he opened the door of the vehicle, he found out that the carpet under the driver's seat was wet. However, the vehicle was not stalled and he could drive the vehicle away. He noted that the water level inside the Car Park was more than 1 foot deep and could reach 2 feet deep.
+
+Hui Kai Shui’s evidence
+
+44. Mr Hui Kai Shui was the defendant's vice chairman in June 2008. He was aware of the plaintiff's complaint of flooding in April 2008. However, the flood in April 2008 was caused by the blockage of the public sewage pipe at Connaught Road West. He confirms that after the clearing of the public sewage pipe, the flooding issue at the Car Park was resolved. He was also aware of the debris or rubbish accumulation in the light well areas, but the light well was connected to the public sewage pipe. Even if the light well was not blocked, water could still not be drained away because of the blockage at the public sewage pipe.
+45. He also gives evidence that the flood on 7 June 2008 was not caused by the blockage of the drains. At that time, the office of the Car Park was flooded with water of half a foot deep. If it was caused by water accumulated at the basement of the Car Park, the basement must have water of over 3 feet deep. From the photographs he saw, the flood at the basement of the Car Park at that time only reached a maximum of 2 feet. So the source of the water could not have come from the inside of the Car Park.
+
+Sze Sung Chuen’s evidence
+
+46. Mr Sze Sung Chuen is employed by the defendant as a caretaker of the Building. On 7 June 2008, he attended work at the Building at 6:45 am and it was raining very heavily at that time. After 9:00 am, the rain was less heavy and he went out to patrol the Building. When he reached the entrance of the Building facing Connaught Road West, he saw that the pavement was flooded with water of half a foot deep and the water had gone inside the Building even though there was a step of 5 inches at the entrance. When he reached the junction of Connaught Road West and Ka On Street, there was water coming out from the drain on the ground and a large quantity of muddy water was flowing from Des Voeux Road West to Connaught Road West. At that time, the water level at Ka On Street was about 1 foot deep. When he walked along Ka On Street to the Car Park, he saw a large quantity of muddy water flowing into the Car Park through the two entrances of the Car Park. He looked inside the Car Park and found that the water level was over the wheels of the vehicles parked there. He estimated that the depth of the water was about 2 feet.
+
+Tung Yeou Koung’s evidence
+
+47. Dr Tung Yeou Koung is a full time professor in the Department of Civil and Environmental Engineering of Hong Kong University of Science & Technology. He was instructed by the defendant to conduct an expert investigation of and to offer his views on the cause or causes of flooding in the Car Park. He has prepared his Final Expert Report dated 9 July 2012 for that purpose. As aforesaid, he and Mr Tsang identify items A to G as the rainwater paths and mechanisms causing the flood at the basement of the Car Park on 7 June 2008.
+48. However, Dr Tung's opinion on the main cause of the flood at the Car Park on 7 June 2008 differs from Mr Tsang's. According to Dr Tung, the rainstorm that occurred in the morning of 7 June 2008 produced 354mm rainfall in about 9 hours. This rainstorm event dumped about 1/7 of the total annual rainfall amount of 2,300mm in the area, and overall speaking, it has the recurrence interval in the order of 100 to 200 years (ie 0.5% to 1% chance of being exceeded in a year). By all standards, it was an extreme rainfall event which expectedly would create widespread and serious flooding in Hong Kong, particularly in low-lying urban areas such as the Western District where the Car Park is located.
+49. The rainstorm on 19 April 2008 was also relatively significant and had caused local flood in Western District as well. However, the April rainstorm produced only about half of the total rainfall than the June rainstorm with the rainfall period twice as long. The maximum rainfall depths of different durations of the April rainstorm correspond to the recurrent interval of 2 to 5 years with the exceedance probability of 20% to 50% per year. This indicates that the occurrence of the June rainstorm is about 50 to 100 time rarer than the April rainstorm.
+50. Dr Tung also opines that the average intensity of the June rainstorm is five times that of the April rainstorm. This hydraulically would produce five times the peak discharge of flood water travelling at a velocity twice as fast with a water depth 2.5 times deep. This implies that there was little amount of time to prepare for the onslaught of the flash flood produced by the June rainstorm. Although underneath the ground surface there is an extensive storm water drainage network in the Western District, most part of public drainage systems in Hong Kong, even in urban areas, are not designed to have the capacity of handling such rare rainstorm events except for the main trunk. When inflow to the storm water sewer systems exceeds its capacity, surcharges in pipes and manholes could occur.
+51. Based on the calibrated flow condition of 50%Q, Dr Tung used a hydraulic model to estimate the ingress of street flood water into the basement of the Car Park on 7 June 2008, which was made according to the physical geometry of the cross-section and longitudinal profile of Ka On Street and the ramp from the Car Park entrance to its ground floor. According to the hydraulic simulation of the time variation of water depth at the entrance of the Car Park, the estimated maximum water depth could reach as deep as 19 cm during the peak period of the June rainstorm. The estimated contribution of ingress of street flood water alone (in terms of accumulated depth) over the time period of the June rainstorm (2:00 am to 11:00 am) is about 21 inches.
+52. Dr Tung has also analysed the contribution of spillage of water from light well LW3 and other sources. From his analysis, if the drainage inlet or pipes of light well LW3 were in good working order, the contribution of spillage to the Car Park flooding from Light well LW3 is estimated to be 0.1 inches of water in the basement of the Car Park. If the drainage in light well LW3 was completely blocked (say by debris and/or sediments), the contribution would increase to 1.1 inches. However, the contribution to the total Car Park flooding (in terms of water depth of estimated 24 inches) is still relatively insignificant, ie 0.4% and 4.2% respectively.
+53. As to the other sources, Dr Tung opines that during heavy rainstorm, ground water table would be elevated due to rainwater infiltration, possible leaked underground pipes and manholes surrounding the outer perimeter of the basement of the Car Park. This would increase hydrostatic pressure around the walls and under the floor of the basement of the Car Park inducing more seepage. However, experiment published in literature indicates that the amount of seepage through concrete materials is very small.
+54. Leakage of pipe works was possible, but blockage of pipe works (physically or hydraulically) could retard flow discharging from the upstream of blockage point. Physical blockage of pipes by debris or foreign objects could build up pipe internal pressure that increases leakage potential. On the other hand, hydraulic blockage at the pipeline outlets due to surcharge could force water to flow in reverse direction like backwater flow at river mouth to an estuary during high tide period.
+55. Because of the deterioration of waterproof materials, rainwater could fall through the expansion joint between Blocks B and C of the Building which was exposed to the weather at the time of the June rainstorm. Hydrologic/hydraulic analyses performed indicate that the highest water level on the cockloft during the June rainstorm would not reach the sill height of the expansion joint. Thus, under the assumption of no waterproofing provided, a conservative estimation of the rainwater that would fall through the opening of the expansion joint is about 0.08 inches of flood water depth in the basement of the Car Park.
+56. Rainwater from the June rainstorm that fell on flat roof FR1 could leak into the air ventilation shaft of the basement of the Car Park. Under conservative estimation, the amount of leakage could be about 0.013 inches of water in the basement of the Car Park.
+57. By focusing on those plausible sources of water identified as items A to G, Dr Tung concludes that the ingress of street flood water was shown to be the leading and dominant factor contributing at least 90% of the flood water in the basement of the Car Park.
+
+Discussion
+
+58. In view of the drastic difference between Mr Tsang and Dr Tung's opinions on the main cause of flooding at the basement of the Car Park, it is important for me to decide whose opinion I should accept. Having considered their evidence carefully, I come to the conclusion that Dr Tung's opinion is more reliable and reasonable than Mr Tsang's.
+59. First of all, in giving his opinion, Mr Tsang relies on Mr Cheng Yang Hu's estimations on the depth of water, time and location. However, Mr Tsang does not give any allowance for inaccuracies. Instead, when Mr Cheng gives a range of his estimation, Mr Tsang just uses the figure that would best suit the plaintiff's case. For example, according to Mr Cheng's witness statement, at about 8:15 am, the water level inside the Car Park was 8 to 9 inches deep (which is different from his oral evidence of 7 to 8 inches deep), but Mr Tsang just adopts the figure of 9 inches, converts it to millimeters and rounds it up to an even bigger figure of 230mm (when 9 inches is equivalent to only 228.6mm). This would give an inflated estimation of the water level before the inflow of water from the street. Given the large floor area of the Car Park, even 1mm of water level would mean a big difference in terms of the quantity of water coming in from the inside of the Car Park.
+60. The plaintiff submits that even if Mr Tsang has made such a mistake, his approach should still be accepted. With various pathways which may contribute to the flood and it would be impossible to separate the contribution of individual pathway, the court should accept that leakage of rainwater would be proportionate to the intensity of rainfall.
+61. However, I do not find Mr Tsang's approach reasonable. His fundamental assumption that the overflow from the light wells and the flat roofs would increase indefinitely in a linear proportional manner as the amount of rainfall increases is totally against common sense. A light well is like a water tank, the rate of output of water depends on the size or diameter of the outlets and there is a maximum capacity of the outlets. Once the maximum is reached, the rate of output of water will remain constant and not increase further. So it will not be proportional to the intensity of the rainfall as suggested by Mr Tsang. There is also this question of how much rainwater could have gone into the light wells and the flat roofs. Mr Tsang just assumes that the amount of rainwater going into these places is the same as the rainfall records of the Hong Kong Observatory, but it may not necessarily be the same.
+62. Mr Tsang in fact refers to the April rainstorm to say that the leakage of rainwater would be proportionate to the intensity of rainfall: the higher the rainfall is, the deeper the level of water flooding is. Although there was no influx of water from the Car Park entrance on that occasion, Mr Tsang is wrong in assuming that the April flood was wholly caused by the defects in the Building, as the evidence from Mr Hui Kai Shui shows that the blockage was mainly caused by the public sewage pipe.
+63. It is also wrong for Mr Tsang to assume that water only came in from the Car Park entrance at 9:15 am (as said by Mr Cheng) and at the same time, the water level inside the Car Park was at its peak of 600mm. Even he himself agrees that it took an hour for the flood water to reach its highest level and more than an hour for the water to recede. This in fact casts doubt on the accuracy of Mr Cheng's evidence that the water level was 60cm (600mm) at 9:15 am. Mr Cheng said that it took 10 minutes for the water to come in and then it stopped. Clearly Mr Cheng's evidence is wrong and not reliable. It is impossible to have such a large quantity of water inside the Car Park if the flow of water only lasted 10 minutes. Thus, it is rather arbitrary for Mr Tsang to rely on Mr Cheng's evidence and use the rainfall records at 8:00 am (64.5mm) and 9:00 am (128.5mm) to calculate the depth of water caused by items A to F and H (128.5mm / 64.5mm x 230mm = 458mm) and the depth of water caused by item G (600mm - 458mm = 142mm).
+64. In comparing the rainfalls in April and June 2008, Mr Tsang has not taken into account that there is a difference between the amount of rainfall and the intensity of rainfall. It is clear that 300mm of rainfall in 24 hours and 300mm rainfall in 3 hours would have significant different effects on flooding. His failure to note the differences makes his analysis a doubtful one.
+65. Mr Tsang also mentions in his report that certain pipes between manholes 13 to 19 were 30% blocked and certain pipes between manholes 9 to 10 were 50% blocked. In saying so, he is suggesting that the pipes were so blocked in 2008. However, he only found out these blockages by CCTV inspection 4 years after the incident of 7 June 2008, and he agrees that it would take 5 to 6 years to have 50% blockage and 3 to 4 years to have 30% blockage. Thus, he cannot really say that there were such blockages in 2008. Such evidence cannot really support that these blockages were the main cause for the flood on 7 June 2008.
+66. I am therefore not impressed with Mr Tsang's evidence. On the other hand, Dr Tung's evidence is of much better quality. His opinion is well supported by actual measurements, careful calculations, detailed analysis and useful elaboration. I find his analysis and conclusion that at least 90% of the flood water in the Car Park was contributed by the ingress of water from the street a very reasonable and logical explanation of the cause of the flood on 7 June 2008.
+67. However, the plaintiff submits that Dr Tung's opinion of the estimated water depth at the entrance of the Car Park on both 19 April and 7 June 2008 are inadmissible and should not be relied upon by the court, because the expert's task is to assist the court with his opinion on why and how the Car Park was flooded on 7 June 2008, not on the depth of water at the entrance. When the water started to flow into the Car Park from the entrance and how long it lasted are purely questions of fact to be decided by the court on the basis of the factual witnesses' evidence. It is also not an expert's role to determine the credibility or truthfulness of a witness's testimony.
+68. I do not agree with the plaintiff that Dr Tung cannot give his opinion on the estimated water depth at the entrance of the Car Park. He is just using his expertise and some scientific calculations based on the factual information he obtained to assist the court in deciding whether ingress of water from the street was the possible main cause for the flood on 7 June 2008. In fact, his opinion confirms that the evidence of Lam Yan Keung and Sze Sung Chuen about seeing a large quantity of water flowing into the Car Park from the entrance is correct. It also rebuts Mr Cheng's evidence about the amount and duration of water he saw flowing into the Car Park from the entrance.
+69. In fact, even without Dr Tung's evidence, I would have found Mr Lam and Mr Sze's evidence credible, whereas Mr Cheng's not. With such large quantity of water found inside the Car Park, it is just impossible that water was going into the Car Park from the street in the way described by Mr Cheng. Mr Lam's description of water going in like a river is more real and believable than what Mr Cheng describes, bearing in mind the extraordinary rainfall and flooding in the vicinity at that time. Although I would not say that Mr Cheng is a dishonest witness, his evidence is obviously not reliable as aforesaid.
+70. Thus, it is not that Dr Tung is taking over the court's role in determining the credibility or truthfulness of the witnesses. Dr Tung is just assisting me in making such findings. I find his opinion does support what Mr Lam and Mr Sze observed at that time as being correct. I accept their evidence as well as Dr Tung's opinion and find that the majority of flood water in the Car Park came from the street through the two entrances, and the defective conditions of the Building had only a minor role to play.
+71. In fact, from the April 2008 incident, it can be seen that the defective conditions of the Building could not have caused the water level at the basement of the Car Park to raise so much like the June 2008 incident. Without the rainwater coming in from the entrances of the Car Park, the vehicles parked there would not be damaged, as the water level would not go over the wheels of the vehicles. I accept Dr Tung's opinion that the water level caused by the defective conditions of the Building is just less than 10% of the total level. Thus, it is unlikely that such level of water would damage the vehicles or cause the Car Park to be inaccessible or unsuitable for parking as alleged by the plaintiff.
+72. In the circumstances, I accept the defendant's contention that what happened in the Car Park was an act of God, and as such the defendant is not liable for any negligence that would make them liable to the plaintiff's claims. Even though the defendant might be responsible for some of the defective conditions of the Building, as they are not the operative causes for the damage done on 7 June 2008, the defendant is still not liable for such damage. There is also no reason to order injunction against the defendant in relation to what happened on 7 June 2008.
+73. Likewise, as it is my finding that the damage done to the Car Park on 7 June 2008 was an act of God, the defendant is not liable for any breach of the DMC, breach of statutory duty or nuisance as alleged by the plaintiff.
+74. I also agree with the defendant that it has not committed any act or omission involving criminal liability, dishonesty or willful negligence that caused the incident on 7 June 2008, and hence it is entitled to rely on clause 10(f) of the DMC to exempt its liability under the DMC, if any.
+75. In any event, if the defendant is liable for the damage done to the vehicles, the plaintiff would then not be liable to the car owners. As submitted by the defendant, unless the plaintiff is primarily liable to the car owners, it cannot claim any indemnity from the defendant. Since the plaintiff is not saying that it has any primary liability to the 3rd Parties' Claims, it is not right for the plaintiff to seek for a declaration that it is entitled to be indemnified by the defendant against the whole of the 3rd Parties' Claims.
+
+Conclusion
+
+76. I therefore find that the plaintiff cannot succeed on any of its claims, and they must be dismissed accordingly.
+77. I order as follows:- 
+
+(1) The plaintiff's claims in this action be dismissed.
+
+(2) Costs order nisi: the plaintiff do pay the defendant's costs of the action with certificate for counsel to be taxed if not agreed.
+
+
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+
