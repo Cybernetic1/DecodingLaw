@@ -50,16 +50,9 @@ print("Data size = ", num_examples, " examples")
 fixed_seq_len = times_steps
 seqlens = [times_steps] * num_examples
 
-print("\n**** Building vocabularies and word vectors....")
-
 # ================ Set up data (for training & testing) ================
 
-for i in range(len(labels)):
-	label = labels[i]
-	one_hot_encoding = [0] * num_classes
-	one_hot_encoding[label] = 1
-	labels[i] = one_hot_encoding
-
+print("\n**** Finding unique words....")
 word_list = []				# to store the list of words appearing in case-text
 index = 0
 for sent in data:
@@ -67,11 +60,13 @@ for sent in data:
 		if word not in word_list:
 			word_list.append(word)
 			index += 1
+			print(word, end='\r')
+			sys.stdout.flush()
 
 # ============== Create word-to-vector dictionary ===========
 
+print("\n**** Looking up word vectors....")
 word2vec_map = {}
-
 count_all_words = 0
 f = open(path_to_glove, "r")
 f2 = open("found-words.txt", "w")
@@ -81,6 +76,7 @@ for line in f:
 	if word in word_list:
 		print(count_all_words, word, file=f2)
 		print(word, "             ", end='\r')
+		sys.stdout.flush()
 		count_all_words += 1
 		coefs = np.asarray(vals[1:], dtype='float32')
 		coefs /= np.linalg.norm(coefs)
@@ -88,7 +84,7 @@ for line in f:
 	if count_all_words == len(word_list) - 1:
 		print("*** found all words ***")
 		break
-	if count_all_words >= 512:			# it takes too long to look up the entire dictionary, so I cut it short
+	if count_all_words >= 550:			# it takes too long to look up the entire dictionary, so I cut it short
 		break
 f2.close()
 # set default value = zero vector, if word not found in dictionary

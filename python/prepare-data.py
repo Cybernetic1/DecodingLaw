@@ -50,6 +50,13 @@ for i, category in enumerate(categories):
 			data.append(" ".join(yellow_stuff[rand_start: rand_start + fixed_seq_len]))
 			labels += [i]			# set label
 
+# convert to 1-hot encoding for labels
+for i in range(len(labels)):
+	label = labels[i]
+	one_hot_encoding = [0] * num_classes
+	one_hot_encoding[label] = 1
+	labels[i] = one_hot_encoding
+
 num_examples = len(data)
 print("\nData size = ", num_examples, " examples")
 
