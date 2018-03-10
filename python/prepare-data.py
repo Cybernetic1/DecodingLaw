@@ -7,6 +7,7 @@ import os						# for os.listdir
 from nltk.corpus import stopwords
 import re						# for removing punctuations
 import pickle
+import sys						# for sys.stdout.flush()
 
 num_classes = 3
 times_steps = 32				# this number should be same as fixed_seq_len below
@@ -60,10 +61,32 @@ for i in range(len(labels)):
 num_examples = len(data)
 print("\nData size = ", num_examples, " examples")
 
+# ================ Find unique words ================
+
+print("\n**** Finding unique words....")
+word_list = []				# to store the list of words appearing in case-text
+index = 0
+for sent in data:
+	for word in sent.split():
+		if word not in word_list:
+			# make sure no Chinese chars or numerals inside word
+			if re.search(u'[\u4e00-\u9fff]+', word) == None and \
+					re.search(r'\d', word) == None:
+				word_list.append(word)
+				index += 1
+				print(word, "                        ", end='\r')
+				sys.stdout.flush()
+
+print(len(word_list), " unique words found")
+
 pickling_on = open("training-data.pickle", "wb+")
 pickle.dump(data, pickling_on)
 pickling_on.close()
 
 pickling_on = open("training-labels.pickle", "wb+")
 pickle.dump(labels, pickling_on)
+pickling_on.close()
+
+pickling_on = open("training-word-list.pickle", "wb+")
+pickle.dump(word_list, pickling_on)
 pickling_on.close()

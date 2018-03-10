@@ -24,7 +24,7 @@ import pickle
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 PRE_TRAINED = True
 GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
-batch_size = 256
+batch_size = 100
 num_classes = 3
 num_layers = 3
 hidden_layer_size = 32
@@ -45,23 +45,14 @@ data = pickle.load(pickle_off)
 pickle_off = open("training-labels.pickle", "rb")
 labels = pickle.load(pickle_off)
 
+pickle_off = open("training-word-list.pickle", "rb")
+word_list = pickle.load(pickle_off)
+
 num_examples = len(data)
 print("Data size = ", num_examples, " examples")
 
 fixed_seq_len = times_steps
 seqlens = [times_steps] * num_examples
-
-# ================ Set up data (for training & testing) ================
-
-print("\n**** Finding unique words....")
-word_list = []				# to store the list of words appearing in case-text
-index = 0
-for sent in data:
-	for word in sent.split():
-		if word not in word_list:
-			word_list.append(word)
-			index += 1
-			print('.', end='')
 
 # ============== Create word-to-vector dictionary ===========
 
@@ -76,7 +67,8 @@ for line in f:
 	word = str(vals[0])
 	if word in word_list:
 		print(count_all_words, word, file=f2)
-		print(word, "             ", end='\r')
+		print(word, "                 ", end='\r')
+		sys.stdout.flush()
 		count_all_words += 1
 		coefs = np.asarray(vals[1:], dtype='float32')
 		coefs /= np.linalg.norm(coefs)
@@ -84,7 +76,7 @@ for line in f:
 	if count_all_words == len(word_list) - 1:
 		print("*** found all words ***")
 		break
-	if count_all_words >= 550:			# it takes too long to look up the entire dictionary, so I cut it short
+	if count_all_words >= 600:			# it takes too long to look up the entire dictionary, so I cut it short
 		break
 f2.close()
 # set default value = zero vector, if word not found in dictionary
@@ -129,10 +121,10 @@ _labels = tf.placeholder(tf.float32, shape=[None, num_classes])
 _seqlens = tf.placeholder(tf.int32, shape=[None])
 
 with tf.name_scope("GRU"):
-	gru_layer = tf.contrib.rnn.GRUCell(hidden_layer_size)
-	cell = tf.contrib.rnn.MultiRNNCell([gru_layer] * num_layers)
+	_GRU_layer = tf.contrib.rnn.GRUCell(hidden_layer_size)
+	_cells = tf.contrib.rnn.MultiRNNCell([_GRU_layer] * num_layers)
 
-	outputs, states = tf.nn.dynamic_rnn(cell=cell,
+	outputs, states = tf.nn.dynamic_rnn(cell=_cells,
 								inputs=_inputs,
 								# sequence_length=_seqlens,
 								dtype=tf.float32,
@@ -195,7 +187,7 @@ with tf.Session() as sess:
 	# =================== Process a single query ===================
 
 	while True:
-		print("Please enter your query: ")
+		print("---------- query -----------")
 		query = sys.stdin.readline()
 		query = re.sub(r'[^\w\s-]',' ', query)	# remove punctuations except hyphen
 		query_words = []

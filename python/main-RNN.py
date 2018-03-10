@@ -44,24 +44,16 @@ data = pickle.load(pickle_off)
 pickle_off = open("training-labels.pickle", "rb")
 labels = pickle.load(pickle_off)
 
+pickle_off = open("training-word-list.pickle", "rb")
+word_list = pickle.load(pickle_off)
+
 num_examples = len(data)
 print("Data size = ", num_examples, " examples")
 
+print("# unique words = ", len(word_list))
+
 fixed_seq_len = times_steps
 seqlens = [times_steps] * num_examples
-
-# ================ Set up data (for training & testing) ================
-
-print("\n**** Finding unique words....")
-word_list = []				# to store the list of words appearing in case-text
-index = 0
-for sent in data:
-	for word in sent.split():
-		if word not in word_list:
-			word_list.append(word)
-			index += 1
-			print(word, end='\r')
-			sys.stdout.flush()
 
 # ============== Create word-to-vector dictionary ===========
 
@@ -84,7 +76,7 @@ for line in f:
 	if count_all_words == len(word_list) - 1:
 		print("*** found all words ***")
 		break
-	if count_all_words >= 550:			# it takes too long to look up the entire dictionary, so I cut it short
+	if count_all_words >= 11500:			# it takes too long to look up the entire dictionary, so I cut it short
 		break
 f2.close()
 # set default value = zero vector, if word not found in dictionary
@@ -199,7 +191,8 @@ with tf.Session() as sess:
 	# =================== Process a single query ===================
 
 	while True:
-		print("Please enter your query: ")
+		print("----------------------------\n? ", end = '')
+		sys.stdout.flush()
 		query = sys.stdin.readline()
 		query = re.sub(r'[^\w\s-]',' ', query)	# remove punctuations except hyphen
 		query_words = []
