@@ -1,0 +1,155 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IPRequest made on : Saturday, 10 March, 2018 at 00:30 HKT  Client ID : ChineseU_WLA-1Title : Luo Xiao Rong v Full Trend Development Ltd trading as Banquet DeliciousDelivery selection : Current DocumentNumber of documents delivered : 1
+Luo Xiao Rong v Full Trend Development Ltd trading as Banquet Delicious
+
+
+
+21 December 2016
+District Court
+DC
+Personal Injuries Action No 2418 of 2014
+DCPI 2418/2014
+
+Citations:[2016] HKEC 2737 English JudgmentPresiding Judges: Deputy Judge Kam K L CheungPhrases: Tort - employer's liability - liability towards employees - restaurant employee slipped and fell while walking on mat inside restaurant in course of work - whether employer failed to provide safe place of work Damages (personal   injuries or death) - back - contusion of low back with no other complications - 31-year-old female part-time pantry helper/food conveyor at restaurantCounsel in the Case: Ms Lorinda Lau, instructed by L&L Lawyers, assigned by the Director of Legal Aid, for the plaintiffMr Martin Ho, instructed by Au & Associates, for the defendantCases cited in the judgment: Wat Kwing Lok v Kowloon Motor Bus (1933) Ltd [2008] 1 HKC 168  Chan Chun Fat v Fortress Glory Engineering Ltd (unrep., HCPI 832/2013, [2014] HKEC 1127)   Chong Ha Kui Tai v Multicon Engineering Co Ltd (in liquidation) and Others (unrep., HCPI 1168/2002, [2005] HKEC 1531)   Lau Wing Yeung v Kowloon Cricket Club (unrep., HCPI 955/2013, [2015] HKEC 689)   Leung Yiu Wing v Wong Lan Fun (unrep., HCPI 806/2004, [2008] HKEC 2001)   Mak Yiu Keung v Ho Cheung Kat (unrep., HCA 2413/1991, [1995] HKLY 529)   Tam Fu Yip Fip v Sincere Engineering & Trading Co Ltd [2008] 5 HKLRD 210   Technip France SA’s Patent [2004] RPC 46  
+Judgment: 
+Deputy Judge Kam KL Cheung
+1. This action arose out of a slip and fall accident to the plaintiff that happened on 1 March 2012 at Banquet Delicious, a restaurant of the defendant in Tuen Mun.
+
+The background
+
+2. The plaintiff was born in China in December 1980. She was educated up to primary two and came to Hong Kong in 2006. She is married with two children.
+3. The plaintiff was at the relevant times a part-time pantry helper/food conveyor employed by the defendant. In the evening of 1 March 2012, the plaintiff was working at the restaurant. Her duties included collecting cooked food from the kitchen and passing it to her colleagues in the dining area who were waiting at tables. Her work necessitated her walking in and out of the kitchen. Access to the kitchen was to be had through a passageway at the back of the dining area. A water-absorbent non-slip mat measuring approximately 3.5m x 1.1m ("the Mat") was placed outside the Kitchen. At around 9:30 pm, the plaintiff was told to go to the kitchen to pick up two bowls of rice. As she was walking out of the kitchen with two bowls of rice on a tray, she fell while walking on the Mat.
+
+The plaintiff’s claim
+
+4. Despite the variety of causes of action pleaded (including negligence, breach of contract of employment and breaches of statutory duties under the Occupiers' Liability Ordinance (Cap 314) and the Occupational Safety and Health Ordinance (Cap 509)), the plaintiff's case is fairly simple. It is her case that the defendant had failed to keep the Mat in a dry and clean condition, and, due to the fact that the Mat was wet and slippery, she slipped and failed on it.
+
+The defendant’s defence
+
+5. The defendant denies that the Mat was wet or slippery. It also contends that it had taken reasonable measures to ensure that the Mat was in a dry and clean condition and safe to walk on.
+
+The legal principles
+
+6. The principles are well known and need not be extensively restated. What Sakhrani J said in Wat Kwing Lok v Kowloon Motor Bus (1933) Ltd [2008] 1 HKC 168 
+at §16 and §17 is what needs to be noted:- 
+
+16. "It is also common ground that the principle set out in the judgment of Megaw LJ in Ward v Tesco Stores Ltd [1976] 1 WLR 810 at 815 was applicable, namely:- 'It is for the plaintiff to show that there has occurred an event which is unusual and which, in the absence of explanation, is more consistent with fault on the part of the defendants than the absence of fault.'
+
+17. The mere fact of the occurrence of the accident is not sufficient to give rise to a presumption of negligence on the part of the defendant. The burden of proof is on the plaintiff to show on a balance of probabilities that there has occurred an event which is unusual and which, in the absence of explanation, is more consistent with fault on the part of the defendant than the absence of fault. If, and only if, the plaintiff proves that the unusual event is more consistent with fault on the part of the defendant than the absence of fault, the evidential burden then shifts to the defendant to show, on a balance of probabilities, that the accident happened without negligence on its part."
+
+
+
+
+
+Issues on liability
+
+7. The issues are: - 
+
+(1) What caused the plaintiff to fall?
+(2) What was the condition of the Mat?
+(3) Had the defendant discharged its duty in providing and maintaining a safe place work?
+
+
+
+Analysis
+
+8. As in other slip and fall cases, the very first question that the court will have to resolve is: what caused the plaintiff to fall?
+
+9. On the issue, he plaintiff is the only witness on her side. Per her, she started her shift at around 6 pm, some three and a half hours before the accident. During the three and a half hours, she walked in and out of the kitchen many times. However, she did not complain about the Mat being wet and slippery before the happening of the accident. As to why she said in the pleadings that the Mat was wet and slippery, she answered:- " Q： 點睇到有水？
+A： 地氈與廚房有油。如果冇油漬，唔會跌。 "
+
+
+10. I appreciate that it might well be due to a momentary lapse of attention that the plaintiff mentioned grease or oil stain in her answer when questioned about water. Yet, it appears to me that the plaintiff has fallen into a trap that people may occasionally fall into, to is to say, when one loses his balance, he may tend to assume that there must be something wrong with the surface he walks on and start to look for a loose brick. This common human reaction is sometimes seen in a tennis game: when a player fails to return a serve, he may tend to look at his racket and search for a flaw in it.
+
+11. Whilst I fully appreciate that the plaintiff might not be the most articulate person and that it was not an easy task for her to describe a happening in words, it appears to me that she did not actually know what caused her to fall. My impression is reinforced by the following question and answer in the plaintiff's cross-examination (when she was cross-examined as to how she managed to see water on a dark-coloured water absorbent mat): - " Q： 點睇到地氈濕？
+A： 跌親囉。 "
+
+
+12. Her answer is an echo of the notion that if one falls, there must be something wrong with the surface on which he or she walks. A notion that is bad in law.
+13. Tellingly, the plaintiff said in her witness statement that she either slipped or stumbled on the Mat (her statement is in Chinese and the exact words of her are " 被地毯滑倒/絆倒 "). The use of the words "slipped or stumbled" further reinforces my impression that the plaintiff was not certain as to whether she slipped or stumbled on the Mat. Slipping and stumbling, both capable of resulting in a fall though, are two different causes. Given that it is not the case of the plaintiff that she slipped and was tripped up by the Mat at the same time, the use of the words " 被地毯滑倒/絆倒 " suggests that she did not actually know what caused her to fall.
+14. I did, while Ms. Lau, counsel for the plaintiff, was making her opening speech raise my concern and invite her to clarify this issue with the plaintiff. Despite the most industrious and admirable efforts of Ms Lau, the plaintiff was unable to give a more concrete reason for her fall.
+15. On the cause of the fall, it is my view that the plaintiff was unaware of any unusual event that caused her to fall. Having taken such view, I am unable to accept her evidence that the Mat was wet and slippery. For if she actually knew that the Mat was wet and slippery, she would not have to raise the possibility that she might have been tripped by the Mat.
+16. On the issue whether the Mat was wet and slippery, it is the evidence of the plaintiff that she could feel wetness in the Mat when she touched it. However, the fact that the Mat might be a little wet does not necessarily mean that it was slippery. After all, the Mat was a water absorbent mat designed to absorb water. In any event, I prefer the evidence of Madam Wong of the defendant to that of the plaintiff. Madam Wong, who has left the defendant's employment for quite some time, was at the time of the accident the supervisor of a team of pantry helpers. Her evidence is that the Mat was provided by a cleaning sub-contractor engaged by the defendant, which would attend the restaurant on a regular basis to replace a used mat with a new or washed one. For her team members' and her own safety, she always paid attention to the condition of the Mat. If she or her team members came to notice that the Mat was wet and slippery, she would ask one of the cleaners to clean the Mat. She had walked on Mat dozens of times before and after the accident but did not notice any water or find it slippery.
+17. Madam Wong was a bit impatient in answering questions and sometimes loved to argue back. There was also some overreaction on her part when she was crtiticised for choosing not to offer a helping hand to the plaintiff after the accident. However, her general attitude does not affect the quality of her evidence. She remained unshaken under skillful cross-examination and adamant that the Mat was not wet and slippery. Ms Lau has tried to undermine Madam Wong's evidence by suggesting that Madam Wong, who was unable to identify the exact spots that she walked on, might have walked on the dry parts of the Mat while the plaintiff was unlucky enough to have walked on the wet and slippery parts. I find Ms Lau's argument too artificial as no one will bother take a note of where exactly his foot land when walking. Given that Madam Wong had walked in and out of the kitchen dozens of times before and after the accident, chances are that Ms Wong and her team members would have noticed any water or other slippery substance on the Mat, if there were any. I find Madam Wong a candid and forthcoming witness and accept her evidence that the Mat was not wet and slippery.
+18. In passing, I shall note that although I prefer the evidence of Ms Wong, I disagree with Mr Ho, counsel for the defendant, that the plaintiff is untruthful, evasive and unreliable. It is correct that there are discrepancies in the plaintiff's evidence. However, given her background and level of education, the discrepancies are not unexpected. Testifying in court can be a frightening experience to a lay person. Bearing in mind the following observation of Suffiad J in Chong Ha Kui Tai v Multicon Engineering Company Limited (in liquidation) and Others HCPI 1168/2002 
+
+, notwithstanding my finding that the plaintiff did not know what caused her to fall, I do not accept the defendant's counsel's submission that the plaintiff is such an untruthful witness that the court should completely disregard her evidence: - " in a civil matter, where the standard of proof is on balance of probabilities, it is very seldom if at all that cross-examination alone showing up minor discrepancies and inconsistencies would be sufficient for a court to wholly reject and to disregard the evidence given by a witness short of some major concessions made by the witness," (at §13)
+
+
+19. As for the issue whether the defendant had discharged its duty in keeping the Mat dry and clean and providing a surface that was safe to walk on, it is the undisputed evidence of Madam Chung of the defendant that the defendant's sub-contractor would attend the restaurant at least once a week to replace a used mat with a new or washed one. A new or washed one would also be provided on demand if the old one became too dirty or broken. There was also routine and on a needs basis cleaning of the floor and the Mat by the defendant's staff.
+20. The duty on the part on the defendant is not absolute and it has no duty to keep the premises in a dance floor like condition. In the circumstances of this case, I find that the defendant had taken sufficient care in ensuring that the place of work was reasonably safe.
+21. On liability, I conclude that the plaintiff has failed to prove that the accident was due to the negligence or breach of duties on the part of the defendant. The plaintiff's claim is therefore dismissed.
+22. For completeness sake and in case I am wrong on liability, I shall deal with quantum briefly.
+
+Injury and treatment
+
+23. After the accident, the plaintiff was admitted to the A&E of Tuen Mun Hospital. Medical examination revealed that there was tenderness over the lumbar region. Hospitalisation was not considered necessary and the plaintiff was conservatively treated and discharged.
+24. The plaintiff attended the A&E of Tuen Mun Hospital on 6 March 2012 and 10 March 2012 for back pain. Due to her complaints of persistent back pain, she was referred to the Department of Orthopaedics & Traumatology. Physiotherapy and occupational therapy were prescribed. After several sessions of therapy, on 15 June 2012, the plaintiff reported in a self-assessment that the level of pain had reduced from 8, out of a scale of 1 to 10, to 2.
+25. By the end of July 2012, as recorded in the records of the Department of Occupational Therapy summary, the plaintiff's back pain had subsided. Most of the time the plaintiff was pain free and able to walk unrestrictedly.
+26. There were more visits to the Tuen Mun Hospital and Department of Family Medicine & Primary Health Care of Tuen Mun Wu Hong Clinic in the subsequent months. Throughout the plaintiff's various medical consultations, the diagnosis was one of "back injury/lower back pain". One of the doctors who had attended the plaintiff appeared to be unimpressed by the plaintiff's need for treatment and noted in his consultation summary that, "Came for SL [sick leave]  attend cert today, no SL."
+
+Expert evidence
+
+27. The plaintiff attended a joint examination by Dr Chun Siu Yeung and Dr Andrew Miu on 22 May 2015. In the joint medical report of the two doctors, Dr Chun states that the appropriate diagnosis should be one of "contusion of the low back [with no other complications such as fracture, dislocation or other neurological deficits]". Dr Chun also notes that the minor trauma to the plaintiff should cease to have any adverse impact after a couple of weeks.
+28. On the other hand, Dr Mui notes that the plaintiff had severe soft tissue injury to the back. He came to such finding because "the pain from the subject injury was so severe that she had to attend AED, TMH for treatment on the same date."
+29. Reminding myself that the court should concentrate on the reasons given for an expert opinion ( Technip France SA's Patent [2004] RPC 46 
+, at §14), I prefer Dr Chun's opinion to that of Dr Mui because Dr Chun's opinion is based on objective medical findings and Dr Mui's opinion is based solely on the subjective complaints of the plaintiff.
+30. Dr Chun also notes that in the light of the positive "Waddell's signs" (which tend to suggest that the complaints are not genuine), the plaintiff had "exaggerated her symptoms and disability out of proportion to the initial contusion." There is no real answer to Dr Chun's remark from Dr Miu.
+31. All the all, I prefer and accept the evidence of Dr Chun.
+
+Damages for PSLA
+
+32. Having regard to recent comparables like Chan Chun Fat v Fortress Glory Engineering Ltd HCPI 832/2013 
+; Lau Wing Yeung v Kowloon Cricket Club HCPI 955/2013 
+and Leung Yiu Wing v Wong Lan Fun HCPI 806/2004 
+, I assess damages for PSLA at $100,000.
+
+Pre-trial loss of earnings
+
+33. As for how much the plaintiff was earning at the time of the accident, the plaintiff's case is that she was earning $5,400 a month. On the other hand, the defendant contends that the plaintiff worked some three days a week. At her daily rate of $180, the plaintiff was earning $2,457 a month.
+34. Whilst I accept Mr Ho's submission that the plaintiff's records are far from perfect, I consider that it is not reasonable to expect a person in the plaintiff's position to keep perfect records. I accept the plaintiff's evidence that she was earning $5,400 a month.
+35. As for the period that the plaintiff was out of work, I am not bound by the sick leave certificates: Tam Fu Yip Fip v Sincere Engineering & Trading Co Ltd [2008] 5 HKLRD 210 
+. Having regard to the joint medical report of Dr Chun and Dr Mui and taking all factors into account, I take the view that the appropriate length of sick leave should be four months.
+36. I also accept Dr Chun's opinion that the plaintiff should be able to return to work as a part-time waitress/pantry helper. Allowing the plaintiff two months to look for a job, my assessment of the award under this head is:- 
+
+$5,400 x 6 x 1.05 (mandatory contribution under MPF scheme) = $34,020.
+
+
+
+Future loss of earnings/loss of earning capacity
+
+37. I am not satisfied that the plaintiff will have suffered any future loss of earning. Nor am I satisfied that there will be any Moeliker loss. There is no award under this head.
+
+Special Damages
+
+38. The plaintiff has proffered no documentary evidence in support of her claims for various items. Whilst I am mindful that the plaintiff is obliged to adduce credible evidence to prove her claims ( Mak Yiu Keung v Ho Cheung Kat HCA 2413/1991 
+), I accept that she has incurred various expenses allow the plaintiff's claim for $9,300.
+
+Deduction
+
+39. Credit should be given for the ECC payment of $110,000.
+
+Interest
+
+40. The plaintiff is entitled to interest on (a) damages on PSLA at 2% per annum from the date of the writ, and (b) special damages at 4% per annum from the date of the accident. I shall leave it to the parties' legal representatives to work out the amount of interest.
+
+Disposal of the action
+
+41. I make the following orders: - 
+
+(1) The plaintiff's action be dismissed with costs to the defendant with certificate for counsel; and
+
+(2) The above costs order being a costs order nisi will become absolute in the absence of application for variation within 14 days.
+
+
+42. Lastly, I thank both counsel for their diligence and assistance.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+ 

@@ -1,0 +1,131 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 03 March, 2018 at 23:59 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Tsai Hsiu Yun v Lim Goine
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Tsai Hsiu Yun v Lim Goine
+
+
+
+22 August 2016
+District Court
+DC
+Civil Action No 862 of 2015
+DCCJ 862/2015
+
+Citations:[2016] HKEC 1807 English Judgment
+
+Presiding Judges: Deputy Judge Brian Mak
+
+Phrases: <Y<Tort - nuisance - water seepage from premises to premises immediately below - liability of registered owner of former premises - appropriate relief
+Damages - assessment - nuisance - water seepage from premises to premises immediately below>Y>
+
+Counsel in the Case: Mr Eric Chau Hin Chung, instructed by George Chan & Co, for the plaintiffDefendant was not represented and did not appear
+
+Cases cited in the judgment: Chau Chung Mei 對 Leung Ying Ngai (unrep., DCCJ 4062/2012, [2014] CHKEC 926) 
+張秀玲 訴 鄭禮莊 (unrep., CACV 268/98) 
+
+Judgment: 
+
+
+Deputy Judge Mak
+
+Introduction
+
+1. This action arises from water seepage from the floor above.
+
+Background
+
+<Y<2. The plaintiff is the registered owner of Room 2031, 20th Floor, Metropole Building, Block C, Nos 416-438 King's Road, North Point, Hong Kong ("P's premises").
+3. The defendant is the registered owner of the premises immediately above, namely, Room 2131, 21st Floor, Metropole Building, Block C, Nos 416-438 King's Road, North Point, Hong Kong ("D's premises").
+4. In early 2013, water seepage was seen at the ceiling and wall of the living room of P's premises which deteriorated through the passage of time and caused damage to the toilet and kitchen.
+5. The plaintiff commenced the present action on 4 March 2015. The defendant has taken no step in the proceedings and did not appear at the trial.>Y>
+
+Expert evidence
+
+6. There are 2 expert reports.
+
+Lee Mark & Associates Architects & Surveyors Ltd (Lee Mark)
+
+7. Lee Mark conducted a ponding test on the bathroom floor of D's premises on 25 June 2013. On 3 August 2013, colour dye was noted at the affected seeping area. Lee Mark concluded that seepage was likely to be caused by floor infiltration from the floor slab of the bathroom of D's premises.
+
+PWL Building Surveying & Adjustors Ltd (PWL)
+
+8. PWL was engaged to prepare another report on the water seepage. PWL was unable to gain access to D's premises. PWL adopted the conclusion as to the source of water seepage of Lee Mark.
+9. PWL estimated the costs of the repair to P's premises at $55,673.50.
+
+Liability
+
+10. I accept that the source of the water seepage at P's premises is through the floor slab of the bathroom of D's premises.
+11. The plaintiff is relying on the tort of nuisance. To establish liability under the tort of nuisance, the plaintiff must prove that the defendant had actual or constructive knowledge of the source of the water seepage was D's premises and had failed to take remedial action within reasonable time: see 張秀玲 訴 鄭禮莊 CACV 268/98 
+, 9/4/1999, unreported, per Woo, JA (as he then was) at pages 11-12.
+12. The plaintiff complained to the occupier of D's premises, the management office and the Food and Environmental Hygiene Department since February 2013. Lee Mark did conduct a ponding test at D's premises on 25 June 2013 with the finding that the bathroom floor slab was the source of the water seepage. As such, I find that the defendant must have constructive knowledge that D's premises were the source of the water seepage. No remedial action has been taken by the defendant at all.
+13. Accordingly, I hold that the defendant is liable to the plaintiff's claim.
+
+Quantum
+Costs of repair
+
+14. Lee Mark estimated that the costs of repair to P's premises at $55,673.50. It is by no means unreasonable.
+15. However, Mr Eric Chau, counsel appearing for the plaintiff, submitted that the repair costs should be increased to $65,000 due to the continuous deterioration of the damage to P's premises and the repair costs would be higher as of today.
+16. The assessment of PWL was made in March 2015. There is no evidence before me that the costs of repair have increased since. Nor is there any evidence that the costs of repair would be increased due to the deterioration of the damage.
+17. Therefore, I am unable to accept the submission of Mr Chau.
+
+Loss of rental income
+
+18. The plaintiff entered into a tenancy agreement whereby P's premises were rented out for the period from 15 May 2014 to 14 May 2016 at the monthly rent of $13,700. Due to the deterioration of the water seepage, the tenant requested to terminate the tenancy early. The plaintiff acceded to it reluctantly. The tenancy was terminated on 30 January 2015. P's premises were left vacant since then.
+19. Mr Chau submitted that if an injunction is made by this Court today, it will take another 2 months or so for the repair works to complete before P's premises can be rented out again.
+
+20. The plaintiff's claim for loss of rental income is:- 1/2/2015 to 31/10/2016 (ie 21 months) x $13,700 = $287,700
+
+
+21. I see nothing unreasonable in the plaintiff's claim under this head and I so allow.
+
+Inconvenience
+
+22. The plaintiff's claim under this head is $50,000.
+23. In Chau Chung Mei v Leung Ying Ngai DCCJ 4062/2012 
+, 29/9/2014, unreported, the affected premises were for rent, the water seepage continued for 3 years, an award of $20,000 was granted under this head.
+24. The situation of the plaintiff is very similar to Chau Chung Mei. I do not see that the age of the plaintiff would make any difference.
+25. I would make an award of $20,000 under this head.
+
+Injunction
+
+26. The water seepage is still continuing. An injunction is necessary to compel the defendant to do remedial works.
+27. However, in the prayer of the statement of claim, the plaintiff is seeking not only an injunction, but also an order allowing the plaintiff or her agent to enter into D's premises to carry out the repair works if the defendant fails to do so within a reasonable time.
+28. The plaintiff is assuming that the defendant will not comply with the injunction.
+29. I do not think this is the correct approach. If the defendant fails to comply with an injunction, the plaintiff is entitled to invoke Order 45 rule 8 of the Rules of the District Court to seek an appropriate order. Nevertheless, the court should not give a blanket approval to the plaintiff to enforce the injunction in the absence of evidence of non-compliance.
+30. Mr Chau rightly agreed and only sought an injunction compelling the defendant to take remedial action within 50 days and I so order.
+
+Conclusion and Order
+
+<G<31. In conclusion, I give judgment in favour of the plaintiff for the sum of $363,373.50 ($55,673.50 + $287,700 + $20,000) together with interest thereon at judgment rate from the date of Writ of Summons to the date of payment.>G>
+32. I also make an injunction compelling the defendant to take remedial action so as to rectify the water leakage/seepage within 50 days from the date of the order.
+
+Costs
+
+33. I make an Order nisi that the defendant shall pay the plaintiff costs of this action with certificate for counsel, to be taxed if not agreed.
+34. The Order nisi shall become absolute in the absence of any application by summons to vary the same within 14 days from the date of this judgment.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

@@ -1,0 +1,128 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:01 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Good Century Investment Ltd v Yim Kin Kuo
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+Good Century Investment Ltd v Yim Kin Kuo
+
+
+
+23 November 2015
+District Court
+DC
+Civil Action No 4980 of 2013
+DCCJ 4980/2013
+
+Citations:[2015] HKEC 2487 English Judgment
+
+Presiding Judges: Deputy Judge D Ho
+
+Phrases: <Y<Tort - negligence - nuisance - water seepage from premises to premises directly below - determination of source of water seepage>Y>
+
+Counsel in the Case: Mr Lawrence Ngai, instructed by Lo, Chan & Leung, for the plaintiffMr Tony Ng, instructed by Kelvin Cheung & Co., for the defendants
+
+Cases cited in the judgment: 張秀玲 對 鄭禮莊 (unrep., CACV 268/1998) 
+Hui Ling Ling v Sky Field Development Ltd (unrep., CACV 122/2012, [2013] HKEC 415) 
+
+
+Judgment: 
+
+
+Deputy Judge D. Ho
+1. This is yet another water seepage case that manages to reach the court. The parties having agreed on quantum, the only issue for resolution by court process is liability.
+
+Background
+
+<Y<2. The following background facts are not in dispute.
+3. The plaintiff is the registered owner of Flat A, 59/F., Tower 3, Harbourfront Landmark, No. 11 Wan Hoi Street, Kowloon ("59A") while the defendants those of the unit directly above ("60A").
+4. Water seepage was first observed in the ceiling and partition walls of the master bathroom of 59A ("59A bathroom") in mid-2012 followed by the plaintiff's complaints to the defendants, the management office of Harbourfront Landmark ("management office") and the Joint Office of the Buildings Department and the Food and Environmental Hygiene Department ("Joint Office").
+5. Initial inspection by the management office in July 2012 confirmed water seepage on the ceiling of the 59A bathroom and the defendants were informed of its suspicion that this had to do with the waterproofing layer (of the floor slab) of the master bathroom of 60A ("60A bathroom").
+6. The color water test done by the Joint Office at the drainage pipes of 60A in September 2012 did not identify the source of leakage. In late December 2012, the professional consultant engaged by the Joint Office found leakage to 59A to have stopped.
+7. In mid-2013, water leakage recurred in the 59A bathroom. This time water leakage was observed also in the master bedroom of 59A ("59A bedroom"). The plaintiff engaged its own expert to investigate the matter within the confine of 59A. The expert identified signs pointing to 60A as the source of leakage and the water sample collected indicated the leakage was related to the waste water pipe of a toilet. An inspection report was prepared and copied to the management office in early October 2013 ("2013 report").
+8. Meanwhile, further complaints to and inspections by the management office and the Joint Office ensued. While water leakage was identified at 59A, further inspections and tests conducted by the Joint Office and its consultant after November 2013 failed to identify the source of leakage and the plaintiff was informed accordingly in June 2014.
+9. In December 2013, the plaintiff commenced these proceedings pleading nuisance, negligence and breach of the relevant provisions of the Deed of Mutual Covenants on the part of the defendants and seeking damages for repairing the physical damage to 59A and an injunction to restrain the defendants or their servants or agents from repeating or continuing the water leakage as pleaded or any leakage of a similar kind.
+10. On 13 September 2014, joint inspection and tests were conducted by the parties' respective experts pursuant to the court's direction and a joint expert report was prepared subsequently.>Y>
+
+Factual evidence
+
+11. Mr Lau Wing Wing of the plaintiff gave evidence to verify the background facts above and further confirmed the water seepage to be continuing. He told the court that he had personally climbed up a ladder to examine the ceilings of and the dividing wall between the 59A bedroom and 59A bathroom ("dividing wall") and could feel wetness with his bare hands in both 2012 and 2013. But the wetness was not such as to allow water droplets to develop.
+12. According to Mr Yim Kin Kuo of the defendants, they have made no alteration to 60A since purchasing the same direct from the developer. 60A has always been occupied by his daughter, his sister in law and a maid and it is his daughter who occupies the 60A bedroom and she would only use the stand shower of the 60A bathroom for bathing purposes.
+13. Before me, Mr Yim confirmed that he was not present when the various tests were conducted by the Joint Office and therefore had no direct knowledge as to what tests were actually conducted. He accepted that various parts of the wooden floor inside the 60A bedroom had become darkened. As he rarely visited 60A, he did not pay attention to the other parts of the wooden floor of 60A and could not tell if the same had also turned darkened.
+14. Pausing here, neither parties have adduced evidence regarding details of the tests conducted/commissioned by the Joint Office or the basis of the Joint Office's conclusion as to inconclusiveness of the test results other than that which can be gleaned from the correspondence between the Joint Office and the parties herein reporting progress and results of its investigation.
+
+Expert Evidence
+
+15. As in most water leakage cases, the plaintiff's case stands or falls on expert evidence and the plaintiff carries the burden of proving 60A to be the source of the seepage to 59A, there being no presumption that seepage must originate from the flat immediately above. See 張秀玲及另一人 對 鄭禮莊 (CACV 268/1998) 
+, unreported, 9 April 1999 and Hui Ling Ling v Sky Field Development Ltd (CACV 122/2012) 
+, unreported, 22 March 2013.
+16. The plaintiff engaged Mr Hau Tung Chow ("Mr Hau"), the same expert it engaged in 2013, as its expert in these proceedings while the defendants engaged Mr Yu Ying Choi Erik ("Mr Yu") as theirs. Their respective views are found in their joint report dated 22 November 2014 ("joint expert report"). The expertise of the two experts is not in dispute.
+
+Cause of water leakage to 59A
+
+17. To begin with, I should highlight the result of the ponding test conducted on 13 September 2014 inside the 60A bathroom to test the water proofing function of both the floor slab of the bathroom as well as the shower tray ("ponding test"). The test lasted for 4 hours or so. Four weeks later, the experts visited 59A again but neither of them found any trace of the color water deployed in the ponding test.
+18. Notwithstanding the negative result of the ponding test, Mr Hau concluded that 60A was the source of the seepage (which both experts agree to be affecting the 59A bedroom and 59A bathroom). While heavily upon by Mr Yu to say otherwise, the negative result of the ponding test is not conclusive as to the source of leakage and poses no bar to the plaintiff seek to establishing liability on the defendants' part.
+19. It is of note that both experts observed during the ponding test that the green color water used for the shower tray managed to escape from the shower tray to the floor slab of the 60A bathroom. Before me, Mr Hau said he saw the color water escaping under the marble slab dividing the shower tray and the floor immediately outside.
+20. At paragraph 5.4 of the joint expert report, Mr Hau described the amount of the escaping color water as substantial. On the contrary, Mr Yu considered that only a tiny amount of color water had so escaped.
+21. During cross examination, Mr Hau tacitly accepted that one could not tell from the descriptions deployed in the joint expert report as to what exactly was the amount of color water escaping to the 60A bedroom. He nonetheless maintained the view that the amount was large enough if the color water managed to reach the 60A bedroom.
+22. Among the photographs taken by or in the presence of the experts, there is one showing a tiny patch of greenish color at the corner between the wooden door frame of the 60A bathroom and the wooden skirting of the dividing wall.
+23. Before me, Mr Yu accepted this as evidence of the green color water escaping from the 60A bathroom to the 60A bedroom but suggested that the wooden door frame of the bathroom could have absorbed the escaping color water without the same necessarily travelling further to reach the wooden parquet flooring outside. This is, however, inconsistent with his acceptance at paragraph 5.4 of the joint expert report of the color water having escaped to the wooden parquet flooring of the 60A bedroom albeit not profusely. As will be seen, Mr Yu must have had in mind what he perceived as a tiny amount of green color water escaping from the 60A bathroom on 13 September 2014 and was not saying that any water escaping from the 60A bathroom at any time would be absorbed by the wooden door frame without the same travelling further to the wooden parquet flooring of the 60A bedroom.
+24. Pausing here, Mr Hau further recorded in paragraph 5.4 of the joint expert report that certain red color was seen at the bottom of the dividing wall. Mr Hau heard from his assistant that the occupant of 60A said the same red color appeared after the Joint Office conducted a ponding test at the same shower tray using red color water. Mr Hau relied on this hearsay evidence to suggest water had escaped from the shower tray to the 60A bedroom previously. Mr Yim was in attendance when the ponding test was conducted on 13 September 2014 but he denied having said anything about red color water being used by the Joint Office. There being insufficient evidence as to the source of the red color observed by Mr Hau, with or without Mr Yu concurring with such observation, I am not attaching any weight to this observation of the expert(s).
+25. There is no dispute that various parts of the wooden parquet flooring of the 60A bedroom have turned darkened. Both experts agree that such color change could have been caused by water seepage. The experts only differ in terms of the extensiveness of such color change. There is no evidence as to the condition of the wooden parquet flooring of 60A prior to 13 September 2014. No evidence in this regard was forthcoming from the defendants. If such color change had taken place only after the ponding test on 13 September 2014, however, the defendants would surely have adduced evidence to that effect.
+26. Mr Hau relied on such color change as evidence that water leaked from the 60A bathroom to the 60A bedroom and accumulated in the wooden parquet flooring before travelling further down.
+27. At paragraph 5.8 of the joint expert report, Mr Yu tacitly accepted the possibility of water escaping from the 60A bathroom but otherwise maintained that any such leakage was insignificant and that there was no sign of such leakage affecting the ceiling and walls of 59A.
+28. It transpired during cross examination that Mr Yu's view was premised on what he described as a tiny amount of escaping water that could be observed during the ponding test on 13 September 2014. He went so far as to suggest that the tiny amount of water could have been absorbed by the wooden parquet flooring and then vaporized without travelling further down to the concrete floor slab below.
+29. On the other hand, Mr Yu fairly conceded that he could not absolutely exclude the possibility of any water escaping from the 60A bathroom to the 60A bedroom so as to turn parts of the wooden parquet flooring darkened. He further accepted counsel's proposition that if there was a constant supply of water, albeit small in amounts, which manages to reach the concrete floor slab over a long period of time, such water, if not vaporized, could percolate down through the concrete floor slab.
+30. Mr Ng, counsel for the defendants, highlighted the fact that the most serious part of the physical damage to the ceiling of the 59A bedroom was far off the source of leakage identified by Mr Hau and questioned Mr Hau's theory. Mr Hau's answer is that water would travel through the weakest parts of a concrete floor slab before re-appearing somewhere on the ceiling below not necessarily corresponding to the point of entry above.
+31. During cross examination, Mr Hau accepted that he had no information regarding the thickness or density of the concrete floor slab between 59A and 60A. He further accepted that the thickness and density of concrete would have a bearing on the water seepage. He however firmly maintained that such information would not be necessary if there is evidence of water reaching the concrete floor slab because concrete is not waterproof and seepage through concrete is something unavoidable.
+32. As to why the ponding test did not return a positive result after a lapse of 28 days, Mr Hau reckoned that the color water could have been blocked somewhere inside the concrete or have travelled to somewhere else through different paths.
+33. Mr Hau fairly accepted that he had not expressly stated in the joint expert report that there was seepage of water directly from the 60A bathroom to the 59A bathroom or expressly referred in the conclusions of the same report to the results of the electrical conductivity sensing test ("ECS test") conducted on the ceilings of the 59A bedroom and 59A bathroom as evidence of 60A being the source of leakage.
+34. Before me, however, Mr Hau drew attention to the upward change in humidity of the ceilings of the 59A bedroom and 59A bathroom recorded by the ECS test after the ponding test and relied on the same as evidence of 60A being the source of leakage.
+35. While disagreeing with Mr Hau that 60A was the source of leakage to 59A, Mr Yu suggested at paragraph 5.11 of the joint expert report that concealed water pipes could also lead to a similar leakage. It transpired during trial that Mr Yu was referring the concealed pipe duct located inside the master bathrooms of the building which housed the communal waste water pipe(s).
+36. However, evidence as to the pipe duct is scanty and there is simply no evidence as to what was or were being housed inside the same. According to the 2013 report, a certain brownish water stain was seen on the ceiling of the 59A bathroom right above the toilet seat back then. Interestingly, neither expert addressed the same any further in the joint expert report other than recording observations to like effect in the joint expert report. Mr Yu did not rely on this as evidence of leakage from any communal waste water pipe housed by the pipe duct. Nor did he elaborate on how leakage from the pipe duct, if any, could have caused the damage to the ceiling of the 59A bedroom, especially when no brownish water stain appeared on either side of the dividing walls of the pipe duct facing the 59A bathroom.
+37. Indeed, I observe that, among the several points of detection where upward change in humidity was recorded after the ponding test, only two were close to the pipe duct while only negligible or even downward change was recorded in various other spots also close to the pipe duct. This casts a serious doubt on Mr Yu's theory.
+38. As it turned out, Mr Yu's conclusion regarding the pipe duct being a possible source of leakage was based on the conclusion of the 2013 report (which linked the leakage back then to a waste water pipe) and the humidity recorded at points of detection on the ceiling of the 59A bathroom close to the pipe duct. Coupled with the negative result of the ponding test, Mr Yu therefore came to the view that the leakage could be attributed to some other cause. With the greatest respect, Mr Yu's conclusion smacks of pure speculation and the pipe duct appears to be more of a convenient scapegoat than a real culprit.
+39. While accepting that the burden of proof always stays with the plaintiff and the defendant has no duty to prove an alternative source to disprove the plaintiff's conclusion, I reject Mr Yu's conclusion regarding the pipe duct insofar as the same is proffered to weaken the Mr Hau's conclusion that 60A is the source of leakage to 59A.
+40. Mr Ng relied on the test result recorded in the 2013 report which revealed a high humidity in various parts of the ceiling of the 59A bedroom and 59A bathroom and suggested that a similarly high humidity should have been detected if 60A had been the source. He also relied on the same as evidence in support of Mr Yu's conclusion that the leakage found in 59A originated from a source other than 60A.
+41. This argument is unsustainable because Mr Ng assumes all things were being equal between 2013 and 2014 but there is simply no evidence as to the usage of 60A during the intervening period to support Mr Ng's assumption. In response to Mr Ng's challenge along this line, Mr Hau pointed out that the tests done on the two occasions were different and no meaningful comparison could be made of the results of the two tests. He must be right.
+42. All in all, I am satisfied that there is sufficient evidence to attribute to 60A the physical damage caused by water seepage to the ceiling of the 59A bedroom and the dividing wall, namely, water escaping from the shower tray of the 60A bathroom through the floor slab of the same bathroom to the wooden parquet flooring of the 60A bedroom before finding its way through the concrete floor slab below to reach the ceiling and dividing wall of the 59A bedroom. As Mr Hau concluded at paragraph 5.11 of the joint expert report, the same can happen when water is used to cleanse the floor of the 60A bathroom.
+43. In light of the upward change in humidity on the ceiling of the 59A bathroom after the ponding test as observed in the above, I further find there to be sufficient evidence to attribute to 60A the damage caused by water seepage to the 59A bathroom.
+
+Conclusion
+
+44. I am satisfied that 60A is the source of the water seepage to 59A and the defendants should be held liable to the plaintiff for damages.
+45. Since the leakage to 59A has not stopped, an injunction against the defendants is appropriate. In my view, a prohibitory injunction is generally appropriate in a case of this kind.
+46. The defendants have indicated through counsel that they would agree to a mandatory injunction for effecting repair to the waterproofing system of the shower tray of the 60A bathroom. In my view, the injunction should cover the whole 60A bathroom as water, whether generated during shower or when the bathroom is being cleansed with water, can escape therefrom to the 60A bedroom.
+
+Order
+
+<G<47. I order that the defendants do pay the plaintiff damages in the agreed sum of $30,000 with interest thereon at half judgment rate from the date of writ until judgment and thereafter at judgment rate until payment.
+48. I grant an injunction against the defendants restraining the defendants by themselves or their tenants, licensees, servants, agents or otherwise from allowing the continuance of water seepage from 60A into 59A.
+49. I further grant a mandatory injunction against the defendants requiring them to forthwith carry out repair work to the 60A bathroom including the stand shower or shower tray therein to make the same water proof and to prevent water from escaping therefrom to the 60A bedroom.
+50. I make an order nisi that the defendants do pay the plaintiff costs of this action, to be taxed if not agreed with a certificate for counsel. The order nisi shall become absolute unless an application is made for variation of the same within 14 days from the date of judgment.>G>
+51. Counsel's assistance is appreciated.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

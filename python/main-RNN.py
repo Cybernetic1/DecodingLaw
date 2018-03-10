@@ -24,10 +24,10 @@ import pickle
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 PRE_TRAINED = True
 GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
-batch_size = 128
+batch_size = 512
 num_classes = 3
-hidden_layer_size = 128
-times_steps = 128				# this number should be same as fixed_seq_len below
+hidden_layer_size = 64
+times_steps = 32				# this number should be same as fixed_seq_len below
 
 """ These are the 3 classes of laws:
 * nuisance
@@ -88,11 +88,11 @@ for line in f:
 	if count_all_words == len(word_list) - 1:
 		print("*** found all words ***")
 		break
-	if count_all_words >= 500:			# it takes too long to look up the entire dictionary, so I cut it short
+	if count_all_words >= 512:			# it takes too long to look up the entire dictionary, so I cut it short
 		break
 f2.close()
 # set default value = zero vector, if word not found in dictionary
-zero_vector = np.asarray([0.0]*300, dtype='float32')	# this is for when the word-vector is not found in the file
+zero_vector = np.asarray([0.0] * GLOVE_SIZE, dtype='float32')
 word2vec_map = defaultdict(lambda: zero_vector, word2vec_map)
 
 print("Vocabulary size = ", len(word2vec_map))
@@ -115,8 +115,7 @@ test_seqlens = seqlens[midpoint:]
 
 # =================== Prepare batch data ============================
 
-def get_sentence_batch(batch_size, data_x,
-					   data_y, data_seqlens):
+def get_sentence_batch(batch_size, data_x, data_y, data_seqlens):
 	instance_indices = list(range(len(data_x)))
 	np.random.shuffle(instance_indices)
 	batch = instance_indices[:batch_size]
@@ -179,7 +178,7 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 print("\n**** Training RNN....")
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
-	for step in range(351):
+	for step in range(600 + 1):
 		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
 															train_x, train_y,
 															train_seqlens)

@@ -1,0 +1,214 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:05 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Belvedere Ltd v Incorporated Owners of Dak Shing Building
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Belvedere Ltd v Incorporated Owners of Dak Shing Building
+
+
+
+25 February 2015
+District Court
+DC
+Civil Action No 3893 of 2013
+DCCJ 3893/2013
+
+Citations:[2015] HKEC 322 English Judgment
+
+Presiding Judges: Deputy Judge Lawrence Ng in Chambers
+
+Phrases: <Y<Civil procedure - summary judgment - action against incorporated owners for breach of deed of mutual covenant and nuisance - whether defence raised triable issues>Y>
+
+Counsel in the Case: Mr Kevin Hon, instructed by Sidney Lee & Co, for the plaintiffMs Annie Bu, instructed by Yu Hung & Co, for the defendant
+
+Cases cited in the judgment: Rockwin Enterprises Ltd v Shui Yee Ltd [2003] 3 HKC 174 
+European Partners in Capital (EPIC) Holdings BV v Goddard & Smith [1992] 41 EG 118 
+
+Shell Hong Kong Ltd v Yeung Wai Man Kiu Yip Co Ltd & Another (2003) 6 HKCFAR 222 
+
+Three Rivers DC v Bank of England [2003] 2 AC 1 
+
+
+Judgment: 
+
+
+Deputy Judge Lawrence Ng in Chambers
+
+Introduction
+
+1. This is the plaintiff's application by summons filed on 16 May 2014 (the "summons") for an order that summary judgment be entered against the defendant under Order 14 rule 1 of the Rules of District Court, further or in the alternative for certain questions of law to be determined by the court pursuant to Order 14A, rule 1 of the Rules of District Court. At the conclusion of the hearing, judgment was reserved which I now give.
+
+Background
+
+<Y<2. The plaintiff is the owner of the property situated at and known as Flat A, 8th Floor, Dak Shing Building, 88 Java Road, Hong Kong (respectively the "Property" and the "Building").
+3. The defendant is the incorporated owners of the Building. It was incorporated and registered on 30 July 1973 under the Multi-storey Buildings (Owners Incorporation) Ordinance 1970, now known as the Building Management Ordinance, Cap 344 (the "BMO").
+4. The Building is erected on Sub-section 6 of Section A of Inland Lot No 3539 (the "Lot"). It consists of 8 storeys and ground floor together with cocklofts. There are 8 units on the 8th Floor of the Building which are immediately underneath the roof of the Building. The units are 4 Flats A and 4 Flats B. The portions of the roof above the 4 Flats B on the 8th Floor are private properties belonging to the respective owners of the corresponding Flats B on the 8th Floor. The roof top immediately above the Property and all Flats A on the 8th Floor of the Building (the "Roof Top") originally belonged to Kee Yip Company Limited, the developer of the Building (the "Developer"), who owned 4 equal undivided 80 shares of the Building and of the Lot (the "4 undivided shares") which carried the right to the exclusive use, occupation and enjoyment of the Roof Top.
+>Y>
+<Y<5. On 11 September 1991, the Developer was dissolved by members' voluntary winding up. Prior to the winding up of the Developer, the majority liquidators of the Developer applied by way of originating summons dated 21 December 1990 pursuant to section 268 of the Companies Ordinance, Cap 32 for a court order that "the Applicant as such Liquidators be at liberty to disclaim its interest estate and right of and in the property set out in the Schedule hereto (forming the only remaining asset of the [Developer] which has not been realised)". The property to be disclaimed is the 4 undivided shares and is described in the Schedule (the "Schedule") as follows:- "The [Developer's] interest estate and right of and in ALL THOSE 4 equal undivided 80th parts or shares of and in [the Lot] being the notional residual shares owned and held by the [Developer] after the [Developer] had assigned of all those 76 equal undivided 80 parts or shares of and in the Lot and of and in the [Building] Together with the exclusive right to the use occupation and enjoyment of all the self-contained flats and units therein and the roofs thereof to the respective purchasers thereof."
+
+>Y>
+<Y<On 12 February 1991, an order was granted in terms of the originating summons and pursuant thereto a notice of disclaimer dated 23 February 1991 (the "Notice of Disclaimer") was issued whereby the majority liquidators of the Developer disclaimed all interest estate and right of and in the 4 undivided shares.
+6. In this action, the plaintiff claims that water seeped through the Roof Top to the Property thereby causing damage to the Property. It is the plaintiff's case that the Roof Top, further or in the alternative, the waterproof layer at the Roof Top (the "Waterproof Layer"), is a common part of the Building. The plaintiff alleges that as the incorporated owners of the Building, the defendant is under a duty to maintain the Roof Top and/or the Waterproof Layer and that the defendant has failed and/or neglected to maintain the Roof Top and/or the Waterproof Layer in a good and proper state of repair and condition as a result of which water seeped through the Roof Top to the Property thereby causing damage to the Property. It is alleged that such failure or neglect on the part of the defendant constitutes breach of the Deed of Mutual Covenant in respect of the Building (the "DMC"), section 18(1)(a) of the BMO, section 34H of the BMO, duty of care in tort and nuisance.
+7. The defendant denies that the Roof Top is a common part of the Building and does not admit that there is a waterproof layer at the Roof Top, but accepts that if there is a waterproof layer at the Roof Top then it is a common part of the Building. The defendant further denies that water seeped through the Roof Top to the Property.>Y>
+
+The summons
+
+8. By the summons, the plaintiff seeks the following reliefs against the defendant:- 
+Under Order 14
+
+1. "Final judgment in this action be entered against the Defendant for:- 
+
+(a) An Injunction to restrain the Defendant by itself, its servants or agents or otherwise from repeating or continuing the water seepage from the Roof Top;
+
+(b) An Injunction requiring the Defendant to maintain the Roof Top in a state of good and serviceable repair and clean condition;
+
+(c) An Injunction requiring the Defendant to maintain the Waterproof Layer in a state of good and serviceable repair and clean condition;
+
+(d) A Declaration that the Defendant to indemnify the Plaintiff from all loss and damage which may arise from such breach of the DMC by the Defendant;
+
+(e) A Declaration that the Defendant to indemnify the Plaintiff from all loss and damage which may arise from the negligence by the Defendant;
+
+(f) A Declaration that the Defendant do indemnify the Plaintiff from all loss and damage which may arise from the water seepage from the Roof Top;
+
+(g) Damages to be assessed;
+
+(h) Interest."
+
+
+
+Under Order 14A
+
+2. "Further or in the alternative, the following questions of law may be determined, namely:- 
+
+(a) Upon the proper construction of clauses 5 and 10 of the [DMC]:- 
+
+(i) Whether the maintenance of the Roof Top and/or the Waterproof Layer in a good and proper state of repair and condition are undertaken by the Defendant;
+
+(ii) Whether the Roof Top and/or the Waterproof Layer form parts of the said premises for the common use of the parties to the DMC;
+
+(b) In light of the winding up of [the Developer] on 11th September 1991, upon the proper construction of the Order dated 12th February 1991 and the Notice of Disclaimer dated 23rd February 1991:- 
+
+(i) Whether the 4 undivided shares of Sub-section 6 of Section A of Inland Lot No. 3539 previously held by the Developer were disclaimed and had been extinguished;
+
+(ii) Whether the Roof Top has become common area;
+
+(iii) Whether the Roof Top has become under the possession and control of the Defendant.
+
+(c) In light of the circumstances and under the proper construction of section 18(1)(a) of the [BMO], whether the Roof Top and/or the Waterproof Layer are within the meaning of 'common parts and the property of the corporation'."
+
+
+
+
+Applicable principles
+
+9. The principles applicable to summary judgment applications are well established. The defendant must satisfy the court that he has a fair or reasonable probability of showing a real or bona fide defence. On the other hand, summary judgment under Order 14 should not be granted when any serious conflict as to matter of fact or any real difficulty as to matter of law arises. The court must not embark on a mini trial on affidavits: see Hong Kong Civil Procedure 2015, Vol 1, para 14/4/9.
+10. The principles applicable to Order 14A applications are also well established. Under Order 14A, rule 1 of the Rules of District Court, the court may determine any question of law or construction of any document arising in any cause or matter at any stage of the proceedings where it appears to the court that:- 
+
+(a) such question is suitable for determination without a full trial of the action; and
+
+(b) such determination will finally determine (subject only to any possible appeal) the entire cause or matter or any claim or issue therein.
+
+
+11. It must also be noted that it is inappropriate to use the procedure under Order 14A if the issues of facts are interwoven with the legal issues to be determined. The question of law or construction of document cannot be dealt with on assumed or hypothetical facts. If it is necessary for the court to hear evidence to resolve a factual dispute in order to come to a determination on the question of law or construction of document, it would not normally be suitable to invoke Order 14A: Shell Hong Kong Ltd v Yeung Wai Man Kiu Yip Co Ltd & Another (2003) 6 HKCFAR 222 
+(CFA) at para 24 per Chan PJ. In other words, the court must have all necessary facts and matters before it in order to determine the question of law or construction. Where the court is not seized of all relevant facts, it would be an extremely rare case (if ever) in which the procedure under Order 14A would be adopted: 
+Rockwin Enterprises Ltd v Shui Yee Ltd [2003] 3 HKC 174 
+at para 27 per Recorder Geoffrey Ma SC (as the Chief Justice then was). Furthermore, the court retains a residual discretion whether or not to embark on a determination of a question under Order 14A even where the first two requirements under Order 14(a)(1) are satisfied. How that residual discretion should be exercised in any given case would depend on the circumstances and the perception and instinct of the judge seized of the matter: Rockwin at paras 23, 24 and 26. The court can take an overall view of the matter to see the context in which the question arose. If the court is of the view that there would not be a great saving of time or costs in determining the question, this would be a factor against adopting the procedure: Rockwin at para 25(a).
+
+The issues
+
+12. It can be seen from the above that there are two main issues in dispute between the parties:- 
+
+(1) What was the cause (or causes) of the water seepage? In particular, did water seep through the Roof Top to the Property ("Issue 1")?
+
+(2) Is the Roof Top a common part of the Building ("Issue 2")?
+
+
+
+My view
+
+13. In my opinion, this is not an appropriate case for an order under either Order 14 or Order 14A. In respect of the application under Order 14, I am of the view that there are triable issues of fact or law. The presence of these triable issues dictates that this case must go to trial. I am also of the view that this is not an appropriate case for the court to make a determination on the questions set out in the summons under Order 14A. Having come to this conclusion I think the less that I say about the merits of the case the better. Nonetheless, I shall highlight the following issues between the parties which I do not believe can be resolved summarily without a trial.
+
+Cause or causes of the water seepage
+
+14. With respect to the cause (or causes) of the water seepage, the plaintiff and the defendant have filed their respective expert reports, ie, the Water Seepage Investigation Report (the "Report") and the Supplemental Report dated respectively 12 May 2014 and 2 January 2015 prepared by RHL Surveyors Ltd for the plaintiff, and the Professional Opinion on the Report dated 5 December 2014 prepared by Chan Kok Lin Roger, a Registered Architect and an Authorised Person, for the defendant.
+15. It is clear from the parties' respective expert reports that there exist serious dispute as to the cause (or causes) of the water seepage and whether water seeped through the Roof Top to the Property.
+16. I do not see how the issues set out in paragraph 15 above can be satisfactorily resolved without recourse to cross-examination of the factual and expert witnesses.
+17. In particular, the defendant's expert made the following observations:- 
+
+(1) in the Report, the plaintiff's expert had failed to mention how the water test was conducted and whether the test was conducted in accordance with any standard procedure. The plaintiff's expert had failed to specify the locations on which the test was conducted;
+
+(2) there is no evidence that the water source was from the Roof Top;
+
+(3) there is an additional window opening on the west facing wall in the living room of the Property which was not shown on the building plans approved by the Building Authority and which could have caused water penetration through it;
+
+(4) water vapour and moisture from the atmosphere could have dampened the plaster and concrete which in turn could cause rust or corrosion of the reinforcement bars and thus spalling. Wear and tear was one of the major causes for concrete deterioration, and the minimum maintenance and the age of the Building could also cause concrete spalling;
+
+(5) there is a window hinge found broken and stiffened and therefore the window could not be closed. The long opened window has caused the walls to be dampened, which showed a clear sign of water mark. Water had likely penetrated into the rooms;
+
+(6) the additional canopy above the balcony at the north elevation might also damage the external wall and allow water seeping into the internal walls; and
+
+(7) due to the age of the Property, the possibly hardened sealant around the windows might have also allowed water seepage through the weak points and penetrated into the ceiling, beams and walls which could in turn cause concrete and/or plaster spalling.
+
+
+18. Although the plaintiff's expert has filed the Supplemental Report purporting to address these issues, again, I do not see how these issues can be satisfactorily resolved without recourse to cross-examination of the factual and expert witnesses.
+19. Causation is a question of fact. As such, generally speaking, it is unsuitable for summary determination: Three Rivers DC v Bank of England [2003] 2 AC 1 
+at 194B-C per Lord Steyn.
+20. Furthermore, in the circumstances of this case where the parties have filed conflicting expert opinions on the cause (or causes) of the water seepage, it must be borne in mind that issues of professional opinion, which must be chosen between if liability is to be established, will not as a general rule be issues suitable to be resolved on a summary judgment application: European Partners in Capital (EPIC) Holdings BV v Goddard & Smith [1992] 41 EG 118 
+; Hong Kong Civil Procedure 2015, op cit, para 14/4/11.
+21. These principles apply to this case. I find that there is a triable issue of fact in respect of this aspect of the plaintiff's claim and hence this case must go to trial.
+
+Whether the Roof Top is a common part of the Building?
+
+22. The plaintiff's case is that as a result of the Notice of Disclaimer (see para 5 above), the Roof Top has become a common part of the Building, hence is under the possession and control of the defendant. There is not much elaboration on this issue in the statement of claim, which simply asserts (in para 3 thereof) that the Roof Top is "a common part of the Building".
+
+23. The only evidence relied upon by the plaintiff in support of its contention is the 5th to 7th paragraphs of a letter from the Estate Management Section of the Lands Department dated 25 October 2012 (the "Letter"), which reads:- " In such circumstances, the Roof should have already become a common property owned by all owners of the Building when the liquidators of the Company disclaimed the Property pursuant to section 268 of the Companies Ordinance  Furthermore, the Government should not be held liable for carry out the repair or rectification works for the Roof of the Building if the following conditions are satisfied:- (i) the roof slab of the Building comprises a waterproofing membrane, which serves the purpose of protecting the interior of the whole Building (but not for any particular owner alone) by preventing water from seeping into the inner part of the Building; (ii) the cause of the water leakage is the disrepair of the waterproofing membrane; and (iii) it is not the Government who caused damage to the waterproofing membrane  In view of the above, it is considered that the waterproofing membrane would be regarded as the common parts of the Building and the Incorporated Owners of the Building should be responsible for its repair and maintenance pursuant to section 18(1)(a) of the Building Management Ordinance (Cap 344)."
+
+
+24. It should, however, be noted that it is stated respectively in the 2nd and 4th paragraphs of the Letter that the 4 undivided shares were "vested in the Government as bona vacantia by operation of common law since the date of disclaimer of the [4 undivided shares] by the liquidators of [the Developer]" and that "it is clear law that there can be no right to any exclusive use except as an incident to the ownership of an undivided share in the land". If one were to follow the logic of the 2nd and 4th paragraphs of the Letter, as the 4 undivided shares had vested in the Government as bona vacantia by operation of common law and as there can be no right to any exclusive use except as an incident to the ownership of an undivided share in the land, it is arguable that the right to the exclusive use, occupation and enjoyment of the Roof Top does not belong to the defendant but to the Government.
+25. At the hearing, the plaintiff made no submissions on the 2nd and 4th paragraphs of the Letter.
+26. Furthermore, it is unclear how much weight can be attached to the 5th to 7th paragraphs of the Letter. The Letter was written by a staff of the Estate Management Section of the Lands Department, who is apparently not a lawyer. The Letter was written in reply to a letter dated 11 October 2012 from the plaintiff's solicitors, which has not been produced. The 5th to 7th paragraphs of the Letter also appear to be inconsistent with the 2nd and 4th paragraphs of the Letter. Therefore what is said in the 5th to 7th paragraphs of the Letter cannot simply be accepted without further enquiry.
+27. On the other hand, it is the defendant's case that by reason of the liquidation of the Developer and the Disclaimer Notice, the "[4] undivided shares together with the right of exclusive use, occupation or enjoyment of the Roof Top have become vested in the Government" by bona vacantia.
+28. I do not believe the issue of whether the Roof Top is a common part of the Building can be resolved summarily without a trial. I find that there is a triable issue of fact or law in respect of this aspect of the plaintiff's claim and hence this case must go to trial.
+29. In the light of my finding on the existence of triable issues on the cause (or causes) of the water seepage and whether the Roof Top is a common part of the Building, the defendant's concession that if there is a waterproof layer on the Roof Top then it is a common part of the Building is neither here nor there and does not assist in resolving Issue 2 (see para 12 above).
+
+Application under Order 14A
+
+30. Questions 2(b)(ii) and 2(b)(iii) set out in the summons (see para 8 above) essentially ask whether the Roof Top is a common part of the Building by reason of the liquidation of the Developer and the Notice of Disclaimer. They are the main questions which the plaintiff seeks the court's determination. Given the conclusion reached above that there is a triable issue of fact or law on whether the Roof Top is a common part of the Building, this is not an appropriate case for the court to make a determination on questions 2(b)(ii) and 2(b)(iii).
+31. The same analysis applies to question 2(c) set out in the summons, which essentially asks whether the Roof Top is a common part of the Building within the meaning of section 18(1)(a) of the BMO. The addition of the words "and/or the Waterproof Layer" in question 2(c) does not change my analysis above because if, as I have found, there is a triable issue on whether the Roof Top is a common part of the Building, a determination on whether the Waterproof Layer is a common part of the Building would not assist in resolving Issue 2 (see para 12 above). In any event, there would not be a great saving of time or costs in determining the question relating to the Waterproof Layer: Rockwin at para 25(a).
+32. Question 2(a) set out in the summons essentially asks whether the Roof Top is a common part of the Building under the DMC. As fairly conceded by Mr Hon, counsel for the plaintiff, the answer to question 2(a) is partly premised on the answer to question 2(b). Given my answer to questions 2(b)(ii) and 2(b)(iii) above, this is not an appropriate case for the court to make a determination on question 2(a). As to the addition of the words "and/or Waterproof Layer" in question 2(a), I repeat my observation in paragraph 31 above.
+33. That leaves question 2(b)(i) set out in the summons. In my view, this question cannot be considered in isolation but must be considered in conjunction with questions 2(b)(ii) and 2(b)(iii). Again, given my answer to questions 2(b)(ii) and 2(b)(iii) above, this is not an appropriate case for the court to make a determination on question 2(b)(i). In any event, there would not be a great saving of time or costs in determining question 2(b)(i): Rockwin at para 25(a).
+34. In these circumstances, the plaintiff's application under Order 14A falls to be dismissed.
+
+Dismissal of the summons?
+
+35. In paragraph 13 above, I already expressed the view that this is not an appropriate case for summary judgment and hence this case must go to trial. I also expressed the view that this is not an appropriate case for the court to make a determination on the questions set out in the summons under Order 14A. The remaining question for me to decide is whether the plaintiff's application under Order 14 should be dismissed.
+36. It is well established that if before the issue of the summons the plaintiff knows that the defendant is relying on a contention which would entitle him to unconditional leave to defend, he cannot properly invoke the jurisdiction of the court under Order 14 to give him summary judgment, for neither he nor any one on his behalf can make the affidavit in support stating that "in his belief there is no defence to the claim or part to which the application relates": Hong Kong Civil Procedure 2015, op. cit., para 14/7/3.
+37. In this case, the defence was filed on 6 January 2014, more than 4 months before the issue of the summons on 15 May 2014. In the defence, the defendant denies that water seeped through the Roof Top to the Property and set up a positive case that by reason of the liquidation of the Developer and the Disclaimer Notice, the 4 undivided shares together with the right to exclusive use, occupation and enjoyment of the Roof Top have become vested in the Government by bona vacantia. There were serious disputes over these issues, which were known to the plaintiff and those acting on its behalf.
+<G<38. I am of the view that, in these circumstances, the plaintiff cannot properly invoke the jurisdiction of the court under Order 14 to give him summary judgment, with the result that the plaintiff's application under Order 14 must be dismissed.
+39. Accordingly, the plaintiff's summons is dismissed.>G>
+40. There is no reason why costs should not follow the event. I make an order nisi that the plaintiff pays the defendant costs of the summons (including costs of the hearing), to be taxed if not agreed, with certificate of counsel.
+41. I thank Mr Hon and Ms Bu for their assistance to the court.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

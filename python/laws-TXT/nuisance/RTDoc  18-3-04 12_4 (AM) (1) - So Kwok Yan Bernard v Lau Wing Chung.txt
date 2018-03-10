@@ -1,0 +1,442 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:04 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : So Kwok Yan Bernard v Lau Wing Chung
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+So Kwok Yan Bernard v Lau Wing Chung
+
+
+
+20 March 2015
+District Court
+DC
+Civil Action No 2343 of 2012
+DCCJ 2343/2012
+
+Citations:[2015] HKEC 459 English Judgment
+
+Presiding Judges: Judge Andrew SY Li
+
+Phrases: <Y<Tort - nuisance - common law nuisance - breach of covenant restricting nuisance, annoyance or damage - alleged noises from premises to premises immediately below - whether existed and emanated from defendant's premises - whether nature, character and/or amplitude of noises constituted nuisance>Y>
+
+Counsel in the Case: Mr Jeremy Kwong, instructed by CK Mok & Co, for the plaintiffMr Keith Lau, instructed by Kelvin Cheung & Co, for the defendant
+
+Cases cited in the judgment: Harrison v Good (1871) L R 11 Eq 338 
+Re Davis and Cavey’s Contract (1888) 40 Ch D 601 
+Tod-Heatly v Benham (1888) 40 Ch D 80 
+Capital Prosperous Ltd v Sheen Cho Kwong [1999] 1 HKLRD 633 
+
+Murdoch v Glacier Metal Co Ltd [1998] Env LR 732 
+
+Ng Yuen Han v Lam Fei Fui [2013] 3 HKLRD 608 
+
+
+Judgment: 
+
+
+Judge Andrew SY Li
+
+INTRODUCTION
+
+1. This is a dispute between two neighbours over some alleged nuisance created by noise.
+2. The plaintiff's claim is one based on the tort of nuisance and breach of the Deed of Mutual Covenant ("DMC").
+3. I am asked to decide: (i) whether the defendant is liable for the nuisance; and (ii) whether he had been in breach of the DMC.
+4. Damages has been agreed by the parties on the first day of the hearing in the sum of HK$50,000 in the event that I find liability against the defendant.
+
+BACKGROUND
+Occupation of premises
+
+<Y<5. At the material times, the parties both lived in Block 4 of Pristine Villa, No 18 Pak Lok Path, Shatin, New Territories ("the Building"). The plaintiff was and is the owner and occupier of Flat 7C ("Flat 7C"). The defendant was the tenant of the flat located directly above the plaintiff's at Flat 8C ("Flat 8C").
+6. The plaintiff and his wife moved into Flat 7C in or around September 1997 when the development was first completed and ready for occupation. They have been occupying Flat 7C ever since.
+7. The plaintiff retired in about 2004 and has been spending most of his time at home since his retirement. Before he retired, he and his wife used to run a private school and 2 kindergartens.
+8. The defendant and his family occupied Flat 8C as tenants from September 2009 to September 2013. The occupants of Flat 8C included the defendant, his wife, their two daughters (one was born during their occupancy) and a maid. From time to time, the defendant's mother-in-law would also stay in Flat 8C before their second daughter was born. The defendant's elder daughter was about 1 year and 9 months old when they first moved into Flat 8C in September 2009. The second daughter was born in November 2010 after they had moved into the flat. The mother-in-law moved into the flat after the second daughter was born.x
+9. The defendant is a professor in physical education in a local university. The defendant's wife is a full-time physical education teacher at a secondary school.
+>Y>
+<Y<Layout of flats
+>Y>
+<Y<10. Pristine Villa is a residential development situated in Shatin, featuring 14 blocks of residential apartments, with a club house that provides comprehensive recreational facilities. Block 4, in which Flat 7C and Flat 8C are situated, faces Pak Lok Path which overlooks a tennis court and playground with some greenery landscape. It is generally located in a very quiet environment.
+11. There are nine floors of apartments in Block 4 with 4 Flats on each floor. The layouts from level 5 to level 9 are identical. All flats have three bedrooms and a storeroom. The master bedroom in each flat is fitted with an ensuite bathroom. They are situated at the far end of the flat. The storeroom is designed with its entrance facing the kitchen. It is commonly used as a maid's quarter.
+12. Flat 8C locates immediately above 7C. They have identical layouts.
+>Y>
+<Y<Chronology of the noise dispute
+>Y>
+<Y<13. The following chronology is constructed from the logbook maintained by the management office of the development known as the Customer Service Office ("the CSO"). The CSO logbook was provided by both parties as contemporaneous documentary evidence to support their respective case, although the contents of the logbook given to the defendant, for reasons could not be explained by the officer from the CSO, were slightly different from that provided to the plaintiff.
+14. On 1 December 2009, the plaintiff complained to the CSO about hearing noises coming from the unit above in recent month(s), caused by footsteps and moving furniture after 11:00 pm and started again at 6:30 am.
+15. The complaint was handled by Mr Pang Kit Hung ("Pang"), who was then the senior administrative officer at the CSO.
+16. Pang immediately telephoned Flat 8C and spoke to the defendant regarding the matter. The CSO also issued a notice on 2 December 2009 to advise the occupants of Flat C in all levels of the Building to take care not to cause excessive noises at "midnight, early hours of the morning and early morning".
+17. On 3 December 2009, the plaintiff and his wife went up to Flat 8C, knocked on its door and confronted the defendant about the alleged noises. An argument between the parties ensured. The defendant complained to the CSO on the same day regarding the plaintiff banging hard on his door, and that on an earlier date an unusual yellow charm was found stuck next to the entrance of Flat 8C.
+18. On 28 December 2009, the plaintiff complained to the CSO again regarding hearing similar noises caused by footsteps, furniture moving and opening and closing of doors. The CSO issued on the same day a notice to advise occupants in Flat C on levels 5, 6, 8 and 9 of Block 4, ie Flat 5C, 6C, 8C and 9C respectively to take care not to create excessive noises at late hours.
+19. On 6 January 2010, the plaintiff's wife complained to the CSO regarding excessive noises at around 6:00 am mainly caused by footfall on slippers. The CSO issued a notice on the same day to advise all residents of Flat C to take care to avoid making excessive noises. Pang also rang the occupants of Flat 5C, Flat 6C, Flat 8C and Flat 9C regarding the matter. The occupants of Flat 9C and 5C reported hearing no excessive noises, while the occupants of Flat 6C reported hearing unusual noise only once during the previous month, but were uncertain about what kind of noise it was.
+20. In the morning on 11 January 2010, the plaintiff's wife confronted the defendant and the defendant's wife at the elevator of Block 4 about excessive noises that occurred late in the previous night. The defendant denied the allegation, saying that they had slept early the night before. The plaintiff's wife then complained about the matter to the CSO. A notice was issued on 12 January 2010 by the CSO to the occupants of Flats C on levels 6 to 8.
+21. On 13 January 2010, Pang contacted the plaintiff's wife to follow up on the noise matter. The plaintiff's wife informed Pang that "the noise situation has improved". (">Y><Y<情況轉向良好>Y><Y<").
+22. In the early morning on 15 January 2010, on the request of the plaintiff's wife, the CSO sent two of their staff with sound measuring equipment to Flat 7C to investigate the alleged noise nuisance. According to the CSO staff, the noise was not loud and seemed to have been caused by daily activities on the upper floors. However, they could not be certain where about the noise had come from.
+23. On the same day after the CSO staff performed their test, Pang rang the plaintiff to follow up on the matter. The plaintiff replied by saying that "the noise situation was good". (">Y><Y<情況良好>Y><Y<").
+24. According to the CSO logbook, after the last complaint made by the plaintiff and his wife on 11 January 2010, they did not make any noise complaint again until 16 January 2011, ie about 12 months later.
+25. On 16 January 2011, the plaintiff and his wife complained to the CSO about noises coming from above their unit again. The CSO contacted Flat 8C. The defendant explained that the alleged noises could have been coming from normal daily activities. In any event, the CSO issued a notice on 17 January 2011 to advise occupants in all Flat C in Block 4 to take care to minimize their noise level.
+26. The next recorded complaint made by the plaintiff and his wife was on 19 July 2011, ie another 6 months later. In response, the CSO issued another notice to advise occupants to take care not to create excessive noises.
+27. On 11 December 2011, it was the defendant and not the plaintiff who had made the complaint. At around 9:00 pm on that day, the defendant complained to the CSO that he had heard noise that seemed to have been caused by the tapping of the ceiling from Flat 7C. He also complained of the voice of a woman who was yelling from Flat 7C.
+28. Two staff of the CSO went to Flat 8C to investigate the matter. The defendant asked the CSO staff to pull a chair using normal force, which then elicited tapping of the ceiling in Flat 7C and a woman's yelling from Flat 7C. The matter was then reported to the police by the defendant for record purposes.
+29. The last recorded incident was on 9 April 2012 when the plaintiff's wife complained about the defendant using a vacuum cleaner at around 8:30 am on a holiday.>Y>
+
+The plaintiff’s case
+
+30. Ever since the defendant moved into Flat 8C in early November 2009 but not before, there has been excessive noise coming from the defendant's flat causing nuisance to the plaintiff and his family.
+31. The noise heard was claimed to be loud, sporadic, abrupt occurring and clearly audible inside the plaintiff's flat.
+32. The noise was allegedly caused by mechanical impacts. Distinguishable causes include heavy footfall, dropping and dragging of heavy objects onto/along the floor of the defendant's flat.
+33. The noise complained of:- 
+
+(i) could be heard at intermittent periods throughout the day;
+
+(ii) during those periods, were frequently recurring, often at intervals of minutes only;
+
+(iii) the noise was heard as thumps from above, lasting from just a few thumps to up to several minutes of thumping;
+
+(iv) occurred both during daytime and nighttime, including late at night at times as late as 2:00 or 3:00 am and early in the morning as early as 6:00 am; and
+
+(v) was heard in different parts of the plaintiff's flat depending on where there was activity in the defendant's flat, including the living room, the master bedroom and its adjoining bathroom, the study and the kitchen.
+
+
+34. The plaintiff also relies on the observations and records of the plaintiff's expert, who measured the noise coming from the defendant's flat (1) between 22 November and 4 December 2011; and (2) between 29 December 2012 and 2 January 2013.
+35. The plaintiff alleges that the nuisance complained of was still ongoing at the date of the writ, ie on 10 July 2012 and the date of the plaintiff's witness statement, ie on 30 August 2013.
+36. The noise was so disturbing that plaintiff (and his wife) had:- 
+
+(a) made multiple complaints to the CSO as recorded in its logbook;
+
+(b) kept hand-written notes of the noises between 30 October 2011 and 15 November 2011; and
+
+(c) asked the plaintiff's expert to monitor the noise on the above dates.
+
+
+37. In response to the plaintiff's complaints, notices were issued by the CSO on various dates.
+38. Also in response to the plaintiff's complaints, staff of the CSO had also visited the plaintiff's flats on several occasions:- 
+
+(a) 15 January 2010: where some noise was heard but they could not tell where it had come from;
+
+(b) 18 January 2010: where Mr Cheung of the CSO heard the noise and agreed it was too noisy; and
+
+(c) 16 January 2011: noise of objects falling to the floor was heard and Mr Chan of the CSO called the defendant to follow up with the matter and a notice was also issued by the CSO.
+
+
+39. The plaintiff's claim is in common law nuisance and for breach of the DMC. As far as breach of the DMC is concerned, the plaintiff says that the defendant is in breach of the covenant not to "cause or permit or suffer to be done any act or thing which may be or become a nuisance or annoyance to or cause damage to other owners and occupiers for the time being", appearing in clause 10 of Section V, as well as in Rule 10 of the General Rules and Car Park Rules.
+
+The defendant’s case
+
+40. In short, the defendant's case is one of blanket denial. The defendant contends that neither he nor his family was responsible for the noise caused, and that if there was any noise, that the source of the noise was not the defendant's flat. That even if the noise was to be found to have come from the defendant's flat, the noise does not amount to a nuisance. And that lastly, even if the noise is found to constitute a nuisance, the defendant cannot be liable as the plaintiff cannot prove that the alleged noise was caused by unreasonable activities caused by those living in Flat 8C.
+
+DISCUSSION
+Relevant Legal Principles
+
+41. The relevant legal principles concerning both the common law nuisance and covenant restricting nuisance, annoyance or damage are not in dispute. They have been very helpfully summed up by the plaintiff's counsel Mr Jeremy Kwong in his opening submission. I shall respectfully produce the relevant parts here.
+
+General principles: common law nuisance
+
+42. Nuisance is "an act or omission which is an interference with, disturbance of or annoyance to, a person in the exercise or enjoyment of  his ownership or occupation of land or of some easement, profit, or other right used or enjoyed in connection with land" (Clerk & Lindsell on Torts, 20 ed. at §20-01).
+
+43.Clerk & Lindsell further stated at §20-06:- 
+"A private nuisance may be and usually is caused by a person doing, on his own land, something which he is lawfully entitled to do. His conduct only becomes a nuisance when the consequences of his act are not confined to his own land but extend to the land of his neighbour by:- 
+
+(1) causing an encroachment on his neighbour's land, when it closely resembles trespass;
+
+(2) causing physical damage to his neighbour's land or building or works or vegetation upon it; or
+
+(3) unduly interfering with his neighbour in the comfortable and convenient enjoyment of his land."
+
+
+
+
+It is not disputed that the present case primarily concerns "interference nuisance", ie (3) above.
+
+44. Interference nuisance is always a question of degree. Even noise arising from lawful activities may constitute nuisance if the degree of interference is sufficiently serious. As explained at §20-10 of Clerk & Lindsell:- "In nuisance of the third kind [] there is no absolute standard to be applied. It is always a question of degree whether the interference with comfort or convenience is sufficiently serious to constitute a nuisance. The acts complained of as constituting the nuisance, such as noise, smells or vibration, will usually be lawful acts which only become wrongful from the circumstances under which they are performed, such as the time, place extent or the manner of performance."
+
+
+45. A "useful test" for interference nuisance between neighbours in Hong Kong was given in Capital Prosperous Ltd v Sheen Cho Kwong [1999] 1 HKLRD 633 
+
+at 639H-J (also a noise nuisance case) by DHCJ Muttrie:- "The courts in deciding what is the permissible limit in inconvenience and annoyance between neighbours and in deciding whether an interference can amount to an actionable nuisance have to strike a balance between the right of the defendant to use his property for his own lawful enjoyment and the right of the plaintiff to the undisturbed enjoyment of his property. No precise or universal formula is possible but a useful test is what is reasonable according to ordinary usages of mankind living in a particular society. See Sedleight-Denfield v O' Callaghan [1940] AC880.
+Further the inconvenience must be an "inconvenience materially interfering with the ordinary comfort physically of human existence, not merely according to elegant or dainty modes and habits of living, but according to plain and sober and simple notions among the English people", perKnight Bruce V-C in Walter v Selfe (1851) 4 De G & S315 at p 322."
+
+
+46. Noises similar to those complained of in the present case were recently considered in Ng Yuen Han v Lam Fei Fui [2013] 3 HKLRD 608 
+. In that case:- 
+
+(a) The plaintiff claimed that "in Flat 3A she could clearly hear the sounds coming from Flat 4A such as the sounds of the tenants' walking, cutting vegetables, dropping chopsticks and getting out of bed late at night. These sounds have caused a severe nuisance to her and her family and sometimes made it hard for them to watch TV, read a book and even sleep."
+
+(b) The expert in that case conducted sound tests in Flats 3A and 4A by objectively measuring the noise heard in Flat 3A, obtaining a reading of 60-80 decibel. The results of the test were accepted by the court.
+
+(c) The Court of Appeal, while observing that unusually sensitive hearing was not to be taken into account, accepted the expert's opinion that "subjecting an ordinary person to such a situation [ie to the sounds complained of and measured by the expert] for a long time is sufficient to constitute a nuisance."
+
+
+
+
+47. It is not necessary, in interference nuisance cases, to show any actual financial or physical damage or injury to health since the "damage" is the annoyance caused (see Clerk & Lindsell at §20-27).
+
+General principles: covenant restricting nuisance, annoyance or damage
+
+48. A covenant against a "nuisance" was held to be a reference only to an actionable nuisance at common law and no more ( Harrison v Good (1871) L R 11 Eq 338 
+, although this approach was doubted in the subsequent case of Tod-Heatly v Benham (1888) 40 Ch D 80 
+at p 95.
+49. Whether "nuisance" in the DMC referred only to common law nuisance does not matter in the present case. This is because where (as here) the covenant was to restrict not just "nuisance" but "nuisance, annoyance or damage", this will extend to interferences not within the scope of common law nuisance:- 
+
+(a) As explained by the learned authors of Unlawful Interference with Land:- " the word "annoyance" on the other hand, when found in conjunction with the word "nuisance" in a covenant restricting "nuisance and annoyance" will clearly extend to interferences which do not fall within the scope of the law of tortuous nuisance: it is settled "that effect must be given to the words "annoyance or damage" where they occur in addition to the word 'nuisance'"
+
+(Elvin & Karas, Unlawful Interference with Land at §3-055, citing Re Davis and Cavey's Contract (1888) 40 Ch D 601 at 606).
+
+(b) As further explained in Tod-Heatly v Benham by Lindley LJ at p 95:- "The question which arises is, what is the meaning of the expression 'shall or may be or grow to the annoyance, nuisance, or damage' of the persons named. Certainly that string of words is introduced in order to give the convenantee a greater protection than he would have had without any such words at all, or if only one of those words were used. There is no use in putting in the words "any grievance or damage" as additions to nuisance except for the very purpose of giving some greater protection than he would have had if the word "nuisance" alone were used and included in the covenant [] the whole object of having a covenant against nuisance is to give the covenantee some protection in addition to what he would have had without the covenant; but for a nuisance in the strict sense there would be an action, covenant or no covenant."
+
+50. Guidance was also given by Bowen L J in Tod-Heatly v Benham at 98 as to what "annoyance" means:- "Annoyance is a wider term than nuisance, and if you find a thing which reasonably troubles the mind and pleasure, not of a fanciful person or of a skilled person who knows the truth, but of an ordinary sensible English inhabitant of a house, that seems to me to be an annoyance, although it may not appear to amount to a physical detriment to comfort."
+
+
+Expert evidence in this case
+
+51. I think it will be appropriate for me to discuss the expert evidence in this case here first for two reasons. First, the way in which the expert evidence has proceeded in the present action was rather unusual and deserves some explanation. Second, whether I should take into account of the expert evidence at all given the unsatisfactory state of the reports from both sides.
+52. The plaintiff's expert report is a compilation of 2 reports prepared as a result of 2 noise tests carried out by the plaintiff's expert:- 
+
+(a) The first report dated December 2011 containing the results of "Test 1" conducted between 22 November 2011 and 4 December 2011; and
+
+(b) An updated report dated January 2013 containing the results of both "Test 1 and 2". Test 2 was conducted between 29 December 2012 and 2 January 2013. This second report tries to provide an updated assessment of the noise problem.
+
+
+53. At the case management summons hearing on 25 March 2013, Master KK Pang gave leave for the plaintiff's expert to be nominated as expert. The master also directed the defendant to nominate his own expert by 8 April 2013, for a joint examination to take place and for a joint expert report to be prepared.
+54. The defendant's original position was that he would not file any expert evidence and invited plaintiff's expert to conduct the test alone at the defendant's flat. However, when this was attempted by the plaintiff's expert, no test could be conducted due to (1) the lack of response from the defendant; and (2) the defendant refused to let the plaintiff to conduct the test.
+55. The defendant then changed his mind in May 2013 and decided to nominate the defendant's expert. After lengthy debate over the proposed activities of the test, agreement was finally reached on the scope of the joint test and for the same to take place on 28 August 2013. A few days before the tests, the defendant confirmed that he had obtained the consent of at least 2 other units on 8/F of the building (ie the defendant's neighbours), and suggested extending the joint test to these other units as well. The plaintiff agreed.
+56. The parties and their experts gathered at the defendant's flat on 28 August 2013 for the joint test to be carried out, but the test was called off by the defendant/the defendant's expert on the spot. According to the defendant, the occupiers of the other units on 8/F refused for the noise test to be conducted. The defendant/the defendant's expert insisted on conducting the sound test on the corridor of 8/F, but since they were not able to obtain the consent of the CSO, they then refused to proceed with the joint test altogether.
+57. In light of these events, on the plaintiff's application, Master B Mak directed on 26 September 2013 that if the parties could not conduct a joint examination by 17 October 2013, then the parties should file their own expert report.
+58. No further test was arranged before the defendant moved out of Flat 8C. The reason given by the defendant's expert for not arranging one was that the CSO did not allow noise test to be carried out at the common area.
+59. With the defendant having moved out, it was clearly not possible for the plaintiff's expert to conduct any further test. The results of the 2 previous noise tests by plaintiff's expert, together his analysis, were compiled and filed as the plaintiff's expert evidence. This explains why plaintiff's expert report is a compilation of 2 previous noise tests.
+60. As to the contents of the expert reports, let me say at the outset here that I find both experts' evidence in this case unsatisfactory and leaves much to be desired. I do not think this has anything to do with the fact that it was the first time both experts gave evidence in court in a civil case as suggested by counsel. I believe that it has more to do with the fact that they have misunderstood their role as an expert. In my view, it is not the role of the experts to argue their case on behalf of their client but rather to assist the court to understand their opinion and the technical aspects of the case. In this case, there is no question that both experts possess the necessary qualifications, experience and knowledge in acoustics and noise assessment to qualify them as experts in this case. Sadly, they acted more like advocates than experts when they gave evidence, this is particularly so in the case of the defendant's expert.
+61. Mr Cheng Kam Wing ("Cheng") was the plaintiff's expert. It is clear that Cheng has difficulty in giving evidence in English and found it difficult to articulate his views in the witness box. I found it difficult to follow some of his evidence. Fortunately, at least the gists of his methodology, his opinions and conclusions have been summarized in his report.
+62. Dr Chan Hon Fai ("Dr Chan") was the defendant's expert. Despite of his very impressive academic background and work experience, he has clearly misunderstood his role as an expert witness. I accept the following incidents highlighted by the plaintiff which go to support this:- 
+
+(a) Dr Chan has failed to put forward a positive case in his report on behalf of the defendant. His entire report was written in a negative way with a view to attack the basis and conclusions of the plaintiff's expert report. In my opinion, this is of limited value and provided very little assistance to the court to resolve the issues in the case.
+
+(b) It is clear from the contents of the report that he believed that his job was to argue the defendant's case on his behalf. During cross-examination, Dr Chan frankly admitted that he was indeed arguing the defendant's case on his behalf based on the facts presented as shown in §3.9 of his expert report.
+
+(c) Dr Chan accepted that he had no personal knowledge of the setting inside Flat 8C before 28 August 2013 and that his assertion of the absence of a moveable kitchen table in Flat 8C's kitchen on 31 October 2011 (see §3.2 of his report) was only "based on judgment"; whereas his comments on the noise coming from Flat 8C's master bedroom's toilet was based on his view that "it is strange to make noise in the toilet for 1 hour." I agree with the plaintiff that these are conjectures and have nothing to do with his expertise in acoustics.
+
+(d) Dr Chan attacked the plaintiff and Cheng in §3.4 of his report that what they heard were all guesswork as they had no knowledge of what activities were carried out in Flat 8C. He went further to state that the "burden of proof that the sources came from the defendant rests with the plaintiff and Cheng". Although he originally insisted that this was based on his "professional acoustics sense", he later accepted that this was a legal question and he was not a lawyer and therefore not qualified to express such an opinion.
+
+(e) In his conclusion at §6.1 of his report, Dr Chan stated that he did not know the defendant before he engaged him but from his "personal contact with him in the last few months, and from reading his witness statement  and looking at this home setting", he tend to agree that the defendant was "leading a simple life at 8C with his family." He also did not think the defendant "as a renowned professor and a leading community leader, would have willfully made any noise that would become a nuisance to the plaintiff." It is clear that all these are not conclusions based on acoustics analysis but Dr Chan's own opinion of how the defendant might have behaved due to his social status.
+
+(f) There was also an unusual amount of personal contact between the defendant and his own expert. Not only the first contact with Dr Chan was made by the defendant himself (rather than through his solicitors as normally would be the case) and instructions were given by the defendant on that occasion, the defendant accepted that he had a lot of direct contact with Dr Chan over the arrangements of the joint test on 28 August 2013.
+
+
+
+Methodology adopted by the plaintiff’s expert
+
+63. The methodology adopted by the plaintiff's expert has been summed up by the plaintiff's counsel in his closing submissions as follows:- 
+
+(a) "For 7 days in November and December 2011, and 5 days in December 2012 and January 2013, over sessions of several hours each, Cheng was stationed inside Flat 7C and collected noise samples at 30-second intervals using a sound meter;
+
+(b) During that time, Flat 7C was partially vacated in that Mrs So moved out of the flat, and Mr So confined his activities to the study;
+
+(c) At the same time, Cheng listened to the noises and identified the source of those noises using his perception;
+
+(d) Every time a noise above background noise level coming from Flat 8C was heard, he would tick one of the boxes in his "Monitored Noise Event Record" [394-396] and try to identify the cause (eg dropping object, dragging object etc);
+
+(e) Cheng also measured the background noise at the same positions, ie all the noise (other than noise from Flat 8C) that could be heard inside Flat 7C;
+
+(f) After each monitoring session, Cheng analysed the noise data collected by the sound meter, and selected the "critical" noise samples ie those which he considered to be representative for the monitoring session in question - Cheng confirmed in oral evidence these were usually the peak readings;
+
+(g) Cheng converted the selected noise samples into Noise Criterion ("NC") values and tabled them in Table 5 [2/385] and also plotted these onto graphs in different colours [397-400]."
+
+
+
+
+64. The defendant counsel Mr Keith Lau in his closing submissions further expanded Cheng's methodology as follows:- 
+
+(a) "The sound meter collected noise samples every 30 seconds (a noise event), and recorded the frequencies and sound pressure levels of the noise events (Leq as well as Lmax within a 30-seond sampling period) inside the sound meter. These data were later accessed again, read and then analysed. The sound pressure levels of the noise events were recorded in db(A).
+
+(b) Mr Cheng then selected 29 noise event records, plotted them on a chart with X-axis representing the frequencies of the noise events and the Y-axis representing the Lmax (in db(A)), and then comparing the resultant curves to a family of Noise Criterion ("NC") curves to obtain NC values for each of the 29 selected noise event record.
+
+(c) Mr Cheng then compared the NC values of the 29 selected noise event records to what Mr Cheng referred to as a "maximum permissible limit". The maximum permissible limit of NC35 ("NC 35 Limit") was adopted from Table 42 ("Table 42") of the 2007 ASHRAE Handbook for HVAC Application. Table 42 is titled "Design Guidelines for HVAC - Related Background Sound in Rooms".
+
+(d) Mr Cheng further justified his adoption of NC35 Limit by relying on Table B8.1 ("Table B8.1") extracted from the 2007 Edition of the General Specification for Air-conditioning, Refrigeration, Ventilation and Central Monitoring and Control System Installation in Government Buildings of the Hong Kong Special Administrative Region.
+
+(e) Apart from showing 29 out of over 10,000 noise event records, Mr Cheng failed to present any data of the other noise event records collected during his assessment studies. Even for the selected 29, they were presented as NC values, and not in db(A), which were how the raw data had been recorded in."
+
+
+
+
+65. Noise Criterion ("NC") is a system for assessing noise that takes into account the frequency content of the noise. Different types of internal rooms have different target and maximum NC noise values. For example, for residences, apartments and condominiums, the NC value target ranges from NC 25 to NC 35. The same range is recommended for hotel rooms or suites, executive and private offices in office buildings and private rooms in hospitals and court rooms: see Appendix Ia to the plaintiff's expert report.
+66. It has been submitted by the plaintiff that Cheng has fairly accepted that NC 35 is only the "ideal" noise limit. This is the reason why he has also measured the background noise level in Flat 7C so that where the background noise is above NC 35, the background noise level itself can be of a useful limit instead. The background noise levels measured in different sessions and selected by Cheng were: NC 38, NC 22 and NC 23 respectively.
+67. The plaintiff submits that it is reasonable for Cheng to select NC as the noise index in the present case for the following reasons:- 
+
+(a) There is no dispute that NC, is an objective scale of measurement;
+
+(b) No objective standard (expressed in dB or dBA) is specified in the Noise Control Ordinance, Cap 400 ("NCO") for domestic premises, whereas Cheng was said to have located a generally recognized limit of NC35 for residence/apartment; and
+
+(c) NC curves are also more informative than dB or dBA in that NC takes into account the frequency content of the noise.
+
+
+68. With respect, I do not consider using NC is a good way to measure noise intrusions in this case. In this regard, I agree with the defendant that the plaintiff's expert had inappropriately adopted NC for the assessment of the noise intrusions with specific nature as alleged in this case, ie abrupt and sporadic. The criteria/tables used by Cheng were essentially designed for and used by the American Society of Heating, Refrigerating and Air Conditioning Engineers ("ASHRAE") for "heating, ventilation and air-conditioning", ie "HVAC". They are used to measure steady background noises produced by heating, ventilation and air-conditioning machinery. They are not designed to measure sudden, abrupt and sporadic noise intrusions in a domestic environment as alleged by the plaintiff in this case.
+69. Further, as I have pointed out to Cheng during the course of his evidence, the fact that he has chosen to present only a few of the data in an index not directly comparable to the readily understandable dB(A) units makes it difficult to assess how excessive the noise intrusions were.
+70. I further agree with the defendant's submission that Cheng's approach demonstrated his fundamental misconception about how common law nuisance is to be assessed. I consider that he has clearly misunderstood the concept that, in order to find nuisance, one has to find evidence that the intruding noise must be substantially higher than the "background noise" but not the "prevailing background noise"1. While on one hand accepting that only when the intruding noise exceeds the prevailing background noise by significant amount that nuisance should be found, on the other hand Cheng did not agree that by putting a fixed standard of noise limit (eg NC 35) in assessing nuisance is not the proper way of assessing common law nuisance. This to me represents an internal inconsistency and illogicality in his theory that I find he has not been able to reconcile in his evidence.
+71. In this regard, I agree with the defendant's submission that noise is essentially a sense of physical perception. A person would not know what sound pressure level or dB(A) an intruding noise is. It is only when the intruding noise is above the prevailing background noise that an intruding noise become audible. Hence, Cheng's postulation could not be right because in a noisy neighbourhood, where there would be a higher prevailing background noise level, intruding noise which were barely audible to its occupants might be found to be excessive when they were compared to a fixed "noise limit" (like a NC level) adopted as the ideal situation for design purposes.
+72. Furthermore, I agree with the defendant that, as a matter of law, in determining whether the intruding noises are significantly serious to amount to a nuisance, it is well established that the character of the neighbourhood must be taken into account. Also, it has been established that noises exceeding a recommended maximum noise level did not constitute an actionable nuisance per se: see Murdoch v Glacier Metal Co Ltd [1998] Env LR 732 
+CA.
+73. For the above reasons, I consider that Cheng's adoption of a fixed "noise limit" in determining the excessiveness of noise intrusions should not be accepted.
+74. However, I do not think all was lost from the 2 tests carried out by Cheng and his assistant Mr Hammer Tsui ("Tsui"). I accept that during both Test 1 and Test 2, Cheng and his assistant were able to hear impact noise, footfall noise, noise of dropping objects and mincing noise which were significantly higher than the background noise throughout both the day and night. They are in my view totally consistent with what the plaintiff and his wife have been complaining of.
+75. Further, Cheng was able to say that the impact sounds onto the floor of Flat 8C heard by him in Flat 7C was direct impact sounds and not via flanking transmission paths as suggested by Dr Chan. They were direct radiation which could be easily heard by persons inside Flat 7C. This is also consistent with what the plaintiff and his wife have been complaining of over the years. I accept Cheng's evidence in this regard.
+
+The non-existing methodology from the defendant’s expert
+
+76. In litigation, it is always easy to criticize your opponent's case when one does not have a positive case to show. This is exactly what happened to the defendant's expert evidence here.
+77. One cannot help to notice that Dr Chan's report almost entirely consisted of criticisms of the noises perceived by both the plaintiff and Cheng and why in his view those noises were "structural-borne sound" and not sound of direct impacts from Flat 8C. It is also not difficult to notice that Dr Chan has completely failed to put forward a competing methodology in his report. In my view, what Dr Chan has failed to demonstrate in his report (as in his evidence) is that, if an alternative methodology were applied, the results would be that there was no nuisance, or that the noise would not be excessive.
+78. The only "positive" case, if one can call that at all, put forward by Dr Chan in his report is that the correct step for the parties to take in the circumstances was to call the police and let the police, as a third party with normal ears, to judge whether the noise constitute a nuisance: See §4.1 of Dr Chan's report. With respect, that is not a methodology at all but a layman's solution. However, I do not see why Cheng and his assistant could not be as good as a police officer when it comes to determine the source of the noises complained of, provided of course the court is satisfied that they are objective and truthful witnesses. As said, I accept their evidence on this.
+79. Dr Chan then went on an "all out" attack on why he thought the methodology taken by Cheng in his report was "fundamentally inappropriate" and "fundamentally wrong." I have already summarised some of those criticisms above and will not repeat them here. However, I agree with the plaintiff's submission that if Dr Chan is saying that the NC rating system is the wrong yardstick to use, one would have expected him as an expert to put forward an appropriate objective standard for measuring the noise. But this he has distinctively failed to do both in his report and later in the joint expert statement (which is labelled as the "Joint Statement" in this case). In my judgment, it is not enough for Dr Chan to simply criticize the plaintiff's expert's methodology without putting forward a better way of measuring the noises objectively. In my view, it only makes his criticisms over Cheng's approach sound hollow.
+80. Dr Chan's failure to put forward any positive case on behalf of the defendant does not stop there. Dr Chan, as well as the defendant, had the opportunity to carry out a joint test with the plaintiff's expert on 28 August 2013 as directed by the court. I have already outlined the circumstances leading to the joint test in §§54-58 above. What cannot be disputed is that the joint test was cancelled on the spot by the defendant's side. According to Dr Chan, the main reason for cancelling the test was that he was told by the defendant that evening that the neighbours refused to give their consent for tests to be conducted inside their flats. However, given the fact that only on 14 August 2013, the defendant's solicitors had formally informed the plaintiff's solicitors by letter that they had obtained the consent of the neighbours for the test and that a few days before the test the defendant had confirmed the same with Dr Chan, I doubt very much that was the true reason why the test had to be called off on the spot.
+81. The defendant confirmed in his evidence that as early as in 2012, he had already decided to move out of Flat 8C by September 2013. Dr Chan also confirmed in his oral evidence that it was known to him that the defendant would be moving out of Flat 8C on 10 September 2013. Thus, if no test could be done on 28 August 2013, it was unlikely that a joint test could be carried out before the defendant moved out of Flat 8C. As it turned out, the defendant did move out on 8 September 2013 and no joint test was ever arranged or carried out by the parties. As the plaintiff points out, the only useful fact which comes out of the joint test on 28 August 2013 is that dents could be observed on the wooden floor in the living room in Flat 8C. The cause of those dents however was unknown.
+82. Given the above, I am of the view that:- 
+
+(a) The defendant was given full opportunity to obtain objective data to challenge any alleged deficiencies in Cheng's earlier test results;
+
+(b) With ample of notice of the joint test on 28 August 2013 and having had cancelled a previous proposed joint test on 30 April 2013 (again on the same day), there was simply no reason why the defendant had to cancel the joint test at the very last minute and on the spot on 28 August 2013; and
+
+(c) Having decided almost a year ago to move out of Flat 8C in early September 2013, the defendant was fully aware that the chance of another joint test between the 2 experts would be quite slim. Nevertheless, the defendant and Dr Chan decided to cancel the joint test on the spot on the rather flimsy excuse that the neighbours had now changed their mind and refused to let the experts to enter their premises to carry out the tests.
+
+
+83. In the circumstances, regrettably, the only reasonable inference I think I can draw from the events above is that the defendant, perhaps with the help of his expert, had deliberately tried to sabotage the joint test on 28 August 2013 so that no further objective data could be obtained. Hence, I agree with the plaintiff that it now lies ill in the mouth of the defendant or his expert to say that Cheng's 2 earlier tests were one-sided, lack of objective data, or based on a flawed methodology.
+84. Although Dr Chan during re-examination and in response to the court's questions tried to come up with how he would conduct an objective and scientific assessment of the excessiveness of the alleged intruding noises, as they had never been placed in his own report and never formed as part of his main evidence (of which the plaintiff can test him during cross-examination), I am afraid that such last minute efforts to salvage the defendant's case simply has come too little and too late.
+85. In comparison with Cheng's expert report, I find Dr Chan's report is no more than a vicious attack on the plaintiff's expert report without itself offer a positive methodology and any objective data. I have no hesitation to reject the views of the defendant's expert.
+86. Thus, in terms of evidence, given the unsatisfactory state of the expert evidence on both sides, I will have to mainly rely on the evidence from the parties rather than their experts in this case.
+
+Issues to be decided
+
+87. Damages having been agreed by the parties, the remaining issues which I have to decide in this case will include:- 
+
+(a) Whether there were noises as alleged;
+
+(b) Whether Flat 8C was the source of the alleged noises;
+
+(c) Whether the nature, character and/or amplitude of the alleged noises constituted a nuisance to the occupants of Flat 7C; and
+
+(d) Whether the alleged noises were caused by unreasonable activities of the occupants of Flat 8C.
+
+
+
+(a) Whether there were noises as alleged
+
+88. On this issue, I prefer the plaintiff's case than that of the defendant's for the following reasons.
+89. First and foremost, I accept the plaintiff as an honest and truthful witness. I have carefully observed the manner in which he gave his evidence. He struck me as a tolerant elderly gentleman who just wanted to lead a simple and quiet life. He gave his evidence in a straightforward and candid manner. Further, I have no doubt that he was genuinely aggrieved and troubled by the noises he and his wife had been experiencing and complained of. The more important reason why I choose to believe his case is that it is supported by contemporaneous documents like the CSO's logbook, his own handwritten notes, the medical records and, to a limited extent, the recordings made by the plaintiff's own expert.
+90. On the other hand, I find the evidence of the defendant simply too good, too perfect to be true. In my view, his over eagerness to portrait himself as the perfect neighbour, the perfect household and the perfect "role model" in society simply does not sit well with the overall evidence in this case, in particular the documentary evidence and the ways he would react to different situations throughout this whole saga.
+91. In this respect, I agree with the plaintiff's counsel that the following evidence shows up the defendant as an unreliable and untrustworthy witness of whose evidence I should reject:- 
+
+(a) Right at the start of his witness statement, the defendant talks about his belief in "integrity, discipline, respect, honesty, truth, social responsibility" and his "awards in teaching excellence and research performance" which were repeatedly emphasized by him throughout his evidence. Towards the end of the cross-examination, he went as far as to say that he was "a role model as a person eventhough this has brought a lot of pressure on me" (「我係模範嘅人，雖然好大壓力」). I do not really see how these are relevant to the issues in this case save as efforts to impress the court of his social status and professional standing.
+
+(b) Although he has repeatedly stressed the importance of maintaining a harmonious relationship between neighbours throughout his evidence, this does not seem to be consistent with his own actions as recorded by the CSO's logbook. Not only the logbook shows that he has done nothing to try to resolve the dispute with the plaintiff in an amicable manner, the events recorded in the logbook shows that at the early stage of the dispute (when the relationship between the parties was still cordial), it was the defendant who had always turned the plaintiff and his wife away whenever they tried to establish contact with him. Further, the logbook shows that he had repeatedly asked the plaintiff to report the matters to the police instead of trying to resolve the matters between themselves (eventhough the plaintiff had never done so).
+
+(c) When it comes to the first time he made a complaint to the CSO instead of the plaintiff (on the occasion when the plaintiff's wife used a stick to hit against the ceiling at Flat 7C and yelled out a few times), the defendant chose to report the matter to the police instead of trying to resolve the dispute with the plaintiff. This to me is hardly a good example of practising harmonious relationship amongst neighbours.
+
+(d) Whenever it was suggested to him that his evidence was different from the contents of the logbook produced by him, he would conveniently put the blame on the CSO to say that they were their record and any unfavourable parts must have been added by the CSO.
+
+(e) Most of his explanations on the unfavourable events were only mentioned by him for the first time in the witness box and never in his witness statement. This included:- 
+
+(i) He has asked his whole family to exercise caution in relation to making of any noise once he had received noise complaint from Flat 7C, so much so as to place the lid of the toilet seats gently;
+
+(ii) In respect of the incident on 16 January 2011 (when an independent party from the CSO heard the impact noises falling on the floor above), he tried to say that there was no one at home on that day when the contemporaneous record clearly shows otherwise; and
+
+(iii) In relation to the 9 April 2012 incident, the defendant claims that his whole family was in Singapore during that Easter weekend. However, this was never mentioned in the logbook or in his solicitors' letter dated 17 April 2012 which specifically dealt with this incident.
+
+
+92. Second, as said, I consider the fact that there were noises as alleged by the plaintiff are well supported by contemporaneous documents. They included the logbook kept by the CSO, the handwritten notes kept by the plaintiff himself, the medical reports when the plaintiff had to consult a psychiatrist due to the stresses brought by the noises and, to a limited extent, the unsatisfactory expert evidence from the plaintiff in this case.
+93. In respect of the logbook record, I do not think they contain each and every single incident when excessive noises were made from Flat 8C simply because I do not think the plaintiff and his wife had complained to the CSO on each occasion. However, in my view, they do give a very good idea of the kind of complaints made by the plaintiff and his wife over an almost 2 and a half year period (from December 2009 to April 2012) as recorded in the logbook. More importantly, of the kind of noises they were subjected to over that period of time. In my judgment, they are consistent with the type of noises complained by the plaintiff in this case referred to in §31-33 above.
+94. The handwritten notes made by the plaintiff for the period between 30 October 2011 and 14 November 2011 recorded the various noises heard by him during those days in his flat. He categorized the noises from low, medium to high levels. I note in particular that he had to put on a pair of earphones with music on while carrying out normal activities in his own home in order to reduce the effects of the noises. Some of those noises could be heard as early as 6:00 or 7:00 am and as late as in the middle of the night. I do not think that anybody would choose to wear earphones in his or her own home throughout the day (and at night) unless the noises were so bad that they did affect his or her normal daily activities. In my judgment, the noises recorded by the plaintiff in the handwritten notes are entirely consistent with the complaints he made in the statement of claim.
+95. The fact that there were noises as alleged can also be seen from the reports of the psychiatrist consulted by the plaintiff. In the report of Dr Ng Fung Shing dated 12 January 2012, it has been recorded that the plaintiff had consulted him since 18 January 2010, which was about 4 months after the defendant and his family had moved into Flat 8C. The plaintiff presented himself with difficulty in sleeping, various anxiety symptoms like startle response, palpitation and impaired concentration for about a month in relation to "his reported noises created by neighbours upstairs." The symptoms persisted for over 1 year at the time when the report was written as the plaintiff was still experiencing noises from upstairs. It was reported that he had to listen to music by earphones at night in order to mask the "sudden, unpredictable noise". He was put on anxilytic medications.
+96. Another updated report from the same psychiatrist dated 12 August 2013 stated that his symptoms would persist as long as the reported noise disturbance is not resolved. It is worth noting that the plaintiff had never consulted a psychiatrist prior to January 2010 and the last time he consulted the psychiatrist was on 12 August 2013, which was shortly before the defendant had moved out Flat 8C in September 2013. The plaintiff confirmed in his evidence that he has not visited the psychiatrist again since the defendant and his family had moved out of Flat 8C.
+97. Although the plaintiff has agreed to abandon his claim for medical expenses in this case, the receipts show that he had consulted the same psychiatrist on 7 separate occasions between February 2010 and August 2013. To me, this shows that the noises alleged by him are real rather than imaginary. They have had a profound and adverse effect on his health which required regular consultation with a psychiatrist.
+98. Lastly, excessive noises coming from Flat 8C are also supported by the findings made by the plaintiff's expert in his report. Although as stated above I am not convinced about the methodology adopted by the plaintiff's expert is a correct one, in my view, they do provide some support to the plaintiff's case that there were noises coming from the defendant's flat as alleged. I believe Cheng when he said that loud and abrupt sounds coming from the flat directly above the plaintiff could be clearly heard during the time when they carried out their tests. In this regard, I am fully aware of the fact that even without the evidence from the experts, the plaintiff may still be able to establish his case on nuisance as long as the court accepts the plaintiff's evidence on the source of the noises and those noises would constitute to nuisance as a matter of law.
+99. Based on the above, I have no hesitation to find that there were noises as alleged by the plaintiff.
+
+(b) whether Flat 8C was the source of the alleged noises
+
+100. I have little doubt that Flat 8C was the source of the alleged noises complained by the plaintiff based on the following reasons.
+101. First, as a matter of objective evidence, no complaint was made by the plaintiff or his wife before the defendant and his family moved into Flat 8C in September 2009 or after they moved out in September 2013. Given the fact that the plaintiff (and his wife) had never made any complaints about any noise nuisance of any neighbours ever since they moved into Pristine Villas in 1997, in my view, it was too much of a coincident if the only complaints made regarding noises from above their unit were during those 4 years when the defendant and his family occupied Flat 8C.
+102. Second, despite what the defendant's expert says about the flanking transmission of noises, I do not think it will be difficult for anybody to identify the source of the noises described by the plaintiff in his evidence if they had come directly from the unit above. In his evidence, the plaintiff described them as hard objects impacting noises (「玲玲淋淋」˴「bum bum聲」 and 「咯咯聲」); noises resembling throwing objects onto the floor, knocking/banging of objects (「敲擊聲」) and hard objects colliding onto the floor (「硬物撞落地下」). In my view, if the noises had come directly from above the plaintiff's head, it would not be difficult for him to identify them. This is particularly so for those noises which could be heard by him in the middle of the night like 2:00 or 3:00 am or early in the morning when there were no other background noises coming from other places.
+103. Third, the plaintiff testified that there would not be any noise from above when the entire family was out. An example he gave was when it was recorded in his handwritten notes that on 12 November 2011 at 19:30 when he had seen the family earlier dinning at the clubhouse. He noted that it was very quiet until 20:30. To me, this is another indication that the excessive noises have directly come from Flat 8C.
+104. Fourth, besides the plaintiff and his wife, the fact that the source of the noises had come from Flat 8C have at least been identified by 3 other "independent" persons. They included Cheng, his assistant Tsui and Mr Chan from the CSO2. In this regard, it was accepted by Dr Chan, the defendant's expert, that if several persons have identified the noise coming from the same source, then it is more likely than not that their conclusions may be correct than if only one person has identified it.
+105. Fifth, I do not accept Mr Lau's submission that the evidence shows that the plaintiff and his wife may have led a "dainty mode" of living and exhibited low tolerance towards noises which should not in the normal course of events annoyed occupants. As said, I did not have the impression that the plaintiff is one of those individuals who has a low tolerant level. In fact, my impression of him was the exact opposite. I thought he had acted with a great deal of dignity and restraint throughout this unfortunate saga. This is partly borne out by the fact that the plaintiff and his wife were not one of those regular complainants at the CSO as confirmed by Pang in his evidence. It is also supported by the fact that it was not until a couple months after the defendant had moved into Flat 8C that they first complained to the CSO of the excessive noises they had experienced in recent month(s) (「近月」)3. The plaintiff frankly admitted that he was rather agitated on the occasion when he went up to confront the defendant at his door on 3 December 2009. This in my view goes to show that he is just a normal person with an average tolerant level to noises. This also shows that he is not shy to admit to those occasions when he had lost his "cool" over the encounters with the defendant.
+106. Last but not the least, the fact that the plaintiff and his wife had lived in Mei Foo Sun Chuen for almost 20 years prior to moving into Pristine Villa in 1997 and had never made any noise complaints against any of their neighbours would also go to support that they are not the over-sensitive type of people who would complain over the smallest amount of noise coming from their neighbours. While it is true that both the plaintiff and his wife were working full-time when they were living in Mei Fu Sun Chuen and during the first few years while they were living in Pristine Villa (and therefore did not spend that much time at home), this does not explain why no complaint was made against their upstairs neighbours during the time after they had retired in 2004 and before the defendant moved into Flat 8C in September 2009.
+
+(h) Whether the nature, character and/or amplitude of the alleged noises constituted a nuisance to the occupants of Flat 7C
+
+107. As stated, for interference nuisance, there is no absolute standard to be applied. It is always a question of degree whether the interference with comfort or inconvenience is sufficiently serious to constitute a nuisance. It has been said that whether such an act constitutes a nuisance must be determined not merely by an abstract consideration of the act itself, but by reference to all circumstances of the particular case: See Clerk & Lindsell at §20-10.
+108. In my judgment, the facts as related by the plaintiff in his evidence, including the incidents stated by him in his witness statement and the handwritten notes, shows that the noise interference from Flat 8C caused to him (and his wife) has gone beyond the boundaries of reasonableness and constitutes to nuisance to the occupants of Flat 7C.
+109. I agree with Mr Kwong's submission that even if one were to put aside footfall and dragging of furniture noises (which the defendant says are normal daily activities), the unexplained frequent impacts of hard objects onto the floor, often occurred in late hours of the night or early morning before 7:00 am, cannot be said to be reasonable, nor is something that an ordinary resident of a multi-storey building in Hong Kong is expected to be put up with.
+110. The defendant never attempted to explain what those heavy or hard objects which caused the frequent impact noises were. His defence is one of blanket denial. He went as far as producing a daily routine/work schedule of the family (which was provided to their maid for cleaning/cooking purposes) to show how structured or disciplined their lifestyle was and therefore those impact sounds could not have come from them. However, in my view, they simply cannot reconcile with the overwhelming evidence produced by the plaintiff in this case where unreasonable and excessive noises could be heard during sensitive hours of the day/night:- 
+
+(a) In the plaintiff's witness statement, he mentioned that he had heard noises not just during daytime, but also after midnight and at times as late as 2:00 or 3:00 am, and in the early morning at times as early as 6:00 am: (see §7 of plaintiff's witness statement). This is supported by the 2 December 2009 notice issued by the CSO to all residents of units C of Block 4 where complaints were received regarding "noise nuisance created at midnight (from 11:00 pm to 3:00 am) and the morning including noise created by footstep, furniture moving and doors closing."
+
+(b) These were supported by the records made by Cheng in Appendix IIa of the plaintiff's expert report where noise was prevalent between 1:00 to 2:00 am and noise events were picked up and logged between 1:00 to 2:00 am.
+
+(c) Noise was also found by the plaintiff's expert occurring between 6:00 to 7:00 am on a weekday (25 November 2011); on a Sunday morning starting at 7:00 am (4 December 211) and throughout a Sunday afternoon (27 November 2011).
+
+(d) In his handwritten notes the plaintiff recorded the following incidents:- 
+
+(i) He was woken up by several impact sounds at 2:31 am on 12 November 2011 and had to sleep on the sofa in the sitting room in order to avoid the noise;
+
+(ii) He was woken up by a huge impact sound at 6:20 am on 15 November 2011 and had great difficulty in falling asleep the night before despite of wearing earphones; and
+
+(iii) Noises were heard by him as early as at 7:40 am on a Sunday (13 November 2011).
+
+(e) The incident where vacuum cleaner was used at 8:00 am on a public holiday on 9 April 2012 as recorded in the plaintiff's witness statement and the logbook of the CSO.
+
+
+
+(d) Whether the alleged noises were caused by unreasonable activities of the occupants of Flat 8C
+
+111. The defendant's counsel in his opening seems to have suggested that the plaintiff bears the burden of proving that the noise was caused by an unreasonable type or types of activities.
+112. I do not accept such proposition. In my view, there is no requirement that the plaintiff has to prove the exact kind of activity or activities which have caused the noise. I agree with Mr Kwong that all that the plaintiff has to show is that, by reference to all the circumstances of the present case, there was unreasonable interference coming from Flat 8C, ie the interference was sufficiently serious to constitute nuisance. On a balance of probabilities, I consider that the plaintiff has clearly done so by way of evidence.
+113. Of course, if the defendant wishes to say that despite the noise may have been caused by him, he was acting completely within the scope of reasonableness, the burden is on him to prove this by way of adducing the necessary evidence. However, this is not the defendant's case and he has, in my view, failed to do so by way of evidence.
+114. I agree with the plaintiff that what activities the defendant carrying out in his own home is a matter peculiarity within the knowledge of the defendant. In my judgment, it is for the defendant to prove that the activities carried out by him within his own premises were reasonable and not for the plaintiff to prove the alleged noises were caused by a particular type or types of unreasonable activities.
+
+115. In Hixcox Syndicates Ltd & Another v Pinnacle Ltd & Others unreported, 25 January 2008, HHJ David Hodge QC stated the following:- "In my judgment, the approach of Sir Wilfred Greence [in Andreae v Selfridge [1983] 1 Ch 1] is the correct one. The reasonableness and propriety of the contractors' operations operates by way of a defence to a claim in the tort of nuisance rather than the absence of it being a necessary ingredient of the adjoining landowners' cause of action. In my judgment, a cause of action is constituted by causing undue inconvenience or discomfort to one's neighbour. The evidential burden of proof, once that has been demonstrated, then shifts to the alleged tortfeasor to adduce evidence to show that all reasonable and proper steps were taken to ensure that such nuisance would not occur. In my judgment, that is consistent with principle, since the existence or otherwise of reasonable and proper steps is essentially a matter peculiarly within the knowledge of the person conducting the construction or the demolition operations in question. If what would prima facie be a nuisance is established, in order to relieve himself from liability the alleged tortfeasor should take all proper and reasonable steps to avoid it." [emphasis added]
+
+
+116. In the aforestated premises, I am of the view that the defendant has failed to demonstrate by way of evidence that the excessive noises come from his flat was caused by normal activities carried out in his own premises.
+
+Whether the noise constitutes to annoyance under the DMC
+
+117. Once common law nuisance is found against the defendant, it follows that there would also be sufficient to amount to a breach of the DMC for the "nuisance" caused to the other owners and occupiers of the Building.
+118. I agree with the plaintiff's counsel that even if the facts are not sufficient to constitute nuisance at common law, they would be sufficient to constitute an "annoyance" under the covenant.
+119. The scope of the word "annoyance" carries a wider meaning than "nuisance". It has been succinctly explained by Bowen LJ in Tod-Heatly v Benham (1888) 40 Ch. D. 80 
+
+at 98 as follows:- "Any material interference with the ordinary comfort of existence: that would be a nuisance. The law, in thus defining "nuisance" has stopped short [] of giving an action in respect of that which is a matter only of delight, and not of necessity. "Annoyance" is a wider term than nuisance, and if you find a thing which reasonably troubles the mind and pleasure, not of a fanciful person or of a skilled person who knows the truth, but of the ordinary sensible English inhabitant of a house - if you find there is anything which disturbs his reasonable peace of mind, that seems to me to be an annoyance, although it may not appear to amount to physical detriment to comfort." [emphasis added]
+
+
+120. In my judgment, it is clear that nuisance only protects matters of "necessity" but not "matters of delight". The concept of "annoyance" is wider to protect higher qualities of enjoyment, such as "the mind and pleasure" or "reasonable peace of mind". In my view, if the frequent impact noises coming from Flat 8C are not sufficient to interfere with matters of necessity (of which I doubt), they are definitely sufficient to amount to an interference with the pleasurable enjoyment of Flat 7C. As such, I consider that the frequent impact noises coming from Flat 8C will constitute to a breach of the covenant against "annoyance" under the DMC.
+
+CONCLUSION
+
+<G<121. In conclusion, for the reasons stated above, I find the defendant liable for the common law nuisance as well as in breach of the DMC in this case.
+122. I therefore would enter judgment in favour of the plaintiff in the agreed sum of HK$50,000.>G>
+123. Costs will follow the event. I make an order nisi that the defendant shall pay the costs of the plaintiff in this action, such costs to be taxed if not agreed, with certificate for counsel. The order nisi will become absolute unless the parties apply within 14 days to vary the same.
+124. Lastly, I would like to thank counsel on both sides for their very helpful assistance.
+[Postscript: this judgment has been corrected by corrigendum of 27 April 2016 issued by the Judiciary.]
+ 1According to Cheng, "Background Noise" was stated in Cheng's 2nd report at [2/248] as "Background noise in an occupied room comprises inherent occurring noises contributions from any external (e.g. road traffic noise, aircraft noise or other outdoor noise intrusion) and internal noise sources (e.g. HVAC system operation noise) which prevail inside the room environment but excludes all those arising from the room activities themselves (e.g. occupant's voices, telephone ringing etc.)." "Prevailing Background Noise" as accepted by Cheng in his evidence include all "background noise" as well as noises generated from household activities of the occupants." 
+2See logbook entry on 16 January 2011.
+ 3The first complaint was made to the CSO on 1 December 2009.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

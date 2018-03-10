@@ -1,0 +1,222 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Sunday, 04 March, 2018 at 00:11 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Key Light Holdings Ltd v Shih Hua Min
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+
+
+Key Light Holdings Ltd v Shih Hua Min
+
+
+
+22 April 2013
+District Court
+DC
+Civil Action No 1167 of 2010
+DCCJ 1167/2010
+
+Citations:[2013] HKEC 579 English Judgment
+
+Presiding Judges: Judge Kent Yee
+
+Phrases: <Y<Tort - nuisance - water leakage from premises to premises immediately below - whether owner of former premises liable
+Land law - building management - water leakage from premises to premises immediately below - whether owner of former premises in breach of deed of mutual covenant
+Damages - assessment - water leakage from premises to premises immediately below>Y>
+
+Counsel in the Case: Mr Anthony Lo, instructed by Messrs Wat & Co., for the PlaintiffsMr Wilfred Tsui, instructed by Messrs Katherine Y.W. Or & Co., for the 1st Defendant
+
+Cases cited in the judgment: John So & Another v Lau Hon Man & Others (unrep., CACV 110/1993) 
+Kwan Man Ling v Chan Pui Shan Patsy & Another [1998] 4 HKC 698 
+梁有勝訴馮源禧及其他人 (unrep., LDBM 249/2000) 
+Dingle v Associated Newspapers Ltd [1961] 2 QB 162 
+
+Hung Tung Shing & Another v Incorporated Owners of Kwong Sang Hong Building Block B (unrep., DCCJ 3013/2001, [2002] HKEC 502) 
+
+Let’s Go Investments Ltd v Yeung Sau Hing (unrep., CACV 16/2006, [2007] HKEC 436) 
+
+Nation Group Development Ltd v New Pacific Properties Ltd (2000) 3 HKCFAR 427 
+
+
+Judgment: 
+
+
+Judge Kent Yee
+<Y<1. In this action, the plaintiffs claim damages in respect of water leakage from the 1st defendant's premises for the period from early 2006 to late 2009.
+2. The plaintiffs' premises are situated at the 3rd Floor of Aberdeen Harbour Mansion (">Y><Y<the Building>Y><Y<"), Nos. 52-64 Aberdeen Main Road, Hong Kong (">Y><Y<the plaintiffs' Property>Y><Y<"). The 1st plaintiff has been the registered owner of the plaintiffs' Property since its acquisition of the same in July 1998. With the licence and consent of the 1st plaintiff, the 2nd plaintiff has operated its elderly home business at the plaintiffs' Property ever since. The plaintiffs share common shareholders.
+3. According to the Deed of Mutual Covenants of the Building dated 18 September 1972 (">Y><Y<the DMC>Y><Y<"), the Building has 21 floors. From the 4th floor to the 17th floor, there are 10 apartments on each floor and from the 18th to the 21st floor, there are 8. The 10 apartments on the 4th floor were identified in alphabets from A to J. On each of the 4th and the 18th floors there is a flat roof and each of the individual owners of the apartments on these two floors has exclusive right to use, occupy and enjoy such portions of the flat roofs.
+4. The 1st defendant's premises were situated immediately above the plaintiffs' Property. It comprised an apartment known to be Apartment J on the 4th Floor of the Building together with a portion of the flat roof (collectively ">Y><Y<the 1st defendant's Property>Y><Y<"). The 1st defendant was the registered owner of the 1st defendant's Property from 10 November 2004 to 30 June 2009. By an assignment dated 30 June 2009, the 1st defendant assigned the 1st defendant's Property to one Yeoh Kheng Yau. The latter by an assignment dated 29 January 2010 assigned the 1st defendant's Property to the 2nd defendant. By a Notice of Discontinuance dated 27 July 2011, the plaintiffs discontinued the present action against the 2nd defendant. Hence, this trial concerns the 1st defendant only.
+5. The plaintiffs' pleaded case is that the water seepage was due to the demolition works in respect of an illegal structure erected on and over the flat roof of the 1st defendant's Property and, subsequent thereto, alternation works of the same in early 2006. The alternation works involved repartitioning of Apartment J into 3 individual rooms with separate shower rooms and toilet facilities. The toilet facilities and water pipes at the 3 rooms were ill-maintained or installed badly. The plaintiffs further allege that a pothole (2.5 feet in length x 1 foot in width x 3 inches in depth) was created on the flat roof in the course of the demolition works and the alternation works and above the pothole there was a water tap. The plaintiffs aver that the pothole aggravated the water seepage.
+6. The plaintiffs hence aver that the 1st defendant was negligent and he failed his duty to maintain his premises in good repair and condition pursuant to section 34H of the Building Management Ordinance, Cap.344 (">Y><Y<the BMO>Y><Y<") and Clause 3(B)(e) of the DMC. The plaintiffs also rely on the tort of nuisance, which, as they contend, also constitutes a breach of Clause 10(c) of the DMC.
+7. Clause 3(B)(e) of the DMC in gist provides that the owners of the flats on the 4th and 18th floors of the Building having exclusive right to use, occupy and enjoy such portion of the flat roof on the 4th and 18th floor shall each be responsible for the repair and maintenance of such portions of the said flat roof as they shall respectively have the right of the exclusive use and enjoyment thereof.
+8. Clause 10(c) of the DMC provides that each owner covenants with other owners not to use his part of the Building for any illegal or immoral purpose nor do or permit anything therein or thereupon which may be a nuisance or annoyance to or may cause damage or inconvenience to the other occupiers of the Building.
+9. As a result of the water seepage originating from the 1st defendant's Property, the plaintiffs claim to have suffered financial loss including the repair costs in the sum of HK$191,345.71 and loss of business of the 2nd plaintiff. At trial, Mr Lo, counsel for the plaintiffs, indicated that the plaintiffs only ask for recovery of the repair costs.>Y>
+
+1st Defendant’s Pleaded Case
+
+10. The main thrust of the positive defence case pleaded is that the 1st defendant engaged Highspeed Electrical Engineering Co. ("Highspeed") to carry out the repair works on the flat roof in or about November 2006 after receipt of the plaintiffs' complaint letter dated 20 September 2006 issued by Messrs Wat & Co.. Such repair works included (1) removal of floor tiles on the flat roof; (2) completing a waterproofing system on the flat roof and thereafter laying new floor tiles; (3) completing drainage system on the flat roof; (4) applying waterproofing materials to the walls of the flat roof and repainting of the ceiling of the affected area of the plaintiffs' Property.
+11. Prior to the repair works, the 1st defendant engaged Highspeed to carry out demolition work in respect of illegal structures at the 1st defendant's Property pursuant to a superseding order issued by the Building Authority dated 2 February 2005.
+12. After the repair works in or about end of December 2006 or early January 2007, the 1st defendant claims that Highspeed performed a leakage test at the 1st defendant's Property lasting for 1 month. The 1st defendant avers that no water seepage was detected throughout the leakage test.
+
+Plaintiffs’ evidence (liability)
+
+13. Mr Ho Chiu Yuen ("Ho"), one of the shareholders and directors of the plaintiffs and Mr Cheung Ah Fat ("Cheung") who is the chairman of the Incorporated Owners of the Building testified in support of the plaintiffs' case.
+14. Ho's evidence mainly confirmed the plaintiffs' case. I have no difficulties in accepting his evidence concerning the damage caused to the plaintiffs' Property by the water seepage in the absence of any challenge and contrary evidence.
+15. Under cross-examination, Ho explained that when the re-partitioning works at the 1st defendant's Property had not yet completed, upon finding the water seepage to be acute, Ho went up to the flat roof to find out what had happed. There, Ho saw the pothole and the water tap directly above the pothole. The attendant worker told Ho that the pothole was for storage of water. Thus he knew the approximate size of the pothole. Ho further claimed that the 1st defendant's mother and he had inspected the pothole for three times and that the 1st defendant's mother was apologetic about the water seepage.
+16. When suggested by Mr Wilfred Tsui, counsel for the 1st defendant, whether the pothole was actually made for the purpose of the leakage test administered by Highspeed, Ho was adamant that the pothole had already existed when the alternation works were carried out. He said he did not have any knowledge of the leakage test at all. I note that there is no evidence adduced by the 1st defendant that the pothole was only made for the leakage test.
+17. Under cross-examination, Ho said that he did not know whether there was any waterproofing membrane embedded in the floor slab between the 1st defendant's Property and the plaintiffs' Property. Mr Tsui confirmed to the court that neither party adduced any evidence as to the existence of such waterproofing membrane.
+18. Cheung confirmed that he had two inspections of the 1st defendant's Property when demolition and renovation works were carried out there. Cheung saw the pothole containing water and the workers there told Cheung that it was for the purpose of the works carried out thereat.
+19. Cheung recounted that after he received the complaint from Ho about the water seepage problem, he convened two to three meetings with all the owners of the 4th floor of the Building to discuss remedies. All along the 1st defendant did not turn up and his mother attended such meetings in his stead. It was subsequently resolved to engage Wing Lok Construction & Engineering Co. Ltd. ("Wing Lok") to carry out repair and waterproofing works and a quotation of Wing Lok dated 11 May 2007 was produced. In the quotation, the total amount of the charges was HK$64,400 and the 1st defendant's share was HK$20,265.71. A separate quotation of the same date was issued in respect of the 1st defendant's share.
+20. The 2nd plaintiff issued a letter dated 12 May 2007 to the 1st defendant whereby the latter was demanded to carry out the repair works set out in the said quotation within 7 days failing which the 2nd plaintiff would engage Wing Lok to do so and all the costs then would be borne by the 1st defendant. Cheung confirmed that the 1st defendant did not agree to engage Wing Lok together with all other owners of the 4th floor. As a result, the plaintiffs engaged Wing Lok to carry out the repair works but Cheung did not know the details.
+
+1st Defendant’s evidence
+
+21. The 1st defendant testified. He denied any knowledge of the alleged pothole at his property. He merely instructed Highspeed to carry out the demolition works pursuant to an order of the Building Authority. He did not instruct anyone to make such a pothole in any event.
+22. He further instructed Highspeed in November 2006 to carry out repair works of the floor of the 1st defendant's Property and the waterproof system at his flat roof. Such works were completed in late December 2006. He understood that Highspeed conducted a leakage test for a week in January 2007. He received no further complaint about water leakage until February 2007 and so he paid Highspeed the balance of the charge through his company.
+23. He confirmed that he had received the two quotations from Cheung and the letter dated 12 May 2007 from the 2nd plaintiff. His view was that Highspeed had already satisfactorily completed the waterproofing works and the Incorporated Owners had failed to explain to him why the works set out in the two quotations were necessary. Therefore he did not find it necessary to engage Wing Lok.
+24. Nevertheless, the 1st defendant issued a letter dated 29 June 2009 to Highspeed and stated that since 2007, the personnel of the 2nd plaintiff had kept complaining to him about the water seepage problem. He thus threatened legal action against Highspeed unless Highspeed remedied the water seepage problem of the 1st defendant's Property and the damage caused to the plaintiffs' Property within 7 days. The 1st defendant claimed that there was no truth in this letter and he merely wished to galvanise Highspeed into action.
+
+Expert evidence (on liability)
+
+25. On 23 May 2007, the Building Department/Food and Environmental Hygiene Department Joint Office sent an assignment order to Paul Wong Consulting Engineers Ltd ("Paul Wong") whereby Paul Wong was instructed to carry out a water seepage investigation on the ceiling of the plaintiffs' Property from 26 June 2007 to 28 August 2008.
+26. Dr Paul Wong of Paul Wong compiled an expert report dated 3 September 2008. Paul Wong sent the expert report to the parties under the covering letter dated 22 March 2012 on the joint instruction of the parties ("the Expert Report"). Dr Paul Wong is the single joint expert on liability of the parties. In the Expert Report, the methodology adopted and the findings in the said water seepage investigation were explained in detail.
+27. First, Paul Wong identified Apartments D, E, F and J to be the suspected sources of the water seepage problem and hence ponding tests were conducted on those premises. According to Paul Wong, the purpose of the ponding tests was "to check whether moisture or water can be able to seep through the floor slab to the affected areas". I shall focus only on the ponding tests conducted on the 1st defendant's Property.
+28. On 31 January 2008, a ponding test involving dyes in different colours and other tests were carried out in different parts of the 1st defendant's Property. On the toilet floor of the 1st defendant's Property, diluted fluorescein sodium colour dye ("FS") was used. After 4 weeks on 28 February 2008, no colour dye was found on the plaintiffs' Property.
+29. On 16 March 2008, a ponding test using FS and a blue dye, among other tests, was administered for the bathroom and balcony floor of another apartment on the 4th floor of the Building, namely, Apartment D.
+30. On 21 April 2008, FS appeared on the ceiling of an area of the plaintiffs' Property ("Area 1") and the blue dye appeared in another area of the plaintiffs' Property. Area 1 was almost immediately beneath Apartment J.
+31. On 7 August 2008, a retest test was done in the 1st defendant's Property. A ponding test with FS was conducted on the floor slab of the flat roof of the 1st defendant's Property. On 28 August 2008, FS appeared in Area 1 again.
+32. Paul Wong then came to the conclusion that "water seepage in Area 1 was almost certainly caused by water seepage from the balcony of the 1st defendant's Property". It was further concluded that there was no other contributing factors, such as defective water proofing layer below the floor slab, causing water dampness in Area 1.
+33. In the conclusion section of the Expert Report, it was stated that the source of water seepage was defective floor slab of balcony of the 1st defendant's Property.
+34. Apparently unhappy with the conclusion, the 1st defendant obtained from a master on 3 April 2012 leave to file a supplementary report of Paul Wong at his own costs. The supplementary report was to deal with five specified questions raised by the 1st defendant. As a result, Paul Wong issued a supplementary report by way of a letter dated 27 August 2012. The relevant part of the supplementary report is reproduced as follows: 
+
+1. Describe the nature of defective floor slab e.g. cracks, broken etc. as mentioned in paragraph 6.0 Conclusion & Recommendations of Section 4.3 Methodology in the report dated 3rd September 2008.
+
+The water seepage investigation carried out at the plaintiffs' Property enables us to conclude that the floor slab had defects causing the water seepage. However, the investigation could not determine the nature of the defects e.g. cracks, broken, etc.
+
+2. Describe the layers of the flooring below the floor slab and between the floors of the Building.
+
+The water seepage investigation carried out from June 2007 to August 2008 did not conduct any investigation on the layers of the flooring below the floor slab and between the floors of the Building. Thus this information is unknown to us.
+
+3. What is/are the possible cause(s) of occurrence/recurrence of water seepage to the plaintiffs' Property.
+
+The occurrence/recurrence of water seepage can be caused by many reasons, such as sources of seepage water, ambient temperature, humidity, wind speed, etc. However, through the water seepage investigation from June 2007 to August 2008, the cause(s) of occurrence/recurrence of water seepage had not been investigated.
+
+4. With reference to summary of Conclusion of the said report dated 3rd September 2008, whether any test has been carried out as to the water proofing layer below the floor slab.
+
+Ponding tests had been carried out to determine the water tightness of the water proofing layer below the floor slab.
+
+
+
+
+
+Agreed Issues
+
+35. The parties have come up with an agreed statement of issues. It contained five issues. Some of the issues defined are so general that they are not helpful. In brief, the parties agreed that the issues included the identification of the sources of the water seepage and the extent of the 1st defendant's liability for damages in case that he is liable for the water seepage in the light of the conclusion of Paul Wong.
+
+Analysis
+
+36. Both Ho and Cheung appeared to me to be honest and forthcoming. I have no hesitation in accepting their evidence. I believe that the water seepage persisted until and after the 1st defendant parted with his ownership with his property in June 2009.
+37. On the other hand, I do not find the 1st defendant's evidence reliable. In particular, I do not accept his explanation that the contents of his letter to Highspeed were untrue. The letter clearly confirmed the persistence of the water seepage problem until June 2009 despite the repair works carried out by Highspeed on the commission of the 1st defendant in late 2006.
+38. It follows that whether or not there was a leakage test with positive results was conducted to the knowledge of the plaintiffs as alleged is immaterial. For the sake of completeness, I prefer the evidence of Ho in this regard by reason of the 1st defendant's admission that he did not follow closely the repair works of Highspeed at all.
+39. I also accept the evidence of Ho and Cheung that there was a pothole at the 1st defendant's Property in the course of the demolition/alternation works. The actual size and location of the pothole were not relevant, given the lack of any evidence that the water seepage problem resulted from the pothole. I cannot accept that it was the pothole that caused the water seepage.
+40. The central issue of these proceedings can, in my view, be easily be disposed of by the expert evidence of Paul Wong and the factual evidence of the witnesses was of little assistance. Given the clear conclusion and findings of the Expert Report, I have no doubt that one of the sources of the water seepage problems was the 1st defendant's Property due to the defective floor slab of the flat roof owned by the 1st defendant. Area 1 was badly damaged consequently.
+41. Undaunted in an uphill battle, Mr Tsui challenged the expert evidence strenuously. Firstly he submitted that there is a confusion concerning the possible cause of occurrence/recurrence of water seepage to the plaintiffs' Property. The alleged confusion is that in the Expert Report Paul Wong first said that the source of water seepage was the defective floor slab of the balcony of the 1st defendant's Property and that water seepage was almost certainly caused by water seepage from the balcony of the 1st defendant's Property but in the supplementary report Paul Wong said the causes of occurrence/recurrence of water seepage had not been investigated.
+42. I do not think that there is any confusion. The whole answer of Paul Wong, and not just a small part of it, has to be understood in context. Obviously in the answer, as shown by the examples given therein, Paul Wong was referring to those outside causes of water seepage unrelated to the Building itself. Paul Wong has neither modified nor retracted his earlier findings and conclusions in the Expert Report.
+43. Mr Tsui further submitted that Dr Paul Wong did not visit the 1st defendant's Property himself and he merely relied on his staff whose qualifications are unknown. I do not find any substance in this complaint. The parties have agreed that the expert evidence of their single joint expert be adduced and in the absence of inherent improbability and contrary evidence, I have no reason to doubt the veracity of such evidence.
+44. Mr Tsui submitted that even if FS was detected on 28 August 2008 at Area 1 after the ponding test with FS at the 1st defendant's Property on 7 August 2008, this does not lead to the conclusion that the 1st defendant's Property was the source of water seepage. He submitted that since FS had been used in another apartment in March 2008, the FS observed in the plaintiffs' Property on 28 August 2008 could have originated from another source.
+45. If this challenge to the findings and conclusions of Paul Wong were to be made properly, the 1st defendant should have applied for leave to call Dr Paul Wong to testify and be cross-examined. Alternatively, leave should have been sought to raise this matter with Dr Paul Wong in his supplemental report. In the absence of contrary evidence, I can see no reason to reject the findings and conclusions of Dr Paul Wong.
+46. Mr Tsui made a more fundamental challenge to the plaintiffs' claim. He submitted that the floor slab of the flat roof is common part of the Building and thus all the owners of the Building should be liable for any defects of the same. Further, under the DMC, the management committee and/or manager of the Building is charged with the duty for the repair and maintenance of common parts.
+47. Mr Tsui relied on John So & Another v Lau Hon Man & Others unreported, CACV 110/1993 
+, 5.10.1993. There, Rhind J, after reviewing the Deed of Mutual Covenants in question and section 2 of the BMO and the First Schedule thereto, pointed out that for many purposes, the floor slab is a common part. In that case, however, the Court of Appeal, agreeing to the conclusion of the trial judge, held that the water pipe in the floor slab served the respondent's flat exclusively and as such it was not unreasonable that they should bear the exclusive burden of the cost of repairing the water pipe if it became defective. The Court of Appeal hence construed the DMC and the definition of "common part" in section 2 of the BMO in a way to hold that the water pipe in the floor slab came within the respondent's part of the building.
+48. Mr Tsui further drew my attention to Hung Tung Shing and Anor. v The Incorporated Owners of Kwong Sang Hong Building Block B unreported, DCCJ 3013/2001 
+, 24.4.2002. In that case, Deputy Judge R. Yu held that the floor slab must be for the common use of the upper and lower floor and therefore could not be assigned exclusively to any one owner. Hence it was a common part and in the control and management of the incorporated owners in question.
+49. Mr Tsui lastly referred to 梁有勝訴馮源禧及其他人 unreported, LDBM 249/2000 
+, 16.7.2002. It was held that water proofing layer on the roof was common part and thus its repair and maintenance should be undertaken by the incorporated owners in question. As submitted by Mr Tsui, there is no evidence that there was water proofing layer in the floor slab of the flat roof, this court is not concerned about any such materials.
+50. My view is that first and foremost, it is imperative to find out what is actually meant by "the floor slab" in the evidence of Paul Wong. As stated above, Dr Paul Wong referred to water proofing layer possibly in existence below the floor slab and he also indicated that there was no investigation was conducted on the layers of the flooring below the floor slab. I agree with Mr Lo that by "the floor slab", Dr Paul Wong merely referred to the top layer of the floor slab of the 1st defendant's Property rather than the entire concrete floor slab which would include the ceiling of the plaintiffs' Property.
+51. The 1st defendant must have the exclusive use, occupation and enjoyment of the top layer of the floor slab of the 1st defendant's Property including his portion of the flat roof. Mr Tsui did not contend otherwise.
+52. In the assent and assignment dated 10 November 2004 whereby the 1st defendant inherited from his late father the 1st defendant's Property, the 1st defendant was assigned the sole and exclusive right and privilege to hold, use, occupy and enjoy the 1st defendant's Property including a part of the flat roof of the Building.
+53. In Nation Group Development Ltd v New Pacific Properties Ltd (2000) 3 HKCFAR 427 
+, Mr Justice Ribeiro PJ (at 436G) indicated his agreement to the holding of Godfrey JA in the Court of Appeal dealing with the same case (CACV 26/1999, 20.1.2000 at §5). There, Godfrey JA pointed out that the parties must be taken to have intended that the purchaser of the property was to be given "the right to the exclusive use of the floor and ceiling surfaces of the First Floor and of the air space between them.
+54. In a similar vein, the 1st defendant having the exclusive right to use his part of the flat roof must have the exclusive use of the floor thereof, i.e., the top layer of the floor slab of the 1st defendant's Property. It cannot be a common part of the Building.
+<G<55. Indeed, as pointed out by Mr Lo in his closing submission, pursuant to Clause 3(B)(e) of the DMC, the 1st defendant was imposed upon a responsibility for the repair and maintenance of such part of the flat roof of which he had exclusive right to use, occupy and enjoy.>G>
+<G<56. I also note that in the same provision of the DMC, any owners of the Building or the manager or his agents shall have the right to remain on such part of the flat roof as may be necessary for the purpose of inspecting certain structures and facilities for common purposes (water pipes, electricity wires, ducts or sewers) and carrying out any maintenance or repair to the same. Such common structures and facilities do not include the floor of the flat roof. I am therefore fortified in my view that the floor of the flat roof (meaning the top layer of the floor slab) is not common part.
+57. I find that the 1st defendant was in breach of his duty under Clause 3(B)(e) of the DMC in that he failed to effect proper repair and maintenance of the floor of the 1st defendant's Property, in particular, the flat roof. In the premises, the 1st defendant should be liable for the damage caused by the defective floor slab of the flat roof of the 1st defendant to the plaintiffs' Property, which according to Dr Paul Wong, was the source of water seepage.
+58. I also find that the 1st defendant was in breach of Clause 10(c) of the DMC in that the 1st defendant failed in his duty not to create any nuisance. I further find that the plaintiffs' nuisance claim is proved by the evidence.
+59. In conclusion, the plaintiffs succeed in their claim.>G>
+
+Quantum
+
+60. The 1st plaintiff only seeks to recover various repair costs which he claims to have expended as a result of the water seepage problem. There were altogether fourteen items and such costs amounted to HK$188,345.71.
+61. Ho was subjected to vigorous cross-examination in respect of such costs. Admittedly, some of them are only evidenced by relevant invoices and there is no documentary evidence of their settlement. This is indeed unsatisfactory and the plaintiffs should have done better. However, as I am convinced of the honesty of Ho, I accept his evidence that such services were rendered and paid for. I accept that the total amount the 1st plaintiff expended was HK$188,345.71.
+62. This does not mean that the plaintiffs can recover from the 1st defendant the entire amount. There were four distinct areas of the plaintiffs' Property damaged by the water seepage problem and on the evidence, the 1st defendant was only responsible for the damage caused to Area 1. On that basis, Mr Tsui submitted that at most the 1st defendant was at most only liable for one fourth of the total expenses.
+63. Mr Lo referred to Kwan Man Ling v Chan Pui Shan Patsy & Another [1998] 4 
+HKC 698 
+and Dingle v Associated Newspapers Ltd. [1961] 2 Q.B. 162 
+for the proposition that where each of several persons not acting in concert, commits a tort against another person, substantially contemporaneously and causing the same or indivisible damage, each several tortfeasor is liable for the whole damage.
+64. I have no problem with the proposition. All the more I cannot agree that the 1st plaintiff could recover the total expenses from the 1st defendant. It is clear that certain damage was divisible though the repair costs were actually charged in a lump sum. For fairness, apportionment is necessary.
+65. First, I went through all the fourteen items with Mr Lo and Mr Lo fairly accepted nine of them were divisible. For those remaining five non-divisible items as submitted by Mr Lo, I accept that they are indeed non-divisible and I allow the total costs of these items in full. They are as follows: 
+
+(1) Prima Technical Services Limited - HK$2,500
+
+(2) Loyal Faith Engineering Limited - HK$4,500
+
+(3) Sun Hung Kong Engineering Limited - HK$4,000
+
+(4)藍天顧問有限公司 - HK$19,680 (installation of new lighting)
+
+(5)藍天顧問有限公司 - HK$5,000 (replacement of smoke detectors)
+
+Total: HK$35,680
+
+
+66. For the nine divisible items, Mr Lo agreed that their costs could be apportioned by reference to the total area affected by the water seepage from the 4th floor and the area on the 3rd floor affected by the water seepage found to be caused by the 1st defendant's Property.
+67. In the Expert Report, the approximate floor areas of the four affected areas of the plaintiffs' Property could be found in one of the plans annexed thereto. Area 1 was 7.92 sq. m. in area and the total affected area was 8.96 sq.m.. Area 1 occupies 88% of the affected area (7.92/8.96 x 100%). The 1st defendant should therefore be responsible for 88% of those divisible items, which are as follows: 
+
+(1)明輝裝修工程公司 - $18,837
+
+(2) Wing Lok - $19,520.10
+
+(3)袁柱穩 - HK$2,400
+
+(4)袁柱穩 - HK$800
+
+(5)袁柱穩 - HK$6,000
+
+(6)袁柱穩 - HK$6,000
+
+(7)袁柱穩 - HK$2,400
+
+(8)袁柱穩 - HK$80
+
+(9)藍天顧問有限 - HK$56,510.08 (Repair of spalling concrete)
+
+Total: HK$112,547.18
+
+
+68. 88% of the sum of HK$112,547.18 is HK$99,041.50. The total damages payable by the 1st defendant to the 1st plaintiff should thus be HK$134,721.50 (HK$35,680 + HK$99,041.50).
+69. As regards the 2nd plaintiff, it was at the material time in possession and occupation of the plaintiffs' Property and the nuisance caused by the 1st defendant directly infringed its right of enjoyment of the plaintiffs' Property. Though it no longer pursues its claim for loss of business, to recognize that its legal rights have been infringed, I consider that a nominal damages of HK$100 is appropriate: Let' Go Investments Ltd v Yeung Sau Hing unreported, CACV 16/2006 
+, 12.3.2007 per Cheung JA at §25. I so make such an award in favour of the 2nd plaintiff.
+70. Costs should follow the event and I make an order nisi that the 1st defendant do pay the plaintiffs costs of this action, to be taxed if not agreed, with certificate for counsel.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

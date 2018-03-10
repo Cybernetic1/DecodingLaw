@@ -1,0 +1,176 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IPRequest made on : Friday, 09 March, 2018 at 23:47 HKT  Client ID : ChineseU_WLA-1Title : Yu Kwok Wa v China Telecom Global LtdDelivery selection : Current DocumentNumber of documents delivered : 1
+Yu Kwok Wa v China Telecom Global Ltd
+
+
+
+25 January 2018
+District Court
+DC
+Employees’ Compensation Case No 1849 of 2016
+DCEC 1849/2016
+
+Citations:[2018] HKEC 128 English JudgmentPresiding Judges: Judge Levy in ChambersPhrases: Civil procedure - stay of proceedings - employees' compensation proceedings - stay pending parallel personal   injuries proceedings - refused, but with directions given Civil procedure - costs - interlocutory applications - appropriate costs ordersCounsel in the Case: Mr Patrick P Szeto, instructed by Kenneth Lam, assigned by the Director of Legal Aid, for the applicantMs Christina Lee, instructed by Deacons, for the respondentCases cited in the judgment: Maxwell v Keliston Marine (Far East) Ltd (in Liq) & Another [2012] 2 HKC 249  LKK Trans Ltd v Wong Hoi Chung (2006) 9 HKCFAR 103   Rukhsar Begum v Native English Center Ltd (DCEC 867/2015, [2017] HKEC 693)  
+REASONS FOR DECISION AND RULING ON COSTS: 
+Judge Katina Levy in Chambers
+
+PART I:　INTRODUCTION
+A.　BACKGROUND
+A.1　The Injury
+
+1. The applicant was employed by the respondent ("Employer") as an engineer. On 26 August 2014, the applicant worked in one of the Employer's data centres in Chai Wan. Whilst on duty, the applicant suffered a stroke and collapsed, resulting in an intracerebral hemorrhage in his right cerebral hemisphere ("Injury"). As a result of the Injury, the applicant became a mentally incapacitated person.
+2. On 22 August 2016, the applicant, through his wife acting as his next friend, commenced the present employees' compensation application ("EC Proceedings") pursuant to the Employees' Compensation Ordinance for compensation against the Employer. (All references to statutory provisions below, unless otherwise stated, shall be references to the provisions of the said Ordinance.)
+3. The Employer denies liability.
+
+A.2　Parallel common law proceedings
+
+4. After the pleadings in the EC proceedings were closed, the applicant on 29 December 2016 commenced a parallel common law action for damages against the Employer in the Court of First Instance, HCPI No. 1433 of 2016 ("PI Proceedings"). Henceforth, the parallel EC and PI Proceedings involving identical parties have been proceeding in tandem respectively in the District Court and the Court of First Instance.
+
+B.　THREE SUMMONSES ISSUED IN THE EC PROCEEDINGS
+
+5. On 22 June 2017, the applicant and the Employer each issued a summons. The applicant's summons was for an unless order compelling the Employer to exchange witness statements ("Unless Order Summons"); whilst the Employer's was an application for a stay of the EC Proceedings "pending the outcome of [the PI Proceedings]" ("Stay Summons").
+6. Shortly before the substantive hearing of these two summonses, the applicant issued another summons ("Amendment Summons") for leave to amend the employees' compensation application.
+7. At the substantive hearing, the applicant was represented by his Legal-aid assigned counsel, Mr Patrick Szeto, and the Employer by Miss Christina Lee. The three summonses were disposed of as follows.
+
+B.1　The disposal of the summonses
+B.1a　The Stay Summons
+
+8. I refused to grant a stay of the EC Proceedings, and further directed that the earliest dates be fixed for the trial of the EC Proceedings by giving the following directions for trial: 
+
+(1) The trial is to be heard on 14, 15, 16, 21 and 23 May 2018 (a total of 5 days); and the pre-trial review on 3 April 2018.
+(2) The exchange of the witness statements in the EC Proceedings is dispensed with. The witness statements having been exchanged in the PI Proceedings shall be adduced and be relied on by the parties in the trial in the EC Proceedings.
+
+
+9. The parties are able to agree to the terms of the order to be made for the Stay Summons as follows: 
+
+(1) "The Stay Summons is dismissed with liberty to the parties to apply to vacate the trial and stay the EC Proceedings in the event that the split trial on liability for the PI Proceedings could be heard on or before September 30, 2018.
+(2) The decision on costs is reserved and to be handed down."
+
+
+
+
+
+B.1b　The Unless Order Summons
+
+10. Since I directed the dispensing with the exchange of the witness statements for the EC Proceedings (see para 8(2) above), it was therefore not necessary for any order to be made on this summons. The only outstanding matter is costs on which I will give my ruling in Part III below.
+
+B.1c　Amendment Summons
+
+11. The Amendment Summons was adjourned to be disposed of on paper after Mr Szeto for the applicant had indicated that he would need time to consider whether further amendment to the existing draft amended application was required after the discussion with this court at the hearing.
+12. In this decision therefore I will set out in Part II the reasons for the decision for the Stay Summons, and in Part III my ruling on the costs of the Stay Summons and the Unless Order Summons.
+
+PART II:　REASONS FOR DECISION
+C.　GUIDING PRINCIPLES
+C.1　Authorities cited
+
+13. On behalf of the Employer, Miss Lee, in her written skeleton referred to two cases in support of the Employer's application to stay the EC Proceedings, namely Maxwell v Keliston Marine (Far East) Ltd (in Liq) & Another [2012] 2 HKC 249 
+1, a decision of Bharwaney J, the Judge in charge of the Personal Injuries List; and Rukhsar Begum v Native English Center Limited trading as The Green Lounge DCEC 867 of 2015 and DCPI 2243 of 2015 9 
+2 (unrep), an unreported decision of this court.
+14. In Maxwell, Bharwaney J gave guidance (at [2012] 2 HKC 249at 262 D- 263 B) on the proper course to be taken concerning parallel employees' compensation and common law proceedings. In Rukhsar Begum, this court, by a postscript, also reminded the practitioners of the said guidance, stating (at [3] and [4]): 
+
+3. " Generally, the employees' compensation proceedings are held in abeyance pending the common law claim, to be revived in case the common law claim fails on the issue on liability. In such a case, the statement of damages should state that "the employees' compensation proceedings would be discontinued in the event that damages are awarded to the plaintiff". This would avoid the need for a further contested application in the employees' compensation proceedings: [2012] 2 HKC 249 at 262 D-F.
+4. However, "[I]n cases where there is a concern that the court may assess a high degree of contributory negligence" ([2012] 2 HKC 249 at 262 H-I (underline added)), the employees' compensation claim should proceed first, leaving the further prosecution of the common law claim pending until the determination of the employees' compensation proceedings."
+
+
+
+
+15. Opposing the stay application, Mr Szeto for the applicant submitted that the Court of Final Appeal in LKK Trans Ltd v Wong Hoi Chung (2006) 9 HKCFAR 103 
+3 has authoritatively propounded that the statutory objective of the Employees' Compensation Ordinance is "a no-fault scheme aimed at giving quick financial relief to employees incapacitated by work-related injury. " (per Ribeiro PJ at p.114). It was further suggested that a court should pay heed to the said stated object by disposing of employees' compensation claims "speedily and with considerable certainty to provide urgently needed no-fault and compulsorily-insured compensation to injured employees" (per Bokhary PJ at p.107). (Emphasis underlined by counsel).
+16. Further, Mr Szeto argued that (written skeleton, [7]) the "proper course" stated in Maxwell was a guideline given by the court in relation to the structure and pleadings for parallel proceedings only, and should not be treated as a "a judicial direction".
+
+C.2　The relevant considerations
+
+17. Granted that the guidance in Maxwell is certainly not to be regarded as a judicial diktat to straitjacket a certain procedure for parallel proceedings, it should nonetheless be followed where it is applicable. As to whether and how it is to be applied depends on the facts and circumstances of each case.
+18. Apart from the guidance of Maxwell, I consider that it is also necessary, when considering whether a proceeding in such parallel proceedings should be stayed, to give effect to the underlying objectives of the District Court Rules (as laid down in O.1A r.1). Relevant to the present applicant in my view are the objectives of: 
+
+(a) Increasing "the costs-effectiveness of" practice and procedure for parallel proceedings;
+(b) Ensuring "that [each of the parallel proceedings] is dealt with as expeditiously as is reasonably practicable";
+(c) Promoting "a sense of reasonable proportion and procedural economy in the conduct of [parallel] proceedings"; and
+(d) Ensuring "fairness between the parties".
+
+
+19. I should bear the above-mentioned principles in mind when considering this stay application.
+
+D.　FACTORS FOR AND AGAINST A STAY
+D.1　Arguments in favour
+
+20. It is not in dispute that the issue on causation, which is whether the applicant's Injury was caused by an accident arising out of and in the course of his employment, is common to both the EC and PI Proceedings. It is thus common ground that once the causation issue is determined in the PI Proceedings, the issue on liability in respect of the EC Proceedings will be completely disposed of.
+21. Thus, if the Employer were able to secure an early resolution of liability in the PI Proceedings, it would greatly help advance the Employer's application to stay the EC Proceedings. The Employer hence took a procedural step in the PI Proceedings by issuing an interlocutory application on 11 July 2017 for an order for a split trial, which application I was informed would be heard on 27 March 2018.
+22. Miss Lee has indeed deployed this forthcoming hearing for the split trial application to advance her argument in stating that "If [the application for split trial is] allowed this process will speed up the progress of the common law action without having to wait for the numerous expert medical reports to be obtained. If the Applicant/Plaintiff is successful on the liability issue she can apply for an interim payment immediately. If the Respondent/Defendant is successful, then the costs to the public purse of having to fund 2 sets of parallel litigation and obtaining the various expert reports can be saved" 4.
+23. The Employer's argument, simply put, is that a stay of the EC Proceedings, will, irrespective of the outcome of the trial on liability of the PI Proceedings, benefit both parties in that costs will be saved by dispensing with the need to proceed with the statutory claim.
+
+D.2　Arguments against a stay
+
+24. A stay of proceedings will normally delay proceedings. Indeed, the Stay Summons already has brought about some delay before its disposal as the entire proceedings have come to a grinding halt since the issuance of the Stay Summons in June 2017. The prejudice brought about by the delay is the main ground of objection. In the next friend's affirmation in opposition, she deposed that a further delay of the EC Proceedings would result in severe financial hardship to the applicant and his family that consist of the next friend and their two children in full-time education.
+25. The Court of Final Appeal's exposition (in LKK, supra.) of the importance of giving the applicant quick financial relief, was again echoed by Mr Szeto in stating that any delay would be tantamount to a disregarding of the legislative objective of the statutory scheme.
+
+D.3　Court’s view
+D.3.1　Trial for PI Proceedings uncertain
+
+26. The Employer's argument that a stay of the EC Proceedings will save costs cannot be disputed. One can see the attraction in allowing the High Court to determine the liability issue first.
+27. Yet, the viability of such a course, which is to allow for the liability issue of the PI Proceedings to be determined first, in my view has to depend on first whether the Judge hearing the split trial application would grant an order of a split trial; and secondly, on their being an early date for the trial of liability.
+28. Irrespective of the outcome of the application for the split trial, I am not optimistic that the liability issue for the PI Proceedings will be disposed of within a reasonably short time.
+29. In the best case scenario for the Employer, which is that the Employer succeeds in obtaining an order for a split trial, I believe that the trial on liability (which I was informed is estimated to last 5 days), given the heavy caseload of the High Court, will not be for at least another year.
+30. Conversely, in the event that the Employer fails in its application for an order for a split trial, it would mean that the length of the trial on liability and quantum will likely be more than 5 days. As Miss Lee in her submissions referred to the obtaining of "various expert reports" (see para 22 above), it appears to me that the procedural steps on quantum in the PI Proceedings are not yet complete.
+31. This is because in the EC Proceedings, the parties were only granted leave to adduce one joint neurological expert report ("JMR") prepared by the parties' respective experts of Dr. Thomas Chan and Dr Edmund Woo (which report was already completed on 29 June 2017). Since no other expert reports will be needed for the EC Proceedings, Miss Lee's reference to "various expert reports" would seem to suggest that more expert reports will be needed for the quantum issue in the PI Proceedings.
+32. With a longer time required for the trial of the entire PI Proceedings, the likely trial dates will be further put back to some uncertain future date probably in 2019 or beyond.
+33. The conclusion from the above analysis suggests that the course Miss Lee put forth is full of imponderables. The uncertainty of an early determination of the liability issue of the PI Proceedings will, in my judgment, greatly reduce the attractiveness of the proposed course Miss Lee has compellingly put forth.
+
+D.3.2　EC Proceedings were ready for trial
+
+34. After having explored the likely timetable for the determination of the liability issue in the PI Proceedings in D.3.1 above, I should next examine the progress of the EC Proceedings. After reviewing the evidence of the EC Proceedings at the hearing, I have found that the EC Proceedings were in fact ready for trial notwithstanding that progress had been stalled due to the stay application.
+35. By the time of the hearing of the Stay Summons, apart from the only outstanding issue of the exchange of witness statements (the subject matter of the Unless Order Summons), all the procedural steps had been completed in the EC Proceedings.
+36. The whole matter regarding the exchange of witness statements has become moot (as the parties also acknowledged at the hearing). Since the parties were in agreement that both Proceedings have identical factual witnesses (and also neurological expert witnesses), the same witness statements that were already exchanged in the PI Proceedings could be relied on and adduced in the EC Proceedings. Hence, once the court could give a direction for the use of the same witness statements exchanged in the PI Proceedings, the parties were already ready for trial.
+37. I have indeed found that the EC Proceedings could be fixed for trial. At the trial, the main dispute would be on causation. As for quantum, I believe that it was quite straightforward in light of the agreement of the experts that the applicant suffered 100 percent loss of earning capacity.
+38. Thus, the estimated length of trial for liability and quantum for the EC Proceedings should be the same as that estimated for the liability trial of the PI Proceedings of 5 days.
+39. Once this court was able to find a timeslot of 5 days in May for the trial, I consider that it is imperative that the statutory objective in allowing the EC Proceedings to be disposed of "speedily and with considerable certainty" (LKK, supra., para 15 above) should be observed.
+
+D.3.3　Additional benefits of allowing the EC Proceedings to proceed
+D.3.3a　Issue Estoppel
+
+40. It cannot be disputed that costs will certainly be saved if the liability issue in the PI Proceedings could be determined before the EC Proceedings. However, the resolution of the liability issue in the EC Proceedings, irrespective of the outcome, would also save further costs being incurred in the PI Proceedings. By the operation of the doctrine of issue estoppel, the determination of the issues on liability in the EC Proceedings (subject of course to any further appeal) would also conclude the overlapping issue on causation for both Proceedings, which is whether the applicant's Injury was caused by an accident arising out of and in the course of employment. Whilst it is not completely true that the PI Proceedings stand and fall with the outcome of the EC Proceedings, the PI Proceedings do "fall" with the EC Proceedings as a dismissal of the latter will put an end to the PI Proceedings. It was only when the applicant succeeds in the EC Proceedings that the additional issue of negligence would need to be further litigated later in the High Court.
+
+E.　CONCLUSION
+
+41. In refusing the stay, I have borne in mind the guidance given by Bharwaney J in Maxwell that the disposal of the PI Proceedings would avoid the need for a further contested application in the EC Proceedings. In the present case, as the facts discussed above clearly show, this court was faced with a situation between the uncertainty of an early trial on liability for the PI Proceedings and the certainty of an early trial for the EC Proceedings. Weight therefore must be given to the proceedings that were ready for trial. By allowing the EC Proceedings to proceed to trial not only fulfilled the statutory legislative objective, but also furthers the underlying objectives stated in para 18 above.
+42. Any unexpected events in the development of the PI Proceedings such as an early trial on liability may call for the need to revisit the directions that I have given. Hence, I consider that it would be prudent for this court to grant the parties the liberty to apply to vacate the trial of the EC Proceedings to cater for such eventuality. A notional early trial date needed to be decided upon. I believe that 6 months from the hearing of the application for a split trial should be reasonable. Hence, 30 September 2018 was set as the notional trial date. 
+
+PART III:　COSTS
+F.　COSTS FOR THE STAY SUMMONS
+
+43. The Employer, having failed to obtain an order to stay the EC Proceedings, should be regarded as the losing party. By the usual rule of "costs following the event", the Employer should be required to pay for the costs of the application.
+44. Miss Lee however argued that neither party was successful in the stay application. It was contented that the Employer has not entirely lost as this court has left an opening for a stay by granting liberty to the parties to apply for the vacation of the trial and stay of the EC Proceedings in the event that the PI Proceedings on liability could be heard on or before 30 September 2018.
+45. Mr Szeto disagreed that there was no losing party. Simply because the court might later grant a stay of the EC Proceedings in the event of a certain event happening, Mr Szeto submitted, did not mean that the Employer was not a clear loser.
+46. I am in respectful agreement with Mr Szeto. It is a strained argument that the Employer has not lost when its Stay Summons is dismissed. The opening to the Employer to apply for a stay in the event of an early trial in the High Court does not mean that the Stay Summons is still at large. It will be a matter for future adjudication. I consider that the applicant has wholly succeeded in opposing the stay application, which is clearly evidenced by the fact that the EC Proceedings are now fixed for trial.
+47. For these reasons, I order the Employer to pay the applicant's costs of the Stay Summons, including all costs previously reserved, with certificate for counsel. These costs are to be taxed if not agreed. The applicant's own costs are to be taxed in accordance with the Legal Aid Regulations.
+
+G.　COSTS OF THE UNLESS ORDER SUMMONS
+
+48. Mr Szeto asked for the costs of the summons by submitting that the applicant was justified in issuing the summons in the first place albeit that the court at the end did not need to make any order regarding the exchange of witness statements.
+49. It was however contended by Miss Lee that, in light of the court in finding it unnecessary to grant any order, the Unless Order Summons was merely a technical application as the applicant in fact was already in possession of the witness statements having been exchanged in the PI Proceedings.
+50. I do not consider the Unless Order Summons was a technical application as Miss Lee alleged. As a matter of fact, the applicant did not have the witness statements exchanged in the PI Proceedings when the summons was issued in June 2017 as they were only exchanged on 7 August 2017 in the PI Proceedings. After the perusal of the court order concerning the exchange of the witness statements in the EC Proceedings as well as the correspondence from the applicant's solicitors informing this court of the Employer's failure in complying with the order for exchange, I am of the view that the Employer did not comply with the timetable for the exchange. According to the applicant's solicitors, they wrote to the court for directions because the Employer did not respond to the latter's proposal to extend the deadline date for the exchange to 23 June 2017.
+51. In face of the Employer's silence, I consider that the applicant was wholly justified in issuing the Unless Order Summons and is entitled to the costs of issuing the summons.
+52. Nonetheless, once the witness statements in the PI Proceedings were exchanged on 7 August 2017, an order compelling the Employer to exchange witness statements would have seemed to be, as Miss Lee suggested, academic. Shortly after these witness statements were exchanged, it would have been apparent to the solicitors acting for the parties that the issue of the exchange had fallen by the wayside as the witnesses were (as the parties acknowledged) identical. The solicitors (perhaps, with hindsight) should have asked for the court's direction, in light of the identical witnesses to be called for both proceedings, for the dispensation of the exchange, and to vacate the hearing.
+53. In the circumstances, a different costs order should be made to reflect what is stated above. As both parties seem to have been equally at fault, I consider that a fair order is to order each party to bear their own costs after the parties had been given a reasonable time after 7 August 2017 to consider the contents of the statements. I consider two weeks, which is until 21 August 2017, to be a reasonable time. Thus, after 21 August 2017, there be an order of no order as to costs.
+54. In conclusion, the costs order for this summons is as follows: 
+
+(1) The Employer do pay the applicant's costs of and occasioned by the Unless Order Summons until 21 August 2017.
+(2) After 21 August 2017, each party should bear their own costs.
+(3) The applicant's own costs are to be taxed in accordance with the Legal Aid Regulations.
+
+
+55. Lastly, I thank counsel for their assistance.
+ 1[2012] 2 HKC 249.
+ 2DCEC 867 of 2015 and DCPI 2243 of 2015 9 (unrep), 3 April 2017.
+ 3(2006) 9 HKCFAR 103.
+ 4Miss Lee's written skeleton, [15].
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+ 

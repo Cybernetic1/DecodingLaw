@@ -9,7 +9,7 @@ import re						# for removing punctuations
 import pickle
 
 num_classes = 3
-times_steps = 128				# this number should be same as fixed_seq_len below
+times_steps = 32				# this number should be same as fixed_seq_len below
 
 """ These are the 3 classes of laws:
 * nuisance
@@ -43,7 +43,7 @@ for i, category in enumerate(categories):
 						yellow_stuff.append(word)
 		print("Case-law #", j, " word count = ", len(yellow_stuff))
 
-		for k in range(0, 30):
+		for k in range(0, 500):
 			# Randomly select a sequence of words (of fixed length) in yellow text
 			seqlens.append(fixed_seq_len)		# this is variable in the original code (with zero-padding), but now it's fixed because we don't use zero-padding
 			rand_start = np.random.choice(range(0, len(yellow_stuff) - fixed_seq_len))

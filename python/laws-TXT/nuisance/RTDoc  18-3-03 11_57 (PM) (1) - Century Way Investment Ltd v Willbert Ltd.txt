@@ -1,0 +1,343 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IP
+
+Request made on : Saturday, 03 March, 2018 at 23:57 HKT
+
+  
+
+Client ID : ChineseU_WLA-1
+
+Title : Century Way Investment Ltd v Willbert Ltd
+
+Delivery selection : Current Document
+
+Number of documents delivered : 1
+
+
+
+
+Century Way Investment Ltd v Willbert Ltd
+
+
+
+23 December 2016
+District Court
+DC
+Civil Action No 3710 of 2013
+DCCJ 3710/2013
+
+Citations:[2016] HKEC 2764 English Judgment
+
+Presiding Judges: Deputy Judge Winnie Tsui
+
+Phrases: <Y<Tort - nuisance - water dampness over floor of plaintiff's premises - whether caused by condensation of water arising from low temperature in computer server room at defendant's premises immediately below - whether operation of server room amounted to actionable nuisance - appropriate relief
+Damages - assessment - nuisance - water dampness over floor of plaintiff's premises caused by defendant's premises immediately below>Y>
+
+Counsel in the Case: Ms Queenie WS Ng, instructed by Chan, Evans, Chung & To, for the plaintiffMr Ross MY Yuen, instructed by Ng, Au Yeung & Partners, for the 1st and 2nd defendants
+
+Cases cited in the judgment: John So v Lau Hon Man [1993] 2 HKC 356 
+Bulmar Ltd v ACL Electronics (HK) Ltd (unrep., HCA 7042/1990, [1991] HKLY 1223) 
+
+Hu Wei Hsin v Ma Hung Wing (unrep., DCCJ 273/2011, [2011] HKEC 736) 
+
+Ng Yin Nei v Lee Chick Choi (unrep., DCCJ 563/2010, [2012] HKEC 1372) 
+
+Sedleigh-Denfield v O’Callaghan [1940] AC 880 
+
+Wong Hon Hung v Jolly Birds Ltd (unrep., DCCJ 5341/2006, [2008] HKEC 1072) 
+
+
+Judgment: 
+
+
+Deputy Judge Winnie Tsui
+
+Introduction
+
+1. This is the trial of an action brought by the owner of an office unit, the plaintiff, against the owner and the tenant of the office one floor below, the 1st and 2nd defendants.
+2. The plaintiff's complaint is that after it acquired the office unit, water dampness appeared over a part of the floor. It transpired that the 2nd defendant had set up a computer server room in its office under the plaintiff's unit.
+3. The factual dispute in this action is what had caused the water dampness. The plaintiff contends that the dampness was as a result of condensation of water over the affected floor area and that it happened because the server room was maintained at a much lower temperature than the plaintiff's office. The defendants' position is that the burden is on the plaintiff to prove that condensation was the cause and that, on the evidence before the court, it has failed to do so as there were a number of other potential water sources.
+4. If the factual dispute is ruled in favour of the plaintiff, the legal dispute which follows is whether the defendants are liable in nuisance, negligence and/or breach of the deed of mutual covenant which applies to the building.
+
+<Y<Factual background
+>Y>
+<Y<5. The following facts are common ground or not in any serious dispute.
+6. In April 2013, the plaintiff acquired the office unit which is known as "Unit 1703" in a building in Chai Wan, Hong Kong ("the Building"). There are a number of office units on that floor, namely, the 17th Floor. After taking up the unit, the plaintiff had it divided into two sub-units, namely, Unit 1703A and Unit 1703B, which measure about 410 square feet and 703 square feet respectively. I shall refer to them as "Unit A" and "Unit B" below. Unit A is the unit affected by the water dampness. It is an "internal" room in that it has no window and is enclosed by four internal walls, with a door opening into the common corridor of the floor.
+7. Mr Liu Wai Lun and his wife are the directors and shareholders of the plaintiff. Mr Liu said in examination-in-chief that the plaintiff is engaged in the business of property investment.
+8. The Building is for industrial and office use.
+9. The history of the use of the 16th and 17th floors of the Building is relevant to the present dispute. From July 2008 to April 2011, the 2nd defendant was in occupation of the whole of the 17th floor. It moved down to the 16th floor in April 2011 and has since occupied the whole of that floor as tenant of the 1st defendant. In other words, when the plaintiff took up Unit 1703, the 2nd defendant had already been in occupation of the whole of the 16th floor using it as an office. The exact relationship between the 1st and 2nd defendants is not known save that they have common directors. The two defendants have had the same legal representation in these proceedings.
+10. At some time after the 2nd defendant moved out of the 17th floor, it seems to be the case that the owner of the 17th floor partitioned that floor into a number of units and either sold or let them out separately. And, in this process, the plaintiff purchased one of the units, namely, Unit 1703. (It would appear that prior to the 2nd defendant's occupation the original layout of the 17th floor had comprised partitioned units, rather than one open space. Therefore, the floor was being reinstated to its original layout.) There was a large scale, floor-wide, renovation going on from at least February 2013, where works on the partitioning of the units and common facilities, such as common corridors on the floor, were carried out. At about the same time, renovation was also in progress within the individual units. For instance, the plaintiff says that the renovation of Unit B was ongoing till late August or early September 2013. However, it is not entirely clear when the common area renovation was completed.
+11. It is common ground that immediately below Unit A is the computer server room set up by the 2nd defendant ("the Server Room"). The latter is smaller in size than the former. The relative positions of the two units are plotted in a diagram in the joint expert report dated 24 March 2016 prepared by the parties' respective experts ("the Joint Report") in which the Server Room is superimposed on Unit A. The diagram shows that both units are broadly rectangular in shape and that the top and right-hand boundaries of the units (as shown in the diagram) are aligned, when viewed directly from above. In other words, in the diagram, the Server Room takes up the top right-hand corner of Unit A.
+12. There are five computer server racks in the Server Room. Because of the heat generated by the servers, the Server Room has to be, and has been, maintained at a temperature which is lower than the other parts of the office on the 16th floor. This was confirmed by the defendants, through their counsel, Mr Ross M Y Yuen, at trial. Furthermore, such lower temperature needs to be maintained round the clock. Apart from the fan coil unit supplying central air-conditioning (which is provided by the management of the Building), the 2nd defendant had installed two split-type air-conditioning units in the Server Room. There are therefore a total of three cooling sources in the Server Room. I shall refer to them as "FCU", "AC1" and "AC2" respectively.
+13. The position of the three air-conditioning units is of some relevance to the present dispute. There are three parallel beams across the ceiling of the Server Room - one running above the entrance wall, one running across the centre of the ceiling and, lastly, one running above the wall opposite the entrance wall. So, as a reference point, the second beam divides the ceiling into roughly two halves. I shall refer to that part of the ceiling bounded by the entrance wall and the centre beam as "Portion A" of the ceiling and that part of the ceiling bounded by the centre beam and the opposite wall as "Portion B".
+14. AC1 is mounted on the ceiling beam above the entrance wall and AC2 is mounted on the ceiling beam above the opposite wall. The air grille of FCU is installed right next to AC2 at the adjoining wall. In other words, there is one cooling source installed at Portion A of the ceiling whereas there are two cooling sources at Portion B.>Y>
+
+The plaintiff’s case
+
+15. When the plaintiff took up possession of Unit 1703, Mr Liu noticed that there were some water marks on some part of the floor but he did not really pay attention to it. In May 2013, he arranged for renovation of the unit. It was then that the renovation contractor informed him that the floor area at about the centre of Unit A was consistently damp and water stain marks and droplets were found there. The affected area was roughly square in shape, measuring about 2.4 metres x 2.4 metres. Mr Liu immediately reported the matter to the management office.
+16. Upon checking, the management office confirmed that the water did not originate from the lift shafts which are located next to Unit A. The management office passed on the contact number of the 2nd defendant to Mr Liu so that he could follow up directly with the 2nd defendant if necessary.
+17. Upon Mr Liu's request, a Ms Tse and a Ms Yuen, who represented the 2nd defendant, visited Unit A on 10 May 2013 and saw for themselves the water dampness on the floor. Mr Liu also inspected the Server Room on that day. He found out that Unit A is situated directly above the Server Room. In his witness statement, he said that on that occasion the air grille of each of AC1, AC2 and FCU was pointing towards the ceiling and all three air-conditioners were in operation. He noticed that the temperature inside the Server Room was noticeably much lower than the office outside. He believed that it was the difference in temperature between Unit A and the Server Room which had caused the water dampness.
+18. After the inspection, Mr Liu suggested to Ms Yuen that a false ceiling be installed at the Server Room to alleviate the problem of temperature difference. He even proposed that he bear half of the costs of the installation. Despite a number of emails and requests, the 2nd defendant did not give any positive response or make any proposal to resolve the issue.
+19. Eventually, on 10 June 2013, at the request of the plaintiff, Mr Liu, together with Mr C N Tsim, inspected the Server Room again and took some temperature measurements in both the Server Room and Unit A. By profession, Mr Tsim is a consultant specialising in checking building premises for defects. Mr Tsim was called as a factual witness at trial by the plaintiff. It is agreed between the parties that Mr Tsim's evidence insofar as it relates to his observations and measurements made during the inspection is admissible.
+20. Mr Tsim observed that there was a water patch measuring 2.4 metres x 2.4 metres on the floor of Unit A and the water accumulated there was about 2mm in depth. In an attempt to investigate the source of the water, he examined in detail the pipes within Unit A, including the air-conditioning pipes and the sprinkler pipes. There was no sign of any water leakage and the pipes were all dry. There were no cracks on the walls of Unit A either.
+21. After checking Unit A, Mr Tsim proceeded to inspect the Server Room. He said in his witness statement that the air grilles of AC1 and AC2 were not pointing towards the ceiling but the air grille of FCU was. He took some measurements of the temperature of the ceiling of the Server Room. The lowest temperature which he recorded was 14.8oC and the highest 16.6oC. The point at which the lowest temperature was recorded was in Portion B of the ceiling, ie, the portion where AC2 and FCU are located.
+22. Though not covered in his witness statement, Mr Tsim said in cross-examination that both AC1 and AC2 were in operation during his visit as from experience he could "feel" it, meaning that he could detect wind blowing from the air-conditioners and he could see "something" blowing out.
+23. Mr Tsim made a report recording his findings from his inspection. He concluded that the water dampness on the floor in Unit A was caused by the significant difference in temperature between Unit A and the Server Room, resulting in condensation of water over the affected floor area.
+24. Mr Liu observed that the water dampness over the floor of Unit A persisted and the situation was worse during weekends or when the air-conditioning was turned off. When he was in Unit A, Mr Liu had to turn up the air-conditioning to the lowest temperature setting and keep mopping the floor dry. This had caused him great distress and inconvenience. The water dampness continued till about October 2013. In the meantime, Mr Liu had placed plastic mats over the affected floor area.
+25. Mr Liu had recorded the condition of the affected floor area on video and on photographs from time to time from May to September 2013. The first recording was taken on 10 May 2013 and the last one on 5 September 2013. It can be seen from these recordings that while the shape and size of the floor area affected by the water dampness varied over time during those months, the plaintiff contends that the main affected area was always found to be that part of the floor which was just above Portion B of the ceiling of the Server Room.
+26. When the plaintiff acquired Unit 1703, its original plan was to let out Unit A to a related company called Billston Technology Limited ("Billson") (Mr Liu being its director and shareholder) as its office and to let out Unit B in the market for rental income. However, due to the consistent dampness affecting the floor of Unit A, it was not fit for use as an office. The plaintiff therefore relocated Billston from Unit A to Unit B in September 2013, even though Billston does not need that much office space. Billston has been paying a monthly rent of $8,910 to the plaintiff for its use of Unit B. This is the same rent which Billston would have paid for taking up Unit A. Unit A had since been left idle.
+27. No water dampness was observed since October 2013. However, Mr Liu was concerned that it could re-occur and wanted to wait till the following summer and see whether the problem would arise again when the weather became humid.
+28. Given that the defendants had not been co-operative in resolving the issue, the plaintiff commenced the present action in September 2013. Inspection of Unit A by experts took place in 2014. The plaintiff says that since it was not clear what further tests or inspection were required to be done over Unit A. It did not let it out even though no further water dampness was found in 2014 and 2015. Mr Liu explained that he did not go to Unit A very often. After the Joint Report was completed in March 2016, Mr Liu considered that it would be time to let out Unit A as no further tests were expected to be done there.
+29. To the plaintiff's dismay, however, water dampness was once again observed over the floor area when Mr Liu went to Unit A to retrieve some belongings on 27 June 2016. After that, Mr Liu went on a long overseas trip. While he was away, he had arranged for Unit A to be renovated and the contractor informed him that during renovation, no water dampness was found and the renovation was completed on 23 August 2016.
+30. Eventually, Unit A was let out in August 2016 on a two-year tenancy commencing on 3 September 2016 at a monthly rent of $8,300.
+31. Overall speaking, the plaintiff's case is therefore that water dampness was found over the floor area of Unit A from May to October 2013 and on 27 June 2016. The affected area broadly corresponded with the ceiling of the Server Room and at times matched, in particular, with Portion B of the ceiling. The dampness was in fact condensation of water at the affected floor area. Condensation took place because the Server Room was maintained at a much lower temperature than Unit A and therefore water condensed over that part of the floor slab of Unit A over the Server Room, which temperature was lower than the rest of the floor slab of Unit A.
+32. The plaintiff's case on the cause of dampness is supported by expert evidence.
+33. Leave was given to the parties to adduce expert evidence on the cause of the water dampness. Each side has appointed its own expert. (Both sides have changed their experts in the course of these proceedings.) The Joint Report was prepared following a joint inspection of Unit A and the defendants' office in September 2015. By qualification, Mr Samson Wong, the plaintiff's expert, is a registered professional building surveyor and Mr Aston Li, the defendants' expert, a chartered building services engineer.
+34. It was agreed during the joint inspection that measurements should be taken with FCU, AC1 and AC2 operating at the same time in their full capacity, ie, at the lowest temperature setting and highest air flow setting for each air-conditioning unit.
+35. In the Joint Report, the experts agree that the area affected by the water dampness "essentially covered the whole ceiling area of the [Server Room] plus part of the corridor outside the Server Room".
+36. Mr Wong's opinion is in support of the plaintiff's case as stated above. He drew support from the following matters in the Joint Report.
+37. First, the floor of Unit A is generally flat and level. If the dampness had been caused by water dripping on to the floor from another source, the damp area would not have appeared in a square shape.
+38. Secondly, no water dampness was found to be present on the walls and ceiling of Unit A.
+39. Thirdly, during inspection, the lowest ceiling temperature of the Server Room was 14.9oC and is very close to the lowest ceiling temperature recorded by Mr Tsim on 10 June 2013.
+40. Fourthly, the square shape of the water dampness, which was observed by the plaintiff's renovation contractor and Mr Tsim, matched with Portion B of the ceiling of the Server Room. The significance of this is that Portion B is bounded by two ceiling beams which are 350mm thicker than the rest of the floor slab. The beams thus have a higher thermal resistance. This means that the floor slab just above the two beams would not be as cold as the floor slab in between the two beams. That could explain why condensation did not sometimes happen over those parts of the floor slab just above the beams.
+41. Fifthly, there were no other possible sources of water which could have caused the water dampness to appear.
+42. In conclusion, Mr Wong is of the opinion that condensation was the cause and that proper insulation should have been installed at the Server Room to avoid such condensation.
+43. On the premise that condensation was the cause of the water dampness, the plaintiff contends that the 1st and 2nd defendants should be held liable in nuisance, negligence and breach of those clauses in the deed of mutual covenant which prohibit an owner from causing nuisance or inconvenience to other owners.
+
+The 1st and 2nd defendants’ case
+
+44. The defendants do not take issue with the plaintiff's case that there was water dampness occurring on the floor of Unit A from May to early September 2013. However, they challenge the plaintiff's allegation that the dampness continued until October of that year since the plaintiff has produced no photograph or video recording of Unit A taken after 5 September 2013.
+45. As to the operation of the Server Room, Mr Hung Man Wai, the IT Manager of the 2nd defendant, gave an account of how the room temperature of the Server Room has been maintained in order to cool down the computer servers. In his witness statement, Mr Hung confirmed that the operating schedule has always been as follows:- 
+
+(a) FCU operates from 8am to 7pm from Monday to Saturday;
+
+(b) AC1 operates from 6pm to 9am from Monday to Sunday; and
+
+(c) AC2 operates from 9am to 6pm from Saturday to Sunday.
+
+
+46. He gave supplementary evidence in examination-in-chief as follows:- 
+
+(a) The air temperature of the Server Room should be maintained at between 18oC and 22oC round the clock.
+
+(b) AC1 and AC2 were installed such that there would be air-conditioning when FCU, ie, the central air-conditioning, is not in operation.
+
+(c) AC1 and AC2 are each connected to a timer device, which enables the two air-conditioning units to be automatically turned on and off at a pre-set time.
+
+(d) For AC1, the timer is pre-set to be switched on at 5.45pm every day and off at 9.15am the following day.
+
+(e) The office hours of the 2nd defendant are from 9am to 6pm from Monday to Friday. On each working day, Mr Hung would go to the Server Room just before the office closes at 6pm to check that AC1 is switched on in accordance with the timer setting. Then on the following day when he returns to the office, he would go inside the Server Room at 9am to check that AC1 is still on. This way, he would know that AC1 has been operating during the night and the timer device is working as set.
+
+(f) For AC2 which is to cover weekends, before he leaves office every Friday, Mr Hung would pre-set the timer connected to AC2 such that it would be turned on from 8.45am to 6.15pm during the weekend. Then when Mr Hung returns to the office on the following Monday, he would switch off the timer device. The effect would be that AC2 would be turned on only during day time on Saturdays and Sundays, but not on weekdays.
+
+(g) Since AC1 and AC2 are each operated by the timer device, when the electricity is cut off at the pre-set "off" time, the units would immediately cease operating and the air grille would remain open. This is different from the situation when the air-conditioning unit is switched off manually, in which case the air grille would be closed after switching off.
+
+
+47. Mr Hung also stated in his witness statement that the air grilles of the three air-conditioning units would be adjusted to a horizontal position such that cold air would be blowing out in a horizontal direction, rather than upwards or downwards. He explained that this is the optimal way to disperse the heat generated by the computer servers given the layout of the Server Room. He is responsible for ensuring that the position of the air grilles is so maintained at all times, especially after routine cleaning of the air-conditioning units.
+48. In other words, the defendants' position as regards the operation of the air-conditioning units is that at no time would the three units be all turned on at the same time and that the cold air is blowing out in a horizontal direction, rather than towards the ceiling of the Server Room.
+49. The defendants also called Ms Yuen to give evidence on the inspection of Unit A and the Server Room which took place in May and June 2013. There is some dispute as to whether Ms Yuen did at one point use a remote control to adjust the temperature setting of AC2 during the inspection on 10 June 2013. But perhaps the more relevant evidence coming from Ms Yuen is as follows.
+50. First, during the renovation of the 17th floor in 2013, it was hot and humid on that floor because the central air-conditioning was not in operation and large scale works were going on and the workers had the windows open for ventilation during that time. In fact, Ms Yuen observed that there were water droplets on the walls and the lift walls and water was seen dripping from pipes. These all suggest that the humidity was very high during that time. Ms Yuen also recalled that in June 2016, there was renovation going on in Unit 1712. In fact, on 15 June 2016, because of the noise from the renovation process, she and her boss went to the 17th floor and took some photographs. She also spoke to the workers in the unit requesting them to stop making the noises. While she was there, she saw that water was dripping from the ceiling, leaving a long trail of water stains on the floor of the common corridor.
+51. Secondly, after receiving complaints from the plaintiff, in July 2013, layers of plastic foam of 2cm thick were laid over the ceiling of the Server Room by the 2nd defendant.
+52. As to the cause of the water dampness found on the floor of Unit A which lasted for several months in 2013 and for one day in 2016, Mr Li, the defendants' expert, set out his opinion in great detail in the Joint Report and he also gave extensive evidence in cross-examination at trial.
+53. First, he accepted that condensation was a possible cause of the water dampness but there were other potential causes. He was thus unable to come to the conclusion that condensation was the cause. He also pointed out that during the inspection, the ceiling temperature in other parts of the 16th floor was comparable to or even lower than that in the Server Room but it appeared that there was no other complaint of water dampness or condensation from other users of the 17th floor. This seems to go against condensation being the cause.
+54. Secondly, there were a number of potential sources which could account for the presence of water dampness. 
+
+(a) A condensate drain pipe found at the ceiling in Unit A is "flat without adequate gradient for condensate to run off". This would result in a collection of water being retained inside the pipe and should there be a defect in the pipe connection or insulation, water droplets may form on the pipe and may fall on to the floor causing dampness.
+
+(b) The fire sprinkler pipes installed at the ceiling of Unit A are also filled with water and they are a potential source of water in case of any leakage in those pipes.
+
+(c) The surface of these sprinkler pipes would be of a lower temperature due to the water in the pipe. This may cause condensation of water on such surface on a humid day. Water droplets found on the surface may fall on the floor causing dampness.
+
+(d) There may be water ingress from the lift shaft which is located just next to Unit A.
+
+(e) According to a photograph disclosed by the plaintiff and taken in late February 2013, there were fitting out works being carried out in the area which would later become Unit A. It can be seen from the photograph that there were some wet trades such as cement mixing being done on the floor and the floor was wet. Water from these wet trades could have been absorbed by the concrete floor slab. It could take some time for the moisture to vaporise. Additionally, the moisture trapped inside would have the effect of reducing the thermal resistance of the floor slab causing it to be cooler and this would increase the chance of condensation over the floor area.
+
+(f) My understanding of this part of Mr Li's evidence is that the water dampness observed by Mr Liu in 2013 could have been the "release" or vaporisation of the moisture previously trapped in the floor slab during the wet trades work. Further or as an alternative, if the water dampness was as a result of condensation, the water trapped in the floor slab had contributed to it and this factor has nothing to do with the 2nd defendant.
+
+
+55. The defendants' case is that even if the court finds as a fact that condensation was the cause, liability of the defendants does not necessarily follow. The defendants point out that during the two periods when water dampness appeared, the 17th floor, including Unit A, was in "an extremely humid environment" because of the ongoing renovation and the humidity level would be similar to that of outdoor air. See §50 for Ms Yuen's evidence in this regard. Mr Yuen described this in his written closing submissions as "extreme circumstances". Mr Yuen stressed that there was normally no air-conditioning in Unit A and even though Mr Liu was aware of the humid environment on the 17th floor during renovation in particular in 2013, he did nothing to improve the ventilation. Worse still, he covered the floor with plastic mats which would have the effect of trapping water moisture in the floor slab. Mr Yuen submitted that as far as the defendants are concerned, it was totally unforeseeable that no ventilation would be provided in Unit A. In fact, by taking no step to improve ventilation whilst fully aware of the high humidity level, the plaintiff had made Unit A more prone to condensation.
+56. Given that it was reasonable and legitimate for the 2nd defendant to set up the Server Room in its office and that the plaintiff took no step to improve ventilation in Unit A thus causing an "extreme condition" in its property at the relevant time of renovation, when considering the competing rights of the parties, the defendants argue that the condensation which caused water dampness over the floor of Unit A is the kind of discomfort and annoyance that the plaintiff ought to put up with and it does not amount to an actionable nuisance.
+
+Analysis - Factual disputes
+
+57. Having set out the parties' respective cases, the following issues on facts fall to be decided:- 
+
+(a) Has the 2nd defendant been operating all three air-conditioning units in the Server Room at the same time?
+
+(b) Have the air grilles of the units been adjusted to point upwards such that cold air has been blowing from the units directly towards the ceiling of the Server Room?
+
+(c) What was the cause of the water dampness affecting the floor of Unit A from May to September/October 2013 and on 27 June 2016?
+
+
+58. Ultimately, the third issue identified above is the key question on liability whereas the first and second issues are subsidiary questions which may have a bearing on the determination of the third issue.
+59. On the first and the second issues, I consider that Mr Hung's evidence in relation to the operating schedule of the three air-conditioning units and the position of the air grilles to be more reliable than that of Mr Liu and Mr Tsim in the same regard. I take into account the following matters:- 
+
+(a) Mr Hung is the person in charge of the Server Room. He was able to give a detailed account of the steps that are taken to maintain the air temperature of the Server Room, eg, the use of the timer device in respect of each of AC1 and AC2, and was able to set out the reasons for each of the steps taken. His evidence at trial was given in a clear and firm manner. He conveyed an impression of a professional IT staff who is clearly conversant with the technical details of his field. There does not appear to be any reason to doubt the truthfulness and accuracy of his evidence.
+
+(b) This is to be contrasted with the evidence of Mr Liu and Mr Tsim in this regard. In Mr Liu's witness statement, he stated unequivocally that during his visit of the Server Room on 10 May 2013, the air grilles of all the air-conditioning units were pointing towards the ceiling and they were all in operation. However, when cross-examined, he was not as sure about the direction of the air grille of AC1. He said he was mainly paying attention to AC2. Also, he conceded that he did not have a clear view of the air grille of FCU.
+
+(c) Similarly, in Mr Tsim's witness statement, he stated without reservation that during his inspection of the Server Room on 10 June 2013, the air grille of FCU was pointing towards the ceiling. However, during cross-examination, he conceded that in fact from where he stood, he could not have seen and did not actually see if the air grille was pointing upwards, downwards or horizontally. It was only based on his experience and knowledge that he expected or deduced that the air grille should have been pointing towards the ceiling.
+
+(d) Given the above discrepancies in the evidence of Mr Liu and Mr Tsim, I consider that their evidence in this regard is not as reliable as Mr Hung's. But I should add that I do not think the discrepancies cast any serious doubt on the credibility of Mr Liu and Mr Tsim as witnesses in that I do not think that they were intentionally trying to give a false account of what they saw (or did not see). Their visits to the Server Room were brief and they might not have a 100% correct recollection of every single detail of those visits.
+
+
+60. When Mr Hung's evidence is assessed alongside with that of Mr Liu and Mr Tsim, I accept the former and find that at all times, including the two periods when water dampness appeared on the floor of Unit A in 2013 and 2016, the three air-conditioning units have been operating according to the schedule as set out in the defendants' evidence and that the air grilles of the units have always been adjusted horizontally, rather than pointing upwards.
+61. On the third issue, the plaintiff's case is that the water dampness was caused by condensation which happened because the temperature of the Server Room was much lower than the temperature of Unit A. The defendants' position is that there were a number of potential causes, of which condensation was only one.
+62. Having considered the evidence, I consider that the plaintiff has established an overwhelming case for condensation and I so find.
+63. There are two matters which are, in my view, of significant relevance in determining the cause of water dampness:- 
+
+(a) First, the presence of water dampness over the floor area in Unit A which is directly above the Server Room and the absence of water dampness over the other parts of the floor area which are not above the Server Room. (While the affected area varied in size at different times, it is sufficiently clear from the photographs that the area primarily affected was above the Server Room.)
+
+(b) Second, the presence of water dampness when renovation was going on on the 17th floor and the absence of water dampness at other times.
+
+
+64. When one considers the location of the area affected by the water dampness when it occurred, one immediately sees a direct and close correlation between the area of water dampness and the Server Room. The undisputed fact is that the Server Room has always been maintained at a lower temperature than the usual office temperature. If the dampness was not caused by condensation, one obvious question would immediately spring to mind - why hadn't the water dampness appeared on the other parts of the floor area in Unit A? There is really no ready answer to this question.
+65. Mr Li, the defendants' expert, pointed to other potential water sources, such as the condensate drain pipe and the fire sprinkler pipes. However, it became clear in cross-examination that these potential sources are merely theoretical possibilities. In my view, these two potential sources could not have caused the water dampness as observed in Unit A since they would have caused dampness of a different pattern at a different location. This is because the water droplets from these pipes would have fallen on to the floor forming a long trail of water marks directly underneath the pipes.
+66. Furthermore, although the affected floor area varied in size and shape over the few months in 2013, I accept the evidence of Mr Wong, the plaintiff's expert, that where it appeared to be roughly square in shape, as observed by the plaintiff's renovation contractor and Mr Tsim, it corresponded broadly with the location of Portion B of the ceiling of the Server Room, which is also square in shape. In my view, this is no coincidence. It is clearly due to the fact that since the temperature of those parts of the floor slab above the ceiling beams, which formed the boundaries of the square shape of the water dampness, were not as low due to their thickness, condensation did not take place over there at the relevant time. This is another strong piece of evidence pointing to condensation being the cause.
+67. Equally importantly, when one considers the timing of the occurrence of the water dampness, it clearly coincides with the two periods when some renovation was in progress on the 17th floor. In this regard, I accept the defendants' evidence that on the two occasions of renovation, the 17th floor, including Unit A, was in a hotter and more humid environment than at other times.
+68. Both experts sought to explain in the Joint Report and at the trial how condensation works and made references to the relevant concepts concerning dew point, ie, the temperature at which the air is saturated with moisture. They also explained that dew point is generally determined by the temperature and relative humidity of the air. I do not find it necessary to go through and set out these matters in detail in this judgment. It is a common occurrence in Hong Kong that during humid weather, condensation may happen on the cooler parts of a building, such as walls, resulting in water droplets or stains appearing on those areas. Further, I believe it is common knowledge that the more humid the air, the more common the occurrence of condensation.
+69. A prominent fact which stands out from this case is that there was a long period of almost three years (ie, from September/October 2013 to June 2016) when no water dampness appeared. That is a period when, on the evidence, Unit A and the common area of the 17th floor were not in any humid state, because the central air-conditioning would normally be operating during office hours at the common area. The timing of the occurrence of water dampness when it was more humid than usual on the 17th floor and the non-occurrence of water dampness when the humidity level was not as high points overwhelmingly to the fact that condensation was at work here.
+70. In my view, the location and the timing of the occurrence of the water dampness gives rise to an overwhelming and irresistible inference that condensation was the cause of the dampness and that the condensation was caused by the difference in temperature between the Server Room and Unit A. I would add that this conclusion is reinforced by the factual evidence of Mr Tsim that during his visit to the Server Room on 10 June 2013, the ceiling temperature of the Server Room was as low as 14.8oC.
+71. At this juncture, I should point out that given my factual findings on the first and the second issues, I would not be able to rely directly on the temperature measurements taken during the joint inspection as the measurements were made with all the three air-conditioning units on and running at their lowest temperature setting.
+72. However, given my conclusion that condensation was the cause, it must follow that the ceiling temperature of the Server Room must have been lower than the other parts of the ceiling of the 16th floor. This is so, notwithstanding my factual finding against the plaintiff on the first and second issues.
+73. For completeness, in addition to what I have already said above, I should also address the other potential causes raised by Mr Li:- 
+
+(a) The condensate water pipe and the fire sprinkler pipes are unlikely sources of the water. I accept Mr Tsim's evidence that during his inspection, he checked all the pipes in Unit A and found them to be dry and without any sign of water leakage.
+
+(b) The possibility that water might have come from the lift shafts located next to Unit A is unlikely. This is rebutted by Mr Liu's evidence, which I accept, that the management office had confirmed in 2013 that the water had not originated from the lift shafts.
+
+(c) Insofar as the defendants suggest that water moisture was trapped in the floor slab of Unit A during the time when wet works were executed on the floor in around February 2013 and had not since fully vaporised and thus was still trapped in the floor slab when the water dampness appeared from May to September/October 2013, I reject that suggestion as far-fetched. I agree with Ms Queenie WS Ng, counsel for the plaintiff, that judging from the photographs disclosed by the plaintiff, there had been no more wet trades executed on the floor of Unit A since March 2013, any water that had been trapped before then would have fully dried out and if there was indeed any moisture left, the amount would be negligible so as not to cause the water dampness or affect its extent.
+
+
+
+Analysis - Legal disputes
+
+74. Although the plaintiff's claim is based on three causes of action, namely, nuisance, negligence and breach of deed of mutual covenant, counsel for both sides argued the case primarily on nuisance.
+75. There is no dispute as to the general principles on nuisance.
+76. Ms Ng referred to the following well-known passage in Sedleigh-Denfield v O'Callaghan [1940] AC 880 
+
+at 903:- " Talbot J. succinctly defined private nuisances as interferences by owners or occupiers of property with the use or enjoyment of neighbouring property.  An occupier may make in many ways a use of his land which causes damage to the neighbouring landowners and yet be free from liability.  A balance has to be maintained between the right of the occupier to do what he likes with his own, and the right of his neighbour not to be interfered with. It is impossible to give any precise or universal formula, it may broadly be said that a useful test is perhaps what is reasonable according to the ordinary usages of mankind living the society, or more correctly in a particular society." (emphasis added)
+
+
+77. Mr Yuen referred to a summary of the relevant principles set out by HH Judge Lok (as he then was) in Hu Wei Hsin v Ma Hung Wing DCCJ 273/2011 
+, 3 June 2001 at §14:- 
+
+(i) "there is no precise or universal formula for determining whether there is an actionable nuisance, and it is always a question of degree whether the interference with comfort or convenience is sufficiently serious to constitute a nuisance;
+
+(ii) everyone must put up with a certain amount of discomfort and annoyance caused by the legitimate activities of his neighbours;
+
+(iii) the court has to strike a balance between the right of the defendant to use his property for his own lawful enjoyment and the right of the claimant to the undisturbed enjoyment of his property;
+
+(iv) a nuisance, to be actionable, must be such as to be a real interference with the comfort or convenience of living according to the standards of the average man, and an interference which alone causes harm to something of abnormal sensitiveness does not of itself constitute a nuisance; and
+
+(v) once the nuisance is established, the court can take into account the delicate and sensitive characteristics of the plaintiff in determining the issue of remedy."
+
+
+
+
+78. Mr Yuen also submitted that in determining reasonableness the court should take into account all the circumstances of the particular case, the time and place of the alleged act of nuisance, the seriousness of the harm, the manner of committing it, whether it is done maliciously or in the reasonable exercise of rights and the effect of its commission, that is whether it is transitory or permanent, occasional or continuous: see Winfield and Jolowicz on Tort (19th edition) at §15-011.
+79. The plaintiff's case is that the operation of the Server Room amounts to an actionable nuisance. Ms Ng also relied on the decision in Bulmar Ltd v ACL Electronics (HK) Ltd HCA 7042/1990 
+, 9 November 1991. It was held there that the owner of an industrial unit, by maintaining the unit at a low temperature for its industrial process, was liable in nuisance to the owner of the unit below when water condensation took place over the ceiling of the unit below, causing damage to the ceiling and water to drip from it.
+<G<80. I have set out the defendants' case on nuisance in §§55 to 56 above.>G>
+81. Applying the above principles to the present case, I would make the following observations:- 
+
+(a) It is common ground that it is legitimate for the 2nd defendant to set up and maintain the Server Room in its office on the 16th floor. Computers are part of our daily lives and server rooms, which are required to be maintained at low temperature round the clock, are common facilities in offices.
+
+(b) I also consider that it is a common occurrence for office units or industrial workshops, such as the units in the Building, to undergo renovation and there is nothing unusual or unforeseeable for windows to be opened on the 17th floor when renovation was in progress in both 2013 and 2016.
+
+(c) As a separate point, the plaintiff had not been maintaining Unit A in an air-conditioned environment, initially because of the renovation and subsequently because of it being left idle. Again, I do not consider such usage of Unit A can be said to be unreasonable. After all, the plaintiff as owner has a right to decide whether to switch on the air-conditioning or not, in light of its own business needs.
+
+(d) Accordingly, I do not accept the defendants' submission that Unit A was being used or enjoyed "in extreme circumstances" which could not have been foreseen by the defendants.
+
+(e) Overall speaking, when each party's usage of its property is looked at on its own, I consider that there is nothing unusual, illegitimate or unreasonable in each case. The question therefore turns squarely on what is the right balance to maintain as between the competing rights of the parties.
+
+
+82. Having taken into account all the relevant circumstances of the case and weighing the competing considerations for and against each side, in my view, it is clear that the operating of the Server Room by the 2nd defendant without any adequate insulation amounts to a real interference with the plaintiff's use and enjoyment of Unit A and as such it is an actionable nuisance. The following matters are relevant to my consideration:- 
+
+(a) While operating the Server Room is in itself a reasonable use of the office, it must be borne in mind that the Server Room is there to serve and fulfil the business needs of the 2nd defendant, ie, to provide an optimal environment to house its computer servers.
+
+(b) It is neither difficult nor costly to install insulation materials at the Server Room so as to prevent the cold temperature from "spreading" to any adjoining unit, such as Unit A. In this regard, I accept Mr Liu's evidence (which is unchallenged) that it would only cost about $10,000 to mount a false ceiling at the Server Room so as to resolve the problem. Yet the 2nd defendant did not take up this suggestion and proceeded to put on polyfoam layer to part of the ceiling of the Server Room, which was clearly inadequate to stop the condensation.
+
+(c) As a result of the low temperature of the Server Room, part of the floor of Unit A suffered from water dampness during the two periods when there was renovation on the 17th floor. The water dampness, as shown in the photographs taken at the relevant time, was serious. The dampness was to such an extent that the plaintiff needed to continuously mop up the floor. Water of about 2mm deep was found at the affected floor area at one point. While it does not sound like a lot of water, the fact that a sizeable part of the floor was consistently wet rendered the unit practically unfit for occupation since there was a risk of slip and fall on such floor surface and the dampness might also damage properties placed on the floor, such as carpet.
+
+(d) This certainly goes beyond the level of discomfort and annoyance caused by a neighbour's activities with which one is expected to put up.
+
+(e) Mr Yuen submitted that condensation only took place during renovation but not at other time and that the plaintiff should have taken steps to improve the ventilation of Unit A when it became obvious that it was more humid than usual on the 17th floor due to renovation. After all, submitted Mr Yuen, Hong Kong is a humid place in summer and anyone who lives here would have to put up with the humidity and take steps to deal with its potential consequence.
+
+(f) While it is true, on the evidence, that condensation took place only during renovation, it does seem to be the case that the plaintiff was the only occupier which was affected by it, there being no evidence that anyone else on the same floor was having the same problem. And even for the plaintiff, it was only Unit A that was affected. Unit B had suffered from no such problem. And even for Unit A, it was primarily that part of the floor which is above the Server Room that was affected. This clearly leads one to ask the question - is it really reasonable to expect or require the plaintiff to go to such great lengths as to, eg, turn up its own air-conditioning to a higher power than would otherwise be necessary for the plaintiff's own needs in order to facilitate the 2nd defendant to operate its Server Room downstairs? The answer is, in my view, clearly "no".
+
+(g) Hence I consider that it is unreasonable on the part of the 2nd defendant to operate the Server Room in the way that it has since at least May 2013, ie, without any proper insulation, when such use is viewed and weighed against the plaintiff's right to enjoy the use of Unit A free from any water dampness.
+
+
+83. In his opening submissions, Mr Yuen confirmed that if the operation of the Server Room by the 2nd defendant is held to amount to an actionable nuisance, both defendants would be liable. I shall therefore proceed to determine the relief which the plaintiff is to be granted in respect of its loss and damage suffered by reason of the nuisance.
+
+Relief
+
+84. In the prayer in the amended statement of claim, the plaintiff seeks an injunction to restrain the defendants from causing or permitting dampness at Unit A. Neither Ms Ng nor Mr Yuen made any submissions on the injunctive relief at the trial. Given that liability is established and there was indeed a re-occurrence of water dampness in July 2016, I see no reason why the injunction sought should not be granted to stop any further nuisance.
+85. As for damages, the plaintiff makes claims under seven heads.
+
+First head of claim - loss of (a) rental income and (b) rates, government rent and management fees of Unit A from 10 May 2013 to 31 August 2016
+
+86. It is agreed between the parties that the market rent of Unit A is to be fixed at $6,594 per month.
+87. The defendants' objection to this head is twofold.
+88. First, on sub-head (a), the plaintiff had a duty to mitigate its loss and given that there was no water dampness appearing after 5 September 2013, the plaintiff should have let out Unit A latest by the end of September 2013. Therefore the plaintiff is only entitled to claim loss of rental income for about 4 or 5 months.
+89. On the duty to mitigate, I accept Mr Liu's evidence as set out in §§27 and 28 above as to why Unit A was not let out till August 2016. I consider that the approach taken by the plaintiff was reasonable in the circumstances. It is easy and convenient now for the defendants to point to the period of almost three years when there was no occurrence of water dampness in Unit A and say that it had been a waste for the plaintiff not to have let out during that time. But given the uncertainty over whether there would be re-occurrence and the uncertainty of the need to make available Unit A for further tests and inspections for the purpose of these proceedings, it was reasonable for the plaintiff to do what it had done as regards the letting out of Unit A. In the event, after change of experts by both parties, the joint inspection was only carried out in September 2015 and the Joint Report completed as late as in March 2016.
+90. I therefore hold that on sub-item (a), the plaintiff is entitled to the sum of $263,760, representing the loss of 40 months of rental income of Unit A.
+91. On the other hand, I do not think that the plaintiff should be compensated for the loss of rates, government rent and management fees at all. I agree with Mr Yuen's submission that in order to substantiate its claim under this head, it is for the plaintiff to satisfy the court with proper evidence that it is market practice for a tenant to bear and hence to pay to the landlord these charges. No expert evidence has been adduced in this regard. In fact, the tenancy agreement which the plaintiff entered into with its tenant in respect of Unit A in August 2016 would seem to suggest that the landlord would bear these charges. I do not accept Mr Liu's evidence to the effect that practically speaking it is still for the tenant to bear these charges because the landlord will usually ask for a "higher" rent which sum would already "build in" these charges.
+92. Accordingly, I reject the plaintiff's claim in the sum of $93,156.36 under sub-head (b).
+
+Second head of claim - loss of (a) rental income and (b) rates, government rent and management fees of Unit B from 9 September 2013 to 31 August 2015
+
+93. It is agreed between the parties that the market rent for Unit B is to be fixed at $12,656 per month. Billston has been paying a monthly rent of $8,910 to the plaintiff since it does not in the first place require such a large office space. Therefore, in principle, on sub-item (a), the plaintiff is claiming only the difference between the market rent and the actual rent received from Billston.
+94. I do not think the claim under sub-item (a) should be allowed. Although the plaintiff and Billston are closely related and both have effectively been run by Mr Liu, in law, they remain two separate legal entities. In fact, Billson was expected to, and did, pay rent to the plaintiff for the use of the latter's property. There is nothing in the evidence before the court as to why the plaintiff had an obligation or commitment to let out either Unit A or Unit B to Billston so as to ensure that the latter had an office to run its operation. In the absence of any such obligation or commitment, the plaintiff could and should have let out Unit B to a third party at the prevailing market rent. In such a case, it would not have suffered any loss in rental income.
+95. The claim on sub-item (b) should in any event be disallowed for the same reason as set out in §91 above.
+96. Accordingly, the plaintiff's claim in the total sum of $283,696.42 under this head is disallowed.
+
+Third head of claim - survey fee paid to Mr Tsim
+
+97. The plaintiff claims a sum of $6,800 in respect of the fee it paid to Mr Tsim for his inspection on 10 June 2013. I allow this claim on the basis that it was reasonable for the plaintiff to instruct a professional person to investigate the cause of the water dampness. Notwithstanding that Mr Tsim ultimately testified as a factual witness, his evidence on the temperature measurements is relevant to resolving the present dispute.
+
+Fourth head of claim - costs of relocating telephone and broadband lines from Unit A to Unit B
+
+98. This head in the sum of $1,100 ought to be disallowed as it seems to be loss suffered by Billston, rather than the plaintiff.
+
+Fifth head of claim - costs of renovating Unit B
+
+99. This head of claim in the sum of $106,330 is not understood. It is not apparent at all why the defendants should be held liable for the renovation costs of Unit B which was not affected by the water dampness and which in any event would seem to have nothing to do with the nuisance.
+100. Ms Ng was not able to provide any justification for this head of claim. It should not be allowed.
+
+Sixth head of claim - purchase of plastic floor mats and cleaning costs
+
+101. I allow the claim under this head in full in the sum of $524.
+
+Seventh head of claim - discomfort for annoyance, inconvenience and discomfort
+
+102. There is no dispute that the plaintiff is entitled to make a claim under this head. The court is to award a conventional sum to compensate a plaintiff for the inconvenience and discomfort suffered by reason of the nuisance: see, eg, John So v Lau Hon Man [1993] 2 HKC 356 
+at §18.
+103. The plaintiff says that a sum of $50,000 would be an appropriate award in the present case. Ms Ng cited two cases concerning water leakage in residential properties in support - see Ng Yin Nei v Lee Chick Choi DCCJ 563/2010 
+, 10 October 2012 and Wong Hon Hung v Jolly Birds Ltd DCCJ 5341/2006 
+, 24 June 2008. Mr Yuen argued that an appropriate award would be $2,000.
+104. Given the nature and seriousness of the nuisance and its real and substantial impact on the plaintiff's enjoyment of Unit A (see §82(c) above), I consider that an award in the sum of $40,000 would be appropriate.
+
+Orders
+
+105. For the above reasons, I make the following orders:- 
+
+(a) The 1st and 2nd defendants, whether acting through their agents, servants or otherwise, be restrained from causing or permitting any further water dampness at Unit A; and
+
+(b) The 1st and 2nd defendants do pay damages to the plaintiff in the total sum of $311,084 (ie, $263,760 + $6,800 + $524 + $40,000).
+
+
+106. In the prayer for relief, the plaintiff seeks interest. However, at the trial, the plaintiff did not make any submissions on the amount of interest which it seeks to claim, whether on an overall basis or in respect of each head of claim. The issue of interest was not argued by the parties. I therefore direct that if the plaintiff wishes to claim any pre-judgment interest, it should lodge and serve written submissions within 14 days from today stating the total amount claimed and setting out at what rate and for what period interest, if any, should accrue. The defendants may lodge and serve written submissions setting out any objection within 14 days thereafter. Interest will be determined on the papers without a hearing.
+107. I also make an order nisi that the 1st and 2nd defendants do pay the plaintiff its costs of the action, to be taxed if not agreed, with certificate for counsel.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+
+

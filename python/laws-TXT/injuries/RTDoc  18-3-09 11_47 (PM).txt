@@ -1,0 +1,326 @@
+
+Westlaw Asia Delivery Summary
+
+Request made by : USER   WLA_IPRequest made on : Friday, 09 March, 2018 at 23:47 HKT  Client ID : ChineseU_WLA-1Title : Jiang Zhong v Yeung Chun LeungDelivery selection : Current DocumentNumber of documents delivered : 1
+Jiang Zhong v Yeung Chun Leung
+
+
+
+26 January 2018
+Court of Appeal
+CA
+Civil Appeal Nos 11 and 12 of 2017
+CACV 11 and 12/2017
+
+Citations:[2018] HKEC 131 English JudgmentPresiding Judges: Cheung, Yuen and Kwan JJAPhrases: Civil procedure - costs - employees' compensation claim and personal   injuries claim by injured employee - Employees Compensation Assistance Fund Board joined as party in both sets of proceedings - judgment entered for claimant/plaintiff after trial, although Board succeeded in sole argument it put forward, namely one of respondents/defendants was not employer of claimant/plaintiff - whether court had jurisdiction to order Board to pay costs - whether court's discretion to award costs against Board when Board joined as a party excluded by "no costs" provision in relief payment scheme under s.20A - whether distinction between joinder situation and non-joinder situation correctly drawn - whether court wrongly exercised discretion in instant case - Employees Compensation Assistance Ordinance (Cap.365) ss.20A, 23(4), 29 Employment law - employees' compensation - Employees Compensation Assistance Fund Board - Board joined as party in employees' compensation proceedings - judgment entered for claimant after trial - whether court had jurisdiction to order Board to pay costs - whether court's discretion to award costs against Board when Board joined as a party excluded by "no costs" provision in relief payment scheme under s.20A - whether distinction between joinder situation and non-joinder situation correctly drawn - Employees Compensation Assistance Ordinance (Cap.365) ss.20A, 23(4), 29Counsel in the Case: Mr Frederick H. F. Chan and Ms Ann Lui, instructed by Cheng & Wong, assigned by the Director of Legal Aid, for the Applicant in CACV 11/2017 and the Plaintiff in CACV 12/2017Mr Horace Wong SC and Mr Roger Phang, instructed by Gallant, for the 5th Respondent in CACV 11/2017 and the 4th Defendant in CACV 12/2017The 1st Respondent in CACV 11/2017 and the 2nd Defendant in CACV 12/2017, unrepresented, absentThe 3rd Respondent in CACV 11/2017 and 1st Defendant in CACV 12/2017, unrepresented, absentCases cited in the judgment: Fok Por v Sum Shuk Ching [1992] 1 HKC 581  Kwan Kam Pui v Fung Man & Others [2014] 6 HKC 361  Lai Chi Pon v Toto Steel & Iron Works Ltd & Others [1997] 2 HKC 195  Oshlack v Richmond River Council [1998] 193 CLR 72  Regina (Unison) v Lord Chancellor [2017] 3 WLR 409  Wong Chun Loong Tony v Ada Ltd [1991] 1 HKC 86  胡振華 對 周貴賢 (HCPI 903/2014, [2017] CHKEC 719)  Begum v Native English Centre Ltd [2017] 4 HKLRD 316   Chak King Por v Wong Chun Fai [2016] 2 HKLRD 1076   Designing Hong Kong Ltd v Town Planning Board [2017] 2 HKLRD 60   So Yuk Kam v Liu, Chan & Lam [2015] 5 HKLRD 640   Tu Zhiqiang and Hap Sang Co (a firm) [2012] 1 HKLRD 1075   Wong Kai Fun v Sun On Logistics Ltd (DCEC 5/2013, [2015] HKEC 871)   Yu Chun Kit v Wong Wing Yau (DCEC 1787/2015, [2017] HKEC 1153)  
+JUDGMENT: 
+Cheung JA :
+
+I. Background
+
+1.1 The applicant ('Jiang') was injured in the course of his employment while demolishing a swimming pool in a house in Sai Kung. He brought employees' compensation proceedings ('EC proceedings') against Yeung Chun Leung ('Yeung'), Cheng Kwok Wei ('Cheng') and Up Cheer Limited ('Up Cheer') (which was the owner of the house) claiming them to be his employers. He also brought common law claim for damages ('common law proceedings') against Yeung, Cheng and Up Cheer.
+1.2 Both Yeung and Up Cheer denied that they were the employers of the applicant. They contended that Cheng was Jiang's employer. Cheng did not enter an appearance to the proceedings.
+1.3 The Employees Compensation Assistance Fund Board ('the Board') intervened and joined as a party in both sets of proceedings pursuant to section 25A(b) of the Employees Compensation Assistance Ordinance (' ECAO ') (Cap. 365). The basis of the application was that Jiang worked illegally in Hong Kong and there was no policy of insurance in relation to Jiang as an employee. The Board argued that in the event that judgment was entered against Cheng, the Board would face a potential application from Jiang for payment from the Employees Compensation Assistance Fund ('the Fund') under section 16 of the ECAO .
+1.4 The Board was allowed to be joined. The defence filed by the Board was one of non admission to Jiang's claim. At trial before Deputy District Judge Elaine Liu, counsel for the Board confined his case to defending the claim by Jiang against Cheng. The Board was successful in demonstrating that Cheng was not his employer.
+1.5 In respect of the EC proceedings, the Judge entered judgment against Yeung. Jiang at the end of the trial informed the Judge that he was not pressing his case against Up Cheer. The compensation awarded in the EC proceedings was $15,528.
+1.6 In the common law proceedings, the Judge found against Yeung and Up Cheer. The Judge gave judgment to Jiang for the sum of $359,727, of which the sum of $15,528 by way of employees' compensation was to be deducted.
+1.7 In respect of costs, the Judge made the following orders nisi . For the EC proceedings, Jiang's costs are to be paid by Yeung, the Board's costs to be paid by Jiang and Yeung and there is no order as to Up Cheer's costs. For the common law proceedings, the costs of Jiang and the Board are to be paid by Up Cheer and Yeung.
+1.8 On the application of Jiang, the Judge varied the costs nisi as follows. The costs of Jiang in the EC proceedings are to be paid jointly and severally by Yeung and the Board. The costs of the Board, including the costs to be paid by the Board to Jiang, if any, are to be paid by Yeung.
+1.9 For the common law proceedings, the costs of Jiang are to be paid by Up Cheer, Yeung and the Board jointly and severally. The costs of the Board, including the costs to be paid by the Board to Jiang, if any, be paid by Up Cheer and Yeung jointly and severally.
+
+II. The appeal
+
+2.1 Pursuant to leave granted by a single judge of this Court, the Board appeals against the costs orders. The Board contends that the Judge had no jurisdiction to order costs against the Board in both proceedings, or alternatively, that even if the Judge has such jurisdiction, the discretion was wrongly exercised.
+2.2 The Board asked for the following relief : 
+
+1) EC proceedings 
+
+(1) The order varying the costs nisi be set aside (save and except the part ordering that 'the costs of the Board in the EC proceedings, including the costs to be paid by the Board to Jiang in the EC proceedings, if any, be paid by Yeung'), and
+(2) The terms of the costs nisi (save and except the part ordering that 'the costs of the Board in the EC proceedings be paid by Jiang and Yeung') be restored and made absolute.
+
+2) Common law proceedings 
+
+
+2.3 The order which varied the costs nisi to be set aside and the terms of the costs nisi be restored and made absolute.
+
+III. The statutory scheme
+1) Recovery of payment
+
+3.1 The ECAO which was enacted in 1991, set up the Employees Compensation Assistance Scheme (the 'Scheme') to provide payment to injured employees who are unable to receive their entitlements for employment-related injuries from employers or insurers after exhausting legal and financially viable means of recovery.
+3.2 The Scheme is administered by the Board, which holds the Fund upon trust. The Fund is financed by a levy on the premium of employees' compensation insurance policies issued for the purpose of Employees' Compensation Ordinance ('ECO') (Cap. 282) to cover employers' liabilities arising from employment-related injuries (see sections 4(c) and 8(b)). The Scheme and the Board have been described in the cases as the last resort for obtaining payment of compensation or damages legally awarded to employees : So Yuk Kam v. Liu, Chan & Lam [2015] 5 HKLRD 640 
+at paragraph 110 and 
+Fok Por v Sum Shuk Ching [1992] 1 HKC 581 
+at 586 I.
+3.3 Under Part IV of ECAO, two types of payments can be made from the Fund. The first is unpaid compensation pursuant to, among other things, a judgment in EC proceedings (section 16 of ECAO ). The second type of payment is unpaid damages payable to an employee pursuant to judgment obtained in common law proceedings against an employer (section 20A of ECAO ).
+3.4 The payment under section 20A of ECAO is described as 'relief payment'. Section 20B sets out the amount of the relief payment, namely, the amount of damages that the employer is liable to pay the employee after the amount is reduced by, among other things, the compensation which has been paid or is payable under the ECO in respect of the injured employee.
+
+2) Costs
+
+3.5 There are different treatments of the costs incurred by the employee in EC proceedings and in common law proceedings. The costs incurred by the employee in EC proceedings are recoverable by virtue of section 23(1) of ECAO: 
+
+23(1) 'Where the Board has determined an application under section 16 in favour of an applicant then in addition to any amounts of compensation to be paid from the Fund the Board shall, subject to this section, agree to pay from the Fund— 
+(a)the costs incurred by the applicant in making the application ; and
+(b)an amount equal to any costs payable to the applicant pursuant to an order of a court for costs against the employer or the employer's insurer in proceedings claiming the compensation .' (emphasis added)
+
+
+
+
+
+3.6 However the costs incurred by the employee in common law proceedings are excluded from the relief payment. This is provided by section 20B(3): 
+
+20B. (3) 'Notwithstanding the definitions of "compensation" and "damages", for the purposes of determining the amount of a relief payment— 
+(a) any interest payable on any amount; and
+(b) any costs,
+
+ arising from proceedings in respect of any damages or compensation claim shall not be included.'
+
+
+
+
+3.7 The exclusion of the costs in common law proceedings from the relief payment was effected by the amendment to the ECAO in 2002. Prior to the amendment, the old section 23 drew no distinction between payment of costs in EC proceedings or common law proceedings. 
+
+23. ' Costs
+
+(1) Where the Board has determined an application under section 16 in favour of an applicant then in addition to any amounts of compensation or damages to be paid from the Fund the Board shall, subject to this section, agree to pay from the Fund— 
+(a) the costs incurred by the applicant in making the application; and
+(b) an amount equal to any costs payable to the applicant pursuant to an order of a court for costs against the employer or the employer's insurer in proceedings claiming the compensation or damages.'
+
+
+
+
+3.8 As shown in the case of Kwan Kam Pui v Fung Man (馮文) & Others [2014] 6 HKC 361 
+where Bharwaney J referred to the history of the amendment in 2002, the purpose of the amendment was to address the perilous position of the Fund and restore the financial stability of the Scheme for its continuous long-term operation. Since 1996/97, the Fund had been operating on annual deficits. It had been facing a rising number of large claims and escalating amounts of damages awarded by the Court. As commented by Bharwaney J in Kwan Kam Pui: 
+
+29. '.. that the passive role of the ECA Fund Board up to that point of time contributed to the substantial depletion of the Fund, from which payments were made to eligible persons who obtained judgments for substantial amounts, by reason of their claims being undefended.'
+
+
+
+
+
+3) Joinder
+
+3.9 Together with the amendment on costs, there are express provisions on the Board joining as a party to the proceedings commenced by the employee against the employer.
+3.10 The joinder of the Board as a party may take two forms. First, it may take over the defence as if it were the employer in the proceedings. This is provided by section 25A(a). Briefly, this occurs where there is no policy of insurance and the employer, among other things, did not attend the hearing leaving the claim uncontested. 
+
+25A. ' Board may apply to be joined as party to proceedings
+
+If proceedings have been initiated to claim compensation or damages (whether initiated before, on or after the commencement of this section), the Board may apply to the court to be joined as a party to the proceedings as follows— 
+(a) where no policy of insurance is known to be in force at the time of the accident to which the proceedings relate, the Board may apply to the court to join in the proceedings as a party in accordance with Order 15, rule 6 of the Rules of the High Court (Cap. 4 sub. leg. A) or Order 15, rule 6 of the Rules of the District Court (Cap. 336 sub. leg. H), as the case may require, to take over the defence as if it were the employer in the proceedings if— 
+(i) the employer cannot be identified or, if identified, cannot be found;
+(ii) the employer is insolvent;
+(iii) the employer is dead or has been dissolved, wound up or struck off the register;
+(iv) the employer, for any reason, cannot be served with the notice of proceedings; or
+(v) at any time when the employer fails to attend the hearing, leaving the claim uncontested;'
+
+
+
+
+3.11 Notwithstanding the provision that the Board is to take over the defence 'as if it were the employer in the proceedings', the judgment that can be entered is only against the employer and not the Board ( Tu Zhiqiang and Hap Sang Co (a firm) [2012] 1 HKLRD 1075 
+per Cheung CJHC at 1082 and 1083).
+3.12 Second, the Board may join in simply as a party as provided for by section 25A(b) and (c). Briefly, this occurs where either there is no policy of insurance and the employer is present as in section 25A(b), or where the insurer is insolvent as in section 25A(c). 
+
+25A(b) ' where no policy of insurance is known to be in force at the time of the accident to which the proceedings relate and the employer is present at the proceedings, the Board may apply to the court to join in the proceedings as a party in accordance with Order 15, rule 6 of the Rules of the High Court (Cap. 4 sub. leg. A) or Order 15, rule 6 of the Rules of the District Court (Cap. 336 sub. leg. H), as the case may require;
+(c) where the insurer concerned is insolvent, the Board may apply to the court to join in the proceedings as a party in accordance with Order 15, rule 6 of the Rules of the High Court (Cap. 4 sub. leg. A) or Order 15, rule 6 of the Rules of the District Court (Cap. 336 sub. leg. H), as the case may require.'
+
+
+
+
+3.13 As pointed out earlier, in the present case the Board joined as a party to the two proceedings pursuant to section 25A(b).
+3.14 Prior to the amendment, there was no express provision in ECAO for the Board to intervene in any proceedings between an employee and his employer. However as shown in the case of Lai Chi Pon v Toto Steel & Iron Works Ltd & Others [1997] 2 HKC 195 
+, even prior to the amendment, the Board recognised that there was no restriction in the ECAO which prevented the Board from intervening in the proceedings. However, the practice of the Board at that time was to take a passive attitude to such proceedings and it rarely sought to intervene in them.
+
+4) Direct proceedings against the Board
+
+3.15 There is a separate provision by way of section 25 which enables the employee to sue the Board directly as if it were the employer for employees' compensation on the fulfilment of certain conditions. Section 25 is also a pre-amendment provision, the difference with the 1991 version is again the deletion of the word 'damages' resulting in the employee now only being able to sue the Board directly for employees' compensation and not common law damages.
+
+IV. Kwan Kam Pui
+
+4.1 The Judge's decision to award costs against the Board was to follow the approach of Bharwaney J in Kwan Kam Pui where he held that : 
+
+25. 'On my construction of the above provisions of the ECAO, I conclude that there is nothing in these provisions governing the statutory scheme for relief payments that impacts on the court's discretion to award costs in actions brought by injured employees to recover damages for personal injuries. The statutory definition of a relief payment, which excludes costs incurred to obtain a judgment, does not impact on or, otherwise, affect the court's general, and very wide, powers to award costs in common law proceedings for damages for personal injuries.
+
+26. Whilst I agree with the submission of Mr Wong that the intention of the legislature was clear that the ECA Fund Board is not required to pay the costs of common law proceedings to applicants for relief payments, there is nothing in the provisions relating to the statutory scheme which have been addressed thus far to fetter the court's discretion as to costs in cases where the ECA Fund Board elects to participate in those common law proceedings. Are there any other provisions under the ECAO which impact on the court's wide discretion to award costs?
+
+..
+36. On my construction of section 25A, I conclude that there is nothing in its provisions which affect the court's wide discretion on the award of costs. Indeed, all three sub-paragraphs of s 25A direct the ECA Fund to intervene, if it so chooses, pursuant to O 15 r 6 of the Rules of the High Court, or of the District Court, as the case may be. Unlike s 43(3) of the Employees' Compensation Ordinance (Cap 282), s 25A does not create a separate power which the court can utilise to join the ECA Fund Board. The reference to the application for joinder being governed by the O 15 r 6 reinforces my conclusion that s 25A does not seek to curtail either the powers of the court in its conduct of the proceedings before the court or the wide powers conferred by s 52A of the High Court Ordinance to make orders as to costs against parties, intervening parties, and even non parties'
+
+
+
+
+4.2 Bharwaney J drew a distinction between cases where the Board did not intervene and where it did. In the former it is likely that the employee would obtain a higher award because the proceedings are undefended. In the latter because of the intervention by the Board, the employee would be likely to receive a lower award because of the defences put up by the Board. As such, in the latter situation it would be unfair for the employee not to be able to recover the costs from the Board. The case was concerned with the joinder of the Board in common law proceedings.
+4.3Kwan Kam Pui was followed in a number of first instance decisions : Chak King Por v. Wong Chun Fai [2016] 2 HKLRD 1076 
+(Bebe Chu J); Wo Chun Wah v Chau Kwei Yin & Others (HCPI 903/2014) 
+, judgment dated 23 June 2017, Deputy High Court Judge Anthony To; Wong Kai Fun v. Sun On Logistics Limited & Employee's Compensation Assistance Fund Board DCEC 5/2013 
+, unreported, 20th May 2015 (HH Judge Levy); Begum v. Native English Centre Ltd [2017] 4 HKLRD 316 
+(HH Judge Levy).
+
+V. The Board’s arguments
+
+5.1 Mr Horace Wong SC (together with Mr Roger Phang) for the Board argued that there is no jurisdiction to make costs orders against the Board : 
+
+1) The Court's jurisdiction to award costs, which is derived from section 53(1) of the District Court Ordinance (Cap. 336), can be overridden by specific provisions that prevail over it. As the statutory scheme under Part IV of the ECAO is largely self-contained, the provisions ought to be construed as exhaustively setting out the circumstances in which the Board shall pay the costs of an injured employee. Prima facie, the absence of an express provision for costs against the Board points to the lack of such jurisdiction.
+2) The types of payments which the Board may make from the Fund are exhaustively set out in section 8 of the ECAO . None of the categories include the employees' costs of the proceedings which the Board is not otherwise required or permitted to pay under the ECAO .
+3) While it is undisputed that an employee who obtains an award of damages against his employer cannot, in cases where the Board did not intervene ('Non-Intervention Cases'), recover 'any costs' arising from those proceedings in an application for relief payment made under section 20A, nothing in the ECAO suggests that the legislature intended the position to be different in cases where the Board intervened ('Intervention Cases'). The words 'arising from proceedings in respect of any damages or compensation claim' in section 20B(3) of the ECAO draw no distinction between intervention and non-intervention cases. The plain meaning and effect of those words cannot be construed to produce the anomalous result that employees in intervention cases can recover their costs from the Board but those in non-intervention cases cannot.
+4) The history of the ECAO and the reasons for its substantial amendment reinforced this construction. The amendment expressly removed the payment of costs from the relief payment. Their purposes of the amendment were to rescue the Fund and restore its financial sustainability and the legislature's overarching intention in passing the amendment was to insulate the Board from any obligation to pay costs to an employee in common law proceedings for damages. Further, the amendment was introduced in conjunction with provisions such as sections 25A and 25B of the ECAO which were aimed at facilitating the Board in taking a more active role in proceedings for employees' compensation or damages. It could not have been the legislature's intention to leave the back door open for the Court to order costs against the Board in intervention cases, thus reversing the effect of section 20B(3) and defeating its purpose. If the Court had jurisdiction to order costs against the Board in intervention cases, there can be no doubt that employees will ask the Court to do so in most, if not all, intervention cases. It is inconceivable that the legislature intended to leave the question of whether the Board ought to be liable for the employee's costs for the Court to decide on a case-by-case basis. This would result in uncertainty and require the Court to devise some principles on how that discretion ought to be exercised. Presently, one view has emerged in practice that the Board will not be ordered to pay costs unless it had acted unreasonably, but not otherwise (see Chak King Por v Wong Chun Fai [2016] 2 HKLRD 1076 at paragraphs 76 to 79; Yu Chun Kit v Wong Wing Yau & Another DCEC 1787/2015 (unrep., 5 June 2017), paragraph 52). However, Bharwaney J went further and held that the usual order would be for the Board to pay the costs of the entire action where the plaintiff succeeds in obtaining damages. None of this could have been intended by the legislature at a time when the Fund was in a perilous state. Therefore, the legislative intention could not have been to introduce a bifurcated approach for intervention and non-intervention cases.
+
+
+5.2 Mr Wong criticised Bharwaney J's approach in that he failed to properly and purposively construe the provisions of the ECAO and he argued that the distinction between non-intervention cases and intervention cases is irrelevant because section 20B(3) of the ECAO indiscriminately excludes 'any costs' irrespective of whom it was ordered against, and whether or not the Board had intervened.
+5.3 Mr Wong further argued against the making of a direct costs order against the Board in EC proceedings because it will allow an employee to bypass the section 16 system and enforce the costs order directly against the Board. A direct costs order against the Board disrupts the statutory scheme by accelerating payment of those costs prior to any attempts being made to enforce the judgment (and the costs order, if also made against the employer jointly and severally with the Board, as here) against the employer. Furthermore, such a costs order precludes the operation of the subrogation provisions of section 37 which provides that : 
+
+37. ' Subrogation
+
+(1) Where a payment is made from the Fund under Part IV to any person ("the recipient"), being payment of an amount of compensation or damages which an employer, insurer or third party is liable to pay the recipient, all the rights and remedies of the recipient with respect to— 
+(a) the compensation or damages existing immediately before the payment are, to the extent of the amount of the payment; and
+(b) any sum payable in respect of interest or costs in respect of the compensation or damages are,
+
+ transferred to and vested in the Board for the benefit of the Fund.'
+
+
+
+
+
+VI. My view
+1) Jurisdiction to award costs against the Board
+
+6.1 I do not find this to be an easy case, but in the end, I am satisfied that the Court's discretion to award costs against the Board when the Board joins as a party is not excluded by the 'no costs' provision in the relief payment scheme. Before I address this point, there are some preliminary matters I need to discuss first.
+6.2 In his judgment Bharwaney J also expressed the view that the exclusion of costs from the relief payment is inherently unjust because in order to obtain the relief payment, the employee has to incur costs by commencing proceedings against the employer and insurer. Because these costs are not recoverable, they will eat into the relief payment that the employee may eventually recover from the Board.
+6.3 One's sympathy naturally lies with the employee, who in order to obtain payment for damages which his employer was ordered to pay but had failed to do, has to fulfill the conditions of suing the employer first and to take reasonable steps to recover the payment from the employer and insurer. The net result is that the relief payment he will receive is reduced by the costs that he has to incur in order to fulfill these conditions. While Bharwaney J described this as a catch 22 situation, the reality is that this is how the statute operates. Certainly, by 2002 our Legislature was more representative in nature including trade union and labour representatives who were able to put forward the views of their constituents. But, nonetheless, by a majority, the amendment to exclude costs from relief payment was approved. In respect of the hardship to the employee, one has to bear in mind that the primary responsibility to pay an injured employee lies with the employer and the insurer. The Board who administers the Fund is the last resort for the unpaid workers.
+6.4 Bharwaney J also referred to the intervention by the Motor Insurers' Bureau in proceedings. In my view, this is not relevant for the purpose of interpreting ECAO . The focus must be on the operation of this particular statute and not on how the Motor Insurers' Bureau operates in the context of costs.
+6.5 Further, for the interpretation exercise, I really do not see any difference between an employee who is legally aided and one who can finance the litigation himself. The fact that a worker on legal aid may have his costs absorbed by the legal aid fund does not mean that the argument on reduction of the relief payment by reason of the exclusion of costs is invalid. It is equally applicable to a worker who has to contribute towards the legal aid fund.
+6.6 Turning now to the question of interpretation, the crux of the matter is whether the 'no costs' provision in the relief payment scheme is so embracing that the Court's discretionary jurisdiction to award costs is likewise excluded in cases when the Board has joined as a party. I recognize the force of the argument that the provision which excluded costs to be recoverable from the relief payment and the express provision on joinder by the Board were introduced in the same amendment at the same time and it would be most unusual that after the express provision on exclusion of costs in relief payment, the Legislature would at the same time allow costs to be made against the Board in the joinder situation.
+6.7 However, the starting point is that one cannot detect from the statute a total ban on the making of costs orders against the Board when it has joined as a party. What is important is to recognize that there are two regimes in this discussion. The first regime is that of the relief payment application where costs are excluded from the recovery. The second regime is the joinder of the Board as a party. There is nothing in the provision of these two regimes which shows that costs to be made against the Board in a joinder situation (which expressly refers to the joinder provisions of Order 15, rule 16) are likewise excluded. In the absence of any express provision, it cannot be said that, reading the statute as a whole, it must have been so intended. If it is intended by the amendment to incorporate the procedural aspects of a joinder and to exclude the Court's power to award costs against the Board, the easiest way is to make an express exclusion of costs in section 25A. This has not been done.
+6.8ECAO is a piece of social legislation whose laudable aim is to ensure employees who are injured or have died as a result of an accident at work will not suffer from unsatisfied judgments. What they will recover, however, in a damages application under sections 20A and 20B is already not the full entitlement but with the costs being excluded. This by itself is already hard enough because the employees have to pay his own costs from the relief payment which will reduce his entitlement. This is, however, as I have said, something built within the relief payment system. But, if on top of that, when the Board joins as a party which caused the employee to incur further costs so that his unsatisfied judgment will be further reduced by the additional costs incurred by reason of the presence of the Board, then this will substantially defeat the idea of having this type of social legislation in the first place. In the absence of express provisions to the contrary, I am not prepared to accept that this is so intended notwithstanding the amendment on costs and joinder was introduced at the same time.
+6.9 The distinction drawn by Bharwaney J between a joinder situation and non joinder situation in terms of costs is a real one. As submitted on behalf of Jiang, the immunity from costs of the Board will unwarrantedly place it in a very advantageous and dominating position causing injustice to injured employees, particularly, when the Board ultimately failed in the case. In the present case, although Mr Wong did not press for a costs order in favour of the Board against Jiang, it is clear from his submission that the Court indeed has the discretionary jurisdiction to make a costs order in favour of, but not against, the Board. This, in my view, will make a mockery of the Court's discretionary jurisdiction and more importantly undermines the foundation of the Board's case that the Court does not have any discretion to make costs orders against the Board in the joinder situation. Either the discretion exists or it does not. If there is a discretion, it cannot be a discretion to be exercised in favour of one party and not the other. I see nothing in the statute which points towards a partial discretion.
+6.10 The Court's discretionary jurisdiction to make costs orders is well established. The Board's argument on uncertainty being created on a case by case basis is exaggerated. Bharwaney J's view that the Board may be liable for the costs of the whole action is not necessarily appropriate in all circumstances. It depends on the context of the case. What is important is that the discretionary jurisdiction is guided by well established 'principles' on how costs are to be awarded.
+6.11 I further agree that one should recognize the principles on costs summarised by Mr Frederick Chan (together with Ms Ann Lui) for Jiang : 
+
+(1) Costs are at the Court's discretion and under the compensatory principle on costs, the starting point (or the most important criterion) is that costs should follow the event and be recovered by the successful party;
+
+(2) Any preemptive costs order depriving a party of costs before the determination of a case on merits should be rare, exceptional and must be fully justified as the postulated inability of a party to recover costs upon achieving success in a suit from the unsuccessful party will be an inhibitive factor with chilling effects resulting in unfairness ( Designing Hong Kong Ltd. v. Town Planning Board [2017] 2 HKLRD 60 , paragraphs 35, 50-59, per Cheung CJHC, Lam VP and Poon JA applying Oshlack v. Richmond River Council [1998] 193 CLR 72 , paragraphs 65 to 70, per McHugh J).
+(3) In the context of a joinder of a party, it is erroneous in principle for the Court to impose a preemptive costs order under Order 15, rule 6, to the effect that the newly joined party should not be awarded costs of the entire proceedings in any event (see: Wong Chun Loong Tony v. Ada Ltd. [1991] 1 HKC 86 , paragraphs 91F to 92A, 98F to 99G, per Clough JA);
+(4) Under common law, the Court will construe statutes subject to the right to unimpeded access to justice and such right can only be abrogated by clear and express words ( Regina (UNISON) v. Lord Chancellor [2017] 3 WLR 409 , paragraphs 66 to 85, per Lord Reed JSC). The relevant and ultimate question for the Court is: 
+'  whether the impediment or hindrance in question had been clearly authorised by primary legislation' (paragraph 79, per Lord Reed JSC).'
+
+
+
+6.12 In my view these principles are applicable to the interpretation exercise.
+6.13Tu Zhiqiang has clearly stated that where the Board took over proceedings of the employers pursuant to section 25A(a), the judgment is to be entered against the employer and not the Board. But in respect of direct costs orders against the Board in the EC proceedings, the argument on disrupting the procedure for the compensation payment and right of subrogation really begs the question why such orders cannot be made when there are two separate regimes involved. My view is that there is no impediment to such an order if the two regimes are properly recognized.
+6.14 Bharwaney J was correct in the interpretation of the statute. This is sufficient to dispose of the Board's argument on exclusion of costs against the Board. But there are two other provisions in Part IV which are against the argument that the Court's discretion on costs has been removed.
+6.15 Section 29 of ECAO (enacted and implemented since 1991) empowers the Board to make a 'without prejudice as to costs' settlement offer after being joined as a party in a pending EC Action and PI Action. It provides that : 
+
+'Written offers by the Board in proceedings
+
+(1) Notwithstanding any other law where, in proceedings to which the Board is a party under this Part, the Board makes a written offer to any other party in the proceedings which is expressed to be "without prejudice save as to costs" and which relates to an issue in the proceedings, then in deciding the question of costs the court shall take into account any such offer which has been brought to its attention.
+(2) An offer made under subsection (1) shall not be communicated to the court until the question of costs falls to be decided.'
+
+
+
+
+
+6.16 Bharwaney J held : '  The first point to note about this provision is that it applies 'notwithstanding any other law'. Accordingly, its effect, and its only effect, is to override any contrary law that prevents the court from taking into account any offer make by the ECA Fund Board that is 'without prejudice save as to costs'. Secondly, it is to be noted that the exact same provision has existed since 1991, ie this provision was not amended in 2002. Before 2002, when the ECA Fund Board was obliged to provide full payment for damages, interests, and costs, nobody could sensibly contend that this provision curtailed the court's jurisdiction to award costs against the ECA Fund Board which had joined in the proceedings pursuant to O 15 r 6.'
+
+
+6.17 While section 29 is a pre-amendment provision, there is no indication that it has no application to a post 2002 joinder situation. Section 29 is consistent with the presence of a discretionary jurisdiction where the Board has joined as a party.
+6.18 Another provision is section 23(4) which provides that : 
+
+(4) 'Where an application relates to compensation which are or have been the subject of proceedings in any court in which an order was made apportioning costs as between the Board and the employee, the Board shall only be liable for the purposes of subsection (1)(a) to pay the employee's costs in the same proportion as was so ordered in those proceedings.'
+
+
+
+
+6.19 Section 23 is the section which provides that costs in EC proceedings may be paid from the Fund where the employees applies under section 16(1) for the payment of the unsatisfied compensation. This section (including section 23(4)) has been in existence since 1991. Specifically in respect of section 23(4), the 2002 amendment is to delete the word 'damages' in line with the amendment to section 16(1) which also deletes the word 'damages'. As a result the application for payment of unsatisfied damages is now provided by the separate system of 'relief payment' in the new section 20A. Again the power to apportion costs is consistent with the existence of a discretionary jurisdiction in a joinder situation.
+
+2) Has the discretion been properly exercised?
+
+6.20 Although the Judge was correct on the jurisdictional point, I am of the view that she had exercised her discretion wrongly in ordering the Board to pay costs in both sets of proceedings.
+6.21 As the Judge held, the Board at the trial had confined its challenge to whether Cheng was an employer of Jiang and the Judge's decision was that Cheng was not Jiang's employer. This being the case, the Board was the successful party in the two proceedings. A well established 'principle' on costs is that costs follow the event. While the Court in the exercise of its discretion may refuse to make a costs order in favour of a successful party, it is most unusual and rare for a successful party to bear the costs of the unsuccessful party. This clearly is not such a case. Although the Judge referred to the fact that the Board's pleadings made no admission of Jiang's case, the reality is that at the trial, the issue was narrowly confined to whether Cheng was the employer. In any event, Jiang had to prove his case against Yeung and Up Cheer. In the circumstances, the Judge had clearly exercised her discretion wrongly in ordering the Board to pay the costs of Jiang. This entitles this Court to exercise the discretion afresh. The correct costs orders are those the Judge made by way of orders nisi (other than the parts now not pressed upon by the Board).
+
+VII. Conclusion
+
+7. The appeal is accordingly allowed and there will be an order in terms of the relief sought by the Board.
+
+VIII. The costs of the appeal
+
+8. Although the appeal is allowed, Jiang is the real successful party. The Board is only partially successful in its appeal. It fails in the jurisdictional issue which in fact took up the substantial part of the appeal. The costs relating to these two issues should be apportioned. I would make a costs order nisi that the Board is to pay 80% of the costs of the appeal to Jiang. Jiang's own costs are to be taxed according to Legal Aid Regulations with a certificate for two counsel.
+Yuen JA :
+9. I agree with Cheung JA that the Board fails in its jurisdiction argument, but succeeds in its discretion argument.
+10. First, it may be useful to set out some general observations.
+11.1. Before the amendment of the Employees Compensation Assistance Ordinance Cap. 365 ("ECAO") on 1 July 2002, when an employee applied to the Board for payment from the Fund, he could include costs in the application, irrespective of whether his proceedings against his employer had been for: 
+
+(1) employees compensation ("EC") under the Employees Compensation Ordinance Cap. 282, or
+(2) Common Law damages ("CLD").
+
+
+11.2. Generally speaking, costs in CLD proceedings were (and are) higher than those in EC proceedings. 
+
+- EC proceedings gave rise to less costs because (a) the issues are restricted by the limited requirements for entitlement to employees compensation and therefore the proceedings take less time and (b) those proceedings are heard in the District Court where there is a lower scale of costs.
+- CLD proceedings however, generally gave rise to more costs because (a) the issues of fact and law are unrestricted and (b) those proceedings are often heard in the High Court (as the District Court's jurisdiction in damages is limited to only $1m).
+
+
+11.3 The amendment to the ECAO in 2002 drew a distinction between (1) EC proceedings and (2) CLD proceedings, on the issue of costs, in applications to the Board for funds after an employee has obtained a court order in his favour. I shall discuss below the post-amendment scheme insofar as it is material to this appeal.
+
+Applications to the Board pertaining to EC proceedings only
+
+12.1. After the 2002 amendment, the following provisions apply to applications to the Board for funds relating to EC proceedings only: 
+
+- s.16, which governs payments from the Fund, now applies to compensation awarded in EC proceedings only;
+- s.23(1)(b) provides that the employee can include, in his application to the Board, costs awarded to him in the EC proceedings 1;
+- s.25(1) provides that if: 
+- the employer cannot be identified or found, or is insolvent, or is dead 2 , or cannot be served, and
+- there is no policy of insurance covering the employee,
+
+ the employee can sue the Board as if it were the employer, and in that event, under s.25(4), the rights and liabilities of the employer in respect of the compensation would be vested in and transferred to the Board;
+
+- s.28(1) provides for a "pre-proceedings" offer from the Board if it thinks that an employee might be entitled to apply for a s.16 payment from the Fund. In that situation, the Board may make an offer to him, and s.28(4)(b) provides that if the offer was greater than the sum which the court eventually awarded to him, the Board shall not be liable to pay his costs after the date of the offer;
+- s.28(5) provides that when the Board takes part in EC proceedings, it may agree costs with the parties instead of going to taxation.
+
+
+12.2. The above provisions (particularly s.28(4) and (5)) make it abundantly clear that an employee who is awarded costs in EC proceedings can include them in applications to the Board for payment from the Fund. Section 28(4) is not restricted to situations where the Board takes part in the EC proceedings, whereas s.28(5) expressly applies to those situations.
+
+Applications to the Board pertaining to CLD proceedings only
+
+13.1. By contrast, after the 2002 amendment, the following provisions apply to applications to the Board for funds relating to CLD proceedings only: 
+
+- s.20A-G created a new payment called a "relief payment" from the Fund for the benefit of employees who are unable to recover damages from their employers;
+- s.20B(1)(a) provides that there shall be deducted from those damages any employees' compensation paid or payable;
+- s.20B(3) provides that "for the purposes of determining the amount of a relief payment", any interest 3 and any costs 4 arising from the EC and CLD proceedings shall not be included.
+
+
+13.2. It is important to note here that s.20B(3) has been expressed in terms of how the Board is to "determine the amount" of a relief payment. In my view these words show that this is a provision governing quantum. It is not a provision governing liability whereby (as Mr Wong argued) the Board was rendered exempt from paying any amount of costs in whatever circumstance.
+13.3. With respect to Mr Wong, I am of the clear view that s.20B(3)(b) does not oust the jurisdiction of the court to order costs against the Board. Very clear language is needed before the court's jurisdiction is ousted. I do not consider that the language in s.20B(3)(b) has expressed such an intention. It is also relevant to note that in the same subsection, s.20B(3)(a) provides in the same terms that in the quantification of relief payment, interest is also not to be taken into account. Can it possibly be argued that that ousts the jurisdiction of the court in CLD proceedings to order interest just because the Board is a party (as in this case, together with the employer)? The answer is clearly no.
+
+The Board’s liability for costs as a party
+
+14.1. The above analysis is made even clearer by the combined effect of s.25A, s.25B and s.29, which apply to both EC proceedings and CLD proceedings.
+14.2. First, s.25B provides that an employee must notify the Board of proceedings (be they EC proceedings or CLD proceedings). Section 25A then sets out the circumstances in which the Board can apply to court to be joined as a party.
+14.3. Section 29 is significant. It has been set out in §6.15 of Cheung JA's judgment. It provides that: 
+
+(1) notwithstanding any other law,
+(2) where there are proceedings in which the Board is a party,
+(3) the Board makes a written offer to any other party in the proceedings,
+(4) the offer being expressed to be "without prejudice save as to costs" in relation to any issue in the proceedings,
+
+ then the court shall not be told of the offer before the question of costs is to be decided, but when that stage arrives, the court shall take into account such offer in deciding the question of costs.
+14.4. It is notable that at (2) above, the "proceedings" are not confined to EC proceedings; thus the section governs CLD proceedings as well.
+14.5. Further at (3) above, the written offer may be made to "any other party"; the employee (the most obvious recipient of an offer of payment) is clearly included.
+15. These provisions reinforce the view that where the Board is a party to CLD proceedings 5, the court's jurisdiction to award costs against it has not been ousted by s.20B(3), which provision merely quantifies the amount of relief payment.
+16. Finally, it would be clearly unfair to an employee if he cannot recover costs from the Board even if, to take an extreme example, the latter has grossly increased the amount of costs by taking completely misconceived points during the proceedings. On Mr Wong's submission, a court would be impotent to order that the Board pay the wasted costs attributable to even completely misconceived points. I would be reluctant to come to such a finding unless the language admits of no other arguable interpretation.
+17. For the reasons set out above, it seems to me that s.20B(3)(b) contemplates the usual situations where the CLD proceedings are only between the employee and his employer (and if applicable, non-Board parties) 6 where the Board has no means of controlling the costs and it is only acting as "paymaster" of the Fund. The subsection does not apply to those situations where the Board has joined the CLD proceedings as a party, is in a position to influence the way the proceedings develop (with consequential effect on costs) 7 and the court has, in the exercise of its discretion, made an order that the Board should pay the employee's costs.
+18. However in the present case I agree for the reasons given by Cheung JA that the learned deputy district judge has erred in the exercise of her discretion in ordering that the Board pay the employee's costs when she had found that the Board was successful in defending the employee's case against Cheng. I also agree with Cheung JA's order regarding the costs of this appeal.
+Kwan JA :
+19. I agree with the judgments of Cheung JA and Yuen JA.
+ 1The reference to "damages" previously in this section was repealed by the 2002 amendment.
+ 2Or a corporate employer has been dissolved, wound up or struck off the register.
+ 3S.20B(3)(a).
+ 4S.20B(3)(b).
+ 5Indeed under the rules of court, costs may be ordered even against non-parties: O.62 r.6A RHC, but that is not material to this appeal.
+ 6Such as third party occupiers of premises where the employee was injured.
+ 7E.g. by making "without prejudice save as to costs" offers: s.29.
+
+ © 2018 Thomson Reuters 
+
+
+
+
+
+ 
