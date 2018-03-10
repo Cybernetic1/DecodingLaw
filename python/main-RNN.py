@@ -23,10 +23,9 @@ from collections import defaultdict	# for default value of word-vector dictionar
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 PRE_TRAINED = True
 GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
-batch_size = 64
-embedding_dimension = 64		# this is used only if PRE_TRAINED = False
-num_classes = 2
-hidden_layer_size = 32
+batch_size = 128
+num_classes = 3
+hidden_layer_size = 64
 times_steps = 128				# this number should be same as fixed_seq_len below
 
 """ These are the 3 classes of laws:
@@ -34,6 +33,7 @@ times_steps = 128				# this number should be same as fixed_seq_len below
 * dangerous driving
 * OTHERWISE, or work injuries
 """
+categories = ["nuisance", "dangerous-driving", "injuries"]
 
 # =================== Read case examples from file ======================
 """
@@ -44,34 +44,36 @@ times_steps = 128				# this number should be same as fixed_seq_len below
 seqlens = []
 labels = []
 data = []
-num_examples = 0 				# change to larger later
 fixed_seq_len = times_steps		# For each case law, take N consecutive words from text
 
-for i, category in enumerate(["nuisance-YELLOW", "dangerous-driving-YELLOW"]):
-	for filename in os.listdir("laws-TXT/" + category):
+print("**** Preparing training data....")
+for i, category in enumerate(categories):
+	print("Category: ", category)
+	for j, filename in enumerate(os.listdir("laws-TXT/" + category + "-pure")):
 		yellow_stuff = []
-		with open("laws-TXT/" + category + "/" + filename) as f:
+		with open("laws-TXT/" + category + "-pure/" + filename) as f:
 			for line in f:
 				line = re.sub(r'[^\w\s-]',' ',line)	# remove punctuations except hyphen
 				for word in line.lower().split():	# convert to lowercase
 					if word not in stopwords.words('english'):	# remove stop words
 						yellow_stuff.append(word)
-		print("Case-law length = ", len(yellow_stuff))
+		print("Case-law #", j, " word count = ", len(yellow_stuff))
 
-		for j in range(0, 10):
+		for k in range(0, 5):
 			# Randomly select a sequence of words (of fixed length) in yellow text
 			seqlens.append(fixed_seq_len)		# this is variable in the original code (with zero-padding), but now it's fixed because we don't use zero-padding
 			rand_start = np.random.choice(range(0, len(yellow_stuff) - fixed_seq_len))
 			data.append(" ".join(yellow_stuff[rand_start: rand_start + fixed_seq_len]))
+			labels += [i]			# set label
 
-		# set labels
-		labels += [i]
+num_examples = len(data)
+print("Data size = ", num_examples, " examples")
 
 # ================ Set up data (for training & testing) ================
 
 for i in range(len(labels)):
 	label = labels[i]
-	one_hot_encoding = [0]*2
+	one_hot_encoding = [0] * num_classes
 	one_hot_encoding[label] = 1
 	labels[i] = one_hot_encoding
 
@@ -119,13 +121,14 @@ np.random.shuffle(data_indices)
 data = np.array(data)[data_indices]
 labels = np.array(labels)[data_indices]
 seqlens = np.array(seqlens)[data_indices]
-train_x = data[:num_examples]
-train_y = labels[:num_examples]
-train_seqlens = seqlens[:num_examples]
+midpoint = num_examples // 2
+train_x = data[:midpoint]
+train_y = labels[:midpoint]
+train_seqlens = seqlens[:midpoint]
 
-test_x = data[num_examples:]
-test_y = labels[num_examples:]
-test_seqlens = seqlens[num_examples:]
+test_x = data[midpoint:]
+test_y = labels[midpoint:]
+test_seqlens = seqlens[midpoint:]
 
 # =================== Prepare batch data ============================
 
@@ -190,9 +193,10 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 
 # ================== Run the session =====================
 
+print("**** Training RNN....")
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
-	for step in range(151):
+	for step in range(251):
 		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
 															train_x, train_y,
 															train_seqlens)
@@ -216,38 +220,38 @@ with tf.Session() as sess:
 
 	# =================== Process a single query ===================
 
-	print("Please enter your query: ")
-	query = sys.stdin.readline()
-	query = re.sub(r'[^\w\s-]',' ', query)	# remove punctuations except hyphen
-	query_words = []
-	for word in query.lower().split():		# convert to lowercase
-		if word not in stopwords.words('english'):	# remove stop words
-			query_words.append(word)
-	
-	query_vectors = []
-	f = open(path_to_glove, "r")
-	count_all_words = 0
-	for line in f:
-		vals = line.split()
-		word = str(vals[0])
-		if word in query_words:
-			count_all_words += 1
-			print(count_all_words, word)
-			coefs = np.asarray(vals[1:], dtype='float32')
-			coefs /= np.linalg.norm(coefs)
-			word2vec_map[word] = coefs
-		if count_all_words == len(query_words) -1:
-			print("*** found all words in query ***")
-			break
-
-	long_enough = False
-	while not long_enough:					# make up to 128 = times_steps size
-		for word in query_words:
-			query_vectors.append(word2vec_map[word])
-			if len(query_vectors) == times_steps:
-				long_enough = True
+	while True:
+		print("Please enter your query: ")
+		query = sys.stdin.readline()
+		query = re.sub(r'[^\w\s-]',' ', query)	# remove punctuations except hyphen
+		query_words = []
+		for word in query.lower().split():		# convert to lowercase
+			if word not in stopwords.words('english'):	# remove stop words
+				query_words.append(word)
+		
+		query_vectors = []
+		f = open(path_to_glove, "r")
+		count_all_words = 0
+		for line in f:
+			vals = line.split()
+			word = str(vals[0])
+			if word in query_words:
+				count_all_words += 1
+				# print(count_all_words, word)
+				coefs = np.asarray(vals[1:], dtype='float32')
+				coefs /= np.linalg.norm(coefs)
+				word2vec_map[word] = coefs
+			if count_all_words == len(query_words) -1:
+				# print("*** found all words in query ***")
 				break
-	result = sess.run(correct_prediction, feed_dict={_inputs: [query_vectors],
-													 _labels: [[0, 1]],
-													 _seqlens: [times_steps]})
-	print(result)
+
+		long_enough = False
+		while not long_enough:					# make up to 128 = times_steps size
+			for word in query_words:
+				query_vectors.append(word2vec_map[word])
+				if len(query_vectors) == times_steps:
+					long_enough = True
+					break
+		result = sess.run(tf.argmax(final_output, 1), feed_dict={_inputs: [query_vectors],
+														 _seqlens: [times_steps]})
+		print(categories[result[0]])
