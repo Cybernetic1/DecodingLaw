@@ -150,9 +150,11 @@ def strip_RTF(text):
 * For each file do processing
 """
 
-for filename in os.listdir("laws-RTF/nuisance"):
+category = "work-injuries"
 
-	f = open("laws-RTF/nuisance/" + filename, "r")
+for filename in os.listdir("laws-RTF/" + category):
+
+	f = open("laws-RTF/" + category + "/" + filename, "r")
 	data = f.read()
 	f.close()
 
@@ -164,6 +166,6 @@ for filename in os.listdir("laws-RTF/nuisance"):
 	data = data.replace("\highlight4", "\highlightG")
 	data = strip_RTF(data)
 
-	f = open("laws-TXT/nuisance/" + filename, "w+")
+	f = open("laws-TXT/" + category + "/" + filename, "w+")
 	f.write(data)
 	f.close()
