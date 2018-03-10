@@ -1,33 +1,29 @@
 # -*- coding: utf-8 -*-
 """
-The main RNN algorithm.
+Same as main-RNN but try to use many output labels, each corresponding to a
+	specific section of law (ordinance)
 
-Updates:
-1. RNN _input layer now changed to word-vector encoding
-2. can answer single queries
-3. use YELLOW highlight sections as training data
-
-Modeled after the code found in Ch.6 of "Learning Tensorflow" by Tom Hope et al.
+Work to do:
+* find all ordinances (specific sections)
 
 @author: YKY
 """
-import numpy as np
 import os						# for os.listdir and os.environ
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'	# suppress Tensorflow warnings
-import tensorflow as tf
+import numpy as np
 from nltk.corpus import stopwords
 import re						# for removing punctuations
 import sys						# for sys.stdin.readline()
 from collections import defaultdict	# for default value of word-vector dictionary
 import pickle
+import tensorflow as tf
+print("\n" * 100)				# get screen clear of warning messages
 
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
-PRE_TRAINED = True
 GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
-batch_size = 100
+batch_size = 512
 num_classes = 3
-num_layers = 3
-hidden_layer_size = 32
+hidden_layer_size = 64
 times_steps = 32				# this number should be same as fixed_seq_len below
 
 """ These are the 3 classes of laws:
@@ -37,7 +33,7 @@ times_steps = 32				# this number should be same as fixed_seq_len below
 """
 categories = ["nuisance", "dangerous-driving", "injuries"]
 
-# =================== Read prepared data from file ======================
+# =================== Read prepared training data from file ======================
 
 pickle_off = open("training-data.pickle", "rb")
 data = pickle.load(pickle_off)
@@ -56,11 +52,12 @@ zero_vector = np.asarray([0.0] * GLOVE_SIZE, dtype='float32')
 word2vec_map = defaultdict(lambda: zero_vector, word2vec_map)
 
 num_examples = len(data)
-print("Data size = ", num_examples, " examples")
+print("# training examples = ", num_examples)
 print("# unique words = ", len(word_list))
 print("# vectorized words = ", len(word2vec_map))
 
 fixed_seq_len = times_steps
+#seqlens = [times_steps] * num_examples
 
 # ============ Split data into Training and Testing sets, 50%:50% ============
 
@@ -68,16 +65,19 @@ data_indices = list(range(len(data)))
 np.random.shuffle(data_indices)
 data = np.array(data)[data_indices]
 labels = np.array(labels)[data_indices]
+#seqlens = np.array(seqlens)[data_indices]
 midpoint = num_examples // 2
 train_x = data[:midpoint]
 train_y = labels[:midpoint]
+#train_seqlens = seqlens[:midpoint]
 
 test_x = data[midpoint:]
 test_y = labels[midpoint:]
+#test_seqlens = seqlens[midpoint:]
 
 # =================== Prepare batch data ============================
 
-def get_sentence_batch(batch_size, data_x, data_y):
+def get_sentence_batch(batch_size, data_x, data_y):  # omit: data_seqlens
 	instance_indices = list(range(len(data_x)))
 	np.random.shuffle(instance_indices)
 	batch = instance_indices[:batch_size]
@@ -85,36 +85,48 @@ def get_sentence_batch(batch_size, data_x, data_y):
 			for word in data_x[i].split()]
 			for i in batch]
 	y = [data_y[i] for i in batch]
-	return x, y
+	#seqlens = [data_seqlens[i] for i in batch]
+	return x, y		# seqlens
 
 # ========= define input, output, and RNN structure =========
 
 _inputs = tf.placeholder(tf.float32, shape=[None, times_steps, GLOVE_SIZE])
 _labels = tf.placeholder(tf.float32, shape=[None, num_classes])
+# _seqlens = tf.placeholder(tf.int32, shape=[None])
 
-with tf.name_scope("GRU"):
-	_GRU_layer = tf.contrib.rnn.GRUCell(hidden_layer_size)
-	_cells = tf.contrib.rnn.MultiRNNCell([_GRU_layer] * num_layers)
+with tf.name_scope("biGRU"):
+	with tf.variable_scope('forward'):
+		gru_fw_cell = tf.contrib.rnn.GRUCell(hidden_layer_size)
+		gru_fw_cell = tf.contrib.rnn.DropoutWrapper(gru_fw_cell)
 
-	outputs, states = tf.nn.dynamic_rnn(cell=_cells,
-								inputs=_inputs,
-								dtype=tf.float32,
-								scope="GRU")
-	# 'outputs' shape = [batch_size, max_time, cell_state_size]
-	# outputs = tf.stack(outputs)
-	outputs = tf.transpose(outputs, [1, 0, 2])
+	with tf.variable_scope('backward'):
+		gru_bw_cell = tf.contrib.rnn.GRUCell(hidden_layer_size)
+		gru_bw_cell = tf.contrib.rnn.DropoutWrapper(gru_bw_cell)
 
-weights = {'linear_layer': tf.Variable(tf.truncated_normal([hidden_layer_size,
-												num_classes],
-												mean=0, stddev=.01))}
-biases = {'linear_layer': tf.Variable(tf.truncated_normal([num_classes],
-												mean=0, stddev=.01))}
+		outputs, states = tf.nn.bidirectional_dynamic_rnn(cell_fw=gru_fw_cell,
+														  cell_bw=gru_bw_cell,
+														  inputs=_inputs,
+														  # sequence_length=_seqlens,
+														  dtype=tf.float32,
+														  scope="biGRU")
+states = tf.concat(values=states, axis=1)
+weights = {
+	'linear_layer': tf.Variable(tf.truncated_normal([2*hidden_layer_size,
+													num_classes],
+													mean=0, stddev=.01))
+}
+biases = {
+	'linear_layer': tf.Variable(tf.truncated_normal([num_classes],
+													mean=0, stddev=.01))
+}
 
 # ========== Define final state and objective function ================
 
-final_output = tf.matmul(outputs, weights["linear_layer"]) + biases["linear_layer"]
+final_output = tf.matmul(states,
+						 weights["linear_layer"]) + biases["linear_layer"]
 
-softmax = tf.nn.softmax_cross_entropy_with_logits(logits=final_output, labels=_labels)
+softmax = tf.nn.softmax_cross_entropy_with_logits(logits=final_output,
+												  labels=_labels)
 cross_entropy = tf.reduce_mean(softmax)
 
 train_step = tf.train.RMSPropOptimizer(0.001, 0.9).minimize(cross_entropy)
@@ -128,9 +140,9 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 print("\n**** Training RNN....")
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
-	for step in range(600 + 1):
-		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
-												train_x, train_y)
+	for step in range(500 + 1):
+		x_batch, y_batch = get_sentence_batch(batch_size,
+											train_x, train_y)
 		sess.run(train_step, feed_dict={_inputs: x_batch, _labels: y_batch})
 
 		if step % 25 == 0:
@@ -138,11 +150,9 @@ with tf.Session() as sess:
 			print("Accuracy at %d: %.5f" % (step, acc))
 
 	for test_batch in range(5):
-		x_test, y_test, seqlen_test = get_sentence_batch(batch_size,
-														 test_x, test_y)
+		x_test, y_test = get_sentence_batch(batch_size, test_x, test_y)
 		batch_pred, batch_acc = sess.run([tf.argmax(final_output, 1), accuracy],
-										 feed_dict={_inputs: x_test,
-													_labels: y_test})
+								feed_dict={_inputs: x_test, _labels: y_test})
 		print("Test batch accuracy %d: %.5f" % (test_batch, batch_acc))
 
 	# =================== Process a single query ===================
@@ -173,7 +183,7 @@ with tf.Session() as sess:
 				word2vec_map[word] = coefs
 			if count_all_words == len(word_list) - 1:
 				break
-			if entry_number > 20000:
+			if entry_number > 50000:
 				# took too long to find the words
 				break
 
@@ -184,6 +194,5 @@ with tf.Session() as sess:
 				if len(query_vectors) == times_steps:
 					long_enough = True
 					break
-		result = sess.run(tf.argmax(final_output, 1),
-							feed_dict={_inputs: [query_vectors]})
+		result = sess.run(tf.argmax(final_output, 1), feed_dict={_inputs: [query_vectors]})
 		print(" ⟹ ", categories[result[0]])

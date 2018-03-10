@@ -5,21 +5,22 @@ The main RNN algorithm.
 Updates:
 1. RNN _input layer now changed to word-vector encoding
 2. can answer single queries
-3. use YELLOW highlight sections as training data
+3. using case-law full-texts as training data
 
 Modeled after the code found in Ch.6 of "Learning Tensorflow" by Tom Hope et al.
 
-@author: YKY with advice from Jesmer Wong
+@author: YKY
 """
-import numpy as np
 import os						# for os.listdir and os.environ
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'	# suppress Tensorflow warnings
-import tensorflow as tf
+import numpy as np
 from nltk.corpus import stopwords
 import re						# for removing punctuations
 import sys						# for sys.stdin.readline()
 from collections import defaultdict	# for default value of word-vector dictionary
 import pickle
+import tensorflow as tf
+print("\n" * 100)				# get the screen clear of warning messages
 
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
