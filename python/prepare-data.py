@@ -105,7 +105,7 @@ try:
 		if count_all_words == len(word_list) - 1:
 			print("*** found all words ***")
 			break
-		# if it takes too long to look up the entire dictionary, we can cut it short
+# if it takes too long to look up the entire dictionary, we can break it short
 except KeyboardInterrupt:
 	pass
 glove_file.close()

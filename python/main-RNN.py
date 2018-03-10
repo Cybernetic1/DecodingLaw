@@ -54,7 +54,7 @@ zero_vector = np.asarray([0.0] * GLOVE_SIZE, dtype='float32')
 word2vec_map = defaultdict(lambda: zero_vector, word2vec_map)
 
 num_examples = len(data)
-print("Data size = ", num_examples, " examples")
+print("# training examples = ", num_examples)
 print("# unique words = ", len(word_list))
 print("# vectorized words = ", len(word2vec_map))
 
@@ -152,8 +152,7 @@ with tf.Session() as sess:
 			print("Accuracy at %d: %.5f" % (step, acc))
 
 	for test_batch in range(5):
-		x_test, y_test, seqlen_test = get_sentence_batch(batch_size,
-														 test_x, test_y)
+		x_test, y_test = get_sentence_batch(batch_size, test_x, test_y)
 		batch_pred, batch_acc = sess.run([tf.argmax(final_output, 1), accuracy],
 								feed_dict={_inputs: x_test, _labels: y_test})
 		print("Test batch accuracy %d: %.5f" % (test_batch, batch_acc))
@@ -184,7 +183,9 @@ with tf.Session() as sess:
 				coefs = np.asarray(vals[1:], dtype='float32')
 				coefs /= np.linalg.norm(coefs)
 				word2vec_map[word] = coefs
-			if entry_number > 20000:
+			if count_all_words == len(word_list) - 1:
+				break
+			if entry_number > 50000:
 				# took too long to find the words
 				break
 
@@ -195,6 +196,5 @@ with tf.Session() as sess:
 				if len(query_vectors) == times_steps:
 					long_enough = True
 					break
-		result = sess.run(tf.argmax(final_output, 1), feed_dict={_inputs: [query_vectors],
-														 _seqlens: [times_steps]})
+		result = sess.run(tf.argmax(final_output, 1), feed_dict={_inputs: [query_vectors]})
 		print(" ⟹ ", categories[result[0]])

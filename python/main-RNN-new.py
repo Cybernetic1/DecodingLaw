@@ -184,6 +184,8 @@ with tf.Session() as sess:
 				coefs = np.asarray(vals[1:], dtype='float32')
 				coefs /= np.linalg.norm(coefs)
 				word2vec_map[word] = coefs
+			if count_all_words == len(word_list) - 1:
+				break
 			if entry_number > 20000:
 				# took too long to find the words
 				break
