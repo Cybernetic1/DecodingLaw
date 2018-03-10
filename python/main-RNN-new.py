@@ -37,7 +37,7 @@ times_steps = 32				# this number should be same as fixed_seq_len below
 """
 categories = ["nuisance", "dangerous-driving", "injuries"]
 
-# =================== Read case examples from file ======================
+# =================== Read prepared data from file ======================
 
 pickle_off = open("training-data.pickle", "rb")
 data = pickle.load(pickle_off)
@@ -48,42 +48,16 @@ labels = pickle.load(pickle_off)
 pickle_off = open("training-word-list.pickle", "rb")
 word_list = pickle.load(pickle_off)
 
-num_examples = len(data)
-print("Data size = ", num_examples, " examples")
-
-fixed_seq_len = times_steps
-seqlens = [times_steps] * num_examples
-
-# ============== Create word-to-vector dictionary ===========
-
-print("\n**** Looking up word vectors....")
-word2vec_map = {}
-
-count_all_words = 0
-f = open(path_to_glove, "r")
-f2 = open("found-words.txt", "w")
-for line in f:
-	vals = line.split()
-	word = str(vals[0])
-	if word in word_list:
-		print(count_all_words, word, file=f2)
-		print(word, "                 ", end='\r')
-		sys.stdout.flush()
-		count_all_words += 1
-		coefs = np.asarray(vals[1:], dtype='float32')
-		coefs /= np.linalg.norm(coefs)
-		word2vec_map[word] = coefs
-	if count_all_words == len(word_list) - 1:
-		print("*** found all words ***")
-		break
-	if count_all_words >= 600:			# it takes too long to look up the entire dictionary, so I cut it short
-		break
-f2.close()
 # set default value = zero vector, if word not found in dictionary
 zero_vector = np.asarray([0.0] * GLOVE_SIZE, dtype='float32')
 word2vec_map = defaultdict(lambda: zero_vector, word2vec_map)
 
-print("Vocabulary size = ", len(word2vec_map))
+num_examples = len(data)
+print("Data size = ", num_examples, " examples")
+print("# unique words = ", len(word_list))
+print("# vectorized words = ", len(word2vec_map))
+
+fixed_seq_len = times_steps
 
 # ============ Split data into Training and Testing sets, 50%:50% ============
 
@@ -187,7 +161,8 @@ with tf.Session() as sess:
 	# =================== Process a single query ===================
 
 	while True:
-		print("---------- query -----------")
+		print("----------------------------\n? ", end = '')
+		sys.stdout.flush()
 		query = sys.stdin.readline()
 		query = re.sub(r'[^\w\s-]',' ', query)	# remove punctuations except hyphen
 		query_words = []
@@ -196,19 +171,21 @@ with tf.Session() as sess:
 				query_words.append(word)
 		
 		query_vectors = []
-		f = open(path_to_glove, "r")
+		glove_file = open(path_to_glove, "r")
 		count_all_words = 0
-		for line in f:
-			vals = line.split()
+		entry_number = 0
+		for word_entry in glove_file:
+			vals = word_entry.split()
 			word = str(vals[0])
+			entry_number += 1
 			if word in query_words:
 				count_all_words += 1
-				# print(count_all_words, word)
+				print(count_all_words, word, end = '\r')
 				coefs = np.asarray(vals[1:], dtype='float32')
 				coefs /= np.linalg.norm(coefs)
 				word2vec_map[word] = coefs
-			if count_all_words == len(query_words) -1:
-				# print("*** found all words in query ***")
+			if entry_number > 20000:
+				# took too long to find the words
 				break
 
 		long_enough = False
@@ -220,4 +197,4 @@ with tf.Session() as sess:
 					break
 		result = sess.run(tf.argmax(final_output, 1), feed_dict={_inputs: [query_vectors],
 														 _seqlens: [times_steps]})
-		print(categories[result[0]])
+		print(" ⟹ ", categories[result[0]])

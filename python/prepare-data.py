@@ -9,6 +9,8 @@ import re						# for removing punctuations
 import pickle
 import sys						# for sys.stdout.flush()
 
+path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
+GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
 num_classes = 3
 times_steps = 32				# this number should be same as fixed_seq_len below
 
@@ -79,6 +81,38 @@ for sent in data:
 
 print(len(word_list), " unique words found")
 
+# ============== Create word-to-vector dictionary ===========
+
+print("\n**** Looking up word vectors....")
+word2vec_map = {}
+count_all_words = 0
+entry_number = 0
+glove_file = open(path_to_glove, "r")
+f2 = open("found-words.txt", "w")
+try:
+	for word_entry in glove_file:
+		vals = word_entry.split()
+		word = str(vals[0])
+		entry_number += 1
+		if word in word_list:
+			print(count_all_words, word, file=f2)
+			print(entry_number, count_all_words, word, "             ", end='\r')
+			sys.stdout.flush()
+			count_all_words += 1
+			coefs = np.asarray(vals[1:], dtype='float32')
+			coefs /= np.linalg.norm(coefs)
+			word2vec_map[word] = coefs
+		if count_all_words == len(word_list) - 1:
+			print("*** found all words ***")
+			break
+		# if it takes too long to look up the entire dictionary, we can cut it short
+except KeyboardInterrupt:
+	pass
+glove_file.close()
+f2.close()
+
+print("Vocabulary size = ", len(word2vec_map))
+
 pickling_on = open("training-data.pickle", "wb+")
 pickle.dump(data, pickling_on)
 pickling_on.close()
@@ -89,4 +123,8 @@ pickling_on.close()
 
 pickling_on = open("training-word-list.pickle", "wb+")
 pickle.dump(word_list, pickling_on)
+pickling_on.close()
+
+pickling_on = open("training-word2vec-map.pickle", "wb+")
+pickle.dump(word2vec_map, pickling_on)
 pickling_on.close()
