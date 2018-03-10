@@ -19,13 +19,14 @@ from nltk.corpus import stopwords
 import re						# for removing punctuations
 import sys						# for sys.stdin.readline()
 from collections import defaultdict	# for default value of word-vector dictionary
+import pickle
 
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 PRE_TRAINED = True
 GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
 batch_size = 128
 num_classes = 3
-hidden_layer_size = 64
+hidden_layer_size = 128
 times_steps = 128				# this number should be same as fixed_seq_len below
 
 """ These are the 3 classes of laws:
@@ -36,38 +37,20 @@ times_steps = 128				# this number should be same as fixed_seq_len below
 categories = ["nuisance", "dangerous-driving", "injuries"]
 
 # =================== Read case examples from file ======================
-"""
-0. for each category:
-1. read all cases in YELLOW folder
-2.	  for each case generate N examples (consecutive word sequences of fixed length)
-"""
-seqlens = []
-labels = []
-data = []
-fixed_seq_len = times_steps		# For each case law, take N consecutive words from text
 
-print("**** Preparing training data....")
-for i, category in enumerate(categories):
-	print("Category: ", category)
-	for j, filename in enumerate(os.listdir("laws-TXT/" + category + "-pure")):
-		yellow_stuff = []
-		with open("laws-TXT/" + category + "-pure/" + filename) as f:
-			for line in f:
-				line = re.sub(r'[^\w\s-]',' ',line)	# remove punctuations except hyphen
-				for word in line.lower().split():	# convert to lowercase
-					if word not in stopwords.words('english'):	# remove stop words
-						yellow_stuff.append(word)
-		print("Case-law #", j, " word count = ", len(yellow_stuff))
+pickle_off = open("training-data.pickle", "rb")
+data = pickle.load(pickle_off)
 
-		for k in range(0, 5):
-			# Randomly select a sequence of words (of fixed length) in yellow text
-			seqlens.append(fixed_seq_len)		# this is variable in the original code (with zero-padding), but now it's fixed because we don't use zero-padding
-			rand_start = np.random.choice(range(0, len(yellow_stuff) - fixed_seq_len))
-			data.append(" ".join(yellow_stuff[rand_start: rand_start + fixed_seq_len]))
-			labels += [i]			# set label
+pickle_off = open("training-labels.pickle", "rb")
+labels = pickle.load(pickle_off)
 
 num_examples = len(data)
 print("Data size = ", num_examples, " examples")
+
+fixed_seq_len = times_steps
+seqlens = [times_steps] * num_examples
+
+print("\n**** Building vocabularies and word vectors....")
 
 # ================ Set up data (for training & testing) ================
 
@@ -193,10 +176,10 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 
 # ================== Run the session =====================
 
-print("**** Training RNN....")
+print("\n**** Training RNN....")
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
-	for step in range(251):
+	for step in range(351):
 		x_batch, y_batch, seqlen_batch = get_sentence_batch(batch_size,
 															train_x, train_y,
 															train_seqlens)
