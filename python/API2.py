@@ -42,30 +42,16 @@ word2vec_map = pickle.load(pickle_off)
 zero_vector = np.asarray([0.0] * GLOVE_SIZE, dtype='float32')
 word2vec_map = defaultdict(lambda: zero_vector, word2vec_map)
 
-saver = tf.train.import_meta_graph('TF-model/data-all.meta')
-
-# We can now access the default graph where all our metadata has been loaded
-graph = tf.get_default_graph()
-
-# Finally we can retrieve tensors, operations, collections, etc.
-# final_output = graph.get_tensor_by_name('final_output')
-#train_step = graph.get_operation_by_name('train_step')
-#hyperparameters = tf.get_collection('hyperparameters')
-
 # =================== Process a single query ===================
-
-#print "Starting router...."
-#@app.route('/result',methods = ['GET'])			# define router
-#def hello():
-#	search = request.args.get("queryword")
 
 print "Re-starting Tensorflow session...."
 with tf.Session() as sess:
-	#saver.restore(sess, 'TF-model/data-all.data-1000-00000-of-00001')
+	saver = tf.train.import_meta_graph('TF-model/data-all.meta')
 	saver.restore(sess, 'TF-model/data-all')
-	final_output = tf.get_collection('final_output')
-	_inputs = tf.get_collection('_inputs')
-	tf.reshape(_inputs, [1, times_steps, GLOVE_SIZE])
+	tf.global_variables_initializer().run()
+	graph = tf.get_default_graph()
+	final_output = graph.get_tensor_by_name("final_output:0")
+	in_vecs = graph.get_tensor_by_name("in_vecs:0")
 
 	while True:
 		print "----------------------------\n? ",
@@ -76,8 +62,7 @@ with tf.Session() as sess:
 		for word in query.lower().split():		# convert to lowercase
 			if word not in stopwords.words('english'):	# remove stop words
 				query_words.append(word)
-		
-		query_vectors = []
+
 		with zipfile.ZipFile("glove.840B.300d.zip") as z:
 			with z.open("glove.840B.300d.txt") as glove_file:
 				count_all_words = 0
@@ -94,10 +79,11 @@ with tf.Session() as sess:
 						word2vec_map[word] = coefs
 					if count_all_words == len(word_list) - 1:
 						break
-					if entry_number > 80000:
+					if entry_number > 75000:
 						# took too long to find the words
 						break
 
+		query_vectors = []
 		long_enough = False
 		while not long_enough:					# make up to 128 = times_steps size
 			for word in query_words:
@@ -105,20 +91,24 @@ with tf.Session() as sess:
 				if len(query_vectors) == times_steps:
 					long_enough = True
 					break
-		query_vectors2 = np.array(query_vectors, dtype='float32')
-		#result = sess.run(tf.argmax(final_output, 1),	\
-			#feed_dict={_inputs: tf.convert_to_tensor(query_vectors)})
-		result, _ = sess.run([tf.argmax(final_output, 1)],	\
-			feed_dict={_inputs: np.array(query_vectors)})
+		# print in_vecs.get_shape()
+		result = sess.run(tf.argmax(final_output, 1),	\
+			feed_dict={in_vecs: np.expand_dims(query_vectors, axis=0)})
 		answer = answers[result[0]]
-		print " ⟹  broad category: ", answer
-		# return jsonify({'case': answer})
+		print "==>  broad category = ", answer
 
 exit(0)
 
 ##################################################
 # API part
 ##################################################
+
+#print "Starting router...."
+#@app.route('/result',methods = ['GET'])			# define router
+#def hello():
+#	search = request.args.get("queryword")
+#	return jsonify({'case': answer})
+
 app = Flask(__name__)
 cors = CORS(app)
 @app.route("/result", methods=['POST'])

@@ -26,65 +26,6 @@ import numpy as np
 import tensorflow as tf
 from nltk.corpus import stopwords
 
-#if __name__ == "__main__":
-
-dir = os.path.dirname(os.path.realpath(__file__))
-
-def freeze_graph(model_dir, output_node_names):
-	"""Extract the sub graph defined by the output nodes and convert 
-	all its variables into constant 
-	Args:
-		model_dir: the root folder containing the checkpoint state file
-		output_node_names: a string, containing all the output node's names, 
-							comma separated
-	"""
-	if not tf.gfile.Exists(model_dir):
-		raise AssertionError(
-			"Export directory doesn't exist. Please specify an export "
-			"directory: %s" % model_dir)
-
-	if not output_node_names:
-		print("You need to supply the name of a node to --output_node_names.")
-		return -1
-
-	# We retrieve our checkpoint fullpath
-	checkpoint = tf.train.get_checkpoint_state(model_dir)
-	input_checkpoint = checkpoint.model_checkpoint_path
-	
-	# We precise the file fullname of our freezed graph
-	absolute_model_dir = "/".join(input_checkpoint.split('/')[:-1])
-	output_graph = absolute_model_dir + "/frozen_model.pb"
-
-	# We clear devices to allow TensorFlow to control on which device it will load operations
-	clear_devices = True
-
-	# We start a session using a temporary fresh Graph
-	with tf.Session(graph=tf.Graph()) as sess:
-		# We import the meta graph in the current default Graph
-		saver = tf.train.import_meta_graph(input_checkpoint + '.meta', clear_devices=clear_devices)
-
-		# We restore the weights
-		saver.restore(sess, input_checkpoint)
-
-		# We use a built-in TF helper to export variables to constants
-		output_graph_def = tf.graph_util.convert_variables_to_constants(
-			sess, # The session is used to retrieve the weights
-			tf.get_default_graph().as_graph_def(), # The graph_def is used to retrieve the nodes 
-			output_node_names.split(",") # The output node names are used to select the usefull nodes
-		) 
-
-		# Finally we serialize and dump the output graph to the filesystem
-		with tf.gfile.GFile(output_graph, "wb") as f:
-			f.write(output_graph_def.SerializeToString())
-		print("%d ops in the final graph." % len(output_graph_def.node))
-
-	return output_graph_def
-
-reload(sys)
-sys.setdefaultencoding('utf-8')
- 
-# app = Flask(__name__)
-
 # ===================== initialize constants =====================
 
 path_to_glove = "/home/ec2-user/eb-flask1/glove.840B.300d.zip"
@@ -92,7 +33,7 @@ GLOVE_SIZE = 300
 batch_size = 512
 num_classes = 3
 hidden_layer_size = 64
-times_steps = 32				# this should be same as fixed_seq_len below
+times_steps = 32				# this should be same as the fixed sequence length
 
 """ These are the 3 classes of laws:
 * nuisance
@@ -125,8 +66,6 @@ print "# training examples = ", num_examples
 print "# unique words = ", len(word_list)
 print "# vectorized words = ", len(word2vec_map)
 
-fixed_seq_len = times_steps
-
 # ============ Split data into Training and Testing sets, 50%:50% ============
 
 data_indices = list(range(len(data)))
@@ -154,7 +93,7 @@ def get_sentence_batch(batch_size, data_x, data_y):
 
 # ========= define input, output, and RNN structure =========
 
-_inputs = tf.placeholder(tf.float32, shape=[None, times_steps, GLOVE_SIZE])
+in_vecs = tf.placeholder(tf.float32, shape=[None, times_steps, GLOVE_SIZE], name="in_vecs")
 _labels = tf.placeholder(tf.float32, shape=[None, num_classes])
 
 with tf.name_scope("biGRU"):
@@ -168,7 +107,7 @@ with tf.name_scope("biGRU"):
 
 		outputs, states = tf.nn.bidirectional_dynamic_rnn(cell_fw=gru_fw_cell,
 														  cell_bw=gru_bw_cell,
-														  inputs=_inputs,
+														  inputs=in_vecs,
 														  dtype=tf.float32,
 														  scope="biGRU")
 states = tf.concat(values=states, axis=1)
@@ -182,8 +121,8 @@ biases = {
 
 # ========== Define final state and objective function ================
 
-final_output = tf.matmul(states,
-						 weights["linear_layer"]) + biases["linear_layer"]
+final_output = tf.add(tf.matmul(states, weights["linear_layer"]), \
+					biases["linear_layer"], name="final_output")
 
 softmax = tf.nn.softmax_cross_entropy_with_logits_v2(logits=final_output,
 												  labels=_labels)
@@ -199,28 +138,23 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 
 print "Testing default graph: ", final_output.graph == tf.get_default_graph()
 all_saver = tf.train.Saver()
-tf.add_to_collection('final_output', final_output)
-tf.add_to_collection('_inputs', _inputs)
 
 print "\n**** Training RNN...."
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
-	for step in range(25 + 1):
+	for step in range(600 + 1):
 		x_batch, y_batch = get_sentence_batch(batch_size,
 											train_x, train_y)
-		sess.run(train_step, feed_dict={_inputs: x_batch, _labels: y_batch})
+		sess.run(train_step, feed_dict={in_vecs: x_batch, _labels: y_batch})
 
 		if step % 25 == 0:
-			acc = sess.run(accuracy, feed_dict={_inputs: x_batch, _labels: y_batch})
+			acc = sess.run(accuracy, feed_dict={in_vecs: x_batch, _labels: y_batch})
 			print "Accuracy at {0:3d}: {1:5f} %".format(step, acc)
 
 	for test_batch in range(5):
 		x_test, y_test = get_sentence_batch(batch_size, test_x, test_y)
 		batch_pred, batch_acc = sess.run([tf.argmax(final_output, 1), accuracy],
-								feed_dict={_inputs: x_test, _labels: y_test})
+								feed_dict={in_vecs: x_test, _labels: y_test})
 		print "Test batch accuracy {0:3d}: {1:5f} %".format(test_batch, batch_acc)
 
 	save_path = all_saver.save(sess, "./TF-model/data-all")
-	# freeze_graph(".", "train_step, correct_prediction, accuracy")
-
-exit(0)
