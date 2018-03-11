@@ -35,6 +35,7 @@ times_steps = 32				# this number should be same as fixed_seq_len below
 * OTHERWISE, or work injuries
 """
 categories = ["nuisance", "dangerous-driving", "injuries"]
+answers = ["nuisance", "dangerous driving", "work injuries"]
 
 # =================== Read prepared training data from file ======================
 
@@ -143,7 +144,7 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 print("\n**** Training RNN....")
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
-	for step in range(500 + 1):
+	for step in range(600 + 1):
 		x_batch, y_batch = get_sentence_batch(batch_size,
 											train_x, train_y)
 		sess.run(train_step, feed_dict={_inputs: x_batch, _labels: y_batch})
@@ -198,4 +199,4 @@ with tf.Session() as sess:
 					long_enough = True
 					break
 		result = sess.run(tf.argmax(final_output, 1), feed_dict={_inputs: [query_vectors]})
-		print(" ⟹ ", categories[result[0]])
+		print(" ⟹  broad category: ", answers[result[0]])
