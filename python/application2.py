@@ -199,6 +199,8 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 
 print "Testing default graph: ", final_output.graph == tf.get_default_graph()
 all_saver = tf.train.Saver()
+tf.add_to_collection('final_output', final_output)
+tf.add_to_collection('_inputs', _inputs)
 
 print "\n**** Training RNN...."
 with tf.Session() as sess:

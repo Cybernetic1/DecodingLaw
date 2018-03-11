@@ -48,7 +48,7 @@ saver = tf.train.import_meta_graph('TF-model/data-all.meta')
 graph = tf.get_default_graph()
 
 # Finally we can retrieve tensors, operations, collections, etc.
-final_output = graph.get_tensor_by_name('final_output')
+# final_output = graph.get_tensor_by_name('final_output')
 #train_step = graph.get_operation_by_name('train_step')
 #hyperparameters = tf.get_collection('hyperparameters')
 
@@ -63,6 +63,9 @@ print "Re-starting Tensorflow session...."
 with tf.Session() as sess:
 	#saver.restore(sess, 'TF-model/data-all.data-1000-00000-of-00001')
 	saver.restore(sess, 'TF-model/data-all')
+	final_output = tf.get_collection('final_output')
+	_inputs = tf.get_collection('_inputs')
+	tf.reshape(_inputs, [1, times_steps, GLOVE_SIZE])
 
 	while True:
 		print "----------------------------\n? ",
@@ -102,7 +105,11 @@ with tf.Session() as sess:
 				if len(query_vectors) == times_steps:
 					long_enough = True
 					break
-		result = sess.run(tf.argmax(final_output, 1), feed_dict={_inputs: [query_vectors]})
+		query_vectors2 = np.array(query_vectors, dtype='float32')
+		#result = sess.run(tf.argmax(final_output, 1),	\
+			#feed_dict={_inputs: tf.convert_to_tensor(query_vectors)})
+		result, _ = sess.run([tf.argmax(final_output, 1)],	\
+			feed_dict={_inputs: np.array(query_vectors)})
 		answer = answers[result[0]]
 		print " ⟹  broad category: ", answer
 		# return jsonify({'case': answer})
