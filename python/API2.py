@@ -32,10 +32,10 @@ times_steps = 32				# this should be same as fixed_seq_len below
 categories = ["nuisance", "dangerous-driving", "injuries"]
 answers = ["nuisance", "dangerous driving", "work injuries"]
 
-pickle_off = open("training-word-list2.pickle", "rb")
+pickle_off = open("training-word-list3.pickle", "rb")
 word_list = pickle.load(pickle_off)
 
-pickle_off = open("training-word2vec-map2.pickle", "rb")
+pickle_off = open("training-word2vec-map3.pickle", "rb")
 word2vec_map = pickle.load(pickle_off)
 
 # set default value = zero vector, if word not found in dictionary
@@ -45,13 +45,19 @@ word2vec_map = defaultdict(lambda: zero_vector, word2vec_map)
 # =================== Process a single query ===================
 
 print "Re-starting Tensorflow session...."
+saver = tf.train.import_meta_graph('TF-model/data-all.meta')
+
 with tf.Session() as sess:
-	saver = tf.train.import_meta_graph('TF-model/data-all.meta')
+
 	saver.restore(sess, 'TF-model/data-all')
-	tf.global_variables_initializer().run()
+	# saver.restore(sess, tf.train.latest_checkpoint('TF-model/data-all'))
+	#tf.global_variables_initializer().run()
 	graph = tf.get_default_graph()
 	final_output = graph.get_tensor_by_name("final_output:0")
 	in_vecs = graph.get_tensor_by_name("in_vecs:0")
+	# wh1 = graph.get_tensor_by_name("wh1:0")
+	# print in_vecs.get_shape()
+	# print final_output.get_shape()
 
 	while True:
 		print "----------------------------\n? ",
@@ -63,37 +69,36 @@ with tf.Session() as sess:
 			if word not in stopwords.words('english'):	# remove stop words
 				query_words.append(word)
 
-		with zipfile.ZipFile("glove.840B.300d.zip") as z:
-			with z.open("glove.840B.300d.txt") as glove_file:
-				count_all_words = 0
-				entry_number = 0
-				for word_entry in glove_file:
-					vals = word_entry.split()
-					word = str(vals[0])
-					entry_number += 1
-					if word in query_words:
-						count_all_words += 1
-						print count_all_words, word, "\r",
-						coefs = np.asarray(vals[1:], dtype='float32')
-						coefs /= np.linalg.norm(coefs)
-						word2vec_map[word] = coefs
-					if count_all_words == len(word_list) - 1:
-						break
-					if entry_number > 75000:
-						# took too long to find the words
-						break
+		glove_file = open("../wiki-news-300d-1M.vec", "r")
+		count_all_words = 0
+		entry_number = 0
+		for word_entry in glove_file:
+			vals = word_entry.split()
+			word = str(vals[0])
+			entry_number += 1
+			if word in query_words:
+				count_all_words += 1
+				print count_all_words, word, "\r",
+				coefs = np.asarray(vals[1:], dtype='float32')
+				coefs /= np.linalg.norm(coefs)
+				word2vec_map[word] = coefs
+			if count_all_words == len(word_list) - 1:
+				break
+			if entry_number > 75000:
+				# took too long to find the words
+				break
 
 		query_vectors = []
 		long_enough = False
-		while not long_enough:					# make up to 128 = times_steps size
+		while not long_enough:					# make up to 32 = times_steps size
 			for word in query_words:
 				query_vectors.append(word2vec_map[word])
 				if len(query_vectors) == times_steps:
 					long_enough = True
 					break
-		# print in_vecs.get_shape()
-		result = sess.run(tf.argmax(final_output, 1),	\
+		result = sess.run(tf.argmax(final_output, axis = 1),	\
 			feed_dict={in_vecs: np.expand_dims(query_vectors, axis=0)})
+		# print result
 		answer = answers[result[0]]
 		print "==>  broad category = ", answer
 

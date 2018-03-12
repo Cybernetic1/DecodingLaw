@@ -28,7 +28,6 @@ suffix = "-pure"	# "-pure" means to train from full-text instead of YELLOW stuff
 1. read all cases in YELLOW folder
 2.	  for each case generate N examples (consecutive word sequences of fixed length)
 """
-seqlens = []
 labels = []
 data = []
 fixed_seq_len = times_steps		# For each case law, take N consecutive words from text

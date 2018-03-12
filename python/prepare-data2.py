@@ -8,8 +8,8 @@ from nltk.corpus import stopwords
 import re						# for removing punctuations
 import pickle
 import sys						# for sys.stdout.flush()
+import zipfile
 
-path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
 num_classes = 3
 times_steps = 32				# this number should be same as fixed_seq_len below
@@ -28,7 +28,6 @@ suffix = "-pure"	# "-pure" means to train from full-text instead of YELLOW stuff
 1. read all cases in YELLOW folder
 2.	  for each case generate N examples (consecutive word sequences of fixed length)
 """
-seqlens = []
 labels = []
 data = []
 fixed_seq_len = times_steps		# For each case law, take N consecutive words from text
@@ -36,9 +35,9 @@ fixed_seq_len = times_steps		# For each case law, take N consecutive words from 
 print "\n**** Preparing training data...."
 for i, category in enumerate(categories):
 	print "\nCategory: ", category
-	for j, filename in enumerate(os.listdir("laws-TXT/" + category + "-pure")):
+	for j, filename in enumerate(os.listdir("laws-TXT/" + category + suffix)):
 		yellow_stuff = []
-		with open("laws-TXT/" + category + "-pure/" + filename) as f:
+		with open("laws-TXT/" + category + suffix + "/" + filename) as f:
 			for line in f:
 				line = re.sub(r'[^\w\s-]',' ',line)	# remove punctuations except hyphen
 				for word in line.lower().split():	# convert to lowercase
@@ -48,7 +47,6 @@ for i, category in enumerate(categories):
 
 		for k in range(0, 500):
 			# Randomly select a sequence of words (of fixed length) in yellow text
-			seqlens.append(fixed_seq_len)		# this is variable in the original code (with zero-padding), but now it's fixed because we don't use zero-padding
 			rand_start = np.random.choice(range(0, len(yellow_stuff) - fixed_seq_len))
 			data.append(" ".join(yellow_stuff[rand_start: rand_start + fixed_seq_len]))
 			labels += [i]			# set label
@@ -87,7 +85,7 @@ print "\n**** Looking up word vectors...."
 word2vec_map = {}
 count_all_words = 0
 entry_number = 0
-glove_file = open(path_to_glove, "r")
+glove_file = open("../wiki-news-300d-1M.vec", "r")
 f2 = open("found-words2.txt", "w")
 try:
 	for word_entry in glove_file:
@@ -113,18 +111,18 @@ f2.close()
 
 print "Vocabulary size = ", len(word2vec_map)
 
-pickling_on = open("training-data2.pickle", "wb+")
+pickling_on = open("training-data3.pickle", "wb+")
 pickle.dump(data, pickling_on)
 pickling_on.close()
 
-pickling_on = open("training-labels2.pickle", "wb+")
+pickling_on = open("training-labels3.pickle", "wb+")
 pickle.dump(labels, pickling_on)
 pickling_on.close()
 
-pickling_on = open("training-word-list2.pickle", "wb+")
+pickling_on = open("training-word-list3.pickle", "wb+")
 pickle.dump(word_list, pickling_on)
 pickling_on.close()
 
-pickling_on = open("training-word2vec-map2.pickle", "wb+")
+pickling_on = open("training-word2vec-map3.pickle", "wb+")
 pickle.dump(word2vec_map, pickling_on)
 pickling_on.close()

@@ -28,7 +28,6 @@ from nltk.corpus import stopwords
 
 # ===================== initialize constants =====================
 
-path_to_glove = "/home/ec2-user/eb-flask1/glove.840B.300d.zip"
 GLOVE_SIZE = 300
 batch_size = 512
 num_classes = 3
@@ -45,16 +44,16 @@ answers = ["nuisance", "dangerous driving", "work injuries"]
 
 # =================== Read prepared training data from file ===================
 
-pickle_off = open("training-data2.pickle", "rb")
+pickle_off = open("training-data3.pickle", "rb")
 data = pickle.load(pickle_off)
 
-pickle_off = open("training-labels2.pickle", "rb")
+pickle_off = open("training-labels3.pickle", "rb")
 labels = pickle.load(pickle_off)
 
-pickle_off = open("training-word-list2.pickle", "rb")
+pickle_off = open("training-word-list3.pickle", "rb")
 word_list = pickle.load(pickle_off)
 
-pickle_off = open("training-word2vec-map2.pickle", "rb")
+pickle_off = open("training-word2vec-map3.pickle", "rb")
 word2vec_map = pickle.load(pickle_off)
 
 # set default value = zero vector, if word not found in dictionary
@@ -137,12 +136,13 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 # ================== Run the session =====================
 
 print "Testing default graph: ", final_output.graph == tf.get_default_graph()
-all_saver = tf.train.Saver()
 
 print "\n**** Training RNN...."
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
-	for step in range(600 + 1):
+	all_saver = tf.train.Saver()
+
+	for step in range(400 + 1):
 		x_batch, y_batch = get_sentence_batch(batch_size,
 											train_x, train_y)
 		sess.run(train_step, feed_dict={in_vecs: x_batch, _labels: y_batch})

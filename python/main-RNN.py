@@ -170,7 +170,7 @@ with tf.Session() as sess:
 		for word in query.lower().split():		# convert to lowercase
 			if word not in stopwords.words('english'):	# remove stop words
 				query_words.append(word)
-		
+
 		query_vectors = []
 		glove_file = open(path_to_glove, "r")
 		count_all_words = 0
