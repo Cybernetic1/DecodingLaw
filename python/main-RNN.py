@@ -5,7 +5,7 @@ The main RNN algorithm.
 Updates:
 1. RNN _input layer now changed to word-vector encoding
 2. can answer single queries
-3. using case-law full-texts as training data
+3. modified for A2J Hackathon, using scraped data for training
 
 Modeled after the code found in Ch.6 of "Learning Tensorflow" by Tom Hope et al.
 
@@ -20,31 +20,31 @@ import sys						# for sys.stdin.readline()
 from collections import defaultdict	# for default value of word-vector dictionary
 import pickle
 import tensorflow as tf
-print("\n" * 100)				# get the screen clear of warning messages
+# print("\n" * 100)				# get the screen clear of warning messages
 
 path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
 GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
 batch_size = 512
-num_classes = 3
+num_classes = 10
 hidden_layer_size = 64
 times_steps = 32				# this number should be same as fixed_seq_len below
 
-""" 10 categories """
-categories = ["matrimonial rights", "separation", "divorce", "after divorce", "divorce maintenance",
-	"property on divorce", "types of marriages", "battered wife and children", "Harmony House", "divorce mediation"]
+# 10 categories:
+categories = ["matrimonial-rights", "separation", "divorce", "after-divorce", "divorce-maintenance",
+	"property-on-divorce", "types-of-marriages", "battered-wife-and-children", "Harmony-House", "divorce-mediation"]
 
 # =================== Read prepared training data from file ======================
 
-pickle_off = open("training-data.pickle", "rb")
+pickle_off = open("training-data-3.pickle", "rb")
 data = pickle.load(pickle_off)
 
-pickle_off = open("training-labels.pickle", "rb")
+pickle_off = open("training-labels-3.pickle", "rb")
 labels = pickle.load(pickle_off)
 
-pickle_off = open("training-word-list.pickle", "rb")
+pickle_off = open("training-word-list-3.pickle", "rb")
 word_list = pickle.load(pickle_off)
 
-pickle_off = open("training-word2vec-map.pickle", "rb")
+pickle_off = open("training-word2vec-map-3.pickle", "rb")
 word2vec_map = pickle.load(pickle_off)
 
 # set default value = zero vector, if word not found in dictionary
@@ -140,7 +140,7 @@ accuracy = (tf.reduce_mean(tf.cast(correct_prediction,
 print("\n**** Training RNN....")
 with tf.Session() as sess:
 	sess.run(tf.global_variables_initializer())
-	for step in range(600 + 1):
+	for step in range(500 + 1):
 		x_batch, y_batch = get_sentence_batch(batch_size,
 											train_x, train_y)
 		sess.run(train_step, feed_dict={_inputs: x_batch, _labels: y_batch})
@@ -188,7 +188,7 @@ with tf.Session() as sess:
 				# took too long to find the words
 				break
 
-		# ===== make the query length to be 128 = times_steps size
+		# ===== make the query length to be (32) = times_steps size
 		long_enough = False
 		while not long_enough:
 			for word in query_words:
@@ -198,4 +198,4 @@ with tf.Session() as sess:
 					break
 
 		result = sess.run(tf.argmax(final_output, 1), feed_dict={_inputs: [query_vectors]})
-		print(" ⟹  broad category: ", categories[result[0]])
+		print(" ⟹  category: ", categories[result[0]])

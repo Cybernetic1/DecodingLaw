@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+This is the version for Python 2.7 because the Amazon AWS server only supports 2.7
+
 @author: YKY
 """
 import numpy as np
