@@ -29,13 +29,9 @@ num_classes = 3
 hidden_layer_size = 64
 times_steps = 32				# this number should be same as fixed_seq_len below
 
-""" These are the 3 classes of laws:
-* nuisance
-* dangerous driving
-* OTHERWISE, or work injuries
-"""
-categories = ["nuisance", "dangerous-driving", "injuries"]
-answers = ["nuisance", "dangerous driving", "work injuries"]
+""" 10 categories """
+categories = ["matrimonial rights", "separation", "divorce", "after divorce", "divorce maintenance",
+	"property on divorce", "types of marriages", "battered wife and children", "Harmony House", "divorce mediation"]
 
 # =================== Read prepared training data from file ======================
 
@@ -171,6 +167,7 @@ with tf.Session() as sess:
 			if word not in stopwords.words('english'):	# remove stop words
 				query_words.append(word)
 
+		# ===== convert query to word-vectors
 		query_vectors = []
 		glove_file = open(path_to_glove, "r")
 		count_all_words = 0
@@ -191,12 +188,14 @@ with tf.Session() as sess:
 				# took too long to find the words
 				break
 
+		# ===== make the query length to be 128 = times_steps size
 		long_enough = False
-		while not long_enough:					# make up to 128 = times_steps size
+		while not long_enough:
 			for word in query_words:
 				query_vectors.append(word2vec_map[word])
 				if len(query_vectors) == times_steps:
 					long_enough = True
 					break
+
 		result = sess.run(tf.argmax(final_output, 1), feed_dict={_inputs: [query_vectors]})
-		print(" ⟹  broad category: ", answers[result[0]])
+		print(" ⟹  broad category: ", categories[result[0]])
