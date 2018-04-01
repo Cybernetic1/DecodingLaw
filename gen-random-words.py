@@ -10,13 +10,6 @@ import numpy as np
 import os						# for os.listdir
 from nltk.corpus import stopwords
 import re						# for removing punctuations
-import pickle
-import sys						# for sys.stdout.flush()
-
-path_to_glove = "/data/wiki-news-300d-1M.vec"	# change to your path and filename
-GLOVE_SIZE = 300				# dimension of word vectors in GloVe file
-num_classes = 10
-times_steps = 32				# this number should be same as fixed_seq_len below
 
 # 10 categories:
 categories = ["matrimonial-rights", "separation", "divorce", "after-divorce", "divorce-maintenance",
@@ -25,9 +18,6 @@ categories = ["matrimonial-rights", "separation", "divorce", "after-divorce", "d
 suffix = ""		# to be added to sub-directory, not needed currently
 
 # =================== Read case examples from file ======================
-labels = []
-data = []
-fixed_seq_len = times_steps
 
 print("\n**** Reading pre-recorded message texts....")
 for i, category in enumerate(categories):
