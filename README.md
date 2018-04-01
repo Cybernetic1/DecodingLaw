@@ -78,7 +78,11 @@ The new demo isn't very successful (more wrong than correct answers):
 
 ![](docs/new-demo.png)
 
-Now increased to 10 categories.
+Now increased to 10 categories:
+
+![](docs/family-law-10-sub-categories.png)
+
+The above file is part of the decision tree used by a telephone inquiry system (TelLaw, provided by HK government).  Each sub-topic is associated with a pre-recorded message of ~500 words' length.  Since the message text is not long, and the sub-categories are all very similar (under FAMILY LAW), our AI does not perform very well, but there may be ways to improve it.
 
 Notes on AI
 -----------
