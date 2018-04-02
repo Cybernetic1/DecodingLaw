@@ -35,16 +35,18 @@ categories = ["matrimonial-rights", "separation", "divorce", "after-divorce", "d
 
 # =================== Read prepared training data from file ======================
 
-pickle_off = open("training-data-3.pickle", "rb")
+suffix = "-3"
+
+pickle_off = open("prepared-data/training-data" + suffix + ".pickle", "rb")
 data = pickle.load(pickle_off)
 
-pickle_off = open("training-labels-3.pickle", "rb")
+pickle_off = open("prepared-data/training-labels" + suffix + ".pickle", "rb")
 labels = pickle.load(pickle_off)
 
-pickle_off = open("training-word-list-3.pickle", "rb")
+pickle_off = open("prepared-data/training-word-list" + suffix + ".pickle", "rb")
 word_list = pickle.load(pickle_off)
 
-pickle_off = open("training-word2vec-map-3.pickle", "rb")
+pickle_off = open("prepared-data/training-word2vec-map" + suffix + ".pickle", "rb")
 word2vec_map = pickle.load(pickle_off)
 
 # set default value = zero vector, if word not found in dictionary
