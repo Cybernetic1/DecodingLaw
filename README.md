@@ -11,7 +11,7 @@ Quick start
 
 Typically you'd want to install Tensorflow under Anaconda.
 
-For example, download the Anachonda install script and run it:
+For example, download the **Anachonda** install script and run it:
 
      bash Anaconda3-5.1.0-Linux-x86_64.sh
 
@@ -25,17 +25,17 @@ Then activate the environment:
 
 You will see the command prompt changed.
 
-Then install Tensorflow with:
+Then install **Tensorflow** with:
 
     pip install tensorflow==1.5
 
 (As of 2018 March, 1.6 seems to have a bug)
 
-Then install NLTK toolkit with:
+Then install **NLTK** toolkit with:
 
     conda install -c anaconda nltk
 
-Then install NLTK corpus with:
+Then install **NLTK corpus** with:
 
     python
         import nltk
@@ -43,10 +43,21 @@ Then install NLTK corpus with:
 
 and choose "corpus" to download.
 
+Lastly, download the **word vectors** file from either:
+
+    fastText: https://fasttext.cc/docs/en/english-vectors.html
+    (file name = wiki-news-300d-1M.vec.zip)
+
+    or GloVe from Stanford:  https://nlp.stanford.edu/projects/glove/
+    (file name = glove.840B.300d.zip)
+
+Then **unzip** the file and put it in the directory ``\data``.  (Or you can modify the path in my code, it's possible to run with the zipped version directly.)
+
 Then you can run our code:
 
     python main-RNN.py
 
+Try out some queries after the ``?`` prompt.
 
 Architecture
 ------------
