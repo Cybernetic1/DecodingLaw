@@ -109,18 +109,20 @@ f2.close()
 
 print("Vocabulary size = ", len(word2vec_map))
 
-pickling_on = open("training-data-3.pickle", "wb+")
+folderName = "prepared-data/"
+
+pickling_on = open(folderName + "training-data-3.pickle", "wb+")
 pickle.dump(data, pickling_on)
 pickling_on.close()
 
-pickling_on = open("training-labels-3.pickle", "wb+")
+pickling_on = open(folderName + "training-labels-3.pickle", "wb+")
 pickle.dump(labels, pickling_on)
 pickling_on.close()
 
-pickling_on = open("training-word-list-3.pickle", "wb+")
+pickling_on = open(folderName + "training-word-list-3.pickle", "wb+")
 pickle.dump(word_list, pickling_on)
 pickling_on.close()
 
-pickling_on = open("training-word2vec-map-3.pickle", "wb+")
+pickling_on = open(folderName + "training-word2vec-map-3.pickle", "wb+")
 pickle.dump(word2vec_map, pickling_on)
 pickling_on.close()
