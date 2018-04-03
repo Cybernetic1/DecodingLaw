@@ -33,9 +33,9 @@ fixed_seq_len = times_steps		# For each case law, take N consecutive words from 
 print("\n**** Preparing training data....")
 for i, category in enumerate(categories):
 	print("\nCategory: ", category)
-	for j, filename in enumerate(os.listdir("../scraped-data/" + category + suffix)):
+	for j, filename in enumerate(os.listdir("scraped-data/" + category + suffix)):
 		stuff = []
-		with open("../scraped-data/" + category + suffix + "/" + filename) as f:
+		with open("scraped-data/" + category + suffix + "/" + filename) as f:
 			for line in f:
 				line = re.sub(r'[^\w\s-]',' ',line)	# remove punctuations except hyphen
 				for word in line.lower().split():	# convert to lowercase

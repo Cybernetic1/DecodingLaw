@@ -28,9 +28,10 @@ for i, category in enumerate(categories):
 			for line in f:
 				line = re.sub(r'[^\w\s-]',' ',line)	# remove punctuations except hyphen
 				for word in line.lower().split():	# convert to lowercase
-					if word not in stopwords.words('english'):	# remove stop words
-						if word[0] not in "0123456789-":
-							stuff.append(word)
+					# remove stop words, ignore numbers and dangling hyphens
+					if (word not in stopwords.words('english') and
+							word[0] not in "0123456789-"):
+						stuff.append(word)
 		print("word count = ", len(stuff), '\n')
 
 		for n in range(0, 3):			# number of examples per file (default: 500)
