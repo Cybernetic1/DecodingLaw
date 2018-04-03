@@ -93,7 +93,7 @@ def strip_RTF(text):
 			elif brace == '}':
 				# Pop state
 				ucskip,ignorable = stack.pop()
-				# Added by YKY: close color bracket
+				# Added by YKY: close color bracket ==================
 				if in_color_Y:
 					in_color_Y = False
 					out.append(">Y>")
@@ -118,7 +118,7 @@ def strip_RTF(text):
 				pass
 			elif word in specialchars:
 				out.append(specialchars[word])
-				# Added by YKY
+				# Added by YKY ====================================
 				if word == "highlightY":
 					in_color_Y = True
 				if word == "highlightG":
@@ -150,7 +150,8 @@ def strip_RTF(text):
 * For each file do processing
 """
 
-for category in ["nuisance", "dangerous-driving", "injuries"]:
+#for category in ["nuisance", "dangerous-driving", "injuries"]:
+for category in ["family-laws"]:
 
 	suffix = ""
 
