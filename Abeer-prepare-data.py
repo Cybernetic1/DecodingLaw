@@ -49,7 +49,19 @@ for i, category in enumerate(categories):
 						stuff.append(word)
 		print("Case-law #", j, " word count = ", len(stuff))
 
+		# up to this point, we have accessed the 10 categories
+		
 		# ******************** Abeer, modify here ***********************
+
+		# here, we may want to read: laws-TXT/family-laws/* 
+		# and find sentences that are close to the sentences in "stuff"
+		# 'closeness' is defined by: cosine distance between averaged word-vectors
+		
+		# sub-task: for each word you need to look up their word-vectors
+		# 			this is done below, and you may need to move the code up
+		#			also, looking up vectors is time-consuming, best done only once
+
+		# after finding such sentences, append it to "data" similar to below:
 
 		for k in range(0, 3):		# number of examples per file (default: 500)
 			print(k, end = ": ")
@@ -60,7 +72,7 @@ for i, category in enumerate(categories):
 			data.append(word_list)
 			labels += [i]			# set label for training
 
-# Abeer:  just print out some results and exit here
+# Abeer:  for now, just print out some results and exit here
 
 exit(0)
 
