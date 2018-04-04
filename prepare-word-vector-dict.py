@@ -24,11 +24,38 @@ categories = ["matrimonial-rights", "separation", "divorce", "after-divorce", "d
 
 suffix = ""   # to be added to sub-directory, not needed currently
 
+# ================== Find unique words in pre-recorded category files ========================
+
+unique_words = []
+print("\n**** Finding unique words in pre-recorded category files....")
+print(time.strftime("%Y-%m-%d %H:%M"))
+unique_count = 0
+total_count = 0
+for filenames in os.listdir("categories/"):
+	with open("categories/" + filenames, encoding="utf-8") as fh:
+		for line in fh:
+			line = re.sub(r"[^\w-]", " ", line)				# strip punctuations except hyphen
+			line = re.sub(u"[\u4e00-\u9fff]", " ", line)	# strip Chinese
+			line = re.sub(r"\d", " ", line)					# strip numbers
+			line = re.sub(r"-+", "-", line)					# reduce multiple --- to -
+			for word in line.lower().split():
+				total_count += 1
+				if word not in stopwords.words('english'):
+					if word not in unique_words:
+						unique_words.append(word)
+						unique_count += 1
+				if total_count % 1000 == 0:
+					print(unique_count, "/", (total_count // 1000), "K : ", word, "                        ", end='\r')
+			#if count >= 20000:
+			#	break
+
+print("\n**** unique words found == ", len(unique_words))
+
 # =================== Find unique words in case-law files ========================
 
 unique_words = []
 print("\n**** Finding unique words in law-case files....")
-print(time.strftime("%Y-%m-%d %H:%M"), " (total 3070000 words, ~10 minutes)")
+print(time.strftime("%Y-%m-%d %H:%M"), " (total 3070 K words, ~9 minutes)")
 unique_count = 0
 total_count = 0
 for filenames in os.listdir("laws-TXT/family-laws"):
@@ -45,7 +72,7 @@ for filenames in os.listdir("laws-TXT/family-laws"):
 						unique_words.append(word)
 						unique_count += 1
 				if total_count % 1000 == 0:
-					print(unique_count, "/", total_count, ": ", word, "                        ", end='\r')
+					print(unique_count, "/", (total_count // 1000), "K : ", word, "                        ", end='\r')
 			#if count >= 20000:
 			#	break
 
