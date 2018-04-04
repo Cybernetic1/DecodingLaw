@@ -5,6 +5,7 @@ Purpose:  try to generate random data from downloaded case-law files
 @author: Abeer Arora
 """
 import numpy as np
+import math
 import os           # for os.listdir
 from nltk.corpus import stopwords
 import re           # for removing punctuations
@@ -12,29 +13,7 @@ import pickle
 import sys            # for sys.stdout.flush()
 from collections import defaultdict # for default value of word-vector dictionary
 import time
-from tkinter import *
-
-root = Tk()
-root.title("Similarity measure")
-
-canvas = Canvas(root, width=402, height=10)
-canvas.create_rectangle(0, 0, 402, 10, fill="black")
-canvas.pack()
-
-text1 = Text(root, height=10)
-text1.insert(INSERT, "Case-law sentences")
-text1.pack()
-
-text2 = Text(root, height=2)
-text2.insert(INSERT, "Category")
-text2.pack()
-
-text3 = Text(root, height=15)
-text3.insert(INSERT, "Category sentences")
-text3.pack()
-
-root.update_idletasks()
-root.update()
+import tkinter as tk
 
 path_to_glove = "wiki-news-300d-1M.vec" # change to your path and filename
 GLOVE_SIZE = 300        # dimension of word vectors in GloVe file
@@ -44,6 +23,29 @@ times_steps = 32        # this number should be same as fixed_seq_len below
 # 10 categories:
 categories = ["matrimonial-rights", "separation", "divorce", "after-divorce", "divorce-maintenance",
   "property-on-divorce", "types-of-marriages", "battered-wife-and-children", "Harmony-House", "divorce-mediation"]
+
+root = tk.Tk()
+root.title("Similarity measure")
+
+canvas = tk.Canvas(root, width=402, height=10).grid(row=0,column=0)
+canvas.create_rectangle(0, 0, 402, 10, fill="black")
+canvas.pack()
+
+text0 = Text(root, height=10).grid(row=1,column=0)
+text0.insert(INSERT, "Case-law sentences")
+text0.pack()
+
+labels = []
+canvases = []
+for i, cat in enumerate(categories):
+	label = Label(root, text=cat).grid(row=i+1,column=0)
+	labels.append(label)
+	canvas = Canvas(root, width=402, height=10).grid(row=i+1,column=1)
+	canvases.append(canvas)
+
+root.update_idletasks()
+root.update()
+root.mainloop()
 
 # ====================== load pre-trained word2vec dictionary ======================
 
