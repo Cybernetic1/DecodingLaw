@@ -76,8 +76,11 @@ def sent_avg_vector(words):
 
 def similarity(Vec1,Vec2):
   """ calculating cosine similarity between two sentence vectors """
-
-  return np.dot(Vec1,Vec2)       
+  v = math.sqrt(sum(vec1**2))
+  vv = math.sqrt(sum(vec2**2))
+  numerator = np.dot(Vec1,Vec2)
+  denominator = v*vv
+  return numerator/denominator        
 
 # ==================== extract all sentences from categories =======================
 
