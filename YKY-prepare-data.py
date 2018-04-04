@@ -10,26 +10,6 @@ from nltk.corpus import stopwords
 import re           # for removing punctuations
 import pickle
 import sys            # for sys.stdout.flush()
-from collections import defaultdict # for default value of word-vector dictionary
-from tkinter import *
-
-root = Tk()
-root.title("Similarity measure")
-
-canvas = Canvas(root, width=402, height=10)
-canvas.create_rectangle(0, 0, 402, 10, fill="black")
-canvas.pack()
-
-text1 = Text(root, height=10)
-text1.insert(INSERT, "Hello.....")
-text1.pack()
-
-text2 = Text(root, height=10)
-text2.insert(INSERT, "Goodbye.....")
-text2.pack()
-
-root.update_idletasks()
-root.update()
 
 path_to_glove = "wiki-news-300d-1M.vec" # change to your path and filename
 GLOVE_SIZE = 300        # dimension of word vectors in GloVe file
@@ -42,7 +22,8 @@ categories = ["matrimonial-rights", "separation", "divorce", "after-divorce", "d
 
 suffix = ""   # to be added to sub-directory, not needed currently
 
-def sent_avg_vector(words, vec_map, wordList):
+
+def sent_avg_vector(words,map,wordList):
   """ calculates average vector of sentence and returns value"""
   Vec = np.zeros((300,), dtype="float32")
   numWords = 0
@@ -50,7 +31,7 @@ def sent_avg_vector(words, vec_map, wordList):
   for word in words:
     if word in wordList:
       numWords += 1
-      Vec = np.add(Vec, vec_map[word])
+      Vec = np.add(Vec, map[word])
 
   if numWords>0:
     Vec = np.divide(Vec, numWords)
@@ -74,24 +55,22 @@ data = []
 fixed_seq_len = times_steps   # For each case law, take N consecutive words from text
 stuff = []
 
-max_count = 60000                 # total number of words to read from files
-print("\n**** Reading data files into memory ({0:d})....".format(max_count))
-count = 0
+print("\n**** Preparing training data....")
 for filenames in os.listdir("laws-TXT/family-laws"):
-    with open("laws-TXT/family-laws/"+filenames, encoding="utf-8") as fh:
+    count = 0
+    with open("laws-TXT/family-laws/"+filenames,encoding="utf-8") as fh:
       for line in fh:
-        line = re.sub(r'[^\w\s-]',' ', line)
-        for word in line.lower().split():
-          if(word not in stopwords.words('english') and word[0] not in "0123456789-"):
-            stuff.append(word)
-            count += 1
-            print(count, end='\r')
-        if(count >= max_count):
-          break
+        if(count < 50000):
+          senWords = []
+          line = re.sub(r'[^\w\s-]',' ', line)
+          for word in line.lower().split():
+            if(word not in stopwords.words('english') and word[0] not in "0123456789-"):
+              stuff.append(word)
+              count += 1
+        else:
+          break      
 
-num_examples = 500                     # number of examples per file (default: 500)
-print("\n**** Making examples ({0:d})....".format(num_examples))
-for k in range(0, num_examples):
+for k in range(0, 5000):   # number of examples per file (default: 500)
       #print(k, end = ": ")
       # Randomly select a sequence of words (of fixed length) in stuff text
       rand_start = np.random.choice(range(0, len(stuff) - fixed_seq_len))
@@ -99,7 +78,6 @@ for k in range(0, num_examples):
       #print(word_list)
       data.append(word_list)
       #labels += [i]     # set label for training
-      print(k, end='\r')
 
 # ================ Find unique words ================
 
@@ -121,7 +99,7 @@ print(len(word_list), " unique words found")
 
     # ============== Create word-to-vector dictionary ===========
 
-print("\n**** Looking up word vectors (Ctrl-C to end sooner)....")
+print("\n**** Looking up word vectors....")
 word2vec_map = {}
 count_all_words = 0
 entry_number = 0
@@ -149,11 +127,8 @@ except KeyboardInterrupt:
 glove_file.close()
 f2.close()
 
-# set default value = zero vector, if word not found in dictionary
-zero_vector = np.asarray([0.0] * GLOVE_SIZE, dtype='float32')
-word2vec_map = defaultdict(lambda: zero_vector, word2vec_map)
-
 print("Vocabulary size = ", len(word2vec_map))                  
+
 
     # up to this point, we have accessed the 10 categories
 
@@ -200,14 +175,8 @@ for i, category in enumerate(categories):
           if (word not in stopwords.words('english') and
               word[0] not in "0123456789-"):
             senWords.append(word)
-        if len(senWords) == 0:
-          continue
 
-        text1.delete(1.0, END)
-        text1.insert(INSERT, category + " : ")
-        text1.insert(INSERT, line)
-
-        vec1 = sent_avg_vector(senWords, word2vec_map, word_list)
+        vec1 = sent_avg_vector(senWords,word2vec_map,word_list)
         #print(vec1)
         iter = 0    
         for sent in data:
@@ -215,21 +184,13 @@ for i, category in enumerate(categories):
           #print(iter)
           try:
             #print(iter)
-            vec2 = sent_avg_vector(sent.split(), word2vec_map, word_list)
+            vec2 = sent_avg_vector(sent.split(),word2vec_map,word_list)
             #print(vec2)
-            sim = similarity(vec1, vec2) * 100
-            # print(line + " is ", sim, "% similar to \n")
-            # print(sent + "\n")
-            text2.delete(1.0, END)
-            text2.insert(INSERT, sent)
-            canvas.create_rectangle(0, 0, 402, 10, fill="black")
-            canvas.create_rectangle(1, 1, sim * 4, 10, fill="red")
-            root.update_idletasks()
-            root.update()
-          except KeyboardInterrupt:
-          #except Exception as e:
-            print("key exception....")
-            sys.stdin.readline()
+            print(line + " is ")
+            print(similarity(vec1,vec2)*100)
+            print(" percent similar to \n" + sent + "\n" )
+          except Exception as e:
+            #print("key exception \n")
             pass
 
 
