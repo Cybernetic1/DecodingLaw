@@ -10,6 +10,26 @@ from nltk.corpus import stopwords
 import re           # for removing punctuations
 import pickle
 import sys            # for sys.stdout.flush()
+from collections import defaultdict # for default value of word-vector dictionary
+from tkinter import *
+
+root = Tk()
+root.title("Similarity measure")
+
+canvas = Canvas(root, width=402, height=10)
+canvas.create_rectangle(0, 0, 402, 10, fill="black")
+canvas.pack()
+
+text1 = Text(root, height=10)
+text1.insert(INSERT, "Hello.....")
+text1.pack()
+
+text2 = Text(root, height=10)
+text2.insert(INSERT, "Goodbye.....")
+text2.pack()
+
+root.update_idletasks()
+root.update()
 
 path_to_glove = "wiki-news-300d-1M.vec" # change to your path and filename
 GLOVE_SIZE = 300        # dimension of word vectors in GloVe file
@@ -22,8 +42,7 @@ categories = ["matrimonial-rights", "separation", "divorce", "after-divorce", "d
 
 suffix = ""   # to be added to sub-directory, not needed currently
 
-
-def sent_avg_vector(words,map,wordList):
+def sent_avg_vector(words, vec_map, wordList):
   """ calculates average vector of sentence and returns value"""
   Vec = np.zeros((300,), dtype="float32")
   numWords = 0
@@ -31,7 +50,7 @@ def sent_avg_vector(words,map,wordList):
   for word in words:
     if word in wordList:
       numWords += 1
-      Vec = np.add(Vec, map[word])
+      Vec = np.add(Vec, vec_map[word])
 
   if numWords>0:
     Vec = np.divide(Vec, numWords)
@@ -55,22 +74,24 @@ data = []
 fixed_seq_len = times_steps   # For each case law, take N consecutive words from text
 stuff = []
 
-print("\n**** Preparing training data....")
+print("\n**** Reading data files into memory....")
+count = 0
 for filenames in os.listdir("laws-TXT/family-laws"):
-    count = 0
-    with open("laws-TXT/family-laws/"+filenames,encoding="utf-8") as fh:
+    with open("laws-TXT/family-laws/"+filenames, encoding="utf-8") as fh:
       for line in fh:
-        if(count < 50000):
-          senWords = []
-          line = re.sub(r'[^\w\s-]',' ', line)
-          for word in line.lower().split():
-            if(word not in stopwords.words('english') and word[0] not in "0123456789-"):
-              stuff.append(word)
-              count += 1
-        else:
-          break      
+        line = re.sub(r'[^\w\s-]',' ', line)
+        for word in line.lower().split():
+          if(word not in stopwords.words('english') and word[0] not in "0123456789-" and \
+            re.search(u'[\u4e00-\u9fff]+', word) == None and \
+          re.search(r'\d', word) == None):
+            stuff.append(word)
+            count += 1
+            print(count, end='\r')
+        if(count >= 80000):
+          break
 
-for k in range(0, 5000):   # number of examples per file (default: 500)
+print("\n**** Making examples....")
+for k in range(0, 1000):   # number of examples per file (default: 500)
       #print(k, end = ": ")
       # Randomly select a sequence of words (of fixed length) in stuff text
       rand_start = np.random.choice(range(0, len(stuff) - fixed_seq_len))
@@ -78,6 +99,7 @@ for k in range(0, 5000):   # number of examples per file (default: 500)
       #print(word_list)
       data.append(word_list)
       #labels += [i]     # set label for training
+      print(k, end='\r')
 
 # ================ Find unique words ================
 
@@ -118,7 +140,7 @@ try:
       coefs = np.asarray(vals[1:], dtype='float32')
       coefs /= np.linalg.norm(coefs)
       word2vec_map[word] = coefs
-    if count_all_words == len(word_list) - 1:
+    if count_all_words == len(word_list):
       print("*** found all words ***")
       break
 # if it takes too long to look up the entire dictionary, we can break it short
@@ -127,8 +149,11 @@ except KeyboardInterrupt:
 glove_file.close()
 f2.close()
 
-print("Vocabulary size = ", len(word2vec_map))                  
+# set default value = zero vector, if word not found in dictionary
+zero_vector = np.asarray([0.0] * GLOVE_SIZE, dtype='float32')
+word2vec_map = defaultdict(lambda: zero_vector, word2vec_map)
 
+print("Vocabulary size = ", len(word2vec_map))                  
 
     # up to this point, we have accessed the 10 categories
 
@@ -175,23 +200,37 @@ for i, category in enumerate(categories):
           if (word not in stopwords.words('english') and
               word[0] not in "0123456789-"):
             senWords.append(word)
-
-        vec1 = sent_avg_vector(senWords,word2vec_map,word_list)
-        #print(vec1)
-        iter = 0    
-        for sent in data:
-          iter += 1
-          #print(iter)
-          try:
-            #print(iter)
-            vec2 = sent_avg_vector(sent.split(),word2vec_map,word_list)
-            #print(vec2)
-            print(line + " is ")
-            print(similarity(vec1,vec2)*100)
-            print(" percent similar to \n" + sent + "\n" )
-          except Exception as e:
-            #print("key exception \n")
-            pass
+        if senWords:
+            text1.delete(1.0, END)
+            text1.insert(INSERT, category + " : ")
+            text1.insert(INSERT, line)
+            text1.pack()
+            vec1 = sent_avg_vector(senWords, word2vec_map, word_list)
+            #print(vec1)
+            iter = 0    
+            for sent in data:
+              iter += 1
+              #print(iter)
+              try:
+                #print(iter)
+                vec2 = sent_avg_vector(sent.split(), word2vec_map, word_list)
+                #print(vec2)
+                sim = similarity(vec1, vec2) * 100
+                # print(line + " is ", sim, "% similar to \n")
+                # print(sent + "\n")
+                text2.delete(1.0, END)
+                text2.insert(INSERT, sent)
+                text2.pack()
+                canvas.create_rectangle(0, 0, 402, 10, fill="black")
+                canvas.create_rectangle(1, 1, sim * 4, 9, fill="red")
+                canvas.pack()
+                root.update_idletasks()
+                root.update()
+              except KeyboardInterrupt:
+                #except Exception as e:
+                print("key exception....")
+                sys.stdin.readline()
+                pass
 
 
 folderName = "prepared-data/"
