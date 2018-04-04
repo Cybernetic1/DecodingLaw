@@ -87,12 +87,9 @@ def bingo(y_true, y_pred):
     # find the biggest 3 outputs
     threshold = np.partition(y_pred, -3)[-3]            # last 3 elements would be biggest
     loss = map( lambda y:
-        if y >= threshold:
-            (1 - y)                # if it is the winner, ideal value = 1.0
-        else:
-            (y)                    # if it is loser, ideal value = 0.0
-        , y_pred)
-
+                (1 - y) if (y >= threshold)             # if it is the winner, ideal value = 1.0
+                else (y),y_pred)                        # if it is loser, ideal value = 0.0
+                
     return np.array(loss)
 
 # ========= define input, output, and NN structure - need to modify =========
@@ -111,7 +108,7 @@ model.add(Dense(units=num_classes, activation='softmax'))
 
 # compile the model -- define loss function and optimizer
 print("Compiling ...")
-model.compile(loss='Modify here', optimizer=opt, metrics=['accuracy']) # loss type of cateforical crossentropy is good to classification model
+model.compile(loss=bingo, optimizer=opt, metrics=['accuracy'])
 model.summary()
 model.fit(np.array(x_train), np.array(y_train), batch_size=batch_size, epochs=nb_epochs)
 
