@@ -115,4 +115,3 @@ print("Test accuracy:  ", accuracy)
 
 # Save the model #
 model.save('Keras-NN.h5')
-
