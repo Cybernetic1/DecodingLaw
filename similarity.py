@@ -13,7 +13,7 @@ import pickle
 import sys            # for sys.stdout.flush()
 from collections import defaultdict # for default value of word-vector dictionary
 import time
-import tkinter as tk
+from tkinter import *
 
 path_to_glove = "wiki-news-300d-1M.vec" # change to your path and filename
 GLOVE_SIZE = 300        # dimension of word vectors in GloVe file
@@ -24,28 +24,26 @@ times_steps = 32        # this number should be same as fixed_seq_len below
 categories = ["matrimonial-rights", "separation", "divorce", "after-divorce", "divorce-maintenance",
   "property-on-divorce", "types-of-marriages", "battered-wife-and-children", "Harmony-House", "divorce-mediation"]
 
-root = tk.Tk()
+root = Tk()
 root.title("Similarity measure")
 
-canvas = tk.Canvas(root, width=402, height=10).grid(row=0,column=0)
-canvas.create_rectangle(0, 0, 402, 10, fill="black")
-canvas.pack()
-
-text0 = Text(root, height=10).grid(row=1,column=0)
+text0 = Text(root, height=10)
+text0.grid(row=0,column=0,columnspan=2)
 text0.insert(INSERT, "Case-law sentences")
-text0.pack()
 
 labels = []
 canvases = []
 for i, cat in enumerate(categories):
-	label = Label(root, text=cat).grid(row=i+1,column=0)
-	labels.append(label)
-	canvas = Canvas(root, width=402, height=10).grid(row=i+1,column=1)
-	canvases.append(canvas)
+    label = Label(root, text=cat)
+    label.grid(row=i+1,column=0)
+    labels.append(label)
+    canvas = Canvas(root, width=402, height=10)
+    canvas.grid(row=i+1,column=1)
+    canvas.create_rectangle(0, 0, 402, 10, fill="black")
+    canvases.append(canvas)
 
 root.update_idletasks()
 root.update()
-root.mainloop()
 
 # ====================== load pre-trained word2vec dictionary ======================
 
@@ -123,39 +121,36 @@ for filenames in os.listdir("laws-TXT/family-laws"):
             line = re.sub(u"[\u4e00-\u9fff]", " ", line)      # strip Chinese
             line = re.sub(r"\d", " ", line)                   # strip numbers
             line = re.sub(r"-+", "-", line)                   # reduce multiple --- to -
-            text1.delete(1.0, END)
+            text0.delete(1.0, END)
             for word in line.lower().split():
                 if word not in stopwords.words('english'):
                     words1.append(word)
-                    text1.insert(INSERT, word + " ")
+                    text0.insert(INSERT, word + " ")
             if len(words1) == 0:                            # skip empty lines
                 continue
 
             vec1 = sent_avg_vector(words1)
-            #print(vec1)
 
             # ====== for each case-law line, find similarity against N categories
             for i, category in enumerate(categories):
-              # print("\nCategory: ", category)
-              text2.delete(1.0, END)
-              text2.insert(1.0, category)
+                # print("\nCategory: ", category)
+                # text2.delete(1.0, END)
+                # text2.insert(1.0, category)
 
-              catLines = cats[i]
-              for catWords in catLines:
-                  text3.delete(1.0, END)
-                  for w in catWords:
-                      text3.insert(INSERT, w + " ")
-                  try:
-                      vec2 = sent_avg_vector(catWords)
-                      sim = similarity(vec1, vec2) * 100
-                      canvas.create_rectangle(0, 0, 402, 10, fill="black")
-                      canvas.create_rectangle(1, 1, sim * 4, 9, fill="red")
-                      root.update_idletasks()
-                      root.update()
-                  except KeyboardInterrupt:
-                      #except Exception as e:
-                      print("press enter to continue....")
-                      sys.stdin.readline()
+                sims = []
+                catLines = cats[i]
+                for catLine in catLines:
+                    # text3.delete(1.0, END)
+                    # for w in catWords:
+                    #    text3.insert(INSERT, w + " ")
+                    vec2 = sent_avg_vector(catLine)
+                    sims.append(similarity(vec1, vec2) * 100)
+
+                sim = np.mean(sims)
+                canvases[i].create_rectangle(0, 0, 402, 10, fill="black")
+                canvases[i].create_rectangle(1, 1, sim * 4, 9, fill="red")
+                root.update_idletasks()
+                root.update()
 
 exit(0)
 
