@@ -10,7 +10,8 @@ from nltk.corpus import stopwords
 import re           # for removing punctuations
 import pickle
 import sys            # for sys.stdout.flush()
-from collections import defaultdict	# for default value of word-vector dictionary
+from collections import defaultdict # for default value of word-vector dictionary
+import time
 from tkinter import *
 
 root = Tk()
@@ -21,12 +22,16 @@ canvas.create_rectangle(0, 0, 402, 10, fill="black")
 canvas.pack()
 
 text1 = Text(root, height=10)
-text1.insert(INSERT, "Hello.....")
+text1.insert(INSERT, "Case-law sentences")
 text1.pack()
 
-text2 = Text(root, height=10)
-text2.insert(INSERT, "Goodbye.....")
+text2 = Text(root, height=2)
+text2.insert(INSERT, "Category")
 text2.pack()
+
+text3 = Text(root, height=15)
+text3.insert(INSERT, "Category sentences")
+text3.pack()
 
 root.update_idletasks()
 root.update()
@@ -76,24 +81,26 @@ def similarity(Vec1,Vec2):
 
 # ==================== extract all sentences from categories =======================
 
-catLines = []           # array of array of words
-suffix = ""   # to be added to sub-directory, not needed currently
+cats = []              # list of list of list of words (categories[lines[words]])
+suffix = ""            # to be added to sub-directory, not needed currently
 
 for i, category in enumerate(categories):
     print("\nCategory: ", category)
     for j, filename in enumerate(os.listdir("categories/" + category + suffix)):
-      with open("scraped-data/" + category + suffix + "/" + filename) as f:
-        for line in f:
-            catWords = []
-            line = re.sub(r"[^\w-]", " ", line)				# strip punctuations except hyphen
-            line = re.sub(u"[\u4e00-\u9fff]", " ", line)	# strip Chinese
-            line = re.sub(r"\d", " ", line)					# strip numbers
-            line = re.sub(r"-+", "-", line)					# reduce multiple --- to -
-            for word in line.lower().split():
-                if word not in stopwords.words('english'):
-                    catWords.append(word)
-        if len(catWords) > 0:                       # skip empty lines
-            catLines.append(catWords)
+        with open("categories/" + category + suffix + "/" + filename) as f:
+            catLines = []
+            for line in f:
+                catWords = []
+                line = re.sub(r"[^\w-]", " ", line)             # strip punctuations except hyphen
+                line = re.sub(u"[\u4e00-\u9fff]", " ", line)    # strip Chinese
+                line = re.sub(r"\d", " ", line)                 # strip numbers
+                line = re.sub(r"-+", "-", line)                 # reduce multiple --- to -
+                for word in line.lower().split():
+                    if word not in stopwords.words('english'):
+                        catWords.append(word)
+                if len(catWords) > 0:                       # skip empty lines
+                    catLines.append(catWords)
+        cats.append(catLines)
 
 # ===================== Scan case examples from file ============================
 labels = []
@@ -104,51 +111,46 @@ print("\n**** Calculating sentence similarity....")
 print(time.strftime("%Y-%m-%d %H:%M"))
 
 for filenames in os.listdir("laws-TXT/family-laws"):
-    count = 0
     with open("laws-TXT/family-laws/" + filenames, encoding="utf-8") as fh:
-      for line in fh:
-          senWords = []
-          line = re.sub(r"[^\w-]", " ", line)				# strip punctuations except hyphen
-          line = re.sub(u"[\u4e00-\u9fff]", " ", line)	# strip Chinese
-          line = re.sub(r"\d", " ", line)					# strip numbers
-          line = re.sub(r"-+", "-", line)					# reduce multiple --- to -
-          for word in line.lower().split():
-            if word not in stopwords.words('english'):
-              senWords.append(word)
-              count += 1
+        for line in fh:
+            words1 = []
+            line = re.sub(r"[^\w-]", " ", line)               # strip punctuations except hyphen
+            line = re.sub(u"[\u4e00-\u9fff]", " ", line)      # strip Chinese
+            line = re.sub(r"\d", " ", line)                   # strip numbers
+            line = re.sub(r"-+", "-", line)                   # reduce multiple --- to -
+            text1.delete(1.0, END)
+            for word in line.lower().split():
+                if word not in stopwords.words('english'):
+                    words1.append(word)
+                    text1.insert(INSERT, word + " ")
+            if len(words1) == 0:                            # skip empty lines
+                continue
 
-          # ====== for each line, find similarity against N categories
-          for i, category in enumerate(categories):
-              print("\nCategory: ", category)
-              text1.delete(1.0, END)
-              text1.insert(INSERT, category + " :\n")
-              text1.insert(INSERT, senWords)
+            vec1 = sent_avg_vector(words1)
+            #print(vec1)
 
-              vec1 = sent_avg_vector(senWords)
-              #print(vec1)
-              iter = 0
+            # ====== for each case-law line, find similarity against N categories
+            for i, category in enumerate(categories):
+              # print("\nCategory: ", category)
+              text2.delete(1.0, END)
+              text2.insert(1.0, category)
+
+              catLines = cats[i]
               for catWords in catLines:
-                iter += 1
-                #print(iter)
-                try:
-                    #print(iter)
-                    vec2 = sent_avg_vector(catWords)
-                    #print(vec2)
-                    text2.delete(1.0, END)
-                    text2.insert(INSERT, catWords)
-                    canvas.create_rectangle(0, 0, 402, 10, fill="black")
-                    canvas.create_rectangle(1, 1, sim * 4, 9, fill="red")
-                    root.update_idletasks()
-                    root.update()
-
-                    #print(line + " is ")
-                    #print(similarity(vec1, vec2) * 100)
-                    #print(" % similar to \n" + sent + "\n" )
-                except KeyboardInterrupt:
-                    #except Exception as e:
-                    print("key exception....")
-                    sys.stdin.readline()
-                    pass
+                  text3.delete(1.0, END)
+                  for w in catWords:
+                      text3.insert(INSERT, w + " ")
+                  try:
+                      vec2 = sent_avg_vector(catWords)
+                      sim = similarity(vec1, vec2) * 100
+                      canvas.create_rectangle(0, 0, 402, 10, fill="black")
+                      canvas.create_rectangle(1, 1, sim * 4, 9, fill="red")
+                      root.update_idletasks()
+                      root.update()
+                  except KeyboardInterrupt:
+                      #except Exception as e:
+                      print("press enter to continue....")
+                      sys.stdin.readline()
 
 exit(0)
 
