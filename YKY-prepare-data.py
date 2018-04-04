@@ -74,7 +74,8 @@ data = []
 fixed_seq_len = times_steps   # For each case law, take N consecutive words from text
 stuff = []
 
-print("\n**** Reading data files into memory....")
+max_count = 60000                 # total number of words to read from files
+print("\n**** Reading data files into memory ({0:d})....".format(max_count))
 count = 0
 for filenames in os.listdir("laws-TXT/family-laws"):
     with open("laws-TXT/family-laws/"+filenames, encoding="utf-8") as fh:
@@ -85,11 +86,12 @@ for filenames in os.listdir("laws-TXT/family-laws"):
             stuff.append(word)
             count += 1
             print(count, end='\r')
-        if(count >= 80000):
+        if(count >= max_count):
           break
 
-print("\n**** Making examples....")
-for k in range(0, 1000):   # number of examples per file (default: 500)
+num_examples = 500                     # number of examples per file (default: 500)
+print("\n**** Making examples ({0:d})....".format(num_examples))
+for k in range(0, num_examples):
       #print(k, end = ": ")
       # Randomly select a sequence of words (of fixed length) in stuff text
       rand_start = np.random.choice(range(0, len(stuff) - fixed_seq_len))
@@ -119,7 +121,7 @@ print(len(word_list), " unique words found")
 
     # ============== Create word-to-vector dictionary ===========
 
-print("\n**** Looking up word vectors....")
+print("\n**** Looking up word vectors (Ctrl-C to end sooner)....")
 word2vec_map = {}
 count_all_words = 0
 entry_number = 0
@@ -198,11 +200,12 @@ for i, category in enumerate(categories):
           if (word not in stopwords.words('english') and
               word[0] not in "0123456789-"):
             senWords.append(word)
+        if len(senWords) == 0:
+          continue
 
         text1.delete(1.0, END)
         text1.insert(INSERT, category + " : ")
         text1.insert(INSERT, line)
-        text1.pack()
 
         vec1 = sent_avg_vector(senWords, word2vec_map, word_list)
         #print(vec1)
@@ -219,10 +222,8 @@ for i, category in enumerate(categories):
             # print(sent + "\n")
             text2.delete(1.0, END)
             text2.insert(INSERT, sent)
-            text2.pack()
             canvas.create_rectangle(0, 0, 402, 10, fill="black")
-            canvas.create_rectangle(1, 1, sim * 4, 9, fill="red")
-            canvas.pack()
+            canvas.create_rectangle(1, 1, sim * 4, 10, fill="red")
             root.update_idletasks()
             root.update()
           except KeyboardInterrupt:
