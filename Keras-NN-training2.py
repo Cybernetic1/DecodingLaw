@@ -100,7 +100,7 @@ def get_sentence_batch(batch_size, data_x, data_y):  # omit: data_seqlens
 
 def bingo_loss(y_true, y_pred):
     y2 = 1 - y_pred
-    _, indices = tf.nn.top_k(y1, k = 3, sorted=False)
+    _, indices = tf.nn.top_k(y_pred, k = 3, sorted=False)
     loss = tf.scatter_update(y_pred, indices, y2)
     return loss
 
