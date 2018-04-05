@@ -116,6 +116,7 @@ print(time.strftime("%Y-%m-%d %H:%M"))
 for filenames in os.listdir("laws-TXT/family-laws"):
     with open("laws-TXT/family-laws/" + filenames, encoding="utf-8") as fh:
         for line in fh:
+            Var = np.empty([10,1])
             words1 = []
             line = re.sub(r"[^\w-]", " ", line)               # strip punctuations except hyphen
             line = re.sub(u"[\u4e00-\u9fff]", " ", line)      # strip Chinese
@@ -146,11 +147,14 @@ for filenames in os.listdir("laws-TXT/family-laws"):
                     vec2 = sent_avg_vector(catLine)
                     sims.append(similarity(vec1, vec2) * 100)
 
+                arr = np.asarray(sims)
+                Var[i] = np.var(arr)    
                 sim = np.mean(sims)
                 canvases[i].create_rectangle(0, 0, 402, 10, fill="black")
                 canvases[i].create_rectangle(1, 1, sim * 4, 9, fill="red")
                 root.update_idletasks()
                 root.update()
+                
 
 exit(0)
 
