@@ -99,7 +99,7 @@ try:
             coefs = np.asarray(vals[1:], dtype='float32')
             coefs /= np.linalg.norm(coefs)
             word2vec_map[word] = coefs
-        if count_all_words == len(unique_words) - 1:
+        if count_all_words == len(unique_words):
             print("*** found all words ***")
             break
 # if it takes too long to look up the entire dictionary, we can break it short
