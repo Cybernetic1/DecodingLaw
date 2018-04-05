@@ -95,12 +95,12 @@ def get_sentence_batch(batch_size, data_x, data_y):  # omit: data_seqlens
         else:
             loss[i] = y                                # if it is loser, ideal value = 0.0
     """
-    #one = tf.ones([10])
     #loss = tf.gather(y2, indices)
 
 def bingo_loss(y_true, y_pred):
-    y2 = 1 - y_pred
-    _, indices = tf.nn.top_k(y_pred, k = 3, sorted=False)
+    one = tf.ones([10])
+    y2 = tf.subtract(one, y_pred)
+    _, indices = tf.nn.top_k(y_pred, k = 3)
     loss = tf.scatter_update(y_pred, indices, y2)
     return loss
 
