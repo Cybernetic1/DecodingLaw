@@ -1,0 +1,10 @@
+*.DS_Store
+*.pyc
+*.png
+report/
+output/
+corpus/
+imgs/
+others/
+*.txt
+*.csv
