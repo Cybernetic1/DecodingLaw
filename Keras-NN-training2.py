@@ -99,13 +99,21 @@ def get_sentence_batch(batch_size, data_x, data_y):  # omit: data_seqlens
 
 def bingo_loss(y_true, y_pred):
     one = tf.ones([10])
+##    print(y_true)
+##    print(type(y_pred))
+    a = y_pred
+##    print(type(a))
+##    print (a)
     y2 = tf.subtract(one, y_pred)
-    _, indices = tf.nn.top_k(y_pred, k = 3)
-    loss = tf.scatter_update(y_pred, indices, y2)
+    y2_ = tf.Variable(y2)
+##    print(y2)
+##    print(type(y2))
+    #_, indices = tf.nn.top_k(y_pred, k = 3)
+    loss = tf.scatter_update(y_pred, 1, y2)
     return loss
 
 # ========= define input, output, and NN structure - need to modify =========
-#define the activation function here
+#define the optimizer here
 opt = Adam(lr=0.0067, beta_1=0.9, beta_2=0.999, epsilon=1e-08)
 
 #how many epoch to train
