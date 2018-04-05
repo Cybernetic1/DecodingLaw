@@ -81,14 +81,14 @@ def get_sentence_batch(batch_size, data_x, data_y):  # omit: data_seqlens
 # ========= define input, output, and NN structure - need to modify =========
 
 
-#define objective function here
+#define optimizer here
 opt = Adam(lr=0.0067, beta_1=0.9, beta_2=0.999, epsilon=1e-08)
 
 #how many epoch to train
 nb_epochs = 40
-x_train,y_train = get_sentence_batch(batch_size,train_x,train_y)        #list
+x_train,y_train = get_sentence_batch(batch_size,train_x,train_y)
 x_test,y_test = get_sentence_batch(batch_size,test_x,test_y)
-#print (y_test)
+
 
 print('Build LSTM model ...')
 model = Sequential() # this is the first layer of keras
