@@ -1,12 +1,14 @@
-import os						# for os.listdir and os.environ
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'	# suppress Tensorflow warnings
+import os                       # for os.listdir and os.environ
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'    # suppress Tensorflow warnings
 import numpy as np
 from nltk.corpus import stopwords
-import re						# for removing punctuations
-import sys						# for sys.stdin.readline()
-from collections import defaultdict	# for default value of word-vector dictionary
+import re                       # for removing punctuations
+import sys                      # for sys.stdin.readline()
+from collections import defaultdict # for default value of word-vector dictionary
 import pickle
 import h5py
+
+import tensorflow as tf
 
 # Keras deep learning library
 from keras.models import Sequential
@@ -14,7 +16,7 @@ from keras.layers.recurrent import LSTM
 from keras.layers import Dense, Activation
 from keras.optimizers import Adam, RMSprop, SGD
 from keras.callbacks import Callback
-
+from keras import backend as K
 
 # Load the trained model
 #model = keras.models.load_weights('Keras-NN_weigts.h5')
@@ -22,11 +24,11 @@ path_to_glove = "wiki-news-300d-1M.vec"
 GLOVE_SIZE = 300
 batch_size = 512
 num_classes = 10
-times_steps = 32		                # this number should be same as fixed_seq_len below
+times_steps = 32                        # this number should be same as fixed_seq_len below
 
 # 10 categories:
 categories = ["matrimonial-rights", "separation", "divorce", "after-divorce", "divorce-maintenance",
-	"property-on-divorce", "types-of-marriages", "battered-wife-and-children", "Harmony-House", "divorce-mediation"]
+    "property-on-divorce", "types-of-marriages", "battered-wife-and-children", "Harmony-House", "divorce-mediation"]
 
 # =================== Read prepared training data from file ======================
 
@@ -71,26 +73,36 @@ test_y = labels[midpoint:]
 # =================== Prepare batch data ============================
 
 def get_sentence_batch(batch_size, data_x, data_y):  # omit: data_seqlens
-	instance_indices = list(range(len(data_x)))
-	np.random.shuffle(instance_indices)
-	batch = instance_indices[:batch_size]
-	
-	x = [[word2vec_map[word]for word in data_x[i].split()]for i in batch]
-	y = [data_y[i] for i in batch]
-	#seqlens = [data_seqlens[i] for i in batch]
-	return x, y		# seqlens
+    instance_indices = list(range(len(data_x)))
+    np.random.shuffle(instance_indices)
+    batch = instance_indices[:batch_size]
+    
+    x = [[word2vec_map[word]for word in data_x[i].split()]for i in batch]
+    y = [data_y[i] for i in batch]
+    #seqlens = [data_seqlens[i] for i in batch]
+    return x, y     # seqlens
 
 # =========== define objective function for unsupervised competitive learning ==========
 
-def bingo(y_true, y_pred):
     # y_true can be ignored
-    # find the biggest 3 outputs
-    threshold = np.partition(y_pred, -3)[-3]            # last 3 elements would be biggest
-    loss = map( lambda y:
-                (1 - y) if (y >= threshold)             # if it is the winner, ideal value = 1.0
-                else (y),y_pred)                        # if it is loser, ideal value = 0.0
-                
-    return np.array(loss)
+    """
+    threshold = np.partition(y_pred, -3)[-3]           # last 3 elements would be biggest
+    loss = np.zeros(10)
+    for i in range(0,10):
+        y = y_pred[i]
+        if y > threshold:                              
+            loss[i] = 1.0 - y                          # if it is the winner, ideal value = 1.0
+        else:
+            loss[i] = y                                # if it is loser, ideal value = 0.0
+    """
+    #loss = tf.gather(y2, indices)
+
+def bingo_loss(y_true, y_pred):
+    one = tf.ones([10])
+    y2 = tf.subtract(one, y_pred)
+    _, indices = tf.nn.top_k(y_pred, k = 3)
+    loss = tf.scatter_update(y_pred, indices, y2)
+    return loss
 
 # ========= define input, output, and NN structure - need to modify =========
 #define the activation function here
@@ -98,6 +110,9 @@ opt = Adam(lr=0.0067, beta_1=0.9, beta_2=0.999, epsilon=1e-08)
 
 #how many epoch to train
 nb_epochs = 40
+x_train,y_train = get_sentence_batch(batch_size,train_x,train_y)        #list
+x_test,y_test = get_sentence_batch(batch_size,test_x,test_y)
+#print (y_test)
 
 
 print('Build NN model ...')
@@ -108,7 +123,8 @@ model.add(Dense(units=num_classes, activation='softmax'))
 
 # compile the model -- define loss function and optimizer
 print("Compiling ...")
-model.compile(loss=bingo, optimizer=opt, metrics=['accuracy'])
+# loss type of cateforical crossentropy is good to classification model
+model.compile(loss=bingo_loss, optimizer=opt, metrics=['accuracy'])
 model.summary()
 model.fit(np.array(x_train), np.array(y_train), batch_size=batch_size, epochs=nb_epochs)
 
@@ -121,4 +137,3 @@ print("Test accuracy:  ", accuracy)
 
 # Save the model #
 model.save('Keras-NN-trainging2.h5')
-
