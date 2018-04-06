@@ -8,6 +8,9 @@ from __future__ import absolute_import
 import argparse
 import math
 import numpy as np
+import sys
+import re
+from nltk.corpus import stopwords
 
 from autoencoder.core.ae import load_ae_model
 from autoencoder.preprocessing.preprocessing import load_corpus, doc2vec
@@ -117,12 +120,30 @@ def test(args):
 
     if args.sample_words:
         revocab = revdict(vocab)
-        queries = ['weapon', 'christian', 'compani', 'israel', 'law', 'hockey', 'comput', 'space']
-        words = []
-        for each in queries:
-            words.append(get_similar_words(ae, vocab[each], revocab, topn=11))
-        write_file(words, args.sample_words)
-        print('Saved sample words file to %s' % args.sample_words)
+        while True:
+                print("----------------------------\n? ", end = '')
+                sys.stdout.flush()
+                query = sys.stdin.readline()
+                query = re.sub(r'[^\w\s-]',' ', query)  # remove punctuations except hyphen
+                query_words = []
+                for word in query.lower().split():      # convert to lowercase
+                        if word not in stopwords.words('english'):  # remove stop words
+                                query_words.append(word)
+
+
+                # ===== make the query length to be (32) = times_steps size
+                """long_enough = False
+                while not long_enough:
+                        for word in query_words:
+                                query_vectors.append(word2vec_map[word])
+                                if len(query_vectors) == 32:
+                                        long_enough = True
+                                        break"""
+                words = []
+                for each in query_words:
+                    words.append(get_similar_words(ae, vocab[each], revocab, topn=11))
+                    write_file(words, args.sample_words)
+                    print('Saved sample words file to %s' % args.sample_words)
     if args.translate_words:
         revocab = revdict(vocab)
         queries = [['father', 'man', 'woman'], ['mother', 'woman', 'man']]
