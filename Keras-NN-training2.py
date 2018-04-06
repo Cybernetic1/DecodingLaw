@@ -103,15 +103,19 @@ def bingo_loss(y_true, y_pred):
 ##    print(type(y_pred))
 ##    print(type(a))
 ##    print (a)
-    ytrue = K.mean(y_true, axis = 1)
-    ypred = K.variable(K.zeros([3]))
-    #ypred = K.mean(y_pred, axis = 1)
-    y2 = 1 - ypred
 ##    y2_ = tf.Variable(y2, expected_shape = [32,10])
 ##    print(y2)
 ##    print(type(y2))
-    _, indices = K.nn.top_k(ypred, k = 3)
-    loss = K.scatter_update(ypred, indices, y2)
+##    ypred = K.mean(y_pred, axis = 1)
+
+    #y1 = K.variable(y_pred)
+
+    ones = K.variable(K.zeros([10]))
+    y2 = ones - y_pred
+    values, indices = tf.nn.top_k(y_pred, k = 3)
+    min_val = tf.reduce_min(values, axis = 1)
+    min_vals = tf.tile(min_val, [10])
+    loss = tf.where(tf.greater(y_pred, min_vals), y2, y_pred)
     return loss
 
 # ========= define input, output, and NN structure - need to modify =========
