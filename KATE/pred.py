@@ -85,7 +85,7 @@ def test(args):
     vocab, docs = corpus['vocab'], corpus['docs']
     n_vocab = len(vocab)
 
-    doc_keys = docs.keys()
+    doc_keys = list(docs.keys())
     X_docs = []
     for k in doc_keys:
         X_docs.append(vecnorm(doc2vec(docs[k], n_vocab), 'logmax1', 0))

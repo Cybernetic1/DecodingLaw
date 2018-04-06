@@ -23,7 +23,7 @@ def revdict(d):
     When two keys map to the same value, only one of them will be kept in the
     result (which one is kept is arbitrary).
     """
-    return dict((v, k) for (k, v) in d.iteritems())
+    return dict((v, k) for (k, v) in d.items())
 
 def l1norm(x):
     return x / sum([np.abs(y) for y in x])
