@@ -95,23 +95,9 @@ def get_sentence_batch(batch_size, data_x, data_y):  # omit: data_seqlens
         else:
             loss[i] = y                                # if it is loser, ideal value = 0.0
     """
-    #loss = tf.gather(y2, indices)
 
 def bingo_loss(y_true, y_pred):
-##    one = K.ones([3])
-##    print(y_true)
-##    print(type(y_pred))
-##    print(type(a))
-##    print (a)
-##    y2_ = tf.Variable(y2, expected_shape = [32,10])
-##    print(y2)
-##    print(type(y2))
-##    ypred = K.mean(y_pred, axis = 1)
-
-    #y1 = K.variable(y_pred)
-
-    ones = K.variable(K.zeros([10]))
-    y2 = ones - y_pred
+    y2 = 1 - y_pred
     values, indices = tf.nn.top_k(y_pred, k = 3)
     min_val = tf.reduce_min(values, axis = 1)
     min_vals = tf.tile(min_val, [10])
