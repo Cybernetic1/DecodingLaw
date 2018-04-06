@@ -76,9 +76,9 @@ def get_topics_strength(model, vocab, topn=10):
 def print_topics(topics):
     for i in range(len(topics)):
         str_topic = ' + '.join(['%s * %s' % (prob, token) for token, prob in topics[i]])
-        print 'topic %s:' % i
-        print str_topic
-        print
+        print('topic %s:' % i)
+        print(str_topic)
+        print()
 
 def test(args):
     corpus = load_corpus(args.input)
@@ -95,14 +95,14 @@ def test(args):
     ae = load_ae_model(args.load_model)
     doc_codes = ae.predict(X_docs)
     dump_json(dict(zip(doc_keys, doc_codes.tolist())), args.output)
-    print 'Saved doc codes file to %s' % args.output
+    print('Saved doc codes file to %s' % args.output)
 
     if args.save_topics:
         topics_strength = get_topics_strength(ae, revdict(vocab), topn=10)
         save_topics_strength(topics_strength, args.save_topics)
         # topics = get_topics(ae, revdict(vocab), topn=10)
         # write_file(topics, args.save_topics)
-        print 'Saved topics file to %s' % args.save_topics
+        print('Saved topics file to %s' % args.save_topics)
 
     if args.word_clouds:
         queries = ['interest', 'trust', 'cash', 'payment', 'rate', 'price', 'stock', 'share', 'award', 'risk', 'security', 'bank', 'company',
@@ -113,7 +113,7 @@ def test(args):
         weights = unitmatrix(weights) # normalize
         word_cloud(weights, vocab, queries, save_file=args.word_clouds)
 
-        print 'Saved word clouds file to %s' % args.word_clouds
+        print('Saved word clouds file to %s' % args.word_clouds)
 
     if args.sample_words:
         revocab = revdict(vocab)
@@ -122,18 +122,18 @@ def test(args):
         for each in queries:
             words.append(get_similar_words(ae, vocab[each], revocab, topn=11))
         write_file(words, args.sample_words)
-        print 'Saved sample words file to %s' % args.sample_words
+        print('Saved sample words file to %s' % args.sample_words)
     if args.translate_words:
         revocab = revdict(vocab)
         queries = [['father', 'man', 'woman'], ['mother', 'woman', 'man']]
         for each in queries:
-            print each
-            print translate_words(ae, each, vocab, revocab, topn=10)
+            print(each)
+            print(translate_words(ae, each, vocab, revocab, topn=10))
     if args.calc_distinct:
         # mean, std = calc_pairwise_cosine(ae)
         # print 'Average pairwise angle (pi): %s (%s)' % (mean / math.pi, std / math.pi)
         sd = calc_pairwise_dev(ae)
-        print 'Average squared deviation from 0 (90 degree): %s' % sd
+        print('Average squared deviation from 0 (90 degree): %s' % sd)
 
 def save_topics_strength(topics_prob, out_file):
     try:
