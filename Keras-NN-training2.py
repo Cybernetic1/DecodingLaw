@@ -97,11 +97,12 @@ def get_sentence_batch(batch_size, data_x, data_y):  # omit: data_seqlens
     """
 
 def bingo_loss(y_true, y_pred):
-    y2 = 1 - y_pred
+    alpha = 0.1
+    y2 = (1 - y_pred) * alpha
     values, indices = tf.nn.top_k(y_pred, k = 3)
     min_val = tf.reduce_min(values, axis = 1)
     min_vals = tf.reshape(tf.tile(min_val, [10]), [-1, 10])
-    loss = tf.where(tf.greater(y_pred, min_vals), y2, y_pred)
+    loss = tf.where(tf.greater(y_pred, min_vals), y2, y_pred * alpha)
     return loss
 
 # ========= define input, output, and NN structure - need to modify =========
