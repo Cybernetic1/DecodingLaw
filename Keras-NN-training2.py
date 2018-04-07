@@ -24,92 +24,71 @@ path_to_glove = "wiki-news-300d-1M.vec"
 GLOVE_SIZE = 300
 batch_size = 512
 num_classes = 10
-times_steps = 32                        # this number should be same as fixed_seq_len below
+times_steps = 8                        # time steps for RNN.  This number should be same as fixed_seq_len below
+fixed_seq_len = times_steps
 
 # 10 categories:
 categories = ["matrimonial-rights", "separation", "divorce", "after-divorce", "divorce-maintenance",
     "property-on-divorce", "types-of-marriages", "battered-wife-and-children", "Harmony-House", "divorce-mediation"]
 
-# =================== Read prepared training data from file ======================
+# =================== Read unique words list & word2vec map ======================
 
-pickle_off = open("prepared-data/training-data-3.pickle", "rb")
-data = pickle.load(pickle_off)                
-pickle_off = open("prepared-data/training-labels-3.pickle", "rb")
-labels = pickle.load(pickle_off)
-
-pickle_off = open("prepared-data/training-word-list-3.pickle", "rb")
+pickle_off = open("prepared-data/unique-words.pickle", "rb")
 word_list = pickle.load(pickle_off)
 
-pickle_off = open("prepared-data/training-word2vec-map-3.pickle", "rb")
+pickle_off = open("prepared-data/word2vec-map.pickle", "rb")
 word2vec_map = pickle.load(pickle_off)
-
-zero_vector = np.asarray([0.0] * GLOVE_SIZE, dtype='float32')
-word2vec_map = defaultdict(lambda: zero_vector, word2vec_map)
 
 # set default value = zero vector, if word not found in dictionary
 zero_vector = np.asarray([0.0] * GLOVE_SIZE, dtype='float32')
 word2vec_map = defaultdict(lambda: zero_vector, word2vec_map)
 
-num_examples = len(data)
+# =================== Try to use continuous-training mode ======================
 
-fixed_seq_len = times_steps
-
-# ============ Split data into Training and Testing sets, 50%:50% ============
-
-data_indices = list(range(len(data)))                  
-np.random.shuffle(data_indices)
-data = np.array(data)[data_indices]             
-labels = np.array(labels)[data_indices]
-#seqlens = np.array(seqlens)[data_indices]
-midpoint = num_examples // 2
-train_x = data[:midpoint]              
-train_y = labels[:midpoint]             
-#train_seqlens = seqlens[:midpoint]
-
-test_x = data[midpoint:]
-test_y = labels[midpoint:]
-#test_seqlens = seqlens[midpoint:]
+def get_next_word_vec():
+    for filenames in os.listdir("laws-TXT/family-laws"):
+        with open("laws-TXT/family-laws/" + filenames, encoding="utf-8") as in_file:
+            for line in in_file:
+                line = re.sub(r"[^\w-]", " ", line)             # strip punctuations except hyphen
+                line = re.sub(u"[\u4e00-\u9fff]", " ", line)    # strip Chinese
+                line = re.sub(r"\d", " ", line)                 # strip numbers
+                line = re.sub(r"-+", "-", line)                 # reduce multiple --- to -
+                for word in line.lower().split():
+                    yield word2vec_map[word]
 
 # =================== Prepare batch data ============================
 
-def get_sentence_batch(batch_size, data_x, data_y):  # omit: data_seqlens
-    instance_indices = list(range(len(data_x)))
-    np.random.shuffle(instance_indices)
-    batch = instance_indices[:batch_size]
-    
-    x = [[word2vec_map[word]for word in data_x[i].split()]for i in batch]
-    y = [data_y[i] for i in batch]
-    #seqlens = [data_seqlens[i] for i in batch]
-    return x, y     # seqlens
+g = get_next_word_vec()
+
+def get_sentence_batch(batch_size):
+    data = []
+    for _ in range(batch_size):
+        vecs = []
+        for _ in range(fixed_seq_len):
+            vecs.append(next(g))
+        data.append(vecs)
+    print(len(data))
+    print(len(data[0]))
+    print(len(data[0][0]))
+    return data
 
 # =========== define objective function for unsupervised competitive learning ==========
 
-    # y_true can be ignored
     """
-    threshold = np.partition(y_pred, -3)[-3]           # last 3 elements would be biggest
-    loss = np.zeros(10)
-    for i in range(0,10):
-        y = y_pred[i]
-        if y > threshold:                              
-            loss[i] = 1.0 - y                          # if it is the winner, ideal value = 1.0
-        else:
-            loss[i] = y                                # if it is loser, ideal value = 0.0
+    y_true can be ignored
+    choose k winners out of n outputs
+    
+    loss[i] = 1 - y[i]     if i is winner
+            = y[i]         if i is loser
     """
-    #loss = tf.gather(y2, indices)
 
 def bingo_loss(y_true, y_pred):
-    one = tf.ones([10])
-##    print(y_true)
-##    print(type(y_pred))
-    a = y_pred
-##    print(type(a))
-##    print (a)
-    y2 = tf.subtract(one, y_pred)
-    y2_ = tf.Variable(y2)
-##    print(y2)
-##    print(type(y2))
-    #_, indices = tf.nn.top_k(y_pred, k = 3)
-    loss = tf.scatter_update(y_pred, 1, y2)
+    alpha = 0.9
+    y2 = alpha * (1 - y_pred)
+    values, indices = tf.nn.top_k(y_pred, k = 3)
+    min_val = tf.reduce_min(values, axis = 1)
+    min_vals = tf.reshape(tf.tile(min_val, [10]), [-1, 10])
+    loss = tf.where(tf.greater(y_pred, min_vals), y2, alpha * y_pred)
     return loss
 
 # ========= define input, output, and NN structure - need to modify =========
@@ -117,31 +96,125 @@ def bingo_loss(y_true, y_pred):
 opt = Adam(lr=0.0067, beta_1=0.9, beta_2=0.999, epsilon=1e-08)
 
 #how many epoch to train
-nb_epochs = 40
-x_train,y_train = get_sentence_batch(batch_size,train_x,train_y)        #list
-x_test,y_test = get_sentence_batch(batch_size,test_x,test_y)
-#print (y_test)
-
-
+nb_epochs = 100
+x_train = np.array(get_sentence_batch(batch_size))
+x_test = np.array(get_sentence_batch(batch_size))
+# generate a 2D array
+y_train = np.random.rand(batch_size, num_classes)
+##print (type(x_train))
+##print (len(x_train))
+##print (len(x_train[0]))
+##print (len(x_train[0][0]))
 print('Build NN model ...')
 model = Sequential() # this is the first layer of keras
-model.add(LSTM(units=128, dropout=0.05, recurrent_dropout=0.35, return_sequences=True, input_shape=[times_steps,GLOVE_SIZE]))
+model.add(LSTM(units=128, dropout=0.05, recurrent_dropout=0.35, return_sequences=True, input_shape=[times_steps, GLOVE_SIZE]))
 model.add(LSTM(units=64, dropout=0.05, recurrent_dropout=0.35, return_sequences=False))
-model.add(Dense(units=num_classes, activation='softmax'))
+model.add(Dense(units=num_classes, activation='sigmoid'))
 
 # compile the model -- define loss function and optimizer
 print("Compiling ...")
 # loss type of cateforical crossentropy is good to classification model
-model.compile(loss=bingo_loss, optimizer=opt, metrics=['accuracy'])
+model.compile(loss=bingo_loss, optimizer=opt, metrics=[])
 model.summary()
-model.fit(np.array(x_train), np.array(y_train), batch_size=batch_size, epochs=nb_epochs)
+model.fit(x_train, y_train , batch_size=batch_size, epochs=nb_epochs)
 
-# testing
-print("\nTesting ...")
+print("\n***** Saving model....")
+model.save('Keras-NN-training2.h5')
 
-score, accuracy = model.evaluate(np.array(x_test),np.array(y_test), batch_size=batch_size, verbose=1)
-print("Test loss:  ", score)
-print("Test accuracy:  ", accuracy)
+# ==================== extract all sentences from categories =======================
 
-# Save the model #
-model.save('Keras-NN-trainging2.h5')
+cats = []              # list of list of words (categories[words])
+suffix = ""            # to be added to sub-directory, not needed currently
+
+for i, category in enumerate(categories):
+    print("\nCategory: ", category)
+    for j, filename in enumerate(os.listdir("categories/" + category + suffix)):
+        with open("categories/" + category + suffix + "/" + filename) as f:
+            catWords = []
+            for line in f:
+                line = re.sub(r"[^\w-]", " ", line)             # strip punctuations except hyphen
+                line = re.sub(u"[\u4e00-\u9fff]", " ", line)    # strip Chinese
+                line = re.sub(r"\d", " ", line)                 # strip numbers
+                line = re.sub(r"-+", "-", line)                 # reduce multiple --- to -
+                for word in line.lower().split():
+                    if word not in stopwords.words('english'):
+                        catWords.append(word)
+            cats.append(catWords)
+
+# ====================== find classifications of categories ===========================
+
+print("\n***** Finding classification of categories...")
+
+# for each case-law line, print output
+for i, category in enumerate(categories):
+    print("\nCategory = ", category)
+    catWords = cats[i]
+    for j in range(0, len(catWords) - fixed_seq_len, 4):
+        vecs = []
+        for word in catWords[j : j + fixed_seq_len]:
+            vecs.append(word2vec_map[word])
+
+        prediction = model.predict(np.expand_dims(vecs, axis=0))
+        for k in prediction[0]:
+            if k > 0.4:
+                print("█", end='')
+            else:
+                print("·", end='')
+        print()
+
+exit(0)
+
+# =================== Process a single query =================== #
+try:
+        while True:
+                print("----------------------------\n? ", end = '')
+                sys.stdout.flush()
+                query = sys.stdin.readline()
+                query = re.sub(r'[^\w\s-]',' ', query)	# remove punctuations except hyphen
+                query_words = []
+                for word in query.lower().split():		# convert to lowercase
+                        if word not in stopwords.words('english'):	# remove stop words
+                                query_words.append(word)
+
+                # ===== convert query to word-vectors
+                query_vectors = []
+                glove_file = open(path_to_glove, "r", encoding = "utf-8")
+                count_all_words = 0
+                entry_number = 0
+                for word_entry in glove_file:
+                        vals = word_entry.split()
+                        word = str(vals[0])
+                        entry_number += 1
+                        if word in query_words:
+                                count_all_words += 1
+                                print(count_all_words, word, end = '\r')
+                                coefs = np.asarray(vals[1:], dtype='float32')
+                                coefs /= np.linalg.norm(coefs)
+                                word2vec_map[word] = coefs
+                        if count_all_words == len(word_list) - 1:
+                                break
+                        if entry_number > 50000:
+                                # took too long to find the words
+                                break
+
+                # ===== make the query length to be (32) = times_steps size
+                long_enough = False
+                while not long_enough:
+                        for word in query_words:
+                                query_vectors.append(word2vec_map[word])
+                                if len(query_vectors) == times_steps:
+                                        long_enough = True
+                                        break
+
+        #=========================  prediction ==============================#
+                prediction = model.predict(np.expand_dims(query_vectors, axis=0))
+                print(prediction)
+                print(len(prediction))
+                #result = np.argmax(prediction)          #get the max column
+                result = []
+                for i in range(len(prediction)):
+                        result.append(categories[np.argmax(prediction[i])])
+                print("\n ⟹  category: ", result[0])
+
+except KeyboardInterrupt:
+    pass
