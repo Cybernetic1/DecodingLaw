@@ -42,13 +42,22 @@ for i, category in enumerate(categories):
                     catLines.append(catWords)
         cats.append(catLines)
 
-vec = np.empty(shape = (0,0))
+vec = np.empty(shape = (300,))
 for i,category in enumerate(categories):
 	for line in cats[i]:
+		vecLine = np.empty(shape=(300,))
+		count = 0
 		for word in line:
-			#print(word)
-			print(word2vec_map[word].shape)
-			#vec = np.concatenate(vec,np.asarray(word2vec_map[word]))
+			if count < 4:
+				print(vecLine.shape)
+				#print(word2vec_map[word].shape)
+				try:
+					vecLine = np.concatenate((vecLine,np.asarray(word2vec_map[word])))
+				except:
+				    pass	
+			else:
+			    break
+		np.concatenate((vec,vecLine))	    	
 
 sorted(vec, key=euclidean_distance)        
 
