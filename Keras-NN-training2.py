@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os                       # for os.listdir and os.environ
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'    # suppress Tensorflow warnings
 import numpy as np
@@ -7,6 +8,7 @@ import sys                      # for sys.stdin.readline()
 from collections import defaultdict # for default value of word-vector dictionary
 import pickle
 import h5py
+from random import *
 
 import tensorflow as tf
 
@@ -23,7 +25,7 @@ from keras import backend as K
 path_to_glove = "wiki-news-300d-1M.vec"
 GLOVE_SIZE = 300
 batch_size = 512
-num_classes = 10
+num_classes = 8
 times_steps = 8                        # time steps for RNN.  This number should be same as fixed_seq_len below
 fixed_seq_len = times_steps
 
@@ -61,15 +63,18 @@ def get_next_word_vec():
 g = get_next_word_vec()
 
 def get_sentence_batch(batch_size):
+    # skip a random number of words
+    skip = randint(1, 1000)
+    print("skip words = ", skip, end='\t')
+    for _ in range(0, skip):
+        next(g)
     data = []
     for _ in range(batch_size):
         vecs = []
         for _ in range(fixed_seq_len):
             vecs.append(next(g))
         data.append(vecs)
-    print(len(data))
-    print(len(data[0]))
-    print(len(data[0][0]))
+    #print('shape = [', len(data), len(data[0]), len(data[0][0]), ']')
     return data
 
 # =========== define objective function for unsupervised competitive learning ==========
@@ -82,41 +87,119 @@ def get_sentence_batch(batch_size):
             = y[i]         if i is loser
     """
 
-def bingo_loss(y_true, y_pred):
+def loss1(y_true, y_pred):
     alpha = 0.9
     y2 = alpha * (1 - y_pred)
     values, indices = tf.nn.top_k(y_pred, k = 3)
     min_val = tf.reduce_min(values, axis = 1)
-    min_vals = tf.reshape(tf.tile(min_val, [10]), [-1, 10])
+    min_vals = tf.reshape(tf.tile(min_val, [num_classes]), [-1, num_classes])
     loss = tf.where(tf.greater(y_pred, min_vals), y2, alpha * y_pred)
     return loss
+
+def loss2(y_true, y_pred):
+    alpha = 0.1
+    y2 = alpha * (1 - y_pred)
+    values, indices = tf.nn.top_k(y_pred, k = 8)
+    min_val = tf.reduce_min(values, axis = 1)
+    min_vals = tf.reshape(tf.tile(min_val, [num_classes]), [-1, num_classes])
+    loss = tf.where(tf.greater(y_pred, min_vals), y2, alpha * (1 - y_pred))
+    return loss
+
+def loss3(y_true, y_pred):
+    alpha = 0.1
+    random_indices = tf.random_uniform([num_classes], 0, num_classes, dtype = tf.int32, seed = 0)
+    opponents = tf.gather(y_pred, random_indices)
+    opponents2 = tf.reshape(opponents, [-1, num_classes])
+    y2 = alpha * (1 - y_pred)
+    loss = tf.where(tf.greater(y_pred, opponents2), y2, alpha * y_pred)
+    return loss
+
+def loss4(y_true, y_pred):
+    alpha = 0.2
+    opponents = tf.random_shuffle(y_pred)
+    y2 = alpha * (1 - y_pred)
+    loss = tf.where(tf.greater(y_pred, opponents), y2, alpha * y_pred)
+    return loss
+
+def loss5(y_true, y_pred):
+    alpha = 0.1
+    opponents = tf.random_shuffle(y_pred)
+    diff = y_pred - opponents
+    y2 = alpha * (1 - y_pred)
+    loss = tf.where(tf.greater(y_pred, opponents), alpha * diff, -alpha * diff)
+    return loss
+
+def loss6(y_true, y_pred):
+    alpha = 0.1
+    k = 32
+    abs_y = tf.abs(y_pred)
+    energy = tf.reduce_sum(abs_y, axis=1)
+    top_vals, indices = tf.nn.top_k(abs_y, k)
+    winner_energy = tf.reduce_sum(top_vals, axis=-1)
+    loser_energy = energy - winner_energy
+    threshold = winner_energy / k - 0.001
+    thresholds = tf.reshape(tf.tile(threshold, [num_classes]), [-1, num_classes])
+    updates = tf.reshape(tf.tile(loser_energy, [num_classes]), [-1, num_classes])
+    loss = tf.where(tf.greater(y_pred, thresholds), updates, y_pred - y_pred)
+    return loss
+
+def loss7(y_true, y_pred):
+    alpha = 0
+    k = 4
+    shape = y_pred.shape.as_list()
+    ab = tf.abs(y_pred)
+    energy = tf.reduce_sum(ab, axis=-1)
+    top, ind = tf.nn.top_k(ab, k)
+    energy -= tf.reduce_sum(top, axis=-1)
+    mask = tf.reduce_sum(tf.one_hot(ind, depth=shape[-1], on_value=1.0, off_value=0.0, dtype=tf.float32), -2)
+    masked = y_pred * mask
+    signs = masked / (tf.abs(masked) + 0.0001)
+    energy_term = tf.expand_dims(energy, -1) * signs
+    return masked + alpha*energy_term
+
+def loss(y_true, y_pred):
+    α = 0.1
+    k = 3
+    shape = y_pred.shape.as_list()
+    ab = tf.abs(y_pred)
+    energy = tf.reduce_sum(ab, axis=-1)
+    top, indices = tf.nn.top_k(ab, k)
+    loser_energy = energy - tf.reduce_sum(top, axis=-1)
+    mask = tf.reduce_sum(tf.one_hot(indices, depth=shape[-1], on_value=1.0, off_value=0.0, dtype=tf.float32), -2)
+    masked_y = y_pred * mask
+    signs = masked_y / (tf.abs(masked_y) + 0.0001)
+    energy_term = tf.expand_dims(loser_energy, -1) * signs
+    return α * energy_term
 
 # ========= define input, output, and NN structure - need to modify =========
 #define the optimizer here
 opt = Adam(lr=0.0067, beta_1=0.9, beta_2=0.999, epsilon=1e-08)
 
-#how many epoch to train
-nb_epochs = 100
-x_train = np.array(get_sentence_batch(batch_size))
-x_test = np.array(get_sentence_batch(batch_size))
-# generate a 2D array
-y_train = np.random.rand(batch_size, num_classes)
-##print (type(x_train))
-##print (len(x_train))
-##print (len(x_train[0]))
-##print (len(x_train[0][0]))
 print('Build NN model ...')
 model = Sequential() # this is the first layer of keras
 model.add(LSTM(units=128, dropout=0.05, recurrent_dropout=0.35, return_sequences=True, input_shape=[times_steps, GLOVE_SIZE]))
 model.add(LSTM(units=64, dropout=0.05, recurrent_dropout=0.35, return_sequences=False))
-model.add(Dense(units=num_classes, activation='sigmoid'))
+model.add(Dense(units=num_classes, activation='tanh'))
 
 # compile the model -- define loss function and optimizer
 print("Compiling ...")
 # loss type of cateforical crossentropy is good to classification model
-model.compile(loss=bingo_loss, optimizer=opt, metrics=[])
+model.compile(loss=loss, optimizer=opt, metrics=[])
 model.summary()
-model.fit(x_train, y_train , batch_size=batch_size, epochs=nb_epochs)
+
+#how many epoch to train
+nb_epochs = 30
+for i in range(0, nb_epochs):
+    print("Iteration: ", i, end=' ')
+    x_train = np.array(get_sentence_batch(batch_size))
+    x_test = np.array(get_sentence_batch(batch_size))
+    # generate a 2D array
+    y_train = np.random.rand(batch_size, num_classes)
+    ##print (type(x_train))
+    ##print (len(x_train))
+    ##print (len(x_train[0]))
+    ##print (len(x_train[0][0]))
+    model.fit(x_train, y_train , batch_size=batch_size, epochs=10)
 
 print("\n***** Saving model....")
 model.save('Keras-NN-training2.h5')
@@ -143,20 +226,20 @@ for i, category in enumerate(categories):
 
 # ====================== find classifications of categories ===========================
 
-print("\n***** Finding classification of categories...")
+print("\n***** Finding classifications of categories...")
 
 # for each case-law line, print output
 for i, category in enumerate(categories):
-    print("\nCategory = ", category)
+    print("Category = ", category)
     catWords = cats[i]
-    for j in range(0, len(catWords) - fixed_seq_len, 4):
+    for j in range(0, len(catWords) - fixed_seq_len, 16):
         vecs = []
         for word in catWords[j : j + fixed_seq_len]:
             vecs.append(word2vec_map[word])
 
         prediction = model.predict(np.expand_dims(vecs, axis=0))
         for k in prediction[0]:
-            if k > 0.4:
+            if k > 0.0:
                 print("█", end='')
             else:
                 print("·", end='')

@@ -26,8 +26,8 @@ suffix = ""            # to be added to sub-directory, not needed currently
 
 for i, category in enumerate(categories):
     print("\nCategory: ", category)
-    for j, filename in enumerate(os.listdir("categories/" + category + suffix)):
-        with open("categories/" + category + suffix + "/" + filename) as f:
+    for j, filename in enumerate(os.listdir("../categories/" + category + suffix)):
+        with open("../categories/" + category + suffix + "/" + filename) as f:
             catLines = []
             for line in f:
                 catWords = []
